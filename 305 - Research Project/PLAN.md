@@ -1,11 +1,13 @@
 # PLAN.md — Hybrid Learning and Training Effectiveness (Union Bank of India)
 
-Base: [01-initial-analysis.md](01-initial-analysis.md). Updated per guide feedback ([02](02-guide-suggestion.md)) + lit review ([06](06-initial-literature-search.md)).
+Base: [01-initial-analysis.md](chapter-0/version-0/01-initial-analysis.md). Updated per guide feedback ([02](chapter-0/version-0/02-guide-suggestion.md)) + lit review ([01](chapter-2/version-0/01-initial-literature-search.md)).
+
+**Folder structure note:** organized by official department chapter number (`chapter-0` through `chapter-5`), not by work-type. `chapter-0` is informal (pre-chapter scoping work). `chapter-3` has two independent sub-tracks — `objectives-and-hypotheses/` and `questionnaire/` — since Chapter 3 (Methodology) covers both per the official Guidelines doc. See [SEQUENCE.md](SEQUENCE.md) for the full structure and [CHAPTER-MAP.md](CHAPTER-MAP.md) for subsection-level detail and open gaps.
 
 ## Working Title
 
 **"Hybrid Learning and Training Effectiveness: Making Digital and In-Person Learning Work Together"**
-Status: NOT final — hold until lit matrix (Phase 2) done.
+Status: **CONFIRMED** — matches official approved topic list, Topic 2 (verified against department document, word-for-word title match; description clauses "impact knowledge retention and performance" / "optimize training delivery across digital and classroom formats" both map onto current scope).
 
 ## Core Research Problem
 
@@ -13,76 +15,66 @@ Does well-designed blended learning improve knowledge retention + employee perfo
 
 ## Conceptual Model
 
-**Original (file 01):** IV = training delivery model (digital/classroom/blended) → mediators (engagement, interaction, flexibility, trainer support, tech usability, practical application) → DV (retention, effectiveness, job performance).
-
-**Refined per lit review (file 06), Model A — adopt this:**
+**LOCKED: Model-Alpha v1, with Trainer Competence** (current canonical: [chapter-3/objectives-and-hypotheses/version-1/01](chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md)):
 
 ```
-Hybrid Learning → Learner Engagement → Training Effectiveness
+Hybrid Learning ─────┐
+                      ├──▶ Learner Engagement ──▶ Training Effectiveness ──▶ Knowledge Retention ──▶ Job Performance
+Trainer Competence ───┘
 ```
 
-Contextual/moderator candidates (add after lit matrix confirms): Trainer Competence, Organizational/Supervisor Support.
+v0 ([chapter-3/objectives-and-hypotheses/version-0/01](chapter-3/objectives-and-hypotheses/version-0/01-research-objectives-and-hypotheses.md)) is Model-Alpha without Trainer Competence — kept as history, no longer canonical. v1 adds Trainer Competence as a second, parallel antecedent to Engagement, closing the gap flagged in [08-base-paper.md](chapter-2/version-0/08-base-paper.md) sec 5 (base paper tests it directly). Organizational/Supervisor Support still excluded (full Model-Beta, checked and rejected). **Instrument (canonical): [chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md](chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md) — 30 Likert items**, compressed from v1's 55 to comply with the department's item-count cap (all 6 constructs kept, model unchanged; [chapter-3/questionnaire/version-1/01](chapter-3/questionnaire/version-1/01-model-alpha-questionnaire.md), 55 items, kept as history/source of item wording).
 
-Do NOT stack all 7 candidate variables (engagement, retention, motivation, satisfaction, digital literacy, trainer competence, org support) into one model — pick per lit-matrix evidence (file 03, sec 11).
+**Model-Beta checked and rejected for now** — [chapter-2/version-0/07-model-beta-chain-check.md](chapter-2/version-0/07-model-beta-chain-check.md): no published paper tests the full engagement+trainer-competence+org-support+retention/performance combination; 7-construct model also statistically risky at department's typical 80-130 sample size. Model-Alpha v1 adds trainer competence only, not org support — a smaller, precedented step short of full Model-Beta. Frame org support as future-research extension in Chapter 5 (Conclusion — Future Research Directions), not current scope.
 
-## Research Objectives
+## Research Objectives, Questions, Hypotheses
 
-1. Impact of blended learning on knowledge retention.
-2. Effect of blended learning on workplace performance.
-3. Compare digital-only vs classroom-only vs blended.
-4. Identify success factors (engagement, duration, interaction, tech usability, trainer support).
-5. Propose strategies to optimize digital/in-person balance.
+**Canonical version:** [chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md](chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md) — LOCKED to Model-Alpha v1, H1/H1b/H2-H4 chain path hypotheses + H5a-c serial mediation hypotheses + H6-H8 comparative. Do not edit objectives/RQs/hypotheses here anymore; edit that file and bump its version.
 
-## Research Questions
+## Base Paper
 
-- RQ1: Blended vs digital-only vs classroom-only — retention effect?
-- RQ2: Does blended learning improve performance post-training?
-- RQ3: Which factors drive blended-learning effectiveness most?
-- RQ4: How should orgs split activities across digital/classroom?
-- RQ5: What strategies improve both retention + workplace application?
-
-## Hypotheses (draft, file 01)
-
-- H1: Blended learning → positive effect on knowledge retention.
-- H2: Blended > digital-only on retention.
-- H3: Blended > digital-only/classroom-only on performance.
-- H4: Learner engagement mediates blended-learning → effectiveness relationship.
-- H5: Integration of practical classroom + digital → positive effect on retention + performance.
+**Locked: Saroj, Sahney & Sekar (2026)**, VJIKMS 56(2) — [chapter-2/version-0/08-base-paper.md](chapter-2/version-0/08-base-paper.md). Only workplace blended-learning paper in the matrix testing engagement as mediator; verified by direct fetch twice. Model-Alpha v1 now tests Trainer Competence directly (matching the base paper), still narrows Supervisor Support out, still extends the base paper's single "employee agility" endpoint into the TE→KR→JP chain.
 
 ## Dissertation Structure
 
-1. Introduction — background, problem, objectives, RQs, scope.
-2. Literature Review — traditional/digital/classroom/blended learning, retention, effectiveness, performance, theories.
-3. Methodology — design, sample, questionnaire, variables, scales, analysis plan.
-4. Data Analysis — descriptives, reliability, hypothesis tests, format comparisons.
-5. Discussion — interpret vs prior research.
-6. Recommendations + Conclusion — strategies, limitations, future research.
+**Matches the official department document** ([university-files/MSSW - Project Guidelines.docx](university-files/MSSW%20-%20Project%20Guidelines.docx)) — **5 chapters.** Folders now match this 1:1 at the top level (`chapter-1` through `chapter-5`); full subsection-level mapping: [CHAPTER-MAP.md](CHAPTER-MAP.md). **Target: 100 pages** (the figure shared by both officially-conflicting page-count ranges, 80-100 and 100-130 — student's decision, pending supervisor confirmation).
+
+1. Introduction ([chapter-1/](chapter-1/version-0/01-introduction-notes.md)) — background/context, key concepts, need/scope/significance, statement of problem, **industry & company profile (Union Bank of India — not yet written)**, chapterization.
+2. Review of Literature ([chapter-2/](chapter-2/version-0/)) — overview of review, theoretical framework, case study (meaning TBD — ask supervisor), gaps in the study.
+3. Research Methodology ([chapter-3/](chapter-3/)) — objectives, hypotheses, definition of variables, research design, sampling methods, data collection procedures, research questions, data analysis techniques, pilot study, reliability & validity.
+4. Data Analysis and Interpretation ([chapter-4/](chapter-4/)) — descriptive analysis, inferential analysis, interpretation of results, comparison with previous studies, theoretical/practical implications. **Not started — needs real data.**
+5. Conclusion ([chapter-5/](chapter-5/)) — summary of findings, contributions & limitations, future research directions (Model-Beta belongs here as a named future-research extension), conclusion. **Not started.**
 
 ## Status by Phase
 
 | Phase | Status | Ref |
 |---|---|---|
-| Topic framing | Done | [01](01-initial-analysis.md) |
-| Concept breakdown (mediator/moderator logic) | Done | [03](03-atomic-concepts.md) |
-| Guide variable feedback | Received | [02](02-guide-suggestion.md) |
-| Draft questionnaire (51 items, 4-var model) + stats plan | Done | [04](04-base-questionnaire-and-calculation.md) |
-| Questionnaire wording refinement | Done (9.5/10) | [05](05-refined-questionnaire.md) |
-| Lit search — mechanism variables | Done, Tier 1 papers found | [06](06-initial-literature-search.md) |
-| Deep evidence report (effect sizes, design principles, KPIs) | Done | [07](07-deep-research-report.md) |
-| Systematic lit matrix (30-50 papers) | Done (36 papers/instruments + foundational + validated-scale sections) | [08](08-literature-matrix.md) |
-| Finalize conceptual model + title | Recommended: Model B (trainer competence + org support around HL→engagement→TE) | [08](08-literature-matrix.md) sec 4 |
-| Map 42 construct items to published scales | **Not started** | — |
+| Topic framing | Done | [01](chapter-0/version-0/01-initial-analysis.md) |
+| Concept breakdown (mediator/moderator logic) | Done | [03](chapter-0/version-0/03-atomic-concepts.md) |
+| Guide variable feedback | Received | [02](chapter-0/version-0/02-guide-suggestion.md) |
+| Draft questionnaire (51 items, 4-var model) + stats plan | Done (superseded by Model-Alpha instrument) | [01](chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md) |
+| Questionnaire wording refinement | Done (9.5/10) | [02](chapter-3/questionnaire/version-0/02-refined-questionnaire.md) |
+| Lit search — mechanism variables | Done, Tier 1 papers found | [01](chapter-2/version-0/01-initial-literature-search.md) |
+| Deep evidence report (effect sizes, design principles, KPIs) | Done | [02](chapter-2/version-0/02-deep-research-report.md) |
+| Systematic lit matrix (30-50 papers) | Done (36 papers/instruments + foundational + validated-scale sections) | [03](chapter-2/version-0/03-literature-matrix.md) |
+| Finalize conceptual model + title | **Model-Alpha v0 locked** (HL→Engagement→TE→KR→JP) | [01 v0](chapter-3/objectives-and-hypotheses/version-0/01-research-objectives-and-hypotheses.md) |
+| Add Engagement items to instrument (EN1-5) | Done | [03 v0](chapter-3/questionnaire/version-0/03-model-alpha-questionnaire.md) |
+| Map 42 original items to published scales | Done | [04](chapter-2/version-0/04-literature-summary.md) |
+| Serial-mediation hypotheses (H5a-c) + PROCESS Model 6 test | Done | [01 v0](chapter-3/objectives-and-hypotheses/version-0/01-research-objectives-and-hypotheses.md), [03 v0](chapter-3/questionnaire/version-0/03-model-alpha-questionnaire.md) |
+| Base paper selected + narrows/extends comparison | Done | [08](chapter-2/version-0/08-base-paper.md) |
+| Trainer competence added — **Model-Alpha v1 locked** | Done | [01 v1](chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md), [01 v1](chapter-3/questionnaire/version-1/01-model-alpha-questionnaire.md) |
+| Compressed to 30 items — **v2 canonical** | Done | [01 v2](chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md) |
+| Page count / sample size — 2 open decisions | Resolved by student: 100 pages, ~80 sample | [CHAPTER-MAP.md](CHAPTER-MAP.md), [SEQUENCE.md](SEQUENCE.md) |
+| Switch from work-type stages to chapter-numbered folders | Done | [SEQUENCE.md](SEQUENCE.md) entry 19 |
 | Expert review + pilot test | Not started | — |
 | Data collection | Not started | — |
-| Analysis (descriptives → Cronbach's α → correlation → regression → t-test/ANOVA) | Not started | — |
+| Analysis (descriptives → Cronbach's α → correlation → regression → t-test/ANOVA → mediation test) | Not started | — |
 
 ## Next Steps (priority order)
 
-1. Build systematic lit matrix: Author/Year/Country/Industry/Sample/Theory/Variables/Method/Scale/Findings/Mediator-Moderator/Gap/DOI — 30-50 papers, covering 10 constructs listed in [06](06-initial-literature-search.md) sec 19.
-2. Lock conceptual model (Model A vs B vs C, file 06 secs 13-14) + finalize title.
-3. Map HL1-15/TE1-9/KR1-9/JP1-9 items to published scale sources; flag adapted vs researcher-developed.
-4. Supervisor/expert review of questionnaire.
-5. Pilot test → Cronbach's α check per section.
-6. Full data collection (Union Bank employees).
-7. Run analysis pipeline per [04](04-base-questionnaire-and-calculation.md) sec 9 (descriptives → reliability → correlation → regression → t-test/ANOVA).
-8. Turn findings into HR strategy scorecard (file 04 sec 12 format).
+1. Supervisor/expert review of Model-Alpha instrument ([01 v2](chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md)) — 30 items, department-compliant. Flag explicitly: (a) Trainer Competence and Engagement sections are researcher-adapted, not verbatim published wording; (b) most Hybrid Learning sub-dimensions are down to 1 item, so per-dimension scoring is no longer statistically supportable — construct-level only.
+2. Close Chapter 1's Industry/Company Profile gap ([chapter-1/version-0/01-introduction-notes.md](chapter-1/version-0/01-introduction-notes.md) sec 1.5) — nothing written yet on Union Bank of India as an organization.
+3. Pilot test → Cronbach's α check per section — Trainer Competence at only 3 items is the tightest, watch it specifically.
+4. Full data collection (Union Bank employees, **target ~80 respondents**).
+5. Run analysis pipeline per [01 v2](chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md) (descriptives → reliability → correlation → regression Models 1-4 → serial mediation test → t-test/ANOVA) — this becomes chapter-4's content.
+6. Turn findings into HR strategy scorecard — construct-level only (adapted since dimension-level breakdown no longer applies) — feeds chapter-5.
