@@ -45,6 +45,30 @@ v0 ([chapter-3/objectives-and-hypotheses/version-0/01](chapter-3/objectives-and-
 4. Data Analysis and Interpretation ([chapter-4/](chapter-4/version-0/01-data-analysis-dummy-worked-example.md)) — descriptive analysis, inferential analysis, interpretation of results, comparison with previous studies, theoretical/practical implications. **Real content not started — needs real data.** A full dummy-data worked example exists (step-by-step Cronbach's alpha, correlation, regression ×4, mediation ×3, t-test/ANOVA) for teaching purposes — every number in it is fake, replace once real data is collected.
 5. Conclusion ([chapter-5/](chapter-5/version-0/01-conclusion-dummy-worked-example.md)) — summary of findings, contributions & limitations, future research directions (Model-Beta belongs here as a named future-research extension), conclusion. **Also the first-rough-draft assembly point** — Norms PDF schedule bundles "Chapter–V & First Rough draft" at one deadline; when Chapter 4 is done, compile Chapters 1-5 into the full draft here. **Real content not started** — a dummy-data worked example exists, built on chapter-4's dummy results, template only.
 
+**Not a section — standalone files for the guide:** each chapter that has one carries its own `for-guide/version-0/` subfolder holding files meant to be shared directly with the supervisor (not thesis-chapter drafts, not internal trackers) — [chapter-1/for-guide/](chapter-1/for-guide/version-0/), [chapter-2/for-guide/](chapter-2/for-guide/version-0/). See [SEQUENCE.md](SEQUENCE.md) entries 30-31, 34, [CHAPTER-MAP.md](CHAPTER-MAP.md).
+
+## Page Budget by Chapter (measured from 5 reference theses)
+
+Measured actual chapter boundaries (page pdf.pages, not just TOC) in all 5 full-thesis PDFs in `references/` — Hari Kishore S (2017), Joanna Evangeline (2022), Palak Pandey (2024), Ravina Narayanan (2021), Sakthipriya R (2025). (The other 3 `references/` files — Bonfiglioli, Enclothed Cognition, Valli — are short variable/hypothesis briefs, not full theses, no chapter structure to measure — excluded.) Body pages only (Chapters 1-5), excluding front matter (title/TOC/certificate) and back matter (references/appendix), since those are additional to the 100-page target, not part of it.
+
+| Chapter | Observed range (pages) | Avg % of body | **Budget at 100pp target** |
+|---|---|---|---|
+| 1. Introduction | 6-21 | 17% | **~17 pages** |
+| 2. Review of Literature | 6-42 | 25% | **~25 pages** |
+| 3. Research Methodology | 4-20 | 11% | **~11 pages** |
+| 4. Data Analysis and Interpretation | 8-37 | 40% | **~40 pages** |
+| 5. Conclusion | 2-7 | 7% | **~7 pages** |
+
+Method: for each thesis, chapter page-count ÷ that thesis's own 5-chapter body total = per-thesis %, then averaged across the 5 theses (not a raw page-count sum, so one long thesis doesn't dominate the average).
+
+**Reads worth flagging, not just the numbers:**
+- Chapter 4 is consistently the longest chapter in this department's precedent (40% of body pages) — driven by this department's convention of a table/chart per questionnaire item plus interpretation text. Budget generously for it; don't assume a data-analysis chapter should be short.
+- Chapter 4's range is the widest (8-37 pages) — the department clearly doesn't enforce a strict per-chapter split, so the ~40-page figure is a planning target, not a hard rule.
+- Chapter 5 is consistently short (2-7 pages) across all 5 theses — a short Conclusion chapter is normal here, not a sign of insufficient content.
+- Chapter 3 (Methodology) is reliably compact (4-20 pages, avg 11%) — consistent with this thesis's own Chapter 3 draft being short by design (mostly definitions/design/instrument, real numbers only after pilot).
+
+**Per-chapter section breakdown against these budgets:** each chapter has its own `plan-of-action.md` (subsection-by-subsection page targets + status) and `references.md` (where each subsection's information comes from) — [chapter-1/plan-of-action.md](chapter-1/plan-of-action.md), [chapter-2/plan-of-action.md](chapter-2/plan-of-action.md), [chapter-3/plan-of-action.md](chapter-3/plan-of-action.md), [chapter-4/plan-of-action.md](chapter-4/plan-of-action.md), [chapter-5/plan-of-action.md](chapter-5/plan-of-action.md). See [SEQUENCE.md](SEQUENCE.md) entry 33.
+
 ## Status by Phase
 
 | Phase | Status | Ref |

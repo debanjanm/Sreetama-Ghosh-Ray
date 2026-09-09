@@ -4,6 +4,8 @@
 
 **Source of truth for the official structure:** [university-files/MSSW - Project Guidelines.docx](university-files/MSSW%20-%20Project%20Guidelines.docx) — 5 chapters.
 
+**Page-budgeted, per-subsection plan:** each chapter also has its own `plan-of-action.md` (subsection page targets against [PLAN.md](PLAN.md)'s page budget, plus status) and `references.md` (source of each subsection's content) — [chapter-1/plan-of-action.md](chapter-1/plan-of-action.md) · [chapter-2/plan-of-action.md](chapter-2/plan-of-action.md) · [chapter-3/plan-of-action.md](chapter-3/plan-of-action.md) · [chapter-4/plan-of-action.md](chapter-4/plan-of-action.md) · [chapter-5/plan-of-action.md](chapter-5/plan-of-action.md).
+
 ---
 
 ## Chapter 1 — Introduction
@@ -56,6 +58,15 @@ Two sub-folders, each independently versioned, plus **`chapter-3/01-chapter3-dra
 ## Chapter 5 — Conclusion (also the first-rough-draft assembly point)
 
 **Real content not started** — depends on Chapter 4's real results: summary of findings, contributions/limitations, future research directions (Model-Beta gets named here as a future-research extension per `chapter-2/version-0/07-model-beta-chain-check.md`'s recommendation), and the final conclusion. Per the Norms PDF schedule, "Chapter–V & First Rough draft" share one deadline — once this chapter's content is written, this is also where Chapters 1-5 get compiled into the full first rough draft. Two files exist, same split as Chapter 4: [chapter-5/version-0/01-conclusion-dummy-worked-example.md](chapter-5/version-0/01-conclusion-dummy-worked-example.md) is the **teaching example** (built on chapter-4's dummy results, deliberately tutorial in voice), [chapter-5/version-0/02-conclusion-template-academic-prose.md](chapter-5/version-0/02-conclusion-template-academic-prose.md) is the **clean submission-voice skeleton** to fill in once real findings exist.
+
+## For-Guide — Standalone Files Shared Directly With the Professor
+
+Each chapter that has one carries its own `chapter-N/for-guide/version-0/` — a separate register from that chapter's thesis-chapter drafts and internal trackers, for files meant to go directly to the supervisor as standalone reading. Professional memo voice, factually current to Model-Alpha v1, no coaching/second-person language. See [SEQUENCE.md](SEQUENCE.md) entries 30-31, 34.
+
+| File | Covers |
+|---|---|
+| [chapter-1/for-guide/version-0/01-union-bank-of-india-introduction.md](chapter-1/for-guide/version-0/01-union-bank-of-india-introduction.md) | Organization background/scale/training-infrastructure — why Union Bank of India fits the study |
+| [chapter-2/for-guide/version-0/01-gap-and-originality-note-for-guide.md](chapter-2/for-guide/version-0/01-gap-and-originality-note-for-guide.md) | Research gap, originality, and one open measurement question |
 
 ## References & Appendix
 
