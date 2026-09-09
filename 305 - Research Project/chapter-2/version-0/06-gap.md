@@ -2,7 +2,7 @@
 
 **Purpose.** This file is the single place that answers three questions a panel will ask in sequence: *"What's missing in the literature?"* → *"What are you doing about it?"* → *"Where does your own instrument still fall short of that claim?"* Sections 1-2 make the case for you; Section 3 is deliberately self-critical, because a panel that finds these gaps on its own (without you naming them first) reads worse than you naming them yourself.
 
-Builds on: [02-guide-suggestion.md](../../chapter-0/version-0/02-guide-suggestion.md), [01-initial-literature-search.md](01-initial-literature-search.md) sec 15, [03-literature-matrix.md](03-literature-matrix.md), [04-literature-summary.md](04-literature-summary.md) sec 6, [05-past-dissertation-summary.md](05-past-dissertation-summary.md) sec 9.2.
+Builds on: [02-guide-suggestion.md](../../chapter-1/version-0/03-guide-suggestion.md), [01-initial-literature-search.md](01-initial-literature-search.md) sec 15, [03-literature-matrix.md](03-literature-matrix.md), [04-literature-summary.md](04-literature-summary.md) sec 6, [05-past-dissertation-summary.md](05-past-dissertation-summary.md) sec 9.2.
 
 ---
 
@@ -69,4 +69,4 @@ This is the sharper tension. Sections 1-2 above argue your project's originality
 
 ---
 
-**Cross-references:** [02-guide-suggestion.md](../../chapter-0/version-0/02-guide-suggestion.md) · [01-base-questionnaire-and-calculation.md](../../chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md) · [02-refined-questionnaire.md](../../chapter-3/questionnaire/version-0/02-refined-questionnaire.md) · [01-initial-literature-search.md](01-initial-literature-search.md) · [03-literature-matrix.md](03-literature-matrix.md) · [04-literature-summary.md](04-literature-summary.md) · [05-past-dissertation-summary.md](05-past-dissertation-summary.md) · [PLAN.md](../../PLAN.md)
+**Cross-references:** [02-guide-suggestion.md](../../chapter-1/version-0/03-guide-suggestion.md) · [01-base-questionnaire-and-calculation.md](../../chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md) · [02-refined-questionnaire.md](../../chapter-3/questionnaire/version-0/02-refined-questionnaire.md) · [01-initial-literature-search.md](01-initial-literature-search.md) · [03-literature-matrix.md](03-literature-matrix.md) · [04-literature-summary.md](04-literature-summary.md) · [05-past-dissertation-summary.md](05-past-dissertation-summary.md) · [PLAN.md](../../PLAN.md)

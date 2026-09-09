@@ -52,4 +52,4 @@ Does a well-designed blended learning model improve knowledge retention and empl
 
 ---
 
-**Cross-references:** [01-initial-analysis.md](../../../chapter-0/version-0/01-initial-analysis.md) · [02-guide-suggestion.md](../../../chapter-0/version-0/02-guide-suggestion.md) · [03-literature-matrix.md](../../../chapter-2/version-0/03-literature-matrix.md) · [06-gap.md](../../../chapter-2/version-0/06-gap.md) · [03-model-alpha-questionnaire.md](../../questionnaire/version-0/03-model-alpha-questionnaire.md) · [PLAN.md](../../../PLAN.md)
+**Cross-references:** [01-initial-analysis.md](../../../chapter-1/version-0/02-initial-analysis.md) · [02-guide-suggestion.md](../../../chapter-1/version-0/03-guide-suggestion.md) · [03-literature-matrix.md](../../../chapter-2/version-0/03-literature-matrix.md) · [06-gap.md](../../../chapter-2/version-0/06-gap.md) · [03-model-alpha-questionnaire.md](../../questionnaire/version-0/03-model-alpha-questionnaire.md) · [PLAN.md](../../../PLAN.md)

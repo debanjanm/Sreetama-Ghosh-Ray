@@ -36,14 +36,14 @@ A variable that **explains the mechanism** — it sits between an IV and a DV an
 - Training Effectiveness mediates Engagement → Knowledge Retention
 - Knowledge Retention mediates Training Effectiveness → Job Performance
 
-Full explanation with the "machine" analogy already in [03-atomic-concepts.md](03-atomic-concepts.md) sec 12 — this entry is the quick-reference version.
+Full explanation with the "machine" analogy already in [04-atomic-concepts.md](04-atomic-concepts.md) sec 12 — this entry is the quick-reference version.
 
 ### Moderator
 A variable that changes the **strength or direction** of a relationship between two other variables — it doesn't sit in the causal chain, it answers *"Does the X→Y relationship get stronger/weaker depending on Z?"* rather than "why does X affect Y."
 
 **In your model:** you don't currently have one. Organizational/Supervisor Support was considered as a moderator (it moderates Engagement→Effectiveness in your base paper, Saroj et al. 2026) but was excluded — that's the rejected Model-Beta scope ([07-model-beta-chain-check.md](../../chapter-2/version-0/07-model-beta-chain-check.md)).
 
-**Mediator vs moderator, one line each:** mediator = *mechanism* (why/how); moderator = *condition* (when/for whom). Full contrast already in [03-atomic-concepts.md](03-atomic-concepts.md) sec 12.
+**Mediator vs moderator, one line each:** mediator = *mechanism* (why/how); moderator = *condition* (when/for whom). Full contrast already in [04-atomic-concepts.md](04-atomic-concepts.md) sec 12.
 
 ### Control Variable
 A variable you deliberately measure so you can rule out alternative explanations, even though it's not part of your main model. You're not testing hypotheses about these — you're using them to check whether your main findings hold up across subgroups.
@@ -122,4 +122,4 @@ Worth naming explicitly as a limitation: your KR (retention) and JP (performance
 
 ---
 
-**Cross-references:** [02-guide-suggestion.md](02-guide-suggestion.md) · [03-atomic-concepts.md](03-atomic-concepts.md) (full mediator/moderator explanation) · [01-base-questionnaire-and-calculation.md](../../chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md) (stats basics already covered) · [04-literature-summary.md](../../chapter-2/version-0/04-literature-summary.md) · [05-past-dissertation-summary.md](../../chapter-2/version-0/05-past-dissertation-summary.md) · [01-research-objectives-and-hypotheses.md v1](../../chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md) · [01-model-alpha-questionnaire.md v1](../../chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md) · [PLAN.md](../../PLAN.md)
+**Cross-references:** [03-guide-suggestion.md](03-guide-suggestion.md) · [04-atomic-concepts.md](04-atomic-concepts.md) (full mediator/moderator explanation) · [01-base-questionnaire-and-calculation.md](../../chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md) (stats basics already covered) · [04-literature-summary.md](../../chapter-2/version-0/04-literature-summary.md) · [05-past-dissertation-summary.md](../../chapter-2/version-0/05-past-dissertation-summary.md) · [01-research-objectives-and-hypotheses.md v1](../../chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md) · [01-model-alpha-questionnaire.md v1](../../chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md) · [PLAN.md](../../PLAN.md)

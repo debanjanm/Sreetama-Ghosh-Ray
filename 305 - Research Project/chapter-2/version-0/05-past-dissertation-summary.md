@@ -185,4 +185,4 @@ Both Joanna (2022) and Ravina (2021) use "hybrid" in their titles and are the tw
 
 ---
 
-**Cross-references:** [01-initial-analysis.md](../../chapter-0/version-0/01-initial-analysis.md) · [02-guide-suggestion.md](../../chapter-0/version-0/02-guide-suggestion.md) · [01-base-questionnaire-and-calculation.md](../../chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md) · [02-refined-questionnaire.md](../../chapter-3/questionnaire/version-0/02-refined-questionnaire.md) · [03-literature-matrix.md](03-literature-matrix.md) · [04-literature-summary.md](04-literature-summary.md) · [PLAN.md](../../PLAN.md)
+**Cross-references:** [01-initial-analysis.md](../../chapter-1/version-0/02-initial-analysis.md) · [02-guide-suggestion.md](../../chapter-1/version-0/03-guide-suggestion.md) · [01-base-questionnaire-and-calculation.md](../../chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md) · [02-refined-questionnaire.md](../../chapter-3/questionnaire/version-0/02-refined-questionnaire.md) · [03-literature-matrix.md](03-literature-matrix.md) · [04-literature-summary.md](04-literature-summary.md) · [PLAN.md](../../PLAN.md)

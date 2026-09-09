@@ -12,7 +12,7 @@ Base-paper selection wasn't a separate search — it's the output of the literat
 2. **Systematic matrix** ([03-literature-matrix.md](03-literature-matrix.md)) — expanded to 36 papers/instruments across 10 constructs, queries run against Google Scholar-indexed sources and cross-checked where possible directly against publisher pages (ScienceDirect, SAGE, Emerald, Frontiers, PubMed, Wiley, Taylor & Francis, DOI resolvers). Two entries — including the eventual base paper — were verified by fetching the actual publisher page, not just a search snippet, specifically because they were the strongest candidates and needed the highest confidence.
 3. **Targeted follow-up** ([07-model-beta-chain-check.md](07-model-beta-chain-check.md)) — re-fetched the leading candidate directly a second time, specifically to confirm what its model does and doesn't test, before treating it as the anchor for Model-Alpha.
 
-**Selection criteria applied** (same five questions used throughout this project, per [02-guide-suggestion.md](../../chapter-0/version-0/02-guide-suggestion.md) and [04-literature-summary.md](04-literature-summary.md)):
+**Selection criteria applied** (same five questions used throughout this project, per [02-guide-suggestion.md](../../chapter-1/version-0/03-guide-suggestion.md) and [04-literature-summary.md](04-literature-summary.md)):
 
 1. Closest match to your actual IV→mediator→DV mechanism (not just similar keywords).
 2. Genuine workplace/organizational context — not higher education or K-12.
@@ -84,4 +84,4 @@ The base paper's own tested model includes **Instructor/Trainer Competence** as 
 
 ---
 
-**Cross-references:** [02-guide-suggestion.md](../../chapter-0/version-0/02-guide-suggestion.md) · [01-initial-literature-search.md](01-initial-literature-search.md) · [03-literature-matrix.md](03-literature-matrix.md) · [04-literature-summary.md](04-literature-summary.md) · [05-past-dissertation-summary.md](05-past-dissertation-summary.md) · [07-model-beta-chain-check.md](07-model-beta-chain-check.md) · [01-research-objectives-and-hypotheses.md](../../chapter-3/objectives-and-hypotheses/version-0/01-research-objectives-and-hypotheses.md) · [PLAN.md](../../PLAN.md)
+**Cross-references:** [02-guide-suggestion.md](../../chapter-1/version-0/03-guide-suggestion.md) · [01-initial-literature-search.md](01-initial-literature-search.md) · [03-literature-matrix.md](03-literature-matrix.md) · [04-literature-summary.md](04-literature-summary.md) · [05-past-dissertation-summary.md](05-past-dissertation-summary.md) · [07-model-beta-chain-check.md](07-model-beta-chain-check.md) · [01-research-objectives-and-hypotheses.md](../../chapter-3/objectives-and-hypotheses/version-0/01-research-objectives-and-hypotheses.md) · [PLAN.md](../../PLAN.md)
