@@ -25,4 +25,4 @@ Update the corresponding row in [03-literature-matrix.md](03-literature-matrix.m
 
 ---
 
-**Cross-references:** [03-literature-matrix.md](03-literature-matrix.md) · [08-base-paper.md](08-base-paper.md) · [SEQUENCE.md](../../SEQUENCE.md)
+**Cross-references:** [03-literature-matrix.md](03-literature-matrix.md) · [08-base-paper.md](08-base-paper.md) · [SEQUENCE.md](../../../SEQUENCE.md)

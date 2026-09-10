@@ -34,4 +34,4 @@ Branch/zone-specific detail for the actual data-collection site is still pending
 
 ---
 
-Full source citations for the above are maintained in the working file [06-industry-company-profile.md](../../version-0/06-industry-company-profile.md).
+Full source citations for the above are maintained in the working file [06-industry-company-profile.md](../../version-0/scratchpad/06-industry-company-profile.md).

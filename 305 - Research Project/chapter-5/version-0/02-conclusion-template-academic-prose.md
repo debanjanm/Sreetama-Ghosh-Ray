@@ -18,7 +18,7 @@ Note to self before submission: structural skeleton for the real chapter, third-
 
 ## 5.3 Future Research Directions
 
-[Name Model-Beta (Organizational/Supervisor Support as an additional moderator) as an explicit future-research extension, per the reasoning in [chapter-2/version-0/07-model-beta-chain-check.md](../../chapter-2/version-0/07-model-beta-chain-check.md) — not adopted in this study due to lack of precedent and sample-size constraints, but theoretically motivated. Note any hypothesis that returned a marginal or inconclusive result as a candidate for replication with a larger sample.]
+[Name Model-Beta (Organizational/Supervisor Support as an additional moderator) as an explicit future-research extension, per the reasoning in [chapter-2/version-0/07-model-beta-chain-check.md](../../chapter-2/version-0/scratchpad/07-model-beta-chain-check.md) — not adopted in this study due to lack of precedent and sample-size constraints, but theoretically motivated. Note any hypothesis that returned a marginal or inconclusive result as a candidate for replication with a larger sample.]
 
 ## Conclusion
 
@@ -32,4 +32,4 @@ Per the Norms PDF schedule ("Submission of Chapter–V & First Rough draft," one
 
 ---
 
-**Cross-references:** [chapter-4/version-0/02-chapter4-template-academic-prose.md](../../chapter-4/version-0/02-chapter4-template-academic-prose.md) · [chapter-2/version-0/06-gap.md](../../chapter-2/version-0/06-gap.md) · [chapter-2/version-0/07-model-beta-chain-check.md](../../chapter-2/version-0/07-model-beta-chain-check.md)
+**Cross-references:** [chapter-4/version-0/02-chapter4-template-academic-prose.md](../../chapter-4/version-0/02-chapter4-template-academic-prose.md) · [chapter-2/version-0/06-gap.md](../../chapter-2/version-0/scratchpad/06-gap.md) · [chapter-2/version-0/07-model-beta-chain-check.md](../../chapter-2/version-0/scratchpad/07-model-beta-chain-check.md)

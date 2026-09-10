@@ -83,4 +83,4 @@ The thesis studies whether well-designed blended (hybrid) learning improves know
 
 ---
 
-**Cross-references:** [01-introduction-notes.md](01-introduction-notes.md) (Chapter 1 assembly notes, section 1.5) · [../../PLAN.md](../../PLAN.md) · [../../CHAPTER-MAP.md](../../CHAPTER-MAP.md) · [../../SEQUENCE.md](../../SEQUENCE.md)
+**Cross-references:** [01-introduction-notes.md](01-introduction-notes.md) (Chapter 1 assembly notes, section 1.5) · [../../PLAN.md](../../../PLAN.md) · [../../CHAPTER-MAP.md](../../../CHAPTER-MAP.md) · [../../SEQUENCE.md](../../../SEQUENCE.md)

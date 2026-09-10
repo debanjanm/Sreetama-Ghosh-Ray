@@ -1,6 +1,6 @@
 # 01 — Research Objectives, Questions, and Hypotheses (LOCKED — Model-Alpha, v0)
 
-**Status: LOCKED to Model-Alpha.** Decision made: Hybrid Learning → Learner Engagement → Training Effectiveness → Knowledge Retention → Job Performance. No trainer competence, no organizational/supervisor support (that scope stays in Model B, not used here). The Path-1/Path-2 fork from [06-gap.md](../../../chapter-2/version-0/06-gap.md) sec 3.2 is resolved: Path 1 for engagement (added to the instrument, see [03-model-alpha-questionnaire.md](../../questionnaire/version-0/03-model-alpha-questionnaire.md)), but scoped down from full Model B — trainer competence and org support explicitly excluded.
+**Status: LOCKED to Model-Alpha.** Decision made: Hybrid Learning → Learner Engagement → Training Effectiveness → Knowledge Retention → Job Performance. No trainer competence, no organizational/supervisor support (that scope stays in Model B, not used here). The Path-1/Path-2 fork from [06-gap.md](../../../../chapter-2/version-0/scratchpad/06-gap.md) sec 3.2 is resolved: Path 1 for engagement (added to the instrument, see [03-model-alpha-questionnaire.md](../../../questionnaire/version-0/scratchpad/03-model-alpha-questionnaire.md)), but scoped down from full Model B — trainer competence and org support explicitly excluded.
 
 ---
 
@@ -30,11 +30,11 @@ Does a well-designed blended learning model improve knowledge retention and empl
 
 | # | Hypothesis | Tested via |
 |---|---|---|
-| H1 | Hybrid Learning has a significant positive effect on Learner Engagement. | Regression Model 1, [03](../../questionnaire/version-0/03-model-alpha-questionnaire.md) |
+| H1 | Hybrid Learning has a significant positive effect on Learner Engagement. | Regression Model 1, [03](../../../questionnaire/version-0/scratchpad/03-model-alpha-questionnaire.md) |
 | H2 | Learner Engagement has a significant positive effect on Training Effectiveness. | Regression Model 2 |
 | H3 | Training Effectiveness has a significant positive effect on Knowledge Retention. | Regression Model 3 |
 | H4 | Knowledge Retention has a significant positive effect on Job Performance. | Regression Model 4 |
-| H5a | Learner Engagement mediates the relationship between Hybrid Learning and Training Effectiveness. | Mediation test (see [03](../../questionnaire/version-0/03-model-alpha-questionnaire.md) — Hayes PROCESS serial mediation) — this is the hypothesis that was CONDITIONAL/untestable before Section C (Engagement, EN1-5) was added to the instrument; now stable. |
+| H5a | Learner Engagement mediates the relationship between Hybrid Learning and Training Effectiveness. | Mediation test (see [03](../../../questionnaire/version-0/scratchpad/03-model-alpha-questionnaire.md) — Hayes PROCESS serial mediation) — this is the hypothesis that was CONDITIONAL/untestable before Section C (Engagement, EN1-5) was added to the instrument; now stable. |
 | H5b | Training Effectiveness mediates the relationship between Learner Engagement and Knowledge Retention. | Same serial mediation model, second mediator in the chain — **added now**, was implied by H2+H3 but never stated as its own hypothesis until this revision. |
 | H5c | Knowledge Retention mediates the relationship between Training Effectiveness and Job Performance. | Same serial mediation model, third mediator in the chain — **added now**, same gap as H5b. |
 
@@ -52,4 +52,4 @@ Does a well-designed blended learning model improve knowledge retention and empl
 
 ---
 
-**Cross-references:** [01-initial-analysis.md](../../../chapter-1/version-0/02-initial-analysis.md) · [02-guide-suggestion.md](../../../chapter-1/version-0/03-guide-suggestion.md) · [03-literature-matrix.md](../../../chapter-2/version-0/03-literature-matrix.md) · [06-gap.md](../../../chapter-2/version-0/06-gap.md) · [03-model-alpha-questionnaire.md](../../questionnaire/version-0/03-model-alpha-questionnaire.md) · [PLAN.md](../../../PLAN.md)
+**Cross-references:** [01-initial-analysis.md](../../../../chapter-1/version-0/scratchpad/02-initial-analysis.md) · [02-guide-suggestion.md](../../../../chapter-1/version-0/scratchpad/03-guide-suggestion.md) · [03-literature-matrix.md](../../../../chapter-2/version-0/scratchpad/03-literature-matrix.md) · [06-gap.md](../../../../chapter-2/version-0/scratchpad/06-gap.md) · [03-model-alpha-questionnaire.md](../../../questionnaire/version-0/scratchpad/03-model-alpha-questionnaire.md) · [PLAN.md](../../../../PLAN.md)

@@ -2,9 +2,9 @@
 
 > **⚠️ EVERY NUMBER IN THIS FILE IS FAKE.** Generated with a fixed random seed (n=80, matching the department's minimum sample), not collected from real Union Bank employees. Purpose: show exactly how each statistic is calculated so you understand the mechanics before you have real data. **Delete or replace every number here once you run your actual pilot/full data through SPSS.** Don't cite anything in this file in your actual dissertation.
 
-**Why the results look mixed (some significant, some not):** deliberately built that way. A dataset where everything comes out perfectly significant would teach you nothing about how to *write up* a non-significant finding — which you'll almost certainly need to do with real data too (see [MSSW-PROJECT-LAYOUT-AND-WORDINGS.md](../../MSSW-PROJECT-LAYOUT-AND-WORDINGS.md) for exactly this — Hari Kishore's thesis got caught not addressing a contradiction honestly). This file shows both cases.
+**Why the results look mixed (some significant, some not):** deliberately built that way. A dataset where everything comes out perfectly significant would teach you nothing about how to *write up* a non-significant finding — which you'll almost certainly need to do with real data too (see [MSSW-PROJECT-LAYOUT-AND-WORDINGS.md](../../../MSSW-PROJECT-LAYOUT-AND-WORDINGS.md) for exactly this — Hari Kishore's thesis got caught not addressing a contradiction honestly). This file shows both cases.
 
-Instrument: [chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md](../../chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md) (30 items, 6 constructs: HL=8, TC=3, EN=4, TE=5, KR=5, JP=5). Hypotheses: [chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md](../../chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md).
+Instrument: [chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md](../../../chapter-3/questionnaire/version-2/scratchpad/01-model-alpha-questionnaire.md) (30 items, 6 constructs: HL=8, TC=3, EN=4, TE=5, KR=5, JP=5). Hypotheses: [chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md](../../../chapter-3/objectives-and-hypotheses/version-1/scratchpad/01-research-objectives-and-hypotheses.md).
 
 ---
 
@@ -59,7 +59,7 @@ That single number (3.75) is what goes into every later calculation for this res
 
 ### Step 3 — Construct-level means and SD
 
-| Construct | Items | Mean | SD | Interpretation (per [04-base-questionnaire sec 5](../../chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md) scale) |
+| Construct | Items | Mean | SD | Interpretation (per [04-base-questionnaire sec 5](../../../chapter-3/questionnaire/version-0/scratchpad/01-base-questionnaire-and-calculation.md) scale) |
 |---|---|---|---|---|
 | Hybrid Learning (HL) | 8 | 3.77 | 0.52 | High (3.41-4.20) |
 | Trainer Competence (TC) | 3 | 3.51 | 0.65 | High |
@@ -76,7 +76,7 @@ That single number (3.75) is what goes into every later calculation for this res
 
 ### Step 4 — Reliability: Cronbach's Alpha, fully worked (EN, 4 items)
 
-Formula (already defined conceptually in [chapter-1/version-0/05-key-terminology-glossary.md](../../chapter-1/version-0/05-key-terminology-glossary.md)):
+Formula (already defined conceptually in [chapter-1/version-0/05-key-terminology-glossary.md](../../../chapter-1/version-0/scratchpad/05-key-terminology-glossary.md)):
 
 ```
 α = (k / (k-1)) × (1 − Σ(item variances) / (variance of the summed score))
@@ -101,7 +101,7 @@ Variance of the **summed** score (EN1+EN2+EN3+EN4 per respondent, not the mean) 
   = 0.734
 ```
 
-**α = 0.734 → acceptable** (department precedent, [chapter-2/version-0/05-past-dissertation-summary.md](../../chapter-2/version-0/05-past-dissertation-summary.md), treats ≥0.60-0.70 as usable, ≥0.70 as good).
+**α = 0.734 → acceptable** (department precedent, [chapter-2/version-0/05-past-dissertation-summary.md](../../../chapter-2/version-0/scratchpad/05-past-dissertation-summary.md), treats ≥0.60-0.70 as usable, ≥0.70 as good).
 
 Full reliability table (all 6 constructs, same formula applied by software — you'd get this directly from SPSS's Reliability Analysis, not hand-calculate every one):
 
@@ -114,7 +114,7 @@ Full reliability table (all 6 constructs, same formula applied by software — y
 | KR | 0.846 |
 | JP | 0.811 |
 
-All 6 clear 0.70 — in this dummy run. Real data might not; if any construct comes in under ~0.60, that's your cue to check the [09-literature-summary.md](../../chapter-2/version-0/04-literature-summary.md)-flagged items for that construct (JP5/JP4 redundancy was already flagged there as a candidate to review).
+All 6 clear 0.70 — in this dummy run. Real data might not; if any construct comes in under ~0.60, that's your cue to check the [09-literature-summary.md](../../../chapter-2/version-0/scratchpad/04-literature-summary.md)-flagged items for that construct (JP5/JP4 redundancy was already flagged there as a candidate to review).
 
 ### Step 5 — Correlation, formula worked by hand on a small subset
 
@@ -252,7 +252,7 @@ R² = .1514, F(5,74) = 2.640, p = .0299. **Worth a comment in your write-up:** T
 
 ### Step 8 — Mediation tests, Baron & Kenny + Sobel, fully worked
 
-Per [chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md](../../chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md), 4 steps per mediator:
+Per [chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md](../../../chapter-3/questionnaire/version-2/scratchpad/01-model-alpha-questionnaire.md), 4 steps per mediator:
 1. **c** — total effect (X → Y, no mediator)
 2. **a** — X → M
 3. **b** and **c′** — X + M → Y (b = mediator's effect, c′ = X's remaining direct effect)
@@ -348,12 +348,12 @@ Neither H6 nor H7 supported here — group means look different on paper (Blende
 
 ## 4.4 Comparison with Previous Studies
 
-With real results, compare against [chapter-2/version-0/08-base-paper.md](../../chapter-2/version-0/08-base-paper.md) (Saroj, Sahney & Sekar 2026 — your base paper) and the wider matrix in [chapter-2/version-0/03-literature-matrix.md](../../chapter-2/version-0/03-literature-matrix.md). E.g., if your H1 (HL→EN) comes out supported like this dummy run, that's consistent with the base paper's own acceptance→engagement path.
+With real results, compare against [chapter-2/version-0/08-base-paper.md](../../../chapter-2/version-0/scratchpad/08-base-paper.md) (Saroj, Sahney & Sekar 2026 — your base paper) and the wider matrix in [chapter-2/version-0/03-literature-matrix.md](../../../chapter-2/version-0/scratchpad/03-literature-matrix.md). E.g., if your H1 (HL→EN) comes out supported like this dummy run, that's consistent with the base paper's own acceptance→engagement path.
 
 ## 4.5 Theoretical and Practical Implications
 
-Placeholder — write after real results. Structure: one paragraph theoretical (what this adds to the literature gap named in [chapter-2/version-0/06-gap.md](../../chapter-2/version-0/06-gap.md)), one paragraph practical (HR strategy scorecard style, per [chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md](../../chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md) sec 12 format).
+Placeholder — write after real results. Structure: one paragraph theoretical (what this adds to the literature gap named in [chapter-2/version-0/06-gap.md](../../../chapter-2/version-0/scratchpad/06-gap.md)), one paragraph practical (HR strategy scorecard style, per [chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md](../../../chapter-3/questionnaire/version-0/scratchpad/01-base-questionnaire-and-calculation.md) sec 12 format).
 
 ---
 
-**Cross-references:** [chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md](../../chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md) · [chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md](../../chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md) · [chapter-1/version-0/05-key-terminology-glossary.md](../../chapter-1/version-0/05-key-terminology-glossary.md) · [chapter-5/version-0/01-conclusion-dummy-worked-example.md](../../chapter-5/version-0/01-conclusion-dummy-worked-example.md) · **real-chapter skeleton:** [02-chapter4-template-academic-prose.md](02-chapter4-template-academic-prose.md) · [PLAN.md](../../PLAN.md) · [SEQUENCE.md](../../SEQUENCE.md)
+**Cross-references:** [chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md](../../../chapter-3/questionnaire/version-2/scratchpad/01-model-alpha-questionnaire.md) · [chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md](../../../chapter-3/objectives-and-hypotheses/version-1/scratchpad/01-research-objectives-and-hypotheses.md) · [chapter-1/version-0/05-key-terminology-glossary.md](../../../chapter-1/version-0/scratchpad/05-key-terminology-glossary.md) · [chapter-5/version-0/01-conclusion-dummy-worked-example.md](../../../chapter-5/version-0/scratchpad/01-conclusion-dummy-worked-example.md) · **real-chapter skeleton:** [02-chapter4-template-academic-prose.md](../02-chapter4-template-academic-prose.md) · [PLAN.md](../../../PLAN.md) · [SEQUENCE.md](../../../SEQUENCE.md)

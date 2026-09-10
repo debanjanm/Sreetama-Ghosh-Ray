@@ -20,7 +20,7 @@ Unchanged wording from [02-refined-questionnaire.md](02-refined-questionnaire.md
 
 ## Section C: Learner Engagement (EN1–EN5) — NEW
 
-**Construct basis:** dedication + absorption during training, per Safety Training Engagement Scale (STE-S — Italian validation study, 2022, 5 items) and Fredricks/Blumenfeld/Paris (2004) behavioural-emotional-cognitive engagement framework, both already sourced in [04-literature-summary.md](../../../chapter-2/version-0/04-literature-summary.md). **Caution:** STE-S's own published item wording wasn't accessible in this research pass (source paywalled) — the 5 items below are researcher-adapted to the dedication/absorption constructs it measures, not a verbatim reproduction. State this explicitly in your methodology chapter, same as you already do for KR1-9.
+**Construct basis:** dedication + absorption during training, per Safety Training Engagement Scale (STE-S — Italian validation study, 2022, 5 items) and Fredricks/Blumenfeld/Paris (2004) behavioural-emotional-cognitive engagement framework, both already sourced in [04-literature-summary.md](../../../../chapter-2/version-0/scratchpad/04-literature-summary.md). **Caution:** STE-S's own published item wording wasn't accessible in this research pass (source paywalled) — the 5 items below are researcher-adapted to the dedication/absorption constructs it measures, not a verbatim reproduction. State this explicitly in your methodology chapter, same as you already do for KR1-9.
 
 EN1. I stay fully engaged and attentive during the training sessions, whether online or in-person.
 
@@ -78,7 +78,7 @@ Same 6-step pipeline as [01](01-base-questionnaire-and-calculation.md) sec 9, wi
 
 ### Mediation tests — Model-Alpha is a serial (3-mediator) chain, not one mediation link
 
-Model-Alpha has **three** mediators in sequence, not one — Learner Engagement, Training Effectiveness, and Knowledge Retention each sit between two other variables and mediate that relationship (see [01](../../objectives-and-hypotheses/version-0/01-research-objectives-and-hypotheses.md) H5a-c):
+Model-Alpha has **three** mediators in sequence, not one — Learner Engagement, Training Effectiveness, and Knowledge Retention each sit between two other variables and mediate that relationship (see [01](../../../objectives-and-hypotheses/version-0/scratchpad/01-research-objectives-and-hypotheses.md) H5a-c):
 
 ```
 HL → EN → TE → KR → JP
@@ -93,4 +93,4 @@ Regression Models 1-4 above test whether each *path* is significant. They do **n
 
 ---
 
-**Cross-references:** [01-base-questionnaire-and-calculation.md](01-base-questionnaire-and-calculation.md) · [02-refined-questionnaire.md](02-refined-questionnaire.md) · [04-literature-summary.md](../../../chapter-2/version-0/04-literature-summary.md) · [01-research-objectives-and-hypotheses.md](../../objectives-and-hypotheses/version-0/01-research-objectives-and-hypotheses.md) · [SEQUENCE.md](../../../SEQUENCE.md)
+**Cross-references:** [01-base-questionnaire-and-calculation.md](01-base-questionnaire-and-calculation.md) · [02-refined-questionnaire.md](02-refined-questionnaire.md) · [04-literature-summary.md](../../../../chapter-2/version-0/scratchpad/04-literature-summary.md) · [01-research-objectives-and-hypotheses.md](../../../objectives-and-hypotheses/version-0/scratchpad/01-research-objectives-and-hypotheses.md) · [SEQUENCE.md](../../../../SEQUENCE.md)

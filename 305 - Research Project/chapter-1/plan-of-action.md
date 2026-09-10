@@ -12,10 +12,10 @@ Chapter 1 — Introduction: Plan of Action
 | 1.6 | Chapterization | ~1 | One-paragraph roadmap of Chapters 1-5 | **Drafted** |
 | | **Total** | **~17** | | |
 
-**Current draft:** [version-0/07-chapter1-draft-academic-prose.md](version-0/07-chapter1-draft-academic-prose.md) — all 6 sections written, submission-voice, audited for AI-generated tells ([SEQUENCE.md](../SEQUENCE.md) entry 29). This plan is a page-budget/structure check on that draft, not new content.
+**Current draft:** [version-0/07-chapter1-draft-academic-prose.md](version-0/07-chapter1-draft-academic-prose.md) — all 6 sections written, submission-voice, audited for AI-generated tells ([SEQUENCE.md](../SEQUENCE.md) entry 29), and individually expanded to hit their page targets ([SEQUENCE.md](../SEQUENCE.md) entries 35-40). **Chapter total: ~3,210 words, ~15.7pp against the ~17pp budget — Chapter 1 is done.**
 
 **Open item carried into 1.5:** branch/zone-specific detail (which department/branch the sample is drawn from) — cannot be filled from public sources, needs the student's own internship placement info.
 
-**Do not touch:** [version-0/03-guide-suggestion.md](version-0/03-guide-suggestion.md) is a direct quote from the guide's own feedback — source material only, never rewritten into chapter prose.
+**Do not touch:** [version-0/03-guide-suggestion.md](version-0/scratchpad/03-guide-suggestion.md) is a direct quote from the guide's own feedback — source material only, never rewritten into chapter prose.
 
 See [references.md](references.md) for where each section's information comes from.

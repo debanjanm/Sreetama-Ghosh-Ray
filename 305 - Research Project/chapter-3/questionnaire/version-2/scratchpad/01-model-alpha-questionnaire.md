@@ -1,8 +1,8 @@
 # 01 — Model-Alpha v1: Final Instrument, Compressed to 30 Items (v2)
 
-**Why this version exists.** Department norms PDF (`university-files/MSSW - Project Norms and Schedule 2026.pdf`): *"No. of questions in questionnaire should be not more than 30."* v1 ([chapter-3/questionnaire/version-1/01-model-alpha-questionnaire.md](../version-1/01-model-alpha-questionnaire.md)) had 55 Likert items — a violation that actually predated Model-Alpha entirely (even the original 42-item draft broke the cap). This version compresses to exactly 30, keeping all 6 constructs (no construct dropped — model/hypotheses from [chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md](../../objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md) are unchanged, still valid at construct level).
+**Why this version exists.** Department norms PDF (`university-files/MSSW - Project Norms and Schedule 2026.pdf`): *"No. of questions in questionnaire should be not more than 30."* v1 ([chapter-3/questionnaire/version-1/01-model-alpha-questionnaire.md](../../version-1/scratchpad/01-model-alpha-questionnaire.md)) had 55 Likert items — a violation that actually predated Model-Alpha entirely (even the original 42-item draft broke the cap). This version compresses to exactly 30, keeping all 6 constructs (no construct dropped — model/hypotheses from [chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md](../../../objectives-and-hypotheses/version-1/scratchpad/01-research-objectives-and-hypotheses.md) are unchanged, still valid at construct level).
 
-**Selection method — not arbitrary cutting.** Every kept item was chosen using the existing decision-basis log ([chapter-2/version-0/04-literature-summary.md](../../../chapter-2/version-0/04-literature-summary.md)):
+**Selection method — not arbitrary cutting.** Every kept item was chosen using the existing decision-basis log ([chapter-2/version-0/04-literature-summary.md](../../../../chapter-2/version-0/scratchpad/04-literature-summary.md)):
 1. Items flagged **"re-anchor recommended"** (validated-scale-backed — e.g. HL10-12 → Ye et al. UBL scale; JP1/2/4/9 → Koopmans IWPQ) were prioritized to keep — strongest citation support.
 2. Items flagged as **theoretically central** were kept regardless (HL13 — "most theoretically important item," the Garrison & Kanuka integration definition).
 3. Within a sub-dimension with 3 near-duplicate researcher-developed items and no re-anchor basis, kept the single cleanest/most direct statement, cut the other two.
@@ -30,7 +30,7 @@
 
 ## Section A: Basic Information
 
-Unchanged from [chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md](../version-0/01-base-questionnaire-and-calculation.md) — age group, years of experience, job level, training frequency in last 12 months, % delivered digitally, % delivered face-to-face. (6 questions, not counted against the 30-item Likert cap — see note below.)
+Unchanged from [chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md](../../version-0/scratchpad/01-base-questionnaire-and-calculation.md) — age group, years of experience, job level, training frequency in last 12 months, % delivered digitally, % delivered face-to-face. (6 questions, not counted against the 30-item Likert cap — see note below.)
 
 ## Section B: Hybrid Learning (8 items)
 
@@ -40,11 +40,13 @@ HL4. I can easily find and access the online training materials. *(Accessibility
 
 HL7. I get sufficient opportunities to interact with the trainer and ask questions during the training. *(Interaction)*
 
-HL10. The digital platform or application used for training is easy to navigate and use. *(Technology — re-anchored, Ye et al. 2022 UBL scale)*
+HL10. I feel confident that I can make good use of the digital platform used for training. *(Technology — re-anchored to Ye, Kuang & Liu 2022 ICTSE item I2, "I think I can make good use of the online teaching platform," adapted from instructor self-efficacy to trainee self-efficacy framing — see note below)*
 
-HL11. Technical problems do not usually interfere with my learning. *(Technology — re-anchored)*
+HL11. Technical problems do not usually interfere with my learning. *(Technology — researcher-developed. No genuine match exists anywhere in Ye et al.'s 17 published items; an earlier draft incorrectly tagged this "re-anchored" before anyone had actually checked the real item wording — corrected here.)*
 
-HL12. The online content helps me understand the topics covered in the training. *(Technology — re-anchored)*
+HL12. The online content helps me understand the topics covered in the training. *(Technology — researcher-developed, same correction as HL11 — no match in Ye et al.'s published items.)*
+
+**Note on the HL10-12 re-anchoring check (2026-09-11):** Ye, Kuang & Liu's (2022) published instrument (ICTSE, OSBL, ABL, UBL — 17 items, Appendix 1 of the paper) was pulled and checked item-by-item against HL10-12 for the first time here. Every one of Ye et al.'s items is phrased from the *instructor's* perspective ("I think I can use computers well for teaching," "I use online teaching methods to match the learning tasks of offline courses") — not the *trainee's* perspective HL10-12 need (a bank employee rating their own experience of using the training platform). Their UBL scale specifically, which HL10 was previously tagged against, is entirely about teaching behaviour and has no trainee-facing analog at all. Only ICTSE item I2 ("I think I can make good use of the online teaching platform") is close enough in content to genuinely adapt — HL10 above is that adaptation, with the perspective changed from teaching to learning/using. HL11 (technical reliability) and HL12 (content comprehension support) have no equivalent anywhere in Ye et al.'s 17 items and are left as researcher-developed rather than forced into a false match.
 
 HL13. The online and classroom sessions are well connected as part of the same training programme. *(Integration — theoretically central item, Garrison & Kanuka 2004)*
 
@@ -106,19 +108,19 @@ JP9. Overall, the training has improved my job performance. *(Re-anchored — gl
 
 ## Optional Final Questions
 
-Unchanged from [chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md](../version-0/01-base-questionnaire-and-calculation.md) — 3 open-ended questions on hybrid training experience. (Not counted against the 30-item Likert cap.)
+Unchanged from [chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md](../../version-0/scratchpad/01-base-questionnaire-and-calculation.md) — 3 open-ended questions on hybrid training experience. (Not counted against the 30-item Likert cap.)
 
 ---
 
 ## A note on what "30 questions" covers
 
-The department norm doesn't define whether "30 questions" means Likert items only, or everything including demographics and open-ended questions. Every reference thesis that reported item counts ([chapter-2/version-0/05-past-dissertation-summary.md](../../../chapter-2/version-0/05-past-dissertation-summary.md)) reported their *substantive Likert item count* (23-28), with demographics reported separately in "Section A" — this instrument follows that same convention: **30 refers to the Likert items (Sections B-G above)**, with 6 demographic questions and 3 open-ended questions kept separate. If your supervisor interprets the cap as covering everything, Section A would need trimming too — confirm this reading with them, same as the page-count/sample-size assumptions already flagged.
+The department norm doesn't define whether "30 questions" means Likert items only, or everything including demographics and open-ended questions. Every reference thesis that reported item counts ([chapter-2/version-0/05-past-dissertation-summary.md](../../../../chapter-2/version-0/scratchpad/05-past-dissertation-summary.md)) reported their *substantive Likert item count* (23-28), with demographics reported separately in "Section A" — this instrument follows that same convention: **30 refers to the Likert items (Sections B-G above)**, with 6 demographic questions and 3 open-ended questions kept separate. If your supervisor interprets the cap as covering everything, Section A would need trimming too — confirm this reading with them, same as the page-count/sample-size assumptions already flagged.
 
 ---
 
 ## Scoring
 
-Same averaging method as [chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md](../version-0/01-base-questionnaire-and-calculation.md) sec 3, applied to each construct's now-smaller item set:
+Same averaging method as [chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md](../../version-0/scratchpad/01-base-questionnaire-and-calculation.md) sec 3, applied to each construct's now-smaller item set:
 
 - **Hybrid Learning score** = average of HL1, HL4, HL7, HL10-14 (8 items)
 - **Trainer Competence score** = average of TC1, TC3, TC7 (3 items)
@@ -131,10 +133,10 @@ Same averaging method as [chapter-3/questionnaire/version-0/01-base-questionnair
 
 ## Statistical Analysis
 
-Same pipeline as [chapter-3/questionnaire/version-1/01-model-alpha-questionnaire.md](../version-1/01-model-alpha-questionnaire.md) — correlation matrix, 4 regression models, serial mediation test (Hayes PROCESS Model 6 or Baron & Kenny fallback) — structure unchanged, only the item counts feeding each construct score are smaller. See that file for the full statistical write-up; not repeated here since nothing about the *analysis plan* changed, only the *instrument*.
+Same pipeline as [chapter-3/questionnaire/version-1/01-model-alpha-questionnaire.md](../../version-1/scratchpad/01-model-alpha-questionnaire.md) — correlation matrix, 4 regression models, serial mediation test (Hayes PROCESS Model 6 or Baron & Kenny fallback) — structure unchanged, only the item counts feeding each construct score are smaller. See that file for the full statistical write-up; not repeated here since nothing about the *analysis plan* changed, only the *instrument*.
 
-**One thing worth flagging for Cronbach's alpha specifically:** Trainer Competence now has only 3 items — alpha is still computable but less stable with so few items. If your pilot test shows TC's alpha below an acceptable threshold, you may need to swap in a different item from the original 8 (see [chapter-3/questionnaire/version-1/01-model-alpha-questionnaire.md](../version-1/01-model-alpha-questionnaire.md) for the full TC1-8 set) rather than adding items back, since that would break the 30-item cap again.
+**One thing worth flagging for Cronbach's alpha specifically:** Trainer Competence now has only 3 items — alpha is still computable but less stable with so few items. If your pilot test shows TC's alpha below an acceptable threshold, you may need to swap in a different item from the original 8 (see [chapter-3/questionnaire/version-1/01-model-alpha-questionnaire.md](../../version-1/scratchpad/01-model-alpha-questionnaire.md) for the full TC1-8 set) rather than adding items back, since that would break the 30-item cap again.
 
 ---
 
-**Cross-references:** [chapter-3/questionnaire/version-1/01-model-alpha-questionnaire.md](../version-1/01-model-alpha-questionnaire.md) (full 55-item version, source of all wording) · [chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md](../version-0/01-base-questionnaire-and-calculation.md) · [chapter-2/version-0/04-literature-summary.md](../../../chapter-2/version-0/04-literature-summary.md) (selection basis) · [chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md](../../objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md) · [PLAN.md](../../../PLAN.md) · [SEQUENCE.md](../../../SEQUENCE.md)
+**Cross-references:** [chapter-3/questionnaire/version-1/01-model-alpha-questionnaire.md](../../version-1/scratchpad/01-model-alpha-questionnaire.md) (full 55-item version, source of all wording) · [chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md](../../version-0/scratchpad/01-base-questionnaire-and-calculation.md) · [chapter-2/version-0/04-literature-summary.md](../../../../chapter-2/version-0/scratchpad/04-literature-summary.md) (selection basis) · [chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md](../../../objectives-and-hypotheses/version-1/scratchpad/01-research-objectives-and-hypotheses.md) · [PLAN.md](../../../../PLAN.md) · [SEQUENCE.md](../../../../SEQUENCE.md)

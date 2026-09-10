@@ -1,6 +1,6 @@
 # 07 — Model-Beta "Full Chain" Precedent Check
 
-**Purpose.** Targeted follow-up search (not a re-run of the 36-paper matrix in [03-literature-matrix.md](03-literature-matrix.md)) to test one specific question: is there published precedent for the full 7-variable Model-Beta (Hybrid Learning → Trainer Competence + Org/Supervisor Support → Learner Engagement → Training Effectiveness → Knowledge Retention → Job Performance), strong enough to justify moving off the locked Model-Alpha ([01-research-objectives-and-hypotheses.md](../../chapter-3/objectives-and-hypotheses/version-0/01-research-objectives-and-hypotheses.md))? All sources below were live-searched and, where possible, fetched directly this session (method matches [03](03-literature-matrix.md)'s verification standard).
+**Purpose.** Targeted follow-up search (not a re-run of the 36-paper matrix in [03-literature-matrix.md](03-literature-matrix.md)) to test one specific question: is there published precedent for the full 7-variable Model-Beta (Hybrid Learning → Trainer Competence + Org/Supervisor Support → Learner Engagement → Training Effectiveness → Knowledge Retention → Job Performance), strong enough to justify moving off the locked Model-Alpha ([01-research-objectives-and-hypotheses.md](../../../chapter-3/objectives-and-hypotheses/version-0/scratchpad/01-research-objectives-and-hypotheses.md))? All sources below were live-searched and, where possible, fetched directly this session (method matches [03](03-literature-matrix.md)'s verification standard).
 
 ---
 
@@ -65,4 +65,4 @@ Reasoning, mapped to what changed vs. what didn't:
 
 ---
 
-**Cross-references:** [03-literature-matrix.md](03-literature-matrix.md) sec 4 · [06-gap.md](06-gap.md) sec 1, 3.2 · [05-past-dissertation-summary.md](05-past-dissertation-summary.md) sec 9.1 · [01-research-objectives-and-hypotheses.md](../../chapter-3/objectives-and-hypotheses/version-0/01-research-objectives-and-hypotheses.md) · [03-model-alpha-questionnaire.md](../../chapter-3/questionnaire/version-0/03-model-alpha-questionnaire.md) · [PLAN.md](../../PLAN.md)
+**Cross-references:** [03-literature-matrix.md](03-literature-matrix.md) sec 4 · [06-gap.md](06-gap.md) sec 1, 3.2 · [05-past-dissertation-summary.md](05-past-dissertation-summary.md) sec 9.1 · [01-research-objectives-and-hypotheses.md](../../../chapter-3/objectives-and-hypotheses/version-0/scratchpad/01-research-objectives-and-hypotheses.md) · [03-model-alpha-questionnaire.md](../../../chapter-3/questionnaire/version-0/scratchpad/03-model-alpha-questionnaire.md) · [PLAN.md](../../../PLAN.md)

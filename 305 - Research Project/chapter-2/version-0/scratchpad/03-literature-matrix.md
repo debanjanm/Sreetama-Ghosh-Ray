@@ -88,7 +88,7 @@ These are the origin papers that the workplace-training literature (Part 1) buil
 
 ## Part 3: Papers With Usable Validated Questionnaires/Instruments
 
-This is the practically most important section. For each instrument: construct measured, item count, reported Cronbach's α, and a direct comparison against your draft items (HL1-15, TE1-9, KR1-9, JP1-9 from [02-refined-questionnaire.md](../../chapter-3/questionnaire/version-0/02-refined-questionnaire.md)).
+This is the practically most important section. For each instrument: construct measured, item count, reported Cronbach's α, and a direct comparison against your draft items (HL1-15, TE1-9, KR1-9, JP1-9 from [02-refined-questionnaire.md](../../../chapter-3/questionnaire/version-0/scratchpad/02-refined-questionnaire.md)).
 
 | Instrument | Source | Construct | Items | α reported | Comparison to your draft (file 02) |
 |---|---|---|---|---|---|

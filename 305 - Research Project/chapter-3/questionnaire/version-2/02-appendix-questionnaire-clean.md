@@ -1,6 +1,6 @@
 Appendix — Questionnaire
 
-Note to self: this is the clean, respondent-facing version for the actual Appendix — no citation annotations, no version history, nothing addressed to you. Item-level citation sourcing (which items are re-anchored to a published scale vs. researcher-developed) belongs in Chapter 3.3 and is documented in [chapter-2/version-0/04-literature-summary.md](../../../chapter-2/version-0/04-literature-summary.md) — reference it there, not on the instrument itself.
+Note to self: this is the clean, respondent-facing version for the actual Appendix — no citation annotations, no version history, nothing addressed to you. Item-level citation sourcing (which items are re-anchored to a published scale vs. researcher-developed) belongs in Chapter 3.3 and is documented in [chapter-2/version-0/04-literature-summary.md](../../../chapter-2/version-0/scratchpad/04-literature-summary.md) — reference it there, not on the instrument itself.
 
 ## Introduction to Respondents
 
@@ -27,7 +27,7 @@ HL4. I can easily find and access the online training materials.
 
 HL7. I get sufficient opportunities to interact with the trainer and ask questions during the training.
 
-HL10. The digital platform or application used for training is easy to navigate and use.
+HL10. I feel confident that I can make good use of the digital platform used for training.
 
 HL11. Technical problems do not usually interfere with my learning.
 

@@ -2,7 +2,7 @@
 
 **Purpose.** This file is the single place that answers three questions a panel will ask in sequence: *"What's missing in the literature?"* → *"What are you doing about it?"* → *"Where does your own instrument still fall short of that claim?"* Sections 1-2 make the case for you; Section 3 is deliberately self-critical, because a panel that finds these gaps on its own (without you naming them first) reads worse than you naming them yourself.
 
-Builds on: [02-guide-suggestion.md](../../chapter-1/version-0/03-guide-suggestion.md), [01-initial-literature-search.md](01-initial-literature-search.md) sec 15, [03-literature-matrix.md](03-literature-matrix.md), [04-literature-summary.md](04-literature-summary.md) sec 6, [05-past-dissertation-summary.md](05-past-dissertation-summary.md) sec 9.2.
+Builds on: [02-guide-suggestion.md](../../../chapter-1/version-0/scratchpad/03-guide-suggestion.md), [01-initial-literature-search.md](01-initial-literature-search.md) sec 15, [03-literature-matrix.md](03-literature-matrix.md), [04-literature-summary.md](04-literature-summary.md) sec 6, [05-past-dissertation-summary.md](05-past-dissertation-summary.md) sec 9.2.
 
 ---
 
@@ -56,7 +56,7 @@ Two paths forward (per [04](04-literature-summary.md) sec 4), pick one and say s
 
 ### 3.2 Your literature review's own top mechanism picks are missing from your actual questionnaire
 
-This is the sharper tension. Sections 1-2 above argue your project's originality rests on *explaining the mechanism* behind hybrid learning's effect — but your literature review ([01](01-initial-literature-search.md), [03](03-literature-matrix.md)) independently concludes the three strongest mechanism variables are **learner engagement, trainer competence, and organizational/supervisor support** (per Saroj, Sahney & Sekar 2026 — your single best-verified source). None of the three currently appear as a section in your drafted 42-item questionnaire ([01](../../chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md)/[02](../../chapter-3/questionnaire/version-0/02-refined-questionnaire.md)).
+This is the sharper tension. Sections 1-2 above argue your project's originality rests on *explaining the mechanism* behind hybrid learning's effect — but your literature review ([01](01-initial-literature-search.md), [03](03-literature-matrix.md)) independently concludes the three strongest mechanism variables are **learner engagement, trainer competence, and organizational/supervisor support** (per Saroj, Sahney & Sekar 2026 — your single best-verified source). None of the three currently appear as a section in your drafted 42-item questionnaire ([01](../../../chapter-3/questionnaire/version-0/scratchpad/01-base-questionnaire-and-calculation.md)/[02](../../../chapter-3/questionnaire/version-0/scratchpad/02-refined-questionnaire.md)).
 
 **Put bluntly: your Chapter 1/2 gap argument says "we need mechanism variables," and your Chapter 3 instrument doesn't measure any.** A panel that reads both chapters back-to-back will catch this immediately — better you name it first.
 
@@ -69,4 +69,4 @@ This is the sharper tension. Sections 1-2 above argue your project's originality
 
 ---
 
-**Cross-references:** [02-guide-suggestion.md](../../chapter-1/version-0/03-guide-suggestion.md) · [01-base-questionnaire-and-calculation.md](../../chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md) · [02-refined-questionnaire.md](../../chapter-3/questionnaire/version-0/02-refined-questionnaire.md) · [01-initial-literature-search.md](01-initial-literature-search.md) · [03-literature-matrix.md](03-literature-matrix.md) · [04-literature-summary.md](04-literature-summary.md) · [05-past-dissertation-summary.md](05-past-dissertation-summary.md) · [PLAN.md](../../PLAN.md)
+**Cross-references:** [02-guide-suggestion.md](../../../chapter-1/version-0/scratchpad/03-guide-suggestion.md) · [01-base-questionnaire-and-calculation.md](../../../chapter-3/questionnaire/version-0/scratchpad/01-base-questionnaire-and-calculation.md) · [02-refined-questionnaire.md](../../../chapter-3/questionnaire/version-0/scratchpad/02-refined-questionnaire.md) · [01-initial-literature-search.md](01-initial-literature-search.md) · [03-literature-matrix.md](03-literature-matrix.md) · [04-literature-summary.md](04-literature-summary.md) · [05-past-dissertation-summary.md](05-past-dissertation-summary.md) · [PLAN.md](../../../PLAN.md)

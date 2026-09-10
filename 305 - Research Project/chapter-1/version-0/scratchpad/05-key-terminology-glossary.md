@@ -41,14 +41,14 @@ Full explanation with the "machine" analogy already in [04-atomic-concepts.md](0
 ### Moderator
 A variable that changes the **strength or direction** of a relationship between two other variables — it doesn't sit in the causal chain, it answers *"Does the X→Y relationship get stronger/weaker depending on Z?"* rather than "why does X affect Y."
 
-**In your model:** you don't currently have one. Organizational/Supervisor Support was considered as a moderator (it moderates Engagement→Effectiveness in your base paper, Saroj et al. 2026) but was excluded — that's the rejected Model-Beta scope ([07-model-beta-chain-check.md](../../chapter-2/version-0/07-model-beta-chain-check.md)).
+**In your model:** you don't currently have one. Organizational/Supervisor Support was considered as a moderator (it moderates Engagement→Effectiveness in your base paper, Saroj et al. 2026) but was excluded — that's the rejected Model-Beta scope ([07-model-beta-chain-check.md](../../../chapter-2/version-0/scratchpad/07-model-beta-chain-check.md)).
 
 **Mediator vs moderator, one line each:** mediator = *mechanism* (why/how); moderator = *condition* (when/for whom). Full contrast already in [04-atomic-concepts.md](04-atomic-concepts.md) sec 12.
 
 ### Control Variable
 A variable you deliberately measure so you can rule out alternative explanations, even though it's not part of your main model. You're not testing hypotheses about these — you're using them to check whether your main findings hold up across subgroups.
 
-**In your model:** age, years of experience, job level, training frequency (Section A of [01-model-alpha-questionnaire.md](../../chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md)) — used for the t-test/ANOVA subgroup comparisons (H6-H8), not the core chain.
+**In your model:** age, years of experience, job level, training frequency (Section A of [01-model-alpha-questionnaire.md](../../../chapter-3/questionnaire/version-2/scratchpad/01-model-alpha-questionnaire.md)) — used for the t-test/ANOVA subgroup comparisons (H6-H8), not the core chain.
 
 ### Confounding Variable
 An *un*measured or *uncontrolled* variable that could actually explain a relationship you're attributing to your model — a threat to internal validity, not something you're deliberately testing. Different from a control variable: a control variable is one you *did* account for; a confound is one you *didn't*, and it's a risk.
@@ -77,13 +77,13 @@ Your department's own guidelines document says explicitly: *"Tools to be used fo
 **Practical note for your project:** Likert-scale data (1-5) is technically ordinal, not interval — using parametric tests on it is a common, generally-accepted convention in social science (treating a 5-point scale as approximately continuous), not a strict violation, but it's worth stating this convention explicitly in your methodology chapter rather than assuming it's obvious. Before running your main analysis, check normality (skewness/kurtosis or a Shapiro-Wilk test in SPSS) — if badly violated, that's your cue to switch to the non-parametric column above for that specific test.
 
 ### Reliability — Cronbach's Alpha
-Whether the items *within one construct* are measuring the same thing consistently. Already covered in [01-base-questionnaire-and-calculation.md](../../chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md) sec 6, Test 2 — this entry just flags it belongs in this glossary too. Run separately for each of your 6 constructs now (HL, Trainer Competence, Engagement, TE, KR, JP) — not one alpha for the whole 55-item instrument.
+Whether the items *within one construct* are measuring the same thing consistently. Already covered in [01-base-questionnaire-and-calculation.md](../../../chapter-3/questionnaire/version-0/scratchpad/01-base-questionnaire-and-calculation.md) sec 6, Test 2 — this entry just flags it belongs in this glossary too. Run separately for each of your 6 constructs now (HL, Trainer Competence, Engagement, TE, KR, JP) — not one alpha for the whole 55-item instrument.
 
 ### Validity
 Whether you're actually measuring what you claim to measure — a different question from reliability (you can be reliably wrong).
 - **Content validity** — do the items adequately cover the construct? Established via expert/supervisor review of your instrument (your next step).
 - **Face validity** — does it look reasonable to a non-expert respondent? Established via pilot testing.
-- **Construct validity** — does it actually measure the underlying theoretical construct, not something else? Harder to establish with a small master's-level study; citing your items back to theory (per [04-literature-summary.md](../../chapter-2/version-0/04-literature-summary.md)) is your main defense here.
+- **Construct validity** — does it actually measure the underlying theoretical construct, not something else? Harder to establish with a small master's-level study; citing your items back to theory (per [04-literature-summary.md](../../../chapter-2/version-0/scratchpad/04-literature-summary.md)) is your main defense here.
 
 ### Construct, Dimension, Item — the measurement hierarchy
 - **Construct** — the abstract thing you're trying to measure (e.g., "Hybrid Learning").
@@ -98,7 +98,7 @@ Your instrument follows this hierarchy throughout — useful to state explicitly
 - **Mediation test** (Baron & Kenny or Hayes PROCESS) — does the predictor's effect on the outcome *run through* a third variable? This is the only one of the three that directly tests your H5a-c hypotheses.
 
 ### SEM (Structural Equation Modeling) and Path Analysis
-SEM is the method your base paper (Saroj, Sahney & Sekar, 2026) uses — it tests an entire multi-variable model (all paths simultaneously) in one statistical procedure, typically in software like AMOS or R (lavaan). Your project instead runs the chain as a series of separate regressions plus a mediation macro (PROCESS) — a simpler, SPSS-based approach, standard at the department's level per [05-past-dissertation-summary.md](../../chapter-2/version-0/05-past-dissertation-summary.md) (none of the 8 reference theses used SEM). Worth naming this explicitly as a methodological difference from your base paper if asked why you didn't replicate its exact statistical method.
+SEM is the method your base paper (Saroj, Sahney & Sekar, 2026) uses — it tests an entire multi-variable model (all paths simultaneously) in one statistical procedure, typically in software like AMOS or R (lavaan). Your project instead runs the chain as a series of separate regressions plus a mediation macro (PROCESS) — a simpler, SPSS-based approach, standard at the department's level per [05-past-dissertation-summary.md](../../../chapter-2/version-0/scratchpad/05-past-dissertation-summary.md) (none of the 8 reference theses used SEM). Worth naming this explicitly as a methodological difference from your base paper if asked why you didn't replicate its exact statistical method.
 
 ### Sample, Population, Sampling Technique
 - **Population** — everyone your study is theoretically about (Union Bank of India employees who've had blended training).
@@ -106,7 +106,7 @@ SEM is the method your base paper (Saroj, Sahney & Sekar, 2026) uses — it test
 - **Sampling technique** — how you select them. Your plan uses **convenience sampling** (whoever is accessible/willing), the technique used in every one of your 8 reference theses — not random sampling, which limits how far you can generalize findings, worth naming as a limitation.
 
 ### Pilot Test
-A small trial run of your instrument (department norm: 20-30 respondents, per [05-past-dissertation-summary.md](../../chapter-2/version-0/05-past-dissertation-summary.md) sec 9.1) before full data collection — used to check reliability (Cronbach's alpha per section) and catch confusing items before they cost you real respondents.
+A small trial run of your instrument (department norm: 20-30 respondents, per [05-past-dissertation-summary.md](../../../chapter-2/version-0/scratchpad/05-past-dissertation-summary.md) sec 9.1) before full data collection — used to check reliability (Cronbach's alpha per section) and catch confusing items before they cost you real respondents.
 
 ### Hypothesis: H0 vs H1, Directional vs Non-Directional
 - **Null hypothesis (H0)** — "no significant relationship/difference exists." What your statistical test tries to reject.
@@ -118,8 +118,8 @@ A small trial run of your instrument (department norm: 20-30 respondents, per [0
 - **Cross-sectional** — data collected at one point in time. **This is your design** — one questionnaire, one round of data collection.
 - **Longitudinal** — data collected at multiple points over time (e.g., Agarwal et al. 2026 in your matrix tracked employees over time).
 
-Worth naming explicitly as a limitation: your KR (retention) and JP (performance) items ask respondents to self-report *perceived* change, since you're not measuring the same person before and after training at two separate time points. This is the same practical constraint already discussed for KR1-9 in [04-literature-summary.md](../../chapter-2/version-0/04-literature-summary.md) sec 4.
+Worth naming explicitly as a limitation: your KR (retention) and JP (performance) items ask respondents to self-report *perceived* change, since you're not measuring the same person before and after training at two separate time points. This is the same practical constraint already discussed for KR1-9 in [04-literature-summary.md](../../../chapter-2/version-0/scratchpad/04-literature-summary.md) sec 4.
 
 ---
 
-**Cross-references:** [03-guide-suggestion.md](03-guide-suggestion.md) · [04-atomic-concepts.md](04-atomic-concepts.md) (full mediator/moderator explanation) · [01-base-questionnaire-and-calculation.md](../../chapter-3/questionnaire/version-0/01-base-questionnaire-and-calculation.md) (stats basics already covered) · [04-literature-summary.md](../../chapter-2/version-0/04-literature-summary.md) · [05-past-dissertation-summary.md](../../chapter-2/version-0/05-past-dissertation-summary.md) · [01-research-objectives-and-hypotheses.md v1](../../chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md) · [01-model-alpha-questionnaire.md v1](../../chapter-3/questionnaire/version-2/01-model-alpha-questionnaire.md) · [PLAN.md](../../PLAN.md)
+**Cross-references:** [03-guide-suggestion.md](03-guide-suggestion.md) · [04-atomic-concepts.md](04-atomic-concepts.md) (full mediator/moderator explanation) · [01-base-questionnaire-and-calculation.md](../../../chapter-3/questionnaire/version-0/scratchpad/01-base-questionnaire-and-calculation.md) (stats basics already covered) · [04-literature-summary.md](../../../chapter-2/version-0/scratchpad/04-literature-summary.md) · [05-past-dissertation-summary.md](../../../chapter-2/version-0/scratchpad/05-past-dissertation-summary.md) · [01-research-objectives-and-hypotheses.md v1](../../../chapter-3/objectives-and-hypotheses/version-1/scratchpad/01-research-objectives-and-hypotheses.md) · [01-model-alpha-questionnaire.md v1](../../../chapter-3/questionnaire/version-2/scratchpad/01-model-alpha-questionnaire.md) · [PLAN.md](../../../PLAN.md)

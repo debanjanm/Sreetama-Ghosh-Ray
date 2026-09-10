@@ -1,6 +1,6 @@
 # 04 — Literature Summary: Decision Basis for the 42-Item Draft Instrument
 
-**Purpose of this document.** This file exists specifically to answer the question a supervisor or viva panel will ask: *"On what basis did you decide this?"* — for every major decision made about the questionnaire (files 01/05) and the conceptual model (file 01/08). It is a decision log, not a new literature review. Every claim below traces back to [03-literature-matrix.md](03-literature-matrix.md) (papers/instruments) or [03-atomic-concepts.md](../../chapter-1/version-0/04-atomic-concepts.md) (decision-filter logic), and every citation given here can be checked against the full matrix entry in file 03.
+**Purpose of this document.** This file exists specifically to answer the question a supervisor or viva panel will ask: *"On what basis did you decide this?"* — for every major decision made about the questionnaire (files 01/05) and the conceptual model (file 01/08). It is a decision log, not a new literature review. Every claim below traces back to [03-literature-matrix.md](03-literature-matrix.md) (papers/instruments) or [03-atomic-concepts.md](../../../chapter-1/version-0/scratchpad/04-atomic-concepts.md) (decision-filter logic), and every citation given here can be checked against the full matrix entry in file 03.
 
 **How to use this in your defense.** If asked "why does item X read the way it does," find the item below, read the "Basis" line, and cite the paper named. If asked "why isn't variable Y in your model," find it in Section 4, and cite the reasoning given.
 
@@ -8,7 +8,7 @@
 
 ## 1. Decision Framework Applied
 
-Every inclusion/exclusion/re-anchoring decision below was filtered through the five questions your guide's suggestion ([02-guide-suggestion.md](../../chapter-1/version-0/03-guide-suggestion.md)) and the atomic-concepts breakdown ([03-atomic-concepts.md](../../chapter-1/version-0/04-atomic-concepts.md), section 11) require:
+Every inclusion/exclusion/re-anchoring decision below was filtered through the five questions your guide's suggestion ([02-guide-suggestion.md](../../../chapter-1/version-0/scratchpad/03-guide-suggestion.md)) and the atomic-concepts breakdown ([03-atomic-concepts.md](../../../chapter-1/version-0/scratchpad/04-atomic-concepts.md), section 11) require:
 
 1. Is there a strong theoretical reason this variable/item matters?
 2. Have previous researchers studied it (and is that study verifiable, not just cited secondhand)?
@@ -22,7 +22,7 @@ Where an item or variable fails (4) — no established questionnaire found — t
 
 ## 2. Item-Level Decision Log: Hybrid Learning (HL1–HL15)
 
-Source wording: [02-refined-questionnaire.md](../../chapter-3/questionnaire/version-0/02-refined-questionnaire.md). Matrix source: [03-literature-matrix.md](03-literature-matrix.md), Part 3.
+Source wording: [02-refined-questionnaire.md](../../../chapter-3/questionnaire/version-0/scratchpad/02-refined-questionnaire.md). Matrix source: [03-literature-matrix.md](03-literature-matrix.md), Part 3.
 
 | Item | Current wording (file 02) | Decision | Basis |
 |---|---|---|---|
@@ -95,7 +95,7 @@ State in your methodology chapter: *"No validated multi-item perceived-retention
 
 ## 6. Basis for Excluding Variables From Your Guide's Original List of Seven
 
-Your guide ([02-guide-suggestion.md](../../chapter-1/version-0/03-guide-suggestion.md)) listed seven candidate variables: learner engagement, knowledge retention, learning motivation, learner satisfaction, digital literacy/technology readiness, trainer competence, organizational support. Your current 4-variable draft (files 01/05) includes only knowledge retention explicitly (as a full section) and touches technology readiness only lightly (HL10-12). Here is the basis for each exclusion decision, so you can defend — or revisit — each one:
+Your guide ([02-guide-suggestion.md](../../../chapter-1/version-0/scratchpad/03-guide-suggestion.md)) listed seven candidate variables: learner engagement, knowledge retention, learning motivation, learner satisfaction, digital literacy/technology readiness, trainer competence, organizational support. Your current 4-variable draft (files 01/05) includes only knowledge retention explicitly (as a full section) and touches technology readiness only lightly (HL10-12). Here is the basis for each exclusion decision, so you can defend — or revisit — each one:
 
 | Candidate variable | Current status | Basis for decision |
 |---|---|---|

@@ -19,10 +19,10 @@ Existing literature confirms that hybrid or blended learning is generally associ
 
 This study contributes to the literature in the following ways, each corresponding to a gap identified above:
 
-1. **Testing engagement as an explanatory mechanism, not a delivery-mode comparison.** The study models Hybrid Learning and Trainer Competence as antecedents of Learner Engagement, which is hypothesized to mediate the relationship to Training Effectiveness — a mediation design rather than a simple comparison of training formats, consistent with the approach taken by Saroj, Sahney and Sekar (2026), the study's base paper.
+1. **Testing engagement as an explanatory mechanism, not a delivery-mode comparison.** The study models Hybrid Learning and Trainer Competence as antecedents of Learner Engagement, which is hypothesized to mediate the relationship to Training Effectiveness — a mediation design rather than a simple comparison of training formats, consistent with the approach taken by Saroj, Sahney and Sekar (2026), the closest match to this study's own mechanism. The study's base paper — the one paper whose model and published measurement instrument this study is most directly built on — is Ye, Kuang and Liu (2022); Saroj, Sahney and Sekar's model is the closer mechanism match but does not publish its own items, so is used as the primary supporting citation for the engagement-mediation logic instead.
 2. **Sampling employees rather than students**, directly addressing the population gap identified in the literature.
 3. **Studying Union Bank of India specifically** — a context with near-zero prior verified research directly addressing this combination of organization and topic.
-4. **Testing a full sequential model** — Hybrid Learning and Trainer Competence through Learner Engagement, Training Effectiveness, Knowledge Retention, and Job Performance — extending further along the outcome chain than the base paper's own model (which concludes at employee agility) and further than prior research within this department.
+4. **Testing a full sequential model** — Hybrid Learning and Trainer Competence through Learner Engagement, Training Effectiveness, Knowledge Retention, and Job Performance — extending further along the outcome chain than either Saroj, Sahney and Sekar's (2026) model (which concludes at employee agility) or the study's base paper (which concludes at use of blended learning), and further than prior research within this department.
 
 ## Item for Discussion: Measurement of Knowledge Retention
 

@@ -18,7 +18,7 @@ Source: [02-initial-analysis.md](02-initial-analysis.md), [03-guide-suggestion.m
 
 > "In banking, employees increasingly encounter a combination of classroom programmes, virtual instructor-led sessions, e-learning modules, learning management systems, webinars, assessments and workplace training."
 
-Also cites Jain and Jain on Indian-bank training-effectiveness dimensions (participation, access, relevance, benefits, satisfaction) — already in our matrix, [chapter-2/version-0/03-literature-matrix.md](../../chapter-2/version-0/03-literature-matrix.md) row 13.
+Also cites Jain and Jain on Indian-bank training-effectiveness dimensions (participation, access, relevance, benefits, satisfaction) — already in our matrix, [chapter-2/version-0/03-literature-matrix.md](../../../chapter-2/version-0/scratchpad/03-literature-matrix.md) row 13.
 
 ## 1.2 Key Concepts and Definitions
 
@@ -26,11 +26,11 @@ Source: [04-atomic-concepts.md](04-atomic-concepts.md), [05-key-terminology-glos
 
 ## 1.3 Need, Scope & Significance of the Study
 
-Source: [chapter-2/version-0/06-gap.md](../../chapter-2/version-0/06-gap.md) — your research-gap argument doubles as your significance argument (why this study needs to exist). The same file also serves Chapter 2.4 ("Gaps in the study") — one source, two chapters draw from it; don't duplicate the content, write each chapter's version in that chapter's own voice.
+Source: [chapter-2/version-0/06-gap.md](../../../chapter-2/version-0/scratchpad/06-gap.md) — your research-gap argument doubles as your significance argument (why this study needs to exist). The same file also serves Chapter 2.4 ("Gaps in the study") — one source, two chapters draw from it; don't duplicate the content, write each chapter's version in that chapter's own voice.
 
 ## 1.4 Statement of the Problem
 
-Source: [PLAN.md](../../PLAN.md) "Core Research Problem" line. Written as one paragraph — needs expanding to chapter length with supporting context.
+Source: [PLAN.md](../../../PLAN.md) "Core Research Problem" line. Written as one paragraph — needs expanding to chapter length with supporting context.
 
 **Additional seed material from the guide synopsis**, section 3 (Statement of the Problem):
 
@@ -46,8 +46,8 @@ Note: the synopsis frames its problem statement around its own (not-adopted) 8-v
 
 ## 1.6 Chapterization
 
-Trivial once the other chapters exist — one summary paragraph describing what each chapter covers. [CHAPTER-MAP.md](../../CHAPTER-MAP.md) is effectively the working notes for this; condense it to a paragraph when writing the actual chapter.
+Trivial once the other chapters exist — one summary paragraph describing what each chapter covers. [CHAPTER-MAP.md](../../../CHAPTER-MAP.md) is effectively the working notes for this; condense it to a paragraph when writing the actual chapter.
 
 ---
 
-**Cross-references:** `02-05-*.md` (this folder, former "chapter-0" scoping work) · [06-industry-company-profile.md](06-industry-company-profile.md) (this folder) · [chapter-2/version-0/06-gap.md](../../chapter-2/version-0/06-gap.md) · [chapter-2/version-0/03-literature-matrix.md](../../chapter-2/version-0/03-literature-matrix.md) · `00-guide-synopsis-source-only.pdf` (this folder) · [CHAPTER-MAP.md](../../CHAPTER-MAP.md) · [PLAN.md](../../PLAN.md) · [SEQUENCE.md](../../SEQUENCE.md)
+**Cross-references:** `02-05-*.md` (this folder, former "chapter-0" scoping work) · [06-industry-company-profile.md](06-industry-company-profile.md) (this folder) · [chapter-2/version-0/06-gap.md](../../../chapter-2/version-0/scratchpad/06-gap.md) · [chapter-2/version-0/03-literature-matrix.md](../../../chapter-2/version-0/scratchpad/03-literature-matrix.md) · `00-guide-synopsis-source-only.pdf` (this folder) · [CHAPTER-MAP.md](../../../CHAPTER-MAP.md) · [PLAN.md](../../../PLAN.md) · [SEQUENCE.md](../../../SEQUENCE.md)

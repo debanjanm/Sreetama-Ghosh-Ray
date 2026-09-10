@@ -15,7 +15,9 @@ Chapter 3 — Research Methodology: Plan of Action
 | 3.9 | Pilot Study, Reliability and Validity | ~3 | Definitions now; real Cronbach's α tables once pilot data exists — this section grows once numbers are real | **Drafted (definitions only)** |
 | | **Total** | **~11** | | |
 
-**Current draft:** [01-chapter3-draft-academic-prose.md](01-chapter3-draft-academic-prose.md) — all 9 sections present, submission-voice, audited for AI-generated tells ([SEQUENCE.md](../SEQUENCE.md) entry 27). 3.6 is an explicit placeholder — do not invent branch/zone details.
+**Current draft:** [01-chapter3-draft-academic-prose.md](01-chapter3-draft-academic-prose.md) — all 9 sections present, submission-voice, audited for AI-generated tells ([SEQUENCE.md](../SEQUENCE.md) entry 27), and 8 of 9 individually expanded/corrected ([SEQUENCE.md](../SEQUENCE.md) entries 44-51). 3.6 is an explicit placeholder — do not invent branch/zone details.
+
+**Chapter total (8 of 9 sections, 3.6 still blocked): ~2,264 words, ~20.4pp against the naive chapter-3 word/page calibration — well over the ~11pp budget.** Read this with caution, not alarm: chapter-3's 111-words/page calibration was computed from reference theses whose methodology chapters are table-heavy (hypothesis tables, sampling stats), so applying it to sections that turned out mostly prose in this draft likely overstates real physical pages once actually formatted (Times New Roman 12pt, 1.5 spacing). Real page count should be checked once the draft is formatted for print, not assumed from this estimate. If it's still meaningfully over once formatted, the two largest sections (3.2's tables, 3.9's reliability/validity discussion) are the ones with the most trimmable secondary detail — flag if a trim pass is wanted before the other chapters are finished.
 
 **Appendix (not counted in the 11-page body budget):** [questionnaire/version-2/02-appendix-questionnaire-clean.md](questionnaire/version-2/02-appendix-questionnaire-clean.md) — 30-item instrument, respondent-facing.
 
