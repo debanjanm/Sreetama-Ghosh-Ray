@@ -1,108 +1,106 @@
-# In-class Assignment 1: Performance Pay, Development of Pay Structure and Salary Structure
+# In-class Assignment 1: Performance Pay, Pay Structure and Salary Structure
 
-**Organisations:** Tata Consultancy Services (TCS), ICICI Bank and Deloitte India
-**Sources reviewed:** 11 September 2026
+**Organisations chosen:** Tata Consultancy Services (TCS), ICICI Bank and Deloitte India
+**Sources checked:** 14 September 2026
 
 ## Introduction
 
-A salary figure alone tells us little about how an organisation rewards its employees. Two offers with the same cost to company (CTC) can provide different monthly incomes if one includes a larger conditional bonus or more employer-funded benefits. This assignment examines three aspects of compensation: performance pay, the development of pay structures, and salary components.
+Salary includes fixed pay, allowances, bonus, incentives, insurance, provident fund and other benefits. Therefore, two jobs with the same CTC can still give different monthly income. One may have more fixed salary, while another may have a bigger performance-based bonus.
 
-Performance pay concerns rewards for results. A pay structure establishes how jobs are grouped and paid relative to one another. A salary structure describes the components of an employee’s package. The discussion uses public disclosures and dated reporting. Where internal pay bands or bonus rules could not be verified, that limitation is stated. Suggested design principles are presented as analysis rather than company policy.
+This assignment studies performance pay, pay structure and salary structure. Performance pay is extra pay linked with results. Pay structure is the way a company sets salary levels for different jobs. Salary structure is the breakup shown in an offer letter or salary slip. I have used public reports and news reports. Exact salary bands and bonus percentages are usually not public, so I have not guessed them.
 
-## 1. Tata Consultancy Services
+## 1. Tata Consultancy Services (TCS)
 
 ### Performance pay
 
-TCS links variable pay to individual performance, organisational performance and individual utilisation, according to its FY2025–26 annual report. An award can therefore depend on business conditions and deployment as well as the employee’s own work. [TCS annual report, Board’s Report, p. 73](https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/ar/annual-report-2025-2026.pdf).
+TCS says that variable pay is connected with individual performance, company performance and individual utilisation. Utilisation means how much time an employee works on a billable client project. So, variable pay can depend on the employee’s work, business conditions and project allocation. [TCS Annual Report 2025–26](https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/ar/annual-report-2025-2026.pdf).
 
-Payout announcements need to be read in their original period. In July 2025, People Matters reported that more than 70% of employees would receive full variable pay for April–June 2025. Eligible employees up to C2 were covered by the full-payout announcement; awards for C3 and above could vary with business performance. This establishes a quarter-specific decision, rather than a permanent guarantee. [People Matters, 16 July 2025](https://www.peoplematters.in/news/compensation-benefits/tcs-delivers-100percent-variable-pay-to-over-70percent-of-workforce-in-q1fy26-42114).
+In July 2025, People Matters reported that more than 70% of TCS employees would get 100% variable pay for the first quarter of FY2026. Employees up to C2 grade were included in the full payout. For C3 and above, the payout could change with business-unit performance. This gave junior employees more certainty while linking senior pay more closely with business results. [People Matters, 16 July 2025](https://www.peoplematters.in/news/compensation-benefits/tcs-delivers-100percent-variable-pay-to-over-70percent-of-workforce-in-q1fy26-42114).
 
-More recent reporting describes a change. In May 2026, People Matters, citing Mint, reported that some previously quarterly pay was moving to an annual bonus, alongside monthly performance pay linked to attendance and deployment. It relayed a company statement connecting salary restructuring to labour-code compliance and standardisation. This does not establish an identical arrangement for every employee. [People Matters, 25 May 2026](https://www.peoplematters.in/news/compensation-benefits/tcs-moves-part-of-employee-variable-pay-from-quarterly-to-annual-payouts-report-49899).
+In May 2026, People Matters, based on a Mint report, said that some variable pay was moving from quarterly to annual payment. It also mentioned monthly performance pay linked with attendance and deployment. TCS reportedly linked the change with labour-code compliance and a more uniform salary structure. This is a reported change, not a rule proved for every employee. [People Matters, 25 May 2026](https://www.peoplematters.in/news/compensation-benefits/tcs-moves-part-of-employee-variable-pay-from-quarterly-to-annual-payouts-report-49899).
 
-### Development of the pay structure
+### How the pay structure is developed
 
-TCS’s annual report distinguishes annual increments from promotions and other compensation revisions, and relates remuneration changes to market trends. It supports a broader explanation of pay development than promotion alone, but does not provide a complete schedule of employee salary bands. [TCS annual report, p. 73](https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/ar/annual-report-2025-2026.pdf).
+TCS gives annual increments, promotions and other salary revisions. Its annual report connects pay changes with market trends. So, salary is likely to depend on skills, role and business conditions, not only seniority. TCS does not publish complete salary ranges for every grade. Exact figures should not be shown without proof.
 
-From a pay-design perspective, roles should first be compared by responsibility, skill and complexity. Salary ranges can then be checked against equivalent jobs in the market. For an IT services employer, it is useful to distinguish the value of a role from current deployment: temporary non-deployment does not necessarily mean that an employee’s skills have lost value. This is an analytical consideration, not a description of TCS’s unpublished job-evaluation procedure.
+Usually, IT jobs are compared by skill, experience, responsibility and work difficulty. A software engineer, team leader and delivery manager should have different salary ranges. Companies also compare these jobs with similar market roles to retain employees and hire new talent. This is a general pay method, not TCS’s private process.
 
 ### Salary structure
 
-The following is a guide to reading a compensation document, not a reproduced TCS payslip or a verified allowance schedule.
+The following table explains what an employee should check in a TCS offer letter or compensation document.
 
-| Element to examine | What it tells the employee |
+| Part of salary | Why it is important |
 |---|---|
-| Fixed salary and allowance breakdown | The recurring contractual amount before deductions |
-| Variable pay and its conditions | How much of the stated package depends on performance or other criteria |
-| Payout schedule | Whether a component is received monthly, quarterly or annually |
-| Employer contributions and benefits | Which parts of the package do not arrive as monthly cash |
+| Fixed salary and allowances | This is the regular amount paid before deductions. |
+| Variable pay | This shows how much pay depends on performance or company conditions. |
+| Payment timing | It tells whether the incentive is paid monthly, quarterly or yearly. |
+| Benefits and employer contribution | These may be part of CTC but may not come as monthly cash. |
 
-Payment timing matters alongside the annual amount. Moving a payment to year-end can affect monthly budgeting even if the stated annual opportunity is unchanged.
+The time of payment matters. If a quarterly incentive is moved to an annual payment, an employee may get less money during each month even if the total yearly amount remains similar. This can affect personal expenses and savings plans.
 
 ## 2. ICICI Bank
 
 ### Performance pay
 
-ICICI Bank’s FY2025–26 AGM notice describes executive compensation as fixed pay plus variable cash or share-linked awards. Assessment includes financial results, risk management, compliance and stakeholder relationships. Whole-time director remuneration requires RBI approval. The notice also confirms provisions to reduce or recover variable awards under specified circumstances. These executive disclosures should not be treated as the bonus formula for every employee. [ICICI Bank FY2025–26 AGM notice, p. 25](https://www.sec.gov/Archives/edgar/data/1103838/000095010326011004/dp250272_6k.htm).
+ICICI Bank has a detailed public compensation policy because banking is closely regulated. Its FY2025–26 AGM notice says that executive pay includes fixed and variable pay. Variable pay can be cash, share-linked instruments or both. For whole-time directors, the bank considers financial results, risk management, compliance and stakeholder relationships. Their pay also needs RBI approval. [ICICI Bank AGM Notice, FY2025–26](https://www.sec.gov/Archives/edgar/data/1103838/000095010326011004/dp250272_6k.htm).
 
-The bank’s policy keeps control-function rewards independent of the business areas those employees oversee. It also sets deferral rules for designated senior and risk-taking roles. [ICICI Bank compensation policy, §§2.5–2.6 and 2.25](https://www.sec.gov/Archives/edgar/data/1103838/000095010326010820/dp249803_ex9701.htm).
+Risk is very important in a bank. A loan can increase business today but become a loss later if it is not repaid. Therefore, bonus should not depend only on short-term sales or loan growth. For some senior and material risk-taking roles, the bank can delay variable pay. It also has malus and clawback provisions. Malus can reduce unpaid variable pay, while clawback can recover payment already made if policy conditions are met.
 
-The reasoning is practical: a loan can generate income today and cause losses later. A bonus system based only on immediate growth can reward a decision before its full consequences are known.
+The policy says that risk, compliance and internal-audit employees should not be rewarded on the results of the business teams they check. This helps them report problems honestly. [ICICI Bank Compensation Policy](https://www.sec.gov/Archives/edgar/data/1103838/000095010326010820/dp249803_ex9701.htm).
 
-### Development of the pay structure
+### How the pay structure is developed
 
-The policy combines external market pay with internal equity. Budgeting considers staffing, business plans, revenue, costs and capital adequacy, with annual policy review. These disclosed factors provide a firmer account of pay development than an assumed clerical-to-management salary ladder. [ICICI Bank compensation policy, §§1.9 and 2.1–2.2](https://www.sec.gov/Archives/edgar/data/1103838/000095010326010820/dp249803_ex9701.htm).
+ICICI Bank’s policy balances market salary with internal fairness. It also considers business plans, staff need, revenue, cost-to-income ratio and capital adequacy. Capital adequacy means having enough capital to manage risk safely. The policy is reviewed every year. So, salary decisions are based on market pay, financial safety and RBI rules.
+
+Similar jobs inside the bank should be paid fairly, but the bank must also offer enough to attract and retain employees. At higher levels, more pay may depend on long-term results and risk because senior decisions can affect the bank for years.
 
 ### Salary structure
 
-| Category | Disclosed components |
+| Salary category | Examples given in the policy |
 |---|---|
-| Fixed pay | Basic pay, allowances, perquisites and retirement contributions |
-| Variable pay | Cash and/or share-linked instruments |
-| Share-linked schemes | Employee stock options and stock units, subject to eligibility and grant terms |
+| Fixed pay | Basic pay, allowances, benefits and retirement contribution |
+| Variable pay | Cash bonus, share-linked instruments, or both |
+| Long-term share-based pay | Employee stock options and employee stock units, based on eligibility |
 
-The stock-unit scheme includes eligible employees outside specified senior categories. Share-linked compensation is therefore not exclusive to senior management. The policy does not supply salary ranges for every grade. [ICICI Bank compensation policy, §§2.3–2.5 and 2.14](https://www.sec.gov/Archives/edgar/data/1103838/000095010326010820/dp249803_ex9701.htm).
+Share-linked pay is not only for top management. Employee stock units can be given to eligible employees outside some senior categories. The policy does not give salary ranges for every grade, so unofficial salary websites should not be treated as proof of internal pay bands.
 
 ## 3. Deloitte India
 
 ### Performance pay
 
-Deloitte’s benefits page mentions performance rewards alongside insurance, leave and retirement contributions, while stating that benefits vary by geography. It does not publish a Deloitte India bonus percentage or a formula by grade. This supports a broad account of rewards, but not a claim that every consultant receives a particular annual bonus. [Deloitte benefits and rewards](https://www.deloitte.com/in/en/careers/deloitte-life/benefits.html).
+Deloitte works in audit, consulting, tax, risk and advisory. Its public benefits page mentions performance rewards, insurance, leave and retirement benefits, and says benefits can vary by location. It does not publish one bonus percentage for all Deloitte India employees or a bonus formula for each level. [Deloitte Benefits and Rewards](https://www.deloitte.com/in/en/careers/deloitte-life/benefits.html).
 
-The employer must also be identified carefully. Deloitte describes its US–India Offices (USI) as part of the US organisation. An India location alone does not establish that a salary entry represents Deloitte India rather than USI. [About Deloitte USI](https://www2.deloitte.com/ui/en/legal/about-deloitte.html).
+Many salary websites show estimates. They can give a general idea but are not official company bands. They may use different roles, cities, experience levels and company entities. So, it is not correct to say that every consultant or manager gets the same bonus, equity or profit share.
 
-### Development of the pay structure
+The employing organisation should be checked. Deloitte US–India Offices (USI) is part of Deloitte US. Deloitte India and USI may have offices in India, but they are not automatically the same employer for salary comparison. [About Deloitte USI](https://www2.deloitte.com/ui/en/legal/about-deloitte.html).
 
-The sources reviewed do not establish Deloitte India’s complete internal pay-band methodology. An appropriate analytical approach would compare jobs within the same service line and employing entity, then assess differences in technical expertise, client responsibility and team leadership. External comparisons would need to match these responsibilities, location and experience before informing salary ranges.
+### How the pay structure is developed
 
-For example, a role delivering assigned project work and one accountable for several client engagements should be evaluated differently. However, promotion to manager does not itself establish ownership or entitlement to partnership profits. No verified policy was found supporting automatic equity or profit-sharing from manager level.
+Public sources do not give Deloitte India’s full pay-band method. A practical structure would compare jobs in the same service line, city and company entity. It should consider knowledge, experience, client work, team handling and responsibility. A person managing many client projects should be paid differently from a person doing assigned tasks.
+
+Promotion to manager does not automatically mean equity or profit sharing. These benefits depend on the contract, firm policy and role. No public Deloitte India policy was found saying that all managers receive them.
 
 ### Salary structure
 
-A document-based checklist is more defensible here than an unsupported salary table.
-
-| Item to confirm in the offer or compensation letter | Why it matters |
+| What to check in an offer letter | Why it should be checked |
 |---|---|
-| Employing entity, service line and role | Establishes whether the comparison concerns equivalent employment |
-| Fixed annual salary | Provides the baseline for comparing offers |
-| Bonus eligibility, target and conditions | Separates potential rewards from guaranteed pay |
-| Benefits and employer contributions | Identifies compensation beyond cash salary |
-| Any long-term award | Requires explicit grant terms; a job title alone is insufficient |
+| Company entity, service line and role | This helps compare the correct jobs. |
+| Fixed annual salary | This is the main guaranteed part of the package. |
+| Bonus details | It should show eligibility, target and conditions. |
+| Benefits | Insurance, leave and other benefits can add value. |
+| Long-term award | Any equity or similar award should be written clearly. |
 
-Public salary estimates can help frame questions, but do not establish official bands. Exact consultant and manager figures are omitted because comparable, verified Deloitte India salary bands were not available in the sources reviewed.
+Students should compare offer letters, official job descriptions and stated benefits instead of using unverified salary numbers.
 
-## 4. Comparison and assessment
+## 4. Comparison and conclusion
 
-The evidence is uneven across the organisations. TCS’s disclosures and dated announcements allow a discussion of performance links and payment timing. ICICI Bank’s policy provides more detail on compensation design and governance. Deloitte’s public material supports a narrower account, leaving internal bands and bonus formulas unverified.
-
-The comparison raises four questions for assessing a pay structure:
+The three companies use different compensation systems. TCS uses fixed salary plus variable pay linked with performance, business results and utilisation. ICICI Bank gives more importance to risk because banking decisions can affect customers and the financial system. Deloitte gives only a broad public view of rewards, so exact internal salary levels cannot be confirmed.
 
 | Question | Why it matters |
 |---|---|
-| Can employees influence the measures used to reward them? | Awards may feel unfair when business or allocation decisions dominate individual contribution |
-| Does assessment capture quality as well as quantity? | Short-term output may overlook errors, client outcomes or later losses |
-| Are conditions and payment dates clear? | Employees need to distinguish guaranteed income from an uncertain future award |
-| Are the jobs and compensation figures comparable? | Fixed salary, total CTC and reported total compensation measure different things |
+| Can employees understand how the bonus is calculated? | Clear rules reduce confusion and complaints. |
+| Can the employee influence the result? | Pay should not depend only on factors outside the employee’s control. |
+| Are quality and risk checked? | High sales or output should not be rewarded if it creates future problems. |
+| Is the payment date clear? | Employees need to plan their monthly expenses. |
 
-A sound pay structure needs a defensible basis for differences between jobs and clear rules for rewarding performance. These rules should be examined before comparing salary amounts. Where internal policies are not publicly available, the gap should remain visible rather than be filled with assumed practices.
-
-Communication is part of the design. Employees should be able to see which part of their compensation is fixed, which part is conditional, how performance will be assessed, and its payment date. Managers need enough guidance to apply ratings consistently across teams. Without this clarity, a performance-pay plan can create disputes even when its financial formula is technically sound. Periodic review is equally important. The organisation should test whether the plan still supports its business goals, remains affordable, and avoids encouraging behaviour that harms customers, colleagues, quality or compliance. In this sense, good compensation is ultimately not merely a payroll calculation; it is a continuing management responsibility.
+In my view, a good pay structure should be fair, simple and suitable for the business. Fixed pay gives security. Variable pay can motivate better performance, but conditions must be clear. A company should explain what is guaranteed, what is performance-based and when payment will be made. It should review the system regularly. When details are not public, students should avoid assumptions and use reliable sources. This makes the assignment more honest, clear and useful for students and teachers.
