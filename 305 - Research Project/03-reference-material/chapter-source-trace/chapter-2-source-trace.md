@@ -1,0 +1,14 @@
+Chapter 2 — Review of Literature: Where Each Section's Information Comes From
+
+Companion to [plan-of-action.md](../../01-chapter-planning/chapter-2-plan-of-action.md).
+
+| Section | Source of information |
+|---|---|
+| 2.1 Overview of Relevant Review | [version-0/01-initial-literature-search.md](../../01-current-thesis/chapter-2/scratchpad/01-initial-literature-search.md), [version-0/02-deep-research-report.md](../../01-current-thesis/chapter-2/scratchpad/02-deep-research-report.md), and [version-0/03-literature-matrix.md](../../01-current-thesis/chapter-2/scratchpad/03-literature-matrix.md) provide the supporting literature. Uddin et al. (2026), the corporate blended-learning base paper, is fully documented in [version-1/02-base-paper-selection.md](../../02-guide-review/base-paper-selection.md). The article’s model is extended in the chapter rather than copied.
+| 2.2 Theoretical Framework and Research Review | [version-0/03-literature-matrix.md](../../01-current-thesis/chapter-2/scratchpad/03-literature-matrix.md) Part 2 provides the six theory pillars: Kirkpatrick and Holton; engagement theory; technology acceptance; self-determination; blended-learning design; and training transfer. [version-1/02-base-paper-selection.md](../../02-guide-review/base-paper-selection.md) records why Uddin et al. (2026) is the conceptual base paper and how the present model extends it. |
+| 2.3 Case Study | **No source yet — meaning of this required subsection is undefined in the Guidelines docx, needs supervisor clarification before any source can be identified** |
+| 2.4 Gaps in the Study | [version-0/06-gap.md](../../01-current-thesis/chapter-2/scratchpad/06-gap.md) — the 4-gap analysis, each gap backed by a specific citation (Ashraf et al. 2021; Bin Mubayrik 2018; Jain & Jain 2015 + the India-banking papers; Saroj, Sahney and Sekar 2026; Wakekar et al. 2026; Lee 2010) — deepened per gap with the specific hypothesis (H1/H1b-H4, H5a-c) or sample decision (~80 employees, Union Bank of India) that responds to it, cross-referenced against [chapter-3/objectives-and-hypotheses/version-1/01-research-objectives-and-hypotheses.md](../../01-current-thesis/chapter-3/scratchpad/01-research-objectives-and-hypotheses.md) to get the hypothesis numbers right (an earlier draft of this section wrote "H1 through H7," which doesn't match the actual locked numbering — corrected before publishing) |
+
+**Library access for retrieving full texts:** [version-0/10-library-access-checklist.md](../../01-current-thesis/chapter-2/scratchpad/10-library-access-checklist.md) — maps every previously-"unverified" citation in the matrix to which MSSW library e-resource (NLIST/Proquest/SAGE/EBSCO) covers it.
+
+**Full citation list:** [version-0/03-literature-matrix.md](../../01-current-thesis/chapter-2/scratchpad/03-literature-matrix.md) — 36 reviewed sources + 13 foundational theoretical papers.
