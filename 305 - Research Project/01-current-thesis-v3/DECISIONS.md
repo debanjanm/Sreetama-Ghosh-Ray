@@ -88,6 +88,10 @@ Supporting measurement and theory sources are used for item development, includi
 
 Union Vidya is included only as an example of an authorised digital platform that may have been used in the respondent’s selected programme. The questionnaire does not assume that all Bank programmes use identical systems or that all employees have the same access.
 
+### Decision on Union Vidya
+
+Union Bank’s 2023–24 and 2024–25 annual reports identify Union Vidya as the Bank’s LMS and document digital resources, e-learning, virtual training, staggered programmes, role-based training, and the Training Management System. This information is used to establish the local learning context. It does not create a fifth construct or turn the study into an evaluation of Union Vidya’s technology quality. The four constructs, three hypotheses, and 30-question instrument therefore remain unchanged. The source record is available in [Union Vidya LMS Context](../03-reference-material/review-articles/hybrid-learning/union-vidya-lms-context.md).
+
 ## 6. Final Method and Scope Decisions
 
 Version 3 is a quantitative, descriptive, correlational, cross-sectional survey of eligible Union Bank of India employees. Each respondent answers about one programme attended during the previous 12 months that combined digital and face-to-face learning.
