@@ -129,7 +129,7 @@ Before the main survey, the questionnaire is piloted with approximately 20 eligi
 
 Cronbach’s alpha is calculated separately for the four item sets. A value of .70 or above is treated as an initial indication of acceptable internal consistency. The pilot results are considered together with employee comments and item-total statistics. An item may be revised if it is unclear, repetitive, unrelated to employees’ actual training experience, or inconsistent with its intended construct. All wording changes are finalised before main data collection and documented in the dissertation.
 
-Content validity is supported by the questionnaire evidence map. Hybrid Learning items are based on blended-learning integration and workplace access literature. Trainer Competence and Learner Engagement items are based on workplace blended-learning and engagement literature. Training Effectiveness items are based on corporate training evaluation and transfer literature. The academic guide and suitable reviewers should examine whether the items adequately represent the four stated constructs.
+Content validity is supported by the questionnaire evidence map. Hybrid Learning items are based on blended-learning integration and workplace access literature. Trainer Competence and Learner Engagement items are based on workplace blended-learning and engagement literature. Training Effectiveness items are based on corporate training evaluation and transfer literature, including Bahl, Kiran and Sharma’s (2024) banking evaluation context. Bahl does not supply the present item set or model. The academic guide and suitable reviewers should examine whether the items adequately represent the four stated constructs.
 
 Face validity is checked during the pilot by asking employees whether the statements are understandable and relevant to their selected programme. The pilot does not create a claim that the instrument is a fully validated bank-specific scale. It provides a practical check that the literature-informed wording is suitable for the selected workplace setting.
 
@@ -155,7 +155,7 @@ Kim, S. (2022). Innovating workplace learning: Training methodology analysis bas
 
 Kirkpatrick, D. L. (1994). *Evaluating training programs: The four levels*. Berrett-Koehler.
 
-Saroj, S., Sahney, S., & Sekar, S. (2025). Antecedents and consequences of learners’ engagement: Examining moderating role of supervisor support in workplace blended learning. *VINE Journal of Information and Knowledge Management Systems*. https://doi.org/10.1108/VJIKMS-12-2024-0454
+Bahl, K., Kiran, R., & Sharma, A. (2024). Evaluating the effectiveness of training of managerial and non-managerial bank employees using Kirkpatrick’s model for evaluation of training. *Humanities and Social Sciences Communications, 11*, 508. https://doi.org/10.1057/s41599-024-02973-y
 
 Sosnova, M., Hlianenko, K., Sosnova, V., Tsyna, V., & Tsyna, A. (2025). Enhancing the effectiveness of learning through hybrid education methods. *Revista Eduweb, 19*(2), 95–106. https://doi.org/10.46502/issn.1856-7576/2025.19.02.7
 

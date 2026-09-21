@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Version 3 does not force one paper to supply every part of the study. The three selected papers have different and complementary roles. This is more accurate than presenting one study as the source of a model, a corporate context, and a respondent-ready questionnaire when it does not provide all three.
+Version 4 does not force one paper to supply every part of the study. The three selected papers have different and complementary roles. This is more accurate than presenting one study as the source of a model, a corporate context, and a respondent-ready questionnaire when it does not provide all three.
 
 ## Selected Papers and Roles
 

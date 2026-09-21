@@ -66,9 +66,11 @@ Version 3 therefore uses three base papers. Their roles are deliberately differe
 | --- | --- |
 | **Sosnova et al. (2025), _Enhancing the effectiveness of learning through hybrid education methods_** | This was suggested by the guide. It provides the conceptual starting point that hybrid learning can be examined in relation to learning effectiveness. Its student population means it is used as a conceptual anchor, not as a corporate or bank questionnaire source. |
 | **Kim (2022), _Innovating workplace learning: Training methodology analysis based on content, instructional design, programmed learning, and recommendation framework_** | This open-access study provides direct corporate evidence by examining traditional, fully digital, and hybrid training among automotive sales trainees through a training-effectiveness framework. It establishes why hybrid training should be evaluated in a workplace setting rather than assumed to be effective. |
-| **Saroj, Sahney and Sekar (2025), _Antecedents and consequences of learners’ engagement: Examining moderating role of supervisor support in workplace blended learning_** | This employee-survey study provides the workplace mechanism for keeping Trainer Competence and Learner Engagement as separate constructs. It supports examining how instructor competence and blended-learning experience relate to learner engagement. It is not used as a direct Training Effectiveness measure or a respondent-ready questionnaire. |
+| **Bahl, Kiran and Sharma (2024), _Evaluating the effectiveness of training of managerial and non-managerial bank employees using Kirkpatrick’s model for evaluation of training_** | This open-access study provides Indian banking evidence for employee training evaluation. It uses responses from 402 employees across public, private, and foreign-sector banks and applies Kirkpatrick’s Reaction, Learning, Behaviour, and Results framework. It anchors the banking Training Effectiveness context; it is not treated as a Hybrid Learning, Trainer Competence, or Learner Engagement study. |
 
 The three papers are complementary. They do not reproduce the Version 3 model word for word, and the study does not claim that they provide a single validated bank-specific instrument. The detailed record is available in [Base-Paper Rationale](chapter-2/base-paper-rationale.md).
+
+An earlier Version 3 draft identified Saroj, Sahney and Sekar as a workplace mechanism paper. It was replaced because its full text was not openly available for direct checking or item development. Bahl et al. was selected instead because it is open access, directly concerns Training Effectiveness, and has an Indian banking population. Trainer Competence and Learner Engagement remain separate, theory- and literature-informed constructs; Bahl is not cited as evidence that they are related.
 
 ## 5. Questionnaire Decision
 
@@ -110,6 +112,6 @@ The study will report associations among the selected employees. It will not cla
 
 Kim, S. (2022). Innovating workplace learning: Training methodology analysis based on content, instructional design, programmed learning, and recommendation framework. *Frontiers in Psychology, 13*, 870574. https://doi.org/10.3389/fpsyg.2022.870574
 
-Saroj, S., Sahney, S., & Sekar, S. (2025). Antecedents and consequences of learners’ engagement: Examining moderating role of supervisor support in workplace blended learning. *VINE Journal of Information and Knowledge Management Systems*. https://doi.org/10.1108/VJIKMS-12-2024-0454
+Bahl, K., Kiran, R., & Sharma, A. (2024). Evaluating the effectiveness of training of managerial and non-managerial bank employees using Kirkpatrick’s model for evaluation of training. *Humanities and Social Sciences Communications, 11*, 508. https://doi.org/10.1057/s41599-024-02973-y
 
 Sosnova, M., Hlianenko, K., Sosnova, V., Tsyna, V., & Tsyna, A. (2025). Enhancing the effectiveness of learning through hybrid education methods. *Revista Eduweb, 19*(2), 95–106. https://doi.org/10.46502/issn.1856-7576/2025.19.02.7

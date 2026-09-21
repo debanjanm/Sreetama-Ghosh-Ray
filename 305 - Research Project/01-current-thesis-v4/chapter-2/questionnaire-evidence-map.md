@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This map records the literature basis for the Version 3 questionnaire. The instrument is designed for eligible Union Bank of India employees and asks about one recent programme that combined digital and face-to-face learning. It is a literature-informed, context-adapted instrument. It is not represented as a verbatim copy of one published scale.
+This map records the literature basis for the Version 4 questionnaire. The instrument is designed for eligible Union Bank of India employees and asks about one recent programme that combined digital and face-to-face learning. It is a literature-informed, context-adapted instrument. It is not represented as a verbatim copy of one published scale.
 
 The questionnaire measures four constructs:
 
