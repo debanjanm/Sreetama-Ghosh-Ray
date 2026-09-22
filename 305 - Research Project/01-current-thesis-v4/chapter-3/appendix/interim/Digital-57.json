@@ -1,0 +1,43 @@
+{
+  "response_id": "Digital-57",
+  "source": "digital",
+  "source_reference": {
+    "sheet_row": 58,
+    "timestamp": "2026-09-20 21:51:07.642000"
+  },
+  "Q1_eligibility": "No",
+  "flags": [
+    "ineligible_or_blank_Q1"
+  ],
+  "Q2_age_group": "35–44",
+  "Q3_length_of_service": "11–20 years",
+  "Q4_job_level": "Officer",
+  "answers": {
+    "HL1": 2,
+    "HL2": 2,
+    "HL3": 2,
+    "HL4": 2,
+    "HL5": 2,
+    "HL6": 2,
+    "HL7": 2,
+    "TC1": 2,
+    "TC2": 2,
+    "TC3": 2,
+    "TC4": 2,
+    "TC5": 2,
+    "TC6": 2,
+    "LE1": 2,
+    "LE2": 2,
+    "LE3": 2,
+    "LE4": 2,
+    "LE5": 2,
+    "LE6": 2,
+    "TE1": 2,
+    "TE2": 2,
+    "TE3": 2,
+    "TE4": 2,
+    "TE5": 2,
+    "TE6": 2,
+    "TE7": 2
+  }
+}

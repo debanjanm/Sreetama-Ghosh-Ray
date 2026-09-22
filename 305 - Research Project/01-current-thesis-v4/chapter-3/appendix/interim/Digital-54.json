@@ -1,0 +1,43 @@
+{
+  "response_id": "Digital-54",
+  "source": "digital",
+  "source_reference": {
+    "sheet_row": 55,
+    "timestamp": "2026-09-20 21:28:31.299000"
+  },
+  "Q1_eligibility": "No",
+  "flags": [
+    "ineligible_or_blank_Q1"
+  ],
+  "Q2_age_group": "35–44",
+  "Q3_length_of_service": "Below 5 years",
+  "Q4_job_level": "Clerical",
+  "answers": {
+    "HL1": 2,
+    "HL2": 2,
+    "HL3": 5,
+    "HL4": 1,
+    "HL5": 1,
+    "HL6": 1,
+    "HL7": 2,
+    "TC1": 2,
+    "TC2": 2,
+    "TC3": 2,
+    "TC4": 2,
+    "TC5": 2,
+    "TC6": 2,
+    "LE1": 1,
+    "LE2": 2,
+    "LE3": 2,
+    "LE4": 3,
+    "LE5": 3,
+    "LE6": 3,
+    "TE1": 3,
+    "TE2": 3,
+    "TE3": 3,
+    "TE4": 3,
+    "TE5": 3,
+    "TE6": 3,
+    "TE7": 3
+  }
+}

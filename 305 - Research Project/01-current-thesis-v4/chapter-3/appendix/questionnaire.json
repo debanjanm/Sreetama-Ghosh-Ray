@@ -1,0 +1,131 @@
+{
+  "title": "Hybrid Learning and Training Effectiveness at Union Bank of India",
+  "version": "v4",
+  "instructions": {
+    "eligibility": "During the last 12 months, have you attended a training programme that included both digital or online learning and face-to-face learning? If your answer is No, please do not continue with the questionnaire.",
+    "reference_period": "Please answer the statements with reference to one hybrid-training programme attended during the last 12 months.",
+    "confidentiality": "Participation is voluntary and confidential. Do not write your name, employee number, customer details, or any confidential Bank information.",
+    "platform_note": "In Questions 5-11, \"digital learning platform\" means Union Vidya where it was used for your selected programme, or another authorised digital platform used for that programme."
+  },
+  "response_scale": {
+    "applies_to": "questions 5-30",
+    "type": "likert_5",
+    "options": [
+      { "value": 1, "label": "Strongly Disagree" },
+      { "value": 2, "label": "Disagree" },
+      { "value": 3, "label": "Neither Agree nor Disagree" },
+      { "value": 4, "label": "Agree" },
+      { "value": 5, "label": "Strongly Agree" }
+    ]
+  },
+  "constructs": [
+    { "id": "HL", "name": "Hybrid Learning", "questions": [5, 6, 7, 8, 9, 10, 11], "item_count": 7 },
+    { "id": "TC", "name": "Trainer Competence", "questions": [12, 13, 14, 15, 16, 17], "item_count": 6 },
+    { "id": "LE", "name": "Learner Engagement", "questions": [18, 19, 20, 21, 22, 23], "item_count": 6 },
+    { "id": "TE", "name": "Training Effectiveness", "questions": [24, 25, 26, 27, 28, 29, 30], "item_count": 7 }
+  ],
+  "sections": [
+    {
+      "section": "A",
+      "title": "Eligibility and Basic Information",
+      "questions": [
+        {
+          "number": 1,
+          "id": "Q1_eligibility",
+          "text": "During the last 12 months, have you attended a training programme that included both digital or online learning and face-to-face learning?",
+          "type": "single_choice",
+          "required": true,
+          "gate": true,
+          "gate_rule": "If answer is No, respondent does not continue with the questionnaire.",
+          "options": ["Yes", "No"]
+        },
+        {
+          "number": 2,
+          "id": "Q2_age_group",
+          "text": "Age group",
+          "type": "single_choice",
+          "required": true,
+          "profile_only": true,
+          "options": ["Below 25", "25-34", "35-44", "45-54", "55 and above"]
+        },
+        {
+          "number": 3,
+          "id": "Q3_length_of_service",
+          "text": "Length of service in Union Bank of India",
+          "type": "single_choice",
+          "required": true,
+          "profile_only": true,
+          "options": ["Below 5 years", "5-10 years", "11-20 years", "Above 20 years"]
+        },
+        {
+          "number": 4,
+          "id": "Q4_job_level",
+          "text": "Job level",
+          "type": "single_choice",
+          "required": true,
+          "profile_only": true,
+          "options": ["Clerical", "Officer", "Managerial", "Other"]
+        }
+      ]
+    },
+    {
+      "section": "B",
+      "title": "Hybrid Learning",
+      "construct": "HL",
+      "questions": [
+        { "number": 5, "id": "HL1", "text": "The digital and face-to-face parts of the programme were planned as one connected learning experience.", "type": "likert_5" },
+        { "number": 6, "id": "HL2", "text": "The digital activities prepared me for the face-to-face sessions.", "type": "likert_5" },
+        { "number": 7, "id": "HL3", "text": "The face-to-face sessions helped me clarify or apply what I learned through the digital activities.", "type": "likert_5" },
+        { "number": 8, "id": "HL4", "text": "I could access the digital learning platform used for the programme without much difficulty.", "type": "likert_5" },
+        { "number": 9, "id": "HL5", "text": "The digital platform was easy for me to navigate while completing the training.", "type": "likert_5" },
+        { "number": 10, "id": "HL6", "text": "Learning materials on the digital platform were available when I needed them.", "type": "likert_5" },
+        { "number": 11, "id": "HL7", "text": "I could revisit digital modules or learning materials when I needed revision.", "type": "likert_5" }
+      ]
+    },
+    {
+      "section": "C",
+      "title": "Trainer Competence",
+      "construct": "TC",
+      "questions": [
+        { "number": 12, "id": "TC1", "text": "The trainer had good knowledge of the training subject.", "type": "likert_5" },
+        { "number": 13, "id": "TC2", "text": "The trainer explained the training content clearly.", "type": "likert_5" },
+        { "number": 14, "id": "TC3", "text": "The trainer explained how the digital and face-to-face activities were connected.", "type": "likert_5" },
+        { "number": 15, "id": "TC4", "text": "The trainer was able to use the digital tools involved in the programme effectively.", "type": "likert_5" },
+        { "number": 16, "id": "TC5", "text": "The trainer encouraged employees to ask questions and take part in activities.", "type": "likert_5" },
+        { "number": 17, "id": "TC6", "text": "The trainer gave feedback that helped me understand or improve my learning.", "type": "likert_5" }
+      ]
+    },
+    {
+      "section": "D",
+      "title": "Learner Engagement",
+      "construct": "LE",
+      "questions": [
+        { "number": 18, "id": "LE1", "text": "I stayed attentive during the training activities.", "type": "likert_5" },
+        { "number": 19, "id": "LE2", "text": "I made a serious effort to understand the training content.", "type": "likert_5" },
+        { "number": 20, "id": "LE3", "text": "I participated actively in discussions, exercises, or other training activities.", "type": "likert_5" },
+        { "number": 21, "id": "LE4", "text": "I felt involved in the learning process rather than simply completing required activities.", "type": "likert_5" },
+        { "number": 22, "id": "LE5", "text": "I asked questions or sought clarification when I did not understand something.", "type": "likert_5" },
+        { "number": 23, "id": "LE6", "text": "I remained interested in completing the programme.", "type": "likert_5" }
+      ]
+    },
+    {
+      "section": "E",
+      "title": "Training Effectiveness",
+      "construct": "TE",
+      "questions": [
+        { "number": 24, "id": "TE1", "text": "I understood the main knowledge or skills covered in the programme.", "type": "likert_5" },
+        { "number": 25, "id": "TE2", "text": "The training gave me knowledge or skills that are useful in my current role.", "type": "likert_5" },
+        { "number": 26, "id": "TE3", "text": "The content of the programme was relevant to the work I do at the Bank.", "type": "likert_5" },
+        { "number": 27, "id": "TE4", "text": "I feel capable of using the knowledge or skills taught in the programme.", "type": "likert_5" },
+        { "number": 28, "id": "TE5", "text": "I have applied learning from the programme in my day-to-day work.", "type": "likert_5" },
+        { "number": 29, "id": "TE6", "text": "The programme helped me deal with relevant work tasks or problems more effectively.", "type": "likert_5" },
+        { "number": 30, "id": "TE7", "text": "The programme has improved my confidence in carrying out relevant work responsibilities.", "type": "likert_5" }
+      ]
+    }
+  ],
+  "scoring": {
+    "method": "mean_of_completed_items_per_construct",
+    "reverse_coded_items": [],
+    "notes": "Construct score = mean of that construct's Likert responses (Q5-30 only). Q1-4 are eligibility/profile fields, excluded from construct scoring."
+  }
+}

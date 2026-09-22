@@ -1,0 +1,57 @@
+{
+  "response_id": "Manual-40",
+  "source": "manual",
+  "source_reference": {
+    "pdf_pages": [
+      79,
+      80
+    ]
+  },
+  "answers": {
+    "HL1": 5,
+    "HL2": 2,
+    "HL3": 2,
+    "HL4": 3,
+    "HL5": 3,
+    "HL6": 3,
+    "HL7": 3,
+    "TC1": 3,
+    "TC2": 5,
+    "TC3": 3,
+    "TC4": 3,
+    "TC5": 3,
+    "TC6": 3,
+    "LE1": 5,
+    "LE2": 5,
+    "LE3": 5,
+    "LE4": 5,
+    "LE5": 5,
+    "LE6": 5,
+    "TE1": 4,
+    "TE2": 4,
+    "TE3": 4,
+    "TE4": 4,
+    "TE5": 4,
+    "TE6": 4,
+    "TE7": 4
+  },
+  "flags": [
+    "HL1:low_confidence",
+    "HL2:low_confidence",
+    "HL3:low_confidence",
+    "HL4:low_confidence",
+    "HL5:low_confidence",
+    "HL6:low_confidence",
+    "HL7:low_confidence",
+    "TC1:low_confidence",
+    "TC2:low_confidence",
+    "TC3:low_confidence",
+    "Q2_age_group:low_confidence",
+    "Q3_length_of_service:low_confidence",
+    "Q4_job_level:low_confidence"
+  ],
+  "Q1_eligibility": "Yes",
+  "Q2_age_group": "55 and above",
+  "Q3_length_of_service": "11-20 years",
+  "Q4_job_level": "Officer"
+}

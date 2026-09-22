@@ -82,7 +82,7 @@ For Union Bank, the study may provide structured employee feedback on the connec
 
 For trainers and learning-and-development staff, the study recognises that training is not limited to delivering content. Employees may need to understand how a digital module connects with a classroom activity, why a new procedure matters, and where they can obtain clarification after the session. Trainer preparation and programme design can therefore influence whether learning feels relevant and manageable alongside work responsibilities.
 
-For academic research, the study contributes evidence from an underrepresented public-sector banking context. It brings together a guide-suggested conceptual study, corporate training evidence, and Indian banking evidence while using a transparent, literature-informed questionnaire. The instrument is not presented as a ready-made Union Bank scale. Its content basis, pilot review, and reliability checks are stated clearly so that the study’s contribution remains realistic and defensible.
+For academic research, the study contributes evidence from an underrepresented public-sector banking context. It brings together a guide-suggested conceptual study, corporate training evidence, and Indian banking evidence while using a transparent, literature-informed questionnaire. The instrument is not presented as a ready-made Union Bank scale. Its content basis, academic-guide review, and final-sample reliability checks are stated clearly so that the study’s contribution remains realistic and defensible.
 
 ## 1.4 Statement of the Problem
 
@@ -100,11 +100,19 @@ The study therefore examines whether more positive employee perceptions of Hybri
 
 ## 1.6 Industry and Company Context
 
-Banks operate in an environment where procedures, products, compliance requirements, and digital systems change regularly. Employees may need to update their knowledge while ensuring that daily service continues. A public-sector bank must also make learning available to employees working across roles and locations. This creates a practical need for training arrangements that provide access to common learning material while still allowing employees to ask questions, practise relevant tasks, and receive guidance.
+### Banking Industry Context
 
-A connected hybrid approach may be useful in this setting because different training needs require different activities. A short policy update may be supported through a digital module and knowledge check. A process change may require digital preparation followed by a trainer-led demonstration and practice. A customer-interaction topic may benefit from discussion and role play, with digital material available later for revision. The value of hybrid learning does not lie in using technology for every topic. It lies in matching each activity to the learning need and helping employees understand how the activities fit together.
+Banking is a regulated, technology-enabled service industry. Employees need to keep up with revised procedures, compliance requirements, risk controls, products, customer-service practices, and digital systems while continuing their daily work. In a public-sector bank, learning must also reach employees across functions and locations without interrupting the continuity of customer service. Training therefore needs to provide accessible common material while still giving employees opportunities to ask questions, practise relevant tasks, receive guidance, and revisit learning when a work need arises.
 
-Union Bank of India is a public-sector bank with a large workforce and an established learning and development function. Its annual reports identify Union Vidya as the Bank’s LMS and place it alongside e-learning, virtual training, staggered programmes, role-based modules, digital resources, and trainer-led learning activity (Union Bank of India, 2024, 2025). These reports provide the organisational context for the study. They do not establish that every employee experiences the same programme design or that every digital resource is equally accessible in every setting.
+This setting explains the value of a connected hybrid approach. A short policy update may be supported by a digital module and knowledge check. A procedural change may need digital preparation followed by a trainer-led demonstration and practice. Customer-facing topics may require discussion and role play, with digital material available later for revision. The purpose is not to use technology for every activity, but to connect each activity to the employee’s learning need and current work.
+
+### Union Bank of India Context
+
+Union Bank of India was registered in Mumbai on 11 November 1919 and became a nationalised bank in 1969. Andhra Bank and Corporation Bank were amalgamated into Union Bank on 1 April 2020 (Union Bank of India, n.d.-a). The Bank’s public profile reports more than 8,700 domestic branches and more than 73,900 employees as at June 2026. This large, geographically distributed setting makes consistent access to current learning material and trainer support important for employee development.
+
+The Bank has developed a wider learning system that includes the Union Learning Academies, Staff Training Centres, Union Vidya, e-learning, virtual workshops, role-based learning, mandatory e-learning modules for officers, and the Training Management System within Union Vidya. The Bank launched nine Union Learning Academies in 2022 as specialised Learning and Development Centres of Excellence, and it publishes a nationwide network of Staff Training Centres (Union Bank of India, 2022; Union Bank of India, n.d.-b). Its annual reports also describe classroom and locational programmes alongside digital resources, virtual training, and staggered learning arrangements (Union Bank of India, 2024, 2025).
+
+A staff circular dated 9 September 2026 provides a current example of how these arrangements may connect. It states that selected classroom sessions at Union Learning Academies and Zonal Learning Centres can be live-streamed through Microsoft Teams, with schedules and recordings made available through Union Vidya. Employees joining virtually may raise questions through the chat function, while the programme coordinator facilitates responses at suitable intervals (Union Bank of India, 2026). This shows an organisational arrangement for extending selected trainer-led sessions through digital access. It does not show that every programme is hybrid, that every employee uses the same facilities, or that this arrangement produces better employee outcomes.
 
 The empirical focus is deliberately narrow: eligible employees connected with Regional Office Chennai South and their experience of one recent hybrid-training programme. This focus keeps the research close to employee experience and avoids unsupported conclusions about the entire Bank or the wider banking sector.
 
@@ -249,6 +257,8 @@ The study is situated at Union Bank of India, with planned data collection among
 
 Union Bank’s annual reports describe a broad Learning and Development system. The 2023–24 report records the launch of Union Vidya as the Bank’s LMS and identifies digital resources and virtual workshops available through the platform. It also records classroom and locational training delivered through the wider training system. The 2024–25 report describes a Master Policy on Learning and Development that includes e-learning, virtual training, and staggered programmes. It reports ten mandatory e-learning modules for officers, role-based training, and the Training Management System in Union Vidya as a one-stop digital platform (Union Bank of India, 2024, 2025).
 
+The Bank launched nine Union Learning Academies in 2022 as specialised Learning and Development Centres of Excellence (Union Bank of India, 2022). A 9 September 2026 internal staff circular further states that selected classroom sessions conducted through Union Learning Academies and Zonal Learning Centres may be live-streamed through Microsoft Teams. The circular states that schedules and recordings are available through Union Vidya and that virtual participants can raise questions through Teams chat (Union Bank of India, 2026). This is direct organisational evidence of a delivery arrangement that can connect trainer-led and digital access.
+
 This documented infrastructure explains why Union Bank is a suitable setting for the present study. It shows that the organisation has digital-learning resources and trainer-led learning arrangements from which a connected hybrid programme may be designed. It does not establish that every employee has the same experience, every programme uses the same design, or digital resources are equally accessible in every setting. The survey addresses this employee-level question by asking eligible respondents about one specific recent programme that included both modes.
 
 The case study is deliberately limited to actual employee experience. Respondents are not asked to judge the complete training system or compare several programmes from memory. The questionnaire avoids collecting customer information, internal system records, confidential details, or Bank-wide performance data.
@@ -261,7 +271,7 @@ The second gap is a **banking-sector gap**. Bahl, Kiran and Sharma (2024) show t
 
 The third gap is a **mechanism gap**. Sosnova examines hybrid methods and learning effectiveness in education. Kim examines training effectiveness across delivery methods in a corporate setting. Bahl, Kiran and Sharma evaluate training effectiveness in Indian banking through Kirkpatrick’s model. These papers are complementary, but none examines the present focused framework in which Hybrid Learning and Trainer Competence are associated with Learner Engagement and Learner Engagement is associated with employee-level Training Effectiveness in a public-sector bank.
 
-The fourth gap is a **measurement gap**. A validated blended-learning environment scale is available in a student setting, while a workplace training-effectiveness scale includes organisation-level outcomes. Neither can be used unchanged for a short survey of Union Bank employees. The present study uses a literature-informed questionnaire that separates programme design, trainer competence, learner engagement, and employee-level training effectiveness. The instrument is reviewed and piloted before the main survey.
+The fourth gap is a **measurement gap**. A validated blended-learning environment scale is available in a student setting, while a workplace training-effectiveness scale includes organisation-level outcomes. Neither can be used unchanged for a short survey of Union Bank employees. The present study uses a literature-informed questionnaire that separates programme design, trainer competence, learner engagement, and employee-level training effectiveness. The instrument is reviewed by the academic guide and its internal consistency is assessed using the final survey data; no separate pilot was conducted before data collection.
 
 These gaps do not mean that no related research exists. They show that evidence at the intersection of hybrid learning, trainer competence, learner engagement, training effectiveness, public-sector banking, and Union Vidya/LMS experience remains limited and fragmented. The present study addresses this focused intersection.
 
@@ -349,13 +359,13 @@ The questionnaire collects limited profile information: age group, length of ser
 
 ## 3.6 Data Collection Procedure
 
-Data collection is planned after academic approval and appropriate organisational permission. Eligible employees receive a short explanation of the academic purpose of the study, the voluntary nature of participation, and the confidential handling of responses. The questionnaire may be shared through an approved online form, a printed form, or both, depending on the practical arrangements at the study site.
+Data collection is being undertaken after academic approval and appropriate organisational permission. Eligible employees receive a short explanation of the academic purpose of the study, the voluntary nature of participation, and the confidential handling of responses. The questionnaire is shared through an approved online form, a printed form, or both, depending on the practical arrangements at the study site.
 
 Respondents select one recent hybrid-training programme and answer every scale item with that programme in mind. The questionnaire introduces Union Vidya as an example of the digital platform used in a programme. It does not assume that every programme used Union Vidya or that every employee had access to identical digital features.
 
 The questionnaire does not ask for names, employee numbers, customer details, account information, internal passwords, or other confidential Bank information. Employees may decline to participate or stop before submitting the form without any consequence for their employment or access to training. Results will be reported in aggregate form.
 
-Question 1 screens for eligibility. Employees who answer “No” do not complete the remaining scale items. Before analysis, the researcher will check responses for eligibility and sufficient completion of the items needed to calculate construct scores. The final dissertation will record the number of incomplete responses excluded and the reason for exclusion.
+Question 1 screens for eligibility. Only responses marked “Yes” are included in the final analysis. Responses marked “No” or with a blank eligibility answer are excluded and recorded in the data-cleaning audit. When an otherwise eligible response has one blank or unclear Likert item, that item is replaced with the respondent’s arithmetic mean for the remaining items of the same construct and the imputation is recorded. Responses with two or more blank or unclear scored items are excluded. The final dissertation will report the number of received, excluded, retained, and imputed records, with the reason for each exclusion category.
 
 ## 3.7 Research Instrument and Scoring
 
@@ -382,7 +392,7 @@ The analysis has four stages.
 | Respondent and item description | Frequency, percentage, mean, and standard deviation | To describe the selected respondent group and the pattern of responses. |
 | Reliability | Cronbach’s alpha for each construct | To assess the internal consistency of the Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness item sets. |
 | Association | Pearson correlation | To examine the direction and strength of the relationships among the four construct scores. |
-| Hypothesis testing | Regression analysis | To test the three relationship hypotheses. |
+| Hypothesis testing | Pearson correlation and regression analysis | To test the stated relationships and examine the two regression models. |
 
 The first regression model is:
 
@@ -396,19 +406,19 @@ The second regression model is:
 
 This simple-regression model examines the relationship between Learner Engagement and Training Effectiveness.
 
-For each hypothesis, the null hypothesis is rejected when the relevant *p*-value is below .05. The final report will present the direction of the coefficient, test statistic, *p*-value, and explained variance where appropriate. A statistically significant finding will be described as an association in the selected sample. It will not be described as proof that one construct caused another.
+The three hypotheses are stated as relationships. Pearson correlation is therefore the primary test for deciding whether each reported relationship is positive and statistically significant. The null hypothesis is rejected when the relevant *p*-value is below .05. Regression analysis provides supporting model-level evidence. The final report will present correlation coefficients, regression coefficients, test statistics, *p*-values, and explained variance where appropriate. It will also report tolerance and Variance Inflation Factor values for the two-predictor model. If predictor overlap is high, the report will not claim that one predictor has a stronger independent relationship than the other. A statistically significant finding will be described as an association in the selected sample, not proof that one construct caused another.
 
 The analysis does not compare online-only and classroom-only programmes, use structural-equation modelling, calculate a formal indirect effect, or evaluate Bank-level performance. These analyses would require a different design, additional data, or a larger sample.
 
-## 3.10 Pilot Study, Reliability and Validity
+## 3.10 Questionnaire Review, Reliability and Validity
 
-Before the main survey, the questionnaire is piloted with approximately 20 eligible employees who are not included in the final sample. The pilot checks whether the instructions are clear, whether employees understand the term “hybrid training,” whether the LMS wording is familiar, whether each statement relates to one selected programme, and whether the questionnaire can be completed in a practical time.
+A separate pilot study was not conducted before main data collection. The questionnaire was finalised after academic-guide approval and was prepared from the documented questionnaire evidence map, the selected base papers, and supporting measurement literature. The final thesis will state this procedure accurately and will not claim that a separate employee pilot took place.
 
-Cronbach’s alpha is calculated separately for the four item sets. A value of .70 or above is treated as an initial indication of acceptable internal consistency. Pilot results are considered with employee comments and item-total statistics. An item may be revised if it is unclear, repetitive, unrelated to employees’ actual training experience, or inconsistent with its intended construct. All wording changes will be finalised before main data collection and documented in the dissertation.
+Cronbach’s alpha will be calculated separately for the four item sets in the final eligible sample. A value of .70 or above will be treated as an initial indication of acceptable internal consistency. Alpha values will be interpreted with item distributions, response-pattern checks, and the size of the final sample; they will not be treated as proof that the instrument is a fully validated Union Bank scale.
 
-Content validity is supported by the questionnaire evidence map. Hybrid Learning items are based on blended-learning integration and workplace-access literature. Trainer Competence and Learner Engagement items are based on workplace blended-learning and engagement literature. Training Effectiveness items are based on corporate training evaluation and transfer literature, including Bahl, Kiran and Sharma’s (2024) banking evaluation context. Bahl does not provide the present item set or model. The academic guide and suitable subject reviewers should examine whether the items adequately represent the four stated constructs.
+Content relevance is supported by the questionnaire evidence map. Hybrid Learning items are based on blended-learning integration and workplace-access literature. Trainer Competence and Learner Engagement items are based on workplace blended-learning and engagement literature. Training Effectiveness items are based on corporate training evaluation and transfer literature, including Bahl, Kiran and Sharma’s (2024) banking evaluation context. Bahl does not provide the present item set or model. The academic guide’s review supports the practical suitability of the wording for this academic study.
 
-Face validity is checked during the pilot by asking employees whether the statements are understandable and relevant to their selected programme. The pilot does not create a claim that the instrument is a fully validated bank-specific scale. It provides a practical check that the literature-informed wording is suitable for the selected workplace setting.
+The questionnaire is literature-informed and adapted to the selected Union Bank setting. It is not presented as a ready-made or fully validated bank-specific scale. Its limitations will be stated when the final reliability results are reported.
 
 ## 3.11 Ethical Considerations and Limitations
 
@@ -454,9 +464,17 @@ Sosnova, M., Hlianenko, K., Sosnova, V., Tsyna, V., & Tsyna, A. (2025). Enhancin
 
 Uddin, M., Ahamed, M. R., Jakowan, Islam, M. R., & Nahar, M. (2026). How blended learning influences employee performance: The mediating role of soft skill development and knowledge acquisition. *International Journal of Accounting and Economics Studies, 13*(2), 243–250. https://doi.org/10.14419/9cjynm83
 
+Union Bank of India. (n.d.-a). *About Union Bank of India*. Retrieved September 22, 2026, from https://www.unionbankofindia.bank.in/en/common/profile
+
+Union Bank of India. (n.d.-b). *Address and contact details of training centres*. Retrieved September 22, 2026, from https://www.unionbankofindia.bank.in/pdf/address%20and%20contact%20details%20of%20training%20centres.pdf
+
+Union Bank of India. (2022, October 1). *Union Bank of India launches 9 Union Learning Academies* [Press release]. https://www.unionbankofindia.bank.in/pdf/union%20bank%20of%20india%20launches%209%20union%20learning%20academies.pdf
+
 Union Bank of India. (2024). *Integrated annual report 2023–24*. https://www.unionbankofindia.bank.in/pdf/ubi-iar2024-final-stitched-book-english-compressed-26-06-2024.pdf
 
 Union Bank of India. (2025). *Integrated annual report 2024–25*. https://www.unionbankofindia.bank.in/pdf/union-bank-ar-2024-25-eng-final.pdf
+
+Union Bank of India. (2026, September 9). *Live streaming of training sessions from training centres – Enhancing learning accessibility across the Bank* [Staff circular, internal].
 
 Vo, M. H., Zhu, C., & Diep, N. A. (2017). The effect of blended learning on student performance at course-level in higher education: A meta-analysis. *Studies in Educational Evaluation, 53*, 17–28. https://doi.org/10.1016/j.stueduc.2017.01.002
 

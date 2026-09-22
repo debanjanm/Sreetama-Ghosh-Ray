@@ -82,13 +82,13 @@ The questionnaire collects limited profile information: age group, length of ser
 
 ## 3.6 Data Collection Procedure
 
-Data collection is planned after academic approval and appropriate organisational permission. Eligible employees receive a short explanation of the academic purpose of the study, the voluntary nature of participation, and the confidential handling of responses. The questionnaire may be shared through an approved online form, a printed form, or both, depending on the practical arrangements at the study site.
+Data collection is being undertaken after academic approval and appropriate organisational permission. Eligible employees receive a short explanation of the academic purpose of the study, the voluntary nature of participation, and the confidential handling of responses. The questionnaire is shared through an approved online form, a printed form, or both, depending on the practical arrangements at the study site.
 
 Respondents select one recent hybrid-training programme and answer every scale item with that programme in mind. The questionnaire introduces Union Vidya as an example of the digital platform used in a programme. It does not assume that every programme used Union Vidya or that every employee had access to identical digital features.
 
 The questionnaire does not ask for names, employee numbers, customer details, account information, internal passwords, or other confidential Bank information. Employees may decline to participate or stop before submitting the form without any consequence for their employment or access to training. Results will be reported in aggregate form.
 
-Question 1 screens for eligibility. Employees who answer “No” do not complete the remaining scale items. Before analysis, the researcher will check responses for eligibility and sufficient completion of the items needed to calculate construct scores. The final dissertation will record the number of incomplete responses excluded and the reason for exclusion.
+Question 1 screens for eligibility. Only responses marked “Yes” are included in the final analysis. Responses marked “No” or with a blank eligibility answer are excluded and recorded in the data-cleaning audit. When an otherwise eligible response has one blank or unclear Likert item, that item is replaced with the respondent’s arithmetic mean for the remaining items of the same construct and the imputation is recorded. Responses with two or more blank or unclear scored items are excluded. The final dissertation will report the number of received, excluded, retained, and imputed records, with the reason for each exclusion category.
 
 ## 3.7 Research Instrument and Scoring
 
@@ -115,7 +115,7 @@ The analysis has four stages.
 | Respondent and item description | Frequency, percentage, mean, and standard deviation | To describe the selected respondent group and the pattern of responses. |
 | Reliability | Cronbach’s alpha for each construct | To assess the internal consistency of the Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness item sets. |
 | Association | Pearson correlation | To examine the direction and strength of the relationships among the four construct scores. |
-| Hypothesis testing | Regression analysis | To test the three relationship hypotheses. |
+| Hypothesis testing | Pearson correlation and regression analysis | To test the stated relationships and examine the two regression models. |
 
 The first regression model is:
 
@@ -129,19 +129,19 @@ The second regression model is:
 
 This simple-regression model examines the relationship between Learner Engagement and Training Effectiveness.
 
-For each hypothesis, the null hypothesis is rejected when the relevant *p*-value is below .05. The final report will present the direction of the coefficient, test statistic, *p*-value, and explained variance where appropriate. A statistically significant finding will be described as an association in the selected sample. It will not be described as proof that one construct caused another.
+The three hypotheses are stated as relationships. Pearson correlation is therefore the primary test for deciding whether each reported relationship is positive and statistically significant. The null hypothesis is rejected when the relevant *p*-value is below .05. Regression analysis provides supporting model-level evidence. The final report will present correlation coefficients, regression coefficients, test statistics, *p*-values, and explained variance where appropriate. It will also report tolerance and Variance Inflation Factor values for the two-predictor model. If predictor overlap is high, the report will not claim that one predictor has a stronger independent relationship than the other. A statistically significant finding will be described as an association in the selected sample, not proof that one construct caused another.
 
 The analysis does not compare online-only and classroom-only programmes, use structural-equation modelling, calculate a formal indirect effect, or evaluate Bank-level performance. These analyses would require a different design, additional data, or a larger sample.
 
-## 3.10 Pilot Study, Reliability and Validity
+## 3.10 Questionnaire Review, Reliability and Validity
 
-Before the main survey, the questionnaire is piloted with approximately 20 eligible employees who are not included in the final sample. The pilot checks whether the instructions are clear, whether employees understand the term “hybrid training,” whether the LMS wording is familiar, whether each statement relates to one selected programme, and whether the questionnaire can be completed in a practical time.
+A separate pilot study was not conducted before main data collection. The questionnaire was finalised after academic-guide approval and was prepared from the documented questionnaire evidence map, the selected base papers, and supporting measurement literature. The final thesis will state this procedure accurately and will not claim that a separate employee pilot took place.
 
-Cronbach’s alpha is calculated separately for the four item sets. A value of .70 or above is treated as an initial indication of acceptable internal consistency. Pilot results are considered with employee comments and item-total statistics. An item may be revised if it is unclear, repetitive, unrelated to employees’ actual training experience, or inconsistent with its intended construct. All wording changes will be finalised before main data collection and documented in the dissertation.
+Cronbach’s alpha will be calculated separately for the four item sets in the final eligible sample. A value of .70 or above will be treated as an initial indication of acceptable internal consistency. Alpha values will be interpreted with item distributions, response-pattern checks, and the size of the final sample; they will not be treated as proof that the instrument is a fully validated Union Bank scale.
 
-Content validity is supported by the questionnaire evidence map. Hybrid Learning items are based on blended-learning integration and workplace-access literature. Trainer Competence and Learner Engagement items are based on workplace blended-learning and engagement literature. Training Effectiveness items are based on corporate training evaluation and transfer literature, including Bahl, Kiran and Sharma’s (2024) banking evaluation context. Bahl does not provide the present item set or model. The academic guide and suitable subject reviewers should examine whether the items adequately represent the four stated constructs.
+Content relevance is supported by the questionnaire evidence map. Hybrid Learning items are based on blended-learning integration and workplace-access literature. Trainer Competence and Learner Engagement items are based on workplace blended-learning and engagement literature. Training Effectiveness items are based on corporate training evaluation and transfer literature, including Bahl, Kiran and Sharma’s (2024) banking evaluation context. Bahl does not provide the present item set or model. The academic guide’s review supports the practical suitability of the wording for this academic study.
 
-Face validity is checked during the pilot by asking employees whether the statements are understandable and relevant to their selected programme. The pilot does not create a claim that the instrument is a fully validated bank-specific scale. It provides a practical check that the literature-informed wording is suitable for the selected workplace setting.
+The questionnaire is literature-informed and adapted to the selected Union Bank setting. It is not presented as a ready-made or fully validated bank-specific scale. Its limitations will be stated when the final reliability results are reported.
 
 ## 3.11 Ethical Considerations and Limitations
 

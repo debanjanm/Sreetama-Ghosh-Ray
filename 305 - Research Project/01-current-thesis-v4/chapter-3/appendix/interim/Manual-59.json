@@ -1,0 +1,57 @@
+{
+  "response_id": "Manual-59",
+  "source": "manual",
+  "source_reference": {
+    "pdf_pages": [
+      117,
+      118
+    ]
+  },
+  "answers": {
+    "HL1": null,
+    "HL2": 1,
+    "HL3": 2,
+    "HL4": 3,
+    "HL5": 3,
+    "HL6": 3,
+    "HL7": 3,
+    "TC1": null,
+    "TC2": 1,
+    "TC3": 3,
+    "TC4": 3,
+    "TC5": 3,
+    "TC6": 3,
+    "LE1": 5,
+    "LE2": 5,
+    "LE3": 5,
+    "LE4": 5,
+    "LE5": 3,
+    "LE6": 3,
+    "TE1": 4,
+    "TE2": 3,
+    "TE3": 3,
+    "TE4": 3,
+    "TE5": 3,
+    "TE6": 3,
+    "TE7": 3
+  },
+  "flags": [
+    "HL1:blank_no_ink",
+    "HL3:low_confidence",
+    "HL4:low_confidence",
+    "TC1:blank_no_ink",
+    "TC4:low_confidence",
+    "Q1_eligibility:low_confidence",
+    "Q2_age_group:low_confidence",
+    "Q3_length_of_service:low_confidence",
+    "Q4_job_level:low_confidence",
+    "LE1:low_confidence",
+    "LE5:low_confidence",
+    "LE6:low_confidence",
+    "TE1:low_confidence"
+  ],
+  "Q1_eligibility": "Yes",
+  "Q2_age_group": "55 and above",
+  "Q3_length_of_service": "11-20 years",
+  "Q4_job_level": "Managerial"
+}

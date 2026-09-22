@@ -82,7 +82,7 @@ For Union Bank, the study may provide structured employee feedback on the connec
 
 For trainers and learning-and-development staff, the study recognises that training is not limited to delivering content. Employees may need to understand how a digital module connects with a classroom activity, why a new procedure matters, and where they can obtain clarification after the session. Trainer preparation and programme design can therefore influence whether learning feels relevant and manageable alongside work responsibilities.
 
-For academic research, the study contributes evidence from an underrepresented public-sector banking context. It brings together a guide-suggested conceptual study, corporate training evidence, and Indian banking evidence while using a transparent, literature-informed questionnaire. The instrument is not presented as a ready-made Union Bank scale. Its content basis, pilot review, and reliability checks are stated clearly so that the study’s contribution remains realistic and defensible.
+For academic research, the study contributes evidence from an underrepresented public-sector banking context. It brings together a guide-suggested conceptual study, corporate training evidence, and Indian banking evidence while using a transparent, literature-informed questionnaire. The instrument is not presented as a ready-made Union Bank scale. Its content basis, academic-guide review, and final-sample reliability checks are stated clearly so that the study’s contribution remains realistic and defensible.
 
 ## 1.4 Statement of the Problem
 
@@ -100,11 +100,19 @@ The study therefore examines whether more positive employee perceptions of Hybri
 
 ## 1.6 Industry and Company Context
 
-Banks operate in an environment where procedures, products, compliance requirements, and digital systems change regularly. Employees may need to update their knowledge while ensuring that daily service continues. A public-sector bank must also make learning available to employees working across roles and locations. This creates a practical need for training arrangements that provide access to common learning material while still allowing employees to ask questions, practise relevant tasks, and receive guidance.
+### Banking Industry Context
 
-A connected hybrid approach may be useful in this setting because different training needs require different activities. A short policy update may be supported through a digital module and knowledge check. A process change may require digital preparation followed by a trainer-led demonstration and practice. A customer-interaction topic may benefit from discussion and role play, with digital material available later for revision. The value of hybrid learning does not lie in using technology for every topic. It lies in matching each activity to the learning need and helping employees understand how the activities fit together.
+Banking is a regulated, technology-enabled service industry. Employees need to keep up with revised procedures, compliance requirements, risk controls, products, customer-service practices, and digital systems while continuing their daily work. In a public-sector bank, learning must also reach employees across functions and locations without interrupting the continuity of customer service. Training therefore needs to provide accessible common material while still giving employees opportunities to ask questions, practise relevant tasks, receive guidance, and revisit learning when a work need arises.
 
-Union Bank of India is a public-sector bank with a large workforce and an established learning and development function. Its annual reports identify Union Vidya as the Bank’s LMS and place it alongside e-learning, virtual training, staggered programmes, role-based modules, digital resources, and trainer-led learning activity (Union Bank of India, 2024, 2025). These reports provide the organisational context for the study. They do not establish that every employee experiences the same programme design or that every digital resource is equally accessible in every setting.
+This setting explains the value of a connected hybrid approach. A short policy update may be supported by a digital module and knowledge check. A procedural change may need digital preparation followed by a trainer-led demonstration and practice. Customer-facing topics may require discussion and role play, with digital material available later for revision. The purpose is not to use technology for every activity, but to connect each activity to the employee’s learning need and current work.
+
+### Union Bank of India Context
+
+Union Bank of India was registered in Mumbai on 11 November 1919 and became a nationalised bank in 1969. Andhra Bank and Corporation Bank were amalgamated into Union Bank on 1 April 2020 (Union Bank of India, n.d.-a). The Bank’s public profile reports more than 8,700 domestic branches and more than 73,900 employees as at June 2026. This large, geographically distributed setting makes consistent access to current learning material and trainer support important for employee development.
+
+The Bank has developed a wider learning system that includes the Union Learning Academies, Staff Training Centres, Union Vidya, e-learning, virtual workshops, role-based learning, mandatory e-learning modules for officers, and the Training Management System within Union Vidya. The Bank launched nine Union Learning Academies in 2022 as specialised Learning and Development Centres of Excellence, and it publishes a nationwide network of Staff Training Centres (Union Bank of India, 2022; Union Bank of India, n.d.-b). Its annual reports also describe classroom and locational programmes alongside digital resources, virtual training, and staggered learning arrangements (Union Bank of India, 2024, 2025).
+
+A staff circular dated 9 September 2026 provides a current example of how these arrangements may connect. It states that selected classroom sessions at Union Learning Academies and Zonal Learning Centres can be live-streamed through Microsoft Teams, with schedules and recordings made available through Union Vidya. Employees joining virtually may raise questions through the chat function, while the programme coordinator facilitates responses at suitable intervals (Union Bank of India, 2026). This shows an organisational arrangement for extending selected trainer-led sessions through digital access. It does not show that every programme is hybrid, that every employee uses the same facilities, or that this arrangement produces better employee outcomes.
 
 The empirical focus is deliberately narrow: eligible employees connected with Regional Office Chennai South and their experience of one recent hybrid-training programme. This focus keeps the research close to employee experience and avoids unsupported conclusions about the entire Bank or the wider banking sector.
 
@@ -126,6 +134,14 @@ Kim, S. (2022). Innovating workplace learning: Training methodology analysis bas
 
 Sosnova, M., Hlianenko, K., Sosnova, V., Tsyna, V., & Tsyna, A. (2025). Enhancing the effectiveness of learning through hybrid education methods. *Revista Eduweb, 19*(2), 95–106. https://doi.org/10.46502/issn.1856-7576/2025.19.02.7
 
+Union Bank of India. (n.d.-a). *About Union Bank of India*. Retrieved September 22, 2026, from https://www.unionbankofindia.bank.in/en/common/profile
+
+Union Bank of India. (n.d.-b). *Address and contact details of training centres*. Retrieved September 22, 2026, from https://www.unionbankofindia.bank.in/pdf/address%20and%20contact%20details%20of%20training%20centres.pdf
+
+Union Bank of India. (2022, October 1). *Union Bank of India launches 9 Union Learning Academies* [Press release]. https://www.unionbankofindia.bank.in/pdf/union%20bank%20of%20india%20launches%209%20union%20learning%20academies.pdf
+
 Union Bank of India. (2024). *Integrated annual report 2023–24*. https://www.unionbankofindia.bank.in/pdf/ubi-iar2024-final-stitched-book-english-compressed-26-06-2024.pdf
 
 Union Bank of India. (2025). *Integrated annual report 2024–25*. https://www.unionbankofindia.bank.in/pdf/union-bank-ar-2024-25-eng-final.pdf
+
+Union Bank of India. (2026, September 9). *Live streaming of training sessions from training centres – Enhancing learning accessibility across the Bank* [Staff circular, internal].

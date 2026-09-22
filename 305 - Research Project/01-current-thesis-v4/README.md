@@ -12,10 +12,12 @@ The study examines reported relationships in a cross-sectional employee survey. 
 
 ## Contents
 
-- Chapter 1 — Introduction
-- Chapter 2 — Review of Literature
-- Chapter 3 — Research Methodology
-- Base-paper rationale and questionnaire evidence map
-- Approved 30-question questionnaire
+- [Chapter 1 — Introduction](chapter-1/chapter-1-introduction.md)
+- [Chapter 2 — Review of Literature](chapter-2/chapter-2-literature-review.md)
+- [Chapter 3 — Research Methodology](chapter-3/chapter-3-research-methodology.md)
+- [Base-paper rationale](chapter-2/base-paper-rationale.md) and [questionnaire evidence map](chapter-2/questionnaire-evidence-map.md)
+- [Approved 30-question questionnaire](chapter-3/appendix/questionnaire.md)
+- [Final-data analysis protocol](chapter-3/final-data-analysis-protocol.md)
+- [Chapter 4 result template](chapter-4/chapter-4-data-analysis-template.md) and [Chapter 5 result template](chapter-5/chapter-5-conclusion-template.md)
 
-Chapters 4 and 5 will be written after the completed survey is analysed. The preliminary 22-response analysis is not part of this version.
+Chapters 4 and 5 contain result-free templates and will be completed only after the final survey is analysed. The preliminary 22-response analysis is not part of this version.

@@ -27,9 +27,11 @@ The questionnaire measures four constructs:
 - Training Effectiveness items describe the useful learning and application perceived by the employee. They do not measure retention, job performance, customer outcomes, or organisation-level performance as separate constructs.
 - The introductory wording refers to Union Vidya or another authorised platform only as the platform used in the selected programme. It does not assume that every Bank programme uses identical technology.
 
-## Content Validity and Pilot Review
+## Content Relevance, Guide Review and Reliability
 
-Before the main survey, the academic guide and suitable subject reviewers should examine whether each item is clear, relevant, and correctly assigned to its construct. A pilot with approximately 20 eligible employees should check understanding, completion time, familiar language for the LMS, and item redundancy. Cronbach’s alpha is calculated separately for the four constructs after the pilot and again for the main study.
+A separate pilot study was not conducted before main data collection. The academic guide approved the questionnaire before distribution. The evidence map records the literature basis, construct allocation, and Union Bank adaptation of each item. It does not claim that the questionnaire is a fully validated Union Bank scale.
+
+Cronbach’s alpha will be calculated separately for the four constructs in the final eligible sample. The results will be interpreted with item distributions, response-pattern checks, and sample size rather than treated as complete validation of the instrument.
 
 ## References
 

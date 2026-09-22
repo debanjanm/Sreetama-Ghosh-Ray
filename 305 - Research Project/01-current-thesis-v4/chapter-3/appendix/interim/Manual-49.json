@@ -1,0 +1,47 @@
+{
+  "response_id": "Manual-49",
+  "source": "manual",
+  "source_reference": {
+    "pdf_pages": [
+      97,
+      98
+    ]
+  },
+  "answers": {
+    "HL1": 1,
+    "HL2": 3,
+    "HL3": 4,
+    "HL4": 3,
+    "HL5": 3,
+    "HL6": 3,
+    "HL7": 3,
+    "TC1": 1,
+    "TC2": 3,
+    "TC3": 3,
+    "TC4": 3,
+    "TC5": 3,
+    "TC6": 3,
+    "LE1": 3,
+    "LE2": 3,
+    "LE3": 3,
+    "LE4": 3,
+    "LE5": 3,
+    "LE6": 3,
+    "TE1": 4,
+    "TE2": 4,
+    "TE3": 4,
+    "TE4": 4,
+    "TE5": 4,
+    "TE6": 4,
+    "TE7": 4
+  },
+  "flags": [
+    "HL3:low_confidence",
+    "Q2_age_group:blank_no_ink",
+    "Q4_job_level:low_confidence"
+  ],
+  "Q1_eligibility": "Yes",
+  "Q2_age_group": null,
+  "Q3_length_of_service": "Above 20 years",
+  "Q4_job_level": "Other"
+}

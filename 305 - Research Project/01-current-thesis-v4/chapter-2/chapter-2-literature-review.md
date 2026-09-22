@@ -129,6 +129,8 @@ The study is situated at Union Bank of India, with planned data collection among
 
 Union Bank’s annual reports describe a broad Learning and Development system. The 2023–24 report records the launch of Union Vidya as the Bank’s LMS and identifies digital resources and virtual workshops available through the platform. It also records classroom and locational training delivered through the wider training system. The 2024–25 report describes a Master Policy on Learning and Development that includes e-learning, virtual training, and staggered programmes. It reports ten mandatory e-learning modules for officers, role-based training, and the Training Management System in Union Vidya as a one-stop digital platform (Union Bank of India, 2024, 2025).
 
+The Bank launched nine Union Learning Academies in 2022 as specialised Learning and Development Centres of Excellence (Union Bank of India, 2022). A 9 September 2026 internal staff circular further states that selected classroom sessions conducted through Union Learning Academies and Zonal Learning Centres may be live-streamed through Microsoft Teams. The circular states that schedules and recordings are available through Union Vidya and that virtual participants can raise questions through Teams chat (Union Bank of India, 2026). This is direct organisational evidence of a delivery arrangement that can connect trainer-led and digital access.
+
 This documented infrastructure explains why Union Bank is a suitable setting for the present study. It shows that the organisation has digital-learning resources and trainer-led learning arrangements from which a connected hybrid programme may be designed. It does not establish that every employee has the same experience, every programme uses the same design, or digital resources are equally accessible in every setting. The survey addresses this employee-level question by asking eligible respondents about one specific recent programme that included both modes.
 
 The case study is deliberately limited to actual employee experience. Respondents are not asked to judge the complete training system or compare several programmes from memory. The questionnaire avoids collecting customer information, internal system records, confidential details, or Bank-wide performance data.
@@ -141,7 +143,7 @@ The second gap is a **banking-sector gap**. Bahl, Kiran and Sharma (2024) show t
 
 The third gap is a **mechanism gap**. Sosnova examines hybrid methods and learning effectiveness in education. Kim examines training effectiveness across delivery methods in a corporate setting. Bahl, Kiran and Sharma evaluate training effectiveness in Indian banking through Kirkpatrick’s model. These papers are complementary, but none examines the present focused framework in which Hybrid Learning and Trainer Competence are associated with Learner Engagement and Learner Engagement is associated with employee-level Training Effectiveness in a public-sector bank.
 
-The fourth gap is a **measurement gap**. A validated blended-learning environment scale is available in a student setting, while a workplace training-effectiveness scale includes organisation-level outcomes. Neither can be used unchanged for a short survey of Union Bank employees. The present study uses a literature-informed questionnaire that separates programme design, trainer competence, learner engagement, and employee-level training effectiveness. The instrument is reviewed and piloted before the main survey.
+The fourth gap is a **measurement gap**. A validated blended-learning environment scale is available in a student setting, while a workplace training-effectiveness scale includes organisation-level outcomes. Neither can be used unchanged for a short survey of Union Bank employees. The present study uses a literature-informed questionnaire that separates programme design, trainer competence, learner engagement, and employee-level training effectiveness. The instrument is reviewed by the academic guide and its internal consistency is assessed using the final survey data; no separate pilot was conducted before data collection.
 
 These gaps do not mean that no related research exists. They show that evidence at the intersection of hybrid learning, trainer competence, learner engagement, training effectiveness, public-sector banking, and Union Vidya/LMS experience remains limited and fragmented. The present study addresses this focused intersection.
 
@@ -181,9 +183,13 @@ Sosnova, M., Hlianenko, K., Sosnova, V., Tsyna, V., & Tsyna, A. (2025). Enhancin
 
 Uddin, M., Ahamed, M. R., Jakowan, Islam, M. R., & Nahar, M. (2026). How blended learning influences employee performance: The mediating role of soft skill development and knowledge acquisition. *International Journal of Accounting and Economics Studies, 13*(2), 243–250. https://doi.org/10.14419/9cjynm83
 
+Union Bank of India. (2022, October 1). *Union Bank of India launches 9 Union Learning Academies* [Press release]. https://www.unionbankofindia.bank.in/pdf/union%20bank%20of%20india%20launches%209%20union%20learning%20academies.pdf
+
 Union Bank of India. (2024). *Integrated annual report 2023–24*. https://www.unionbankofindia.bank.in/pdf/ubi-iar2024-final-stitched-book-english-compressed-26-06-2024.pdf
 
 Union Bank of India. (2025). *Integrated annual report 2024–25*. https://www.unionbankofindia.bank.in/pdf/union-bank-ar-2024-25-eng-final.pdf
+
+Union Bank of India. (2026, September 9). *Live streaming of training sessions from training centres – Enhancing learning accessibility across the Bank* [Staff circular, internal].
 
 Vo, M. H., Zhu, C., & Diep, N. A. (2017). The effect of blended learning on student performance at course-level in higher education: A meta-analysis. *Studies in Educational Evaluation, 53*, 17–28. https://doi.org/10.1016/j.stueduc.2017.01.002
 
