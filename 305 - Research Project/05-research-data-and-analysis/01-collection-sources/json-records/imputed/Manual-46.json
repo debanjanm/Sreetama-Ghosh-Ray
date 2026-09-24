@@ -1,0 +1,55 @@
+{
+  "response_id": "Manual-46",
+  "source": "manual",
+  "source_reference": {
+    "pdf_pages": [
+      91,
+      92
+    ]
+  },
+  "answers": {
+    "HL1": 4,
+    "HL2": 3,
+    "HL3": 4,
+    "HL4": 4.0,
+    "HL5": 3,
+    "HL6": 5,
+    "HL7": 5,
+    "TC1": 4,
+    "TC2": 4,
+    "TC3": 4,
+    "TC4": 4,
+    "TC5": 3,
+    "TC6": 4,
+    "LE1": 4,
+    "LE2": 3,
+    "LE3": 2,
+    "LE4": 3,
+    "LE5": 4,
+    "LE6": 3,
+    "TE1": 4,
+    "TE2": 4,
+    "TE3": 4,
+    "TE4": 4,
+    "TE5": 4,
+    "TE6": 3,
+    "TE7": 3
+  },
+  "flags": [],
+  "verification": "manually rectified and verified",
+  "Q1_eligibility": "Yes",
+  "Q2_age_group": "25-34",
+  "Q3_length_of_service": "5-10 years",
+  "Q4_job_level": "Officer",
+  "status": "retained_with_imputation",
+  "exclusion_reason": null,
+  "imputations": [
+    {
+      "item": "HL4",
+      "construct": "HL",
+      "imputed_value": 4.0,
+      "method": "construct_mean_of_remaining_items",
+      "peers_used": 6
+    }
+  ]
+}

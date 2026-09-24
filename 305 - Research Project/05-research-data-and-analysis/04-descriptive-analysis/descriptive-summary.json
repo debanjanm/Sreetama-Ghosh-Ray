@@ -1,0 +1,474 @@
+{
+  "n": 105,
+  "profile_summary": {
+    "age_group": {
+      "valid_n": 103,
+      "missing_n": 2,
+      "categories": [
+        {
+          "label": "25\u201334",
+          "count": 30,
+          "percent": 29.1
+        },
+        {
+          "label": "35\u201344",
+          "count": 56,
+          "percent": 54.4
+        },
+        {
+          "label": "45\u201354",
+          "count": 13,
+          "percent": 12.6
+        },
+        {
+          "label": "55 and above",
+          "count": 4,
+          "percent": 3.9
+        }
+      ]
+    },
+    "service_length": {
+      "valid_n": 104,
+      "missing_n": 1,
+      "categories": [
+        {
+          "label": "Below 5 years",
+          "count": 8,
+          "percent": 7.7
+        },
+        {
+          "label": "5\u201310 years",
+          "count": 29,
+          "percent": 27.9
+        },
+        {
+          "label": "11\u201320 years",
+          "count": 56,
+          "percent": 53.8
+        },
+        {
+          "label": "Above 20 years",
+          "count": 11,
+          "percent": 10.6
+        }
+      ]
+    },
+    "job_level": {
+      "valid_n": 105,
+      "missing_n": 0,
+      "categories": [
+        {
+          "label": "Clerical",
+          "count": 22,
+          "percent": 21.0
+        },
+        {
+          "label": "Officer",
+          "count": 57,
+          "percent": 54.3
+        },
+        {
+          "label": "Managerial",
+          "count": 26,
+          "percent": 24.8
+        }
+      ]
+    }
+  },
+  "construct_summary": [
+    {
+      "construct": "Learner Engagement",
+      "items": 6,
+      "mean": 4.305,
+      "sd": 0.799,
+      "rank": 1
+    },
+    {
+      "construct": "Training Effectiveness",
+      "items": 7,
+      "mean": 4.238,
+      "sd": 0.84,
+      "rank": 2
+    },
+    {
+      "construct": "Trainer Competence",
+      "items": 6,
+      "mean": 4.165,
+      "sd": 0.853,
+      "rank": 3
+    },
+    {
+      "construct": "Hybrid Learning",
+      "items": 7,
+      "mean": 4.142,
+      "sd": 0.85,
+      "rank": 4
+    }
+  ],
+  "item_summary": [
+    {
+      "construct": "Hybrid Learning",
+      "item": "HL1",
+      "short_label": "Connected design",
+      "n": 105,
+      "mean": 4.095,
+      "sd": 0.966,
+      "frequency_1": 4,
+      "frequency_2": 4,
+      "frequency_3": 8,
+      "frequency_4": 51,
+      "frequency_5": 38,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Hybrid Learning",
+      "item": "HL2",
+      "short_label": "Digital preparation",
+      "n": 105,
+      "mean": 3.99,
+      "sd": 0.935,
+      "frequency_1": 3,
+      "frequency_2": 5,
+      "frequency_3": 13,
+      "frequency_4": 53,
+      "frequency_5": 31,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Hybrid Learning",
+      "item": "HL3",
+      "short_label": "Clarification/application",
+      "n": 105,
+      "mean": 4.162,
+      "sd": 0.942,
+      "frequency_1": 4,
+      "frequency_2": 2,
+      "frequency_3": 9,
+      "frequency_4": 48,
+      "frequency_5": 42,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Hybrid Learning",
+      "item": "HL4",
+      "short_label": "Platform access",
+      "n": 105,
+      "mean": 4.181,
+      "sd": 0.907,
+      "frequency_1": 3,
+      "frequency_2": 3,
+      "frequency_3": 8,
+      "frequency_4": 49,
+      "frequency_5": 42,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Hybrid Learning",
+      "item": "HL5",
+      "short_label": "Platform navigation",
+      "n": 105,
+      "mean": 4.086,
+      "sd": 1.02,
+      "frequency_1": 5,
+      "frequency_2": 4,
+      "frequency_3": 8,
+      "frequency_4": 48,
+      "frequency_5": 40,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Hybrid Learning",
+      "item": "HL6",
+      "short_label": "Material availability",
+      "n": 105,
+      "mean": 4.222,
+      "sd": 0.937,
+      "frequency_1": 4,
+      "frequency_2": 2,
+      "frequency_3": 6,
+      "frequency_4": 46,
+      "frequency_5": 46,
+      "non_category_imputed": 1
+    },
+    {
+      "construct": "Hybrid Learning",
+      "item": "HL7",
+      "short_label": "Revision access",
+      "n": 105,
+      "mean": 4.257,
+      "sd": 0.899,
+      "frequency_1": 4,
+      "frequency_2": 1,
+      "frequency_3": 5,
+      "frequency_4": 49,
+      "frequency_5": 46,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Trainer Competence",
+      "item": "TC1",
+      "short_label": "Subject knowledge",
+      "n": 105,
+      "mean": 4.21,
+      "sd": 0.895,
+      "frequency_1": 4,
+      "frequency_2": 1,
+      "frequency_3": 6,
+      "frequency_4": 52,
+      "frequency_5": 42,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Trainer Competence",
+      "item": "TC2",
+      "short_label": "Clear explanation",
+      "n": 105,
+      "mean": 4.229,
+      "sd": 0.923,
+      "frequency_1": 5,
+      "frequency_2": 0,
+      "frequency_3": 5,
+      "frequency_4": 51,
+      "frequency_5": 44,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Trainer Competence",
+      "item": "TC3",
+      "short_label": "Explains connection",
+      "n": 105,
+      "mean": 4.095,
+      "sd": 0.894,
+      "frequency_1": 4,
+      "frequency_2": 1,
+      "frequency_3": 10,
+      "frequency_4": 56,
+      "frequency_5": 34,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Trainer Competence",
+      "item": "TC4",
+      "short_label": "Digital-tool use",
+      "n": 105,
+      "mean": 4.143,
+      "sd": 0.914,
+      "frequency_1": 4,
+      "frequency_2": 2,
+      "frequency_3": 7,
+      "frequency_4": 54,
+      "frequency_5": 38,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Trainer Competence",
+      "item": "TC5",
+      "short_label": "Encourages participation",
+      "n": 105,
+      "mean": 4.219,
+      "sd": 0.899,
+      "frequency_1": 4,
+      "frequency_2": 1,
+      "frequency_3": 6,
+      "frequency_4": 51,
+      "frequency_5": 43,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Trainer Competence",
+      "item": "TC6",
+      "short_label": "Helpful feedback",
+      "n": 105,
+      "mean": 4.095,
+      "sd": 0.976,
+      "frequency_1": 5,
+      "frequency_2": 3,
+      "frequency_3": 6,
+      "frequency_4": 54,
+      "frequency_5": 37,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Learner Engagement",
+      "item": "LE1",
+      "short_label": "Attention",
+      "n": 105,
+      "mean": 4.276,
+      "sd": 0.935,
+      "frequency_1": 3,
+      "frequency_2": 4,
+      "frequency_3": 5,
+      "frequency_4": 42,
+      "frequency_5": 51,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Learner Engagement",
+      "item": "LE2",
+      "short_label": "Effort",
+      "n": 105,
+      "mean": 4.295,
+      "sd": 0.909,
+      "frequency_1": 3,
+      "frequency_2": 3,
+      "frequency_3": 5,
+      "frequency_4": 43,
+      "frequency_5": 51,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Learner Engagement",
+      "item": "LE3",
+      "short_label": "Participation",
+      "n": 105,
+      "mean": 4.276,
+      "sd": 0.86,
+      "frequency_1": 3,
+      "frequency_2": 1,
+      "frequency_3": 7,
+      "frequency_4": 47,
+      "frequency_5": 47,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Learner Engagement",
+      "item": "LE4",
+      "short_label": "Involvement",
+      "n": 105,
+      "mean": 4.362,
+      "sd": 0.786,
+      "frequency_1": 2,
+      "frequency_2": 0,
+      "frequency_3": 8,
+      "frequency_4": 43,
+      "frequency_5": 52,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Learner Engagement",
+      "item": "LE5",
+      "short_label": "Clarification-seeking",
+      "n": 105,
+      "mean": 4.257,
+      "sd": 0.877,
+      "frequency_1": 3,
+      "frequency_2": 0,
+      "frequency_3": 12,
+      "frequency_4": 42,
+      "frequency_5": 48,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Learner Engagement",
+      "item": "LE6",
+      "short_label": "Interest in completion",
+      "n": 105,
+      "mean": 4.362,
+      "sd": 0.9,
+      "frequency_1": 4,
+      "frequency_2": 0,
+      "frequency_3": 6,
+      "frequency_4": 39,
+      "frequency_5": 56,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Training Effectiveness",
+      "item": "TE1",
+      "short_label": "Understanding",
+      "n": 105,
+      "mean": 4.257,
+      "sd": 0.899,
+      "frequency_1": 4,
+      "frequency_2": 1,
+      "frequency_3": 5,
+      "frequency_4": 49,
+      "frequency_5": 46,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Training Effectiveness",
+      "item": "TE2",
+      "short_label": "Useful knowledge/skills",
+      "n": 105,
+      "mean": 4.257,
+      "sd": 0.91,
+      "frequency_1": 3,
+      "frequency_2": 2,
+      "frequency_3": 9,
+      "frequency_4": 42,
+      "frequency_5": 49,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Training Effectiveness",
+      "item": "TE3",
+      "short_label": "Work relevance",
+      "n": 105,
+      "mean": 4.238,
+      "sd": 0.861,
+      "frequency_1": 3,
+      "frequency_2": 0,
+      "frequency_3": 11,
+      "frequency_4": 46,
+      "frequency_5": 45,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Training Effectiveness",
+      "item": "TE4",
+      "short_label": "Capability",
+      "n": 105,
+      "mean": 4.238,
+      "sd": 0.915,
+      "frequency_1": 4,
+      "frequency_2": 0,
+      "frequency_3": 10,
+      "frequency_4": 44,
+      "frequency_5": 47,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Training Effectiveness",
+      "item": "TE5",
+      "short_label": "Work application",
+      "n": 105,
+      "mean": 4.238,
+      "sd": 0.904,
+      "frequency_1": 3,
+      "frequency_2": 2,
+      "frequency_3": 9,
+      "frequency_4": 44,
+      "frequency_5": 47,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Training Effectiveness",
+      "item": "TE6",
+      "short_label": "Task/problem support",
+      "n": 105,
+      "mean": 4.152,
+      "sd": 0.918,
+      "frequency_1": 4,
+      "frequency_2": 1,
+      "frequency_3": 10,
+      "frequency_4": 50,
+      "frequency_5": 40,
+      "non_category_imputed": 0
+    },
+    {
+      "construct": "Training Effectiveness",
+      "item": "TE7",
+      "short_label": "Confidence",
+      "n": 105,
+      "mean": 4.286,
+      "sd": 0.958,
+      "frequency_1": 3,
+      "frequency_2": 3,
+      "frequency_3": 10,
+      "frequency_4": 34,
+      "frequency_5": 55,
+      "non_category_imputed": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="680" viewBox="0 0 920 680">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#1f1f1f}.title{font-size:23px;font-weight:700}.label{font-size:15px}.cell{font-size:19px;font-weight:700}.note{font-size:13px;fill:#595959}</style>
+<text class="title" x="45" y="42">Figure 4.31: Pearson Correlations among the Four Constructs</text>
+<text class="note" x="45" y="68">All off-diagonal correlations are positive and statistically significant at p &lt; .001 (two-tailed; N = 105).</text>
+<text class="label" x="265" y="215.0" text-anchor="end">Hybrid Learning</text>
+<rect x="280" y="150" width="120" height="120" fill="#1f4e79" stroke="white" stroke-width="2"/>
+<text class="cell" x="340.0" y="217.0" text-anchor="middle" style="fill:#ffffff">1.000</text>
+<rect x="400" y="150" width="120" height="120" fill="#446c90" stroke="white" stroke-width="2"/>
+<text class="cell" x="460.0" y="217.0" text-anchor="middle" style="fill:#ffffff">0.817</text>
+<rect x="520" y="150" width="120" height="120" fill="#587c9d" stroke="white" stroke-width="2"/>
+<text class="cell" x="580.0" y="217.0" text-anchor="middle" style="fill:#ffffff">0.715</text>
+<rect x="640" y="150" width="120" height="120" fill="#6385a4" stroke="white" stroke-width="2"/>
+<text class="cell" x="700.0" y="217.0" text-anchor="middle" style="fill:#ffffff">0.660</text>
+<text class="label" x="265" y="326.0" text-anchor="end">Trainer</text>
+<text class="label" x="265" y="344.0" text-anchor="end">Competence</text>
+<rect x="280" y="270" width="120" height="120" fill="#446c90" stroke="white" stroke-width="2"/>
+<text class="cell" x="340.0" y="337.0" text-anchor="middle" style="fill:#ffffff">0.817</text>
+<rect x="400" y="270" width="120" height="120" fill="#1f4e79" stroke="white" stroke-width="2"/>
+<text class="cell" x="460.0" y="337.0" text-anchor="middle" style="fill:#ffffff">1.000</text>
+<rect x="520" y="270" width="120" height="120" fill="#567a9c" stroke="white" stroke-width="2"/>
+<text class="cell" x="580.0" y="337.0" text-anchor="middle" style="fill:#ffffff">0.726</text>
+<rect x="640" y="270" width="120" height="120" fill="#6587a6" stroke="white" stroke-width="2"/>
+<text class="cell" x="700.0" y="337.0" text-anchor="middle" style="fill:#ffffff">0.648</text>
+<text class="label" x="265" y="446.0" text-anchor="end">Learner</text>
+<text class="label" x="265" y="464.0" text-anchor="end">Engagement</text>
+<rect x="280" y="390" width="120" height="120" fill="#587c9d" stroke="white" stroke-width="2"/>
+<text class="cell" x="340.0" y="457.0" text-anchor="middle" style="fill:#ffffff">0.715</text>
+<rect x="400" y="390" width="120" height="120" fill="#567a9c" stroke="white" stroke-width="2"/>
+<text class="cell" x="460.0" y="457.0" text-anchor="middle" style="fill:#ffffff">0.726</text>
+<rect x="520" y="390" width="120" height="120" fill="#1f4e79" stroke="white" stroke-width="2"/>
+<text class="cell" x="580.0" y="457.0" text-anchor="middle" style="fill:#ffffff">1.000</text>
+<rect x="640" y="390" width="120" height="120" fill="#4e7497" stroke="white" stroke-width="2"/>
+<text class="cell" x="700.0" y="457.0" text-anchor="middle" style="fill:#ffffff">0.765</text>
+<text class="label" x="265" y="566.0" text-anchor="end">Training</text>
+<text class="label" x="265" y="584.0" text-anchor="end">Effectiveness</text>
+<rect x="280" y="510" width="120" height="120" fill="#6385a4" stroke="white" stroke-width="2"/>
+<text class="cell" x="340.0" y="577.0" text-anchor="middle" style="fill:#ffffff">0.660</text>
+<rect x="400" y="510" width="120" height="120" fill="#6587a6" stroke="white" stroke-width="2"/>
+<text class="cell" x="460.0" y="577.0" text-anchor="middle" style="fill:#ffffff">0.648</text>
+<rect x="520" y="510" width="120" height="120" fill="#4e7497" stroke="white" stroke-width="2"/>
+<text class="cell" x="580.0" y="577.0" text-anchor="middle" style="fill:#ffffff">0.765</text>
+<rect x="640" y="510" width="120" height="120" fill="#1f4e79" stroke="white" stroke-width="2"/>
+<text class="cell" x="700.0" y="577.0" text-anchor="middle" style="fill:#ffffff">1.000</text>
+<text class="label" x="340.0" y="98" text-anchor="middle">Hybrid Learning</text>
+<text class="label" x="460.0" y="98" text-anchor="middle">Trainer</text>
+<text class="label" x="460.0" y="116" text-anchor="middle">Competence</text>
+<text class="label" x="580.0" y="98" text-anchor="middle">Learner</text>
+<text class="label" x="580.0" y="116" text-anchor="middle">Engagement</text>
+<text class="label" x="700.0" y="98" text-anchor="middle">Training</text>
+<text class="label" x="700.0" y="116" text-anchor="middle">Effectiveness</text>
+<text class="note" x="45" y="650">Source: Primary data collected from eligible Union Bank of India employees.</text>
+</svg>

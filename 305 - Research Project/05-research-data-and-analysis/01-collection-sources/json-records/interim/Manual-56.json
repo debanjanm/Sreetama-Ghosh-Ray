@@ -1,0 +1,44 @@
+{
+  "response_id": "Manual-56",
+  "source": "manual",
+  "source_reference": {
+    "pdf_pages": [
+      111,
+      112
+    ]
+  },
+  "answers": {
+    "HL1": 3,
+    "HL2": 4,
+    "HL3": 2,
+    "HL4": 3,
+    "HL5": 2,
+    "HL6": 3,
+    "HL7": 3,
+    "TC1": 4,
+    "TC2": 4,
+    "TC3": 3,
+    "TC4": 4,
+    "TC5": 4,
+    "TC6": 2,
+    "LE1": 4,
+    "LE2": 4,
+    "LE3": 4,
+    "LE4": 4,
+    "LE5": 4,
+    "LE6": 4,
+    "TE1": 4,
+    "TE2": 2,
+    "TE3": 3,
+    "TE4": 4,
+    "TE5": 2,
+    "TE6": 2,
+    "TE7": 2
+  },
+  "flags": [],
+  "verification": "manually rectified and verified",
+  "Q1_eligibility": "Yes",
+  "Q2_age_group": "25-34",
+  "Q3_length_of_service": "Below 5 years",
+  "Q4_job_level": "Officer"
+}

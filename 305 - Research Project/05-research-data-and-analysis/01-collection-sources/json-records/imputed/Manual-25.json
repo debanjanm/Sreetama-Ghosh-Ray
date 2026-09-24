@@ -1,0 +1,55 @@
+{
+  "response_id": "Manual-25",
+  "source": "manual",
+  "source_reference": {
+    "pdf_pages": [
+      49,
+      50
+    ]
+  },
+  "answers": {
+    "HL1": 3,
+    "HL2": 4,
+    "HL3": 4,
+    "HL4": 3,
+    "HL5": 2,
+    "HL6": 3.333,
+    "HL7": 4,
+    "TC1": 4,
+    "TC2": 4,
+    "TC3": 4,
+    "TC4": 4,
+    "TC5": 4,
+    "TC6": 4,
+    "LE1": 4,
+    "LE2": 4,
+    "LE3": 3,
+    "LE4": 4,
+    "LE5": 4,
+    "LE6": 4,
+    "TE1": 4,
+    "TE2": 4,
+    "TE3": 4,
+    "TE4": 4,
+    "TE5": 4,
+    "TE6": 4,
+    "TE7": 4
+  },
+  "flags": [],
+  "Q1_eligibility": "Yes",
+  "Q2_age_group": null,
+  "Q3_length_of_service": "Above 20 years",
+  "Q4_job_level": "Clerical",
+  "verification": "manually rectified and verified",
+  "status": "retained_with_imputation",
+  "exclusion_reason": null,
+  "imputations": [
+    {
+      "item": "HL6",
+      "construct": "HL",
+      "imputed_value": 3.333,
+      "method": "construct_mean_of_remaining_items",
+      "peers_used": 6
+    }
+  ]
+}

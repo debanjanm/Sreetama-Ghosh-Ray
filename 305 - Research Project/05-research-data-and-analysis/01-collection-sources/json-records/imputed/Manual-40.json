@@ -1,0 +1,49 @@
+{
+  "response_id": "Manual-40",
+  "source": "manual",
+  "source_reference": {
+    "pdf_pages": [
+      79,
+      80
+    ]
+  },
+  "answers": {
+    "HL1": 4,
+    "HL2": 4,
+    "HL3": 4,
+    "HL4": 4,
+    "HL5": 4,
+    "HL6": 4,
+    "HL7": 4,
+    "TC1": 4,
+    "TC2": 4,
+    "TC3": 4,
+    "TC4": 4,
+    "TC5": 4,
+    "TC6": 4,
+    "LE1": 4,
+    "LE2": 4,
+    "LE3": 4,
+    "LE4": 4,
+    "LE5": 4,
+    "LE6": 4,
+    "TE1": 4,
+    "TE2": 4,
+    "TE3": 4,
+    "TE4": 4,
+    "TE5": 4,
+    "TE6": 4,
+    "TE7": 4
+  },
+  "flags": [
+    "Q1_eligibility:answered_no_but_scale_items_completed"
+  ],
+  "verification": "manually rectified and verified",
+  "Q1_eligibility": "No",
+  "Q2_age_group": "35-44",
+  "Q3_length_of_service": "11-20 years",
+  "Q4_job_level": "Officer",
+  "status": "excluded",
+  "exclusion_reason": "ineligible_or_blank_eligibility",
+  "imputations": []
+}

@@ -1,0 +1,44 @@
+{
+  "response_id": "Manual-50",
+  "source": "manual",
+  "source_reference": {
+    "pdf_pages": [
+      99,
+      100
+    ]
+  },
+  "answers": {
+    "HL1": 4,
+    "HL2": 4,
+    "HL3": 4,
+    "HL4": 5,
+    "HL5": 4,
+    "HL6": 5,
+    "HL7": 5,
+    "TC1": 4,
+    "TC2": 4,
+    "TC3": 4,
+    "TC4": 4,
+    "TC5": 4,
+    "TC6": 5,
+    "LE1": 3,
+    "LE2": 3,
+    "LE3": 4,
+    "LE4": 4,
+    "LE5": 4,
+    "LE6": 4,
+    "TE1": 4,
+    "TE2": 3,
+    "TE3": 3,
+    "TE4": 4,
+    "TE5": 4,
+    "TE6": 4,
+    "TE7": 4
+  },
+  "flags": [],
+  "verification": "manually rectified and verified",
+  "Q1_eligibility": "Yes",
+  "Q2_age_group": "55 and above",
+  "Q3_length_of_service": "11-20 years",
+  "Q4_job_level": "Managerial"
+}

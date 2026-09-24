@@ -1,0 +1,44 @@
+{
+  "response_id": "Manual-10",
+  "source": "manual",
+  "source_reference": {
+    "pdf_pages": [
+      19,
+      20
+    ]
+  },
+  "answers": {
+    "HL1": 3,
+    "HL2": 3,
+    "HL3": 3,
+    "HL4": 3,
+    "HL5": 3,
+    "HL6": 3,
+    "HL7": 3,
+    "TC1": 1,
+    "TC2": 1,
+    "TC3": 1,
+    "TC4": 1,
+    "TC5": 1,
+    "TC6": 1,
+    "LE1": 4,
+    "LE2": 4,
+    "LE3": 4,
+    "LE4": 4,
+    "LE5": 4,
+    "LE6": 4,
+    "TE1": 4,
+    "TE2": 4,
+    "TE3": 4,
+    "TE4": 4,
+    "TE5": 4,
+    "TE6": 4,
+    "TE7": 4
+  },
+  "flags": [],
+  "Q1_eligibility": "Yes",
+  "Q2_age_group": "35-44",
+  "Q3_length_of_service": "5-10 years",
+  "Q4_job_level": "Clerical",
+  "verification": "manually rectified and verified"
+}

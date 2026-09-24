@@ -1,0 +1,27 @@
+construct,item,short_label,n,mean,sd,frequency_1,frequency_2,frequency_3,frequency_4,frequency_5,non_category_imputed
+Hybrid Learning,HL1,Connected design,105,4.095,0.966,4,4,8,51,38,0
+Hybrid Learning,HL2,Digital preparation,105,3.99,0.935,3,5,13,53,31,0
+Hybrid Learning,HL3,Clarification/application,105,4.162,0.942,4,2,9,48,42,0
+Hybrid Learning,HL4,Platform access,105,4.181,0.907,3,3,8,49,42,0
+Hybrid Learning,HL5,Platform navigation,105,4.086,1.02,5,4,8,48,40,0
+Hybrid Learning,HL6,Material availability,105,4.222,0.937,4,2,6,46,46,1
+Hybrid Learning,HL7,Revision access,105,4.257,0.899,4,1,5,49,46,0
+Trainer Competence,TC1,Subject knowledge,105,4.21,0.895,4,1,6,52,42,0
+Trainer Competence,TC2,Clear explanation,105,4.229,0.923,5,0,5,51,44,0
+Trainer Competence,TC3,Explains connection,105,4.095,0.894,4,1,10,56,34,0
+Trainer Competence,TC4,Digital-tool use,105,4.143,0.914,4,2,7,54,38,0
+Trainer Competence,TC5,Encourages participation,105,4.219,0.899,4,1,6,51,43,0
+Trainer Competence,TC6,Helpful feedback,105,4.095,0.976,5,3,6,54,37,0
+Learner Engagement,LE1,Attention,105,4.276,0.935,3,4,5,42,51,0
+Learner Engagement,LE2,Effort,105,4.295,0.909,3,3,5,43,51,0
+Learner Engagement,LE3,Participation,105,4.276,0.86,3,1,7,47,47,0
+Learner Engagement,LE4,Involvement,105,4.362,0.786,2,0,8,43,52,0
+Learner Engagement,LE5,Clarification-seeking,105,4.257,0.877,3,0,12,42,48,0
+Learner Engagement,LE6,Interest in completion,105,4.362,0.9,4,0,6,39,56,0
+Training Effectiveness,TE1,Understanding,105,4.257,0.899,4,1,5,49,46,0
+Training Effectiveness,TE2,Useful knowledge/skills,105,4.257,0.91,3,2,9,42,49,0
+Training Effectiveness,TE3,Work relevance,105,4.238,0.861,3,0,11,46,45,0
+Training Effectiveness,TE4,Capability,105,4.238,0.915,4,0,10,44,47,0
+Training Effectiveness,TE5,Work application,105,4.238,0.904,3,2,9,44,47,0
+Training Effectiveness,TE6,Task/problem support,105,4.152,0.918,4,1,10,50,40,0
+Training Effectiveness,TE7,Confidence,105,4.286,0.958,3,3,10,34,55,0

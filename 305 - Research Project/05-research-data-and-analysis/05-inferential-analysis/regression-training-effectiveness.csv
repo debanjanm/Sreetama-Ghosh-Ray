@@ -1,0 +1,3 @@
+term,unstandardized_b,standard_error,standardized_beta,t,p_value,tolerance,vif
+Constant,0.774,0.292,,2.649,= 0.009, , 
+Learner Engagement,0.805,0.067,0.765,12.060,< .001,1.000,1.000

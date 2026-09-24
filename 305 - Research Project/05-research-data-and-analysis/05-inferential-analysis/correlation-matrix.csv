@@ -1,0 +1,5 @@
+construct,Hybrid Learning,Trainer Competence,Learner Engagement,Training Effectiveness
+Hybrid Learning,1.000,0.817,0.715,0.660
+Trainer Competence,0.817,1.000,0.726,0.648
+Learner Engagement,0.715,0.726,1.000,0.765
+Training Effectiveness,0.660,0.648,0.765,1.000
