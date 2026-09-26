@@ -151,7 +151,7 @@ The analysis does not compare online-only and classroom-only programmes, use str
 
 ## 3.10 Questionnaire Review, Reliability and Validity
 
-A separate pilot study was not conducted before main data collection. The questionnaire was finalised after academic-guide approval and was prepared from the documented questionnaire evidence map, the selected base papers, and supporting measurement literature. The final thesis will state this procedure accurately and will not claim that a separate employee pilot took place.
+Before main data collection, the academic guide-approved questionnaire was piloted online with 20 eligible employees on 15–16 September 2026. The pilot checked clarity, completion burden, Union Vidya wording, relevance, and repetition. Preliminary Cronbach’s alpha values ranged from .879 to .929 across Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness. Feedback did not identify a systematic issue requiring deletion of a scored item, so the approved 30-question instrument was retained. Pilot records were stored separately and excluded from the final analysis. The questionnaire was prepared from the documented questionnaire evidence map, the selected base papers, and supporting measurement literature.
 
 Cronbach’s alpha will be calculated separately for the four item sets in the final eligible sample of 105 response records. A value of .70 or above will be treated as an initial indication of acceptable internal consistency. Alpha values will be interpreted with item distributions, response-pattern checks, and the size of the final sample; they will not be treated as proof that the instrument is a fully validated Union Bank scale.
 

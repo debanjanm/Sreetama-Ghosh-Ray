@@ -29,7 +29,7 @@ The questionnaire measures four constructs:
 
 ## Content Relevance, Guide Review and Reliability
 
-A separate pilot study was not conducted before main data collection. The academic guide approved the questionnaire before distribution. The evidence map records the literature basis, construct allocation, and Union Bank adaptation of each item. It does not claim that the questionnaire is a fully validated Union Bank scale.
+Before main data collection, the academic guide-approved questionnaire was piloted online with 20 eligible employees on 15–16 September 2026. The pilot checked clarity, completion burden, Union Vidya wording, relevance, and repetition. Feedback did not identify a systematic issue requiring deletion of a scored item, so the approved 30-question instrument was retained. Pilot records were stored separately and excluded from the final analysis. The evidence map records the literature basis, construct allocation, and Union Bank adaptation of each item. It does not claim that the questionnaire is a fully validated Union Bank scale.
 
 Cronbach’s alpha will be calculated separately for the four constructs in the final eligible sample. The results will be interpreted with item distributions, response-pattern checks, and sample size rather than treated as complete validation of the instrument.
 
