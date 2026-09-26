@@ -11,7 +11,7 @@
 
 | S.No | Day & Date | Nature of Work Done | Total Hours |
 |---|---|---|---|
-| 1 | Wednesday 19/08/2026 | Reported at the Chennai North Zonal Office for the initial posting. Received an introduction to the functioning of the Zonal Office and exposure to activities undertaken by the bank beyond its regular banking operations, including the "Made of Chennai Run," a community-oriented running event associated with Chennai and covered in *The Hindu* (19 August was reported as the last date for registration). | 8 hrs |
+| 1 | Wednesday 19/08/2026 | Reported at the Chennai North Zonal Office for the initial posting. Received an introduction to the functioning of the Zonal Office and exposure to activities undertaken by the bank beyond its regular banking operations, including "The Hindu Made of Chennai Run 2026," a community-oriented running event associated with Chennai, covered in *The Hindu* and scheduled for 23 August 2026. | 8 hrs |
 | 2 | Thursday 20/08/2026 | Continued orientation at the Zonal Office; observed the professional working environment and how different levels of the bank coordinate with one another. | 8 hrs |
 | 3 | Friday 21/08/2026 | Continued exposure to Zonal Office functioning. | 8 hrs |
 | 4 | Saturday 22/08/2026 | 4th Saturday – continued orientation / bank working day as applicable. | 8 hrs |
