@@ -28,7 +28,7 @@
 
 ---
 
-### Week 1 — 26/08/2026 to 30/08/2026
+### Week 1 — Joined Regional Office Chennai South, Royapettah (26/08/2026 to 30/08/2026)
 
 | S.No | Day & Date | Nature of Work Done | Total Hours |
 |---|---|---|---|
