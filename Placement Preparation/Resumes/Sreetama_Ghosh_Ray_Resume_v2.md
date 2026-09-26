@@ -1,6 +1,6 @@
 # SREETAMA GHOSH RAY
 
-Chennai, India | +91 9147325940 | sreetama64@gmail.com | https://www.linkedin.com/in/sreetama-ghosh-ray-84b254393/
+Chennai, India | +91 9147325940 | sreetama643@gmail.com | https://www.linkedin.com/in/sreetama-ghosh-ray-84b254393/
 
 ---
 
@@ -110,8 +110,10 @@ Documented and analyzed end-to-end HR operations covering recruitment documentat
 
 ## EDUCATION
 
-| Degree | Year | Institution |
-|---|---|---|
-| MA in Social Work (HR Specialization) | 2025 – Present | Madras School of Social Work, Chennai |
-| MA in Sociology | 2020 – 2022 | Jadavpur University, Kolkata |
-| BA — Sociology (Honours) | 2017 – 2020 | Jadavpur University, Kolkata |
+| Degree | Year | Institution | Score |
+|---|---|---|---|
+| MA in Social Work (HR Specialization) | 2025 – Present | Madras School of Social Work, Chennai | — |
+| MA in Sociology | 2020 – 2022 | Jadavpur University, Kolkata | 8.7 CGPA |
+| BA — Sociology (Honours) | 2017 – 2020 | Jadavpur University, Kolkata | 9.0 CGPA |
+| Class XII | 2017 | St Thomas' Girls' School, Khidderpore, Kolkata | 95.5% |
+| Class X | 2015 | St Paul's Boarding and Day School, Kolkata | 93.25% |
