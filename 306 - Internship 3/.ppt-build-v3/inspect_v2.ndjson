@@ -1,0 +1,194 @@
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"subtitle","type":"subtitle","textPreview":"Click to edit Master subtitle style"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"Title and Content","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"Section Header","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"Two Content","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"Comparison","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 5","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"Title Only","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"Blank","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"Content with Caption","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"Picture with Caption","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"Title and Vertical Text","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"Vertical Title and Text","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"8/1/2011"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"INTERNSHIP","textShapes":4}
+{"kind":"shape","id":"sh/547294r6","slide":1,"name":"Freeform 2","bbox":[-21.13,710.33,754.19,410]}
+{"kind":"shape","id":"sh/k3yl0zql","slide":1,"name":"Freeform 3","bbox":[-604.89,64.56,755.42,799.53]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"TextBox 4","text":"INTERNSHIP  ","textPreview":"INTERNSHIP","textChars":12,"textLines":1,"bbox":[281.03,83,1177.73,222.93]}
+{"kind":"shape","id":"sh/65g3298r","slide":1,"name":"Freeform 5","bbox":[1280.64,-291.76,755.42,799.53]}
+{"kind":"shape","id":"sh/sryl4zqx","slide":1,"name":"Freeform 7","bbox":[1577.35,524.83,162,707.52]}
+{"kind":"shape","id":"sh/fu94fe98","slide":1,"name":"TextBox 8","bbox":[1617.85,505.84,81,726.5]}
+{"kind":"shape","id":"sh/utg3698n","slide":1,"name":"Freeform 9","bbox":[1229.43,58.15,733.96,1079.35]}
+{"kind":"textbox","id":"sh/ul4vaxgb","slide":1,"name":"TextBox 12","text":"REPORT","textPreview":"REPORT","textChars":6,"textLines":1,"bbox":[275.65,241.4,948.4,222.93]}
+{"kind":"textbox","id":"sh/vmdcj2xw","slide":1,"name":"TextBox 13","text":"PRESENTATION","textPreview":"PRESENTATION","textChars":12,"textLines":1,"bbox":[281.03,515.01,791.83,56.47]}
+{"kind":"textbox","id":"sh/ipovexwn","slide":1,"name":"TextBox 16","text":"Presented by : Sreetama Ghosh Ray","textPreview":"Presented by : Sreetama Ghosh Ray","textChars":33,"textLines":1,"bbox":[281.03,684.66,703.33,45.33]}
+{"kind":"shape","id":"sh/3qxwn2x8","slide":1,"name":"AutoShape 17","bbox":[281.03,669.48,89.98,0]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"Internship Details","textShapes":5}
+{"kind":"shape","id":"sh/9072xkry","slide":2,"name":"Freeform 2","bbox":[877.01,806.64,755.42,799.53]}
+{"kind":"shape","id":"sh/ozy1ofad","slide":2,"name":"Freeform 3","bbox":[-21.13,710.33,754.19,410]}
+{"kind":"shape","id":"sh/a10jqpsj","slide":2,"name":"Freeform 5","bbox":[-617.41,66.94,755.42,799.53]}
+{"kind":"shape","id":"sh/q5wjelsz","slide":2,"name":"Freeform 9","bbox":[1586.49,566.08,451.02,625.35]}
+{"kind":"shape","id":"sh/ove9o7yd","slide":2,"name":"Freeform 10","bbox":[280.9,557.33,84.28,54.24]}
+{"kind":"shape","id":"sh/9wnqhczy","slide":2,"name":"Freeform 11","bbox":[279.59,437.91,84.28,81.67]}
+{"kind":"shape","id":"sh/mtwrmxg7","slide":2,"name":"Freeform 12","bbox":[288.86,649.32,65.74,82.17]}
+{"kind":"shape","id":"sh/nu58f2hs","slide":2,"name":"Freeform 13","bbox":[282.2,318.51,81.67,81.67]}
+{"kind":"textbox","id":"sh/wjy9sry9","slide":2,"name":"TextBox 14","text":"Internship Details","textPreview":"Internship Details","textChars":18,"textLines":1,"bbox":[445.29,91,1029.41,157.53]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"TextBox 15","text":"Union Bank of India","textPreview":"Union Bank of India","textChars":19,"textLines":1,"bbox":[387.87,329.85,501.51,53]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"TextBox 16","text":"RO Chennai South","textPreview":"RO Chennai South","textChars":16,"textLines":1,"bbox":[387.87,450.48,501.51,53]}
+{"kind":"textbox","id":"sh/bip8jmho","slide":2,"name":"TextBox 17","text":"19 Aug - 6 Oct 2026","textPreview":"19 Aug - 6 Oct 2026","textChars":19,"textLines":1,"bbox":[387.87,561.04,501.51,53]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"TextBox 18","text":"30 working days, 240 hrs","textPreview":"30 working days, 240 hrs","textChars":24,"textLines":1,"bbox":[385.6,662.14,662.11,53]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"Organisation Profile","textShapes":5}
+{"kind":"shape","id":"sh/cza94vmx","slide":3,"name":"Freeform 2","bbox":[1411.86,531.16,832.4,881]}
+{"kind":"shape","id":"sh/d0jax03i","slide":3,"name":"Freeform 3","bbox":[1345.91,-51.22,633.6,344.45]}
+{"kind":"textbox","id":"sh/298ryl4v","slide":3,"name":"TextBox 4","text":"Organisation Profile","textPreview":"Organisation Profile","textChars":20,"textLines":1,"bbox":[445.29,91,1029.41,157.53]}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"Freeform 6","bbox":[-572.93,16.64,755.42,799.53]}
+{"kind":"shape","id":"sh/pcjqtg36","slide":3,"name":"Freeform 7","bbox":[-37.26,634.57,331.63,459.81]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"TextBox 11","text":"A public-sector bank with Head/Central Office in Mumbai, operating through Zonal, Regional and Branch levels.","textPreview":"A public-sector bank with Head/Central Office in Mumbai, operating through Zonal, Regional and Branch levels.","textChars":109,"textLines":1,"bbox":[281.03,389.43,665.83,418.87]}
+{"kind":"textbox","id":"sh/943mhgre","slide":3,"name":"TextBox 12","text":"Administers ~75 branches - welfare, attendance, leave, transfers, salary and allowance processing. Its HR desk links Head Office policy to day-to-day branch administration, training, industrial relations and discipline.","textPreview":"Administers ~75 branches - welfare, attendance, leave, transfers, salary and allowance processing. Its HR desk links Head Office policy t...","textChars":219,"textLines":1,"bbox":[996.88,389.43,665.83,418.87]}
+{"kind":"textbox","id":"sh/83ulovat","slide":3,"name":"TextBox 13","text":"Union Bank of India","textPreview":"Union Bank of India","textChars":19,"textLines":1,"bbox":[303.99,312.51,657.41,53]}
+{"kind":"textbox","id":"sh/v6l4jq94","slide":3,"name":"TextBox 14","text":"Regional Office Chennai South","textPreview":"Regional Office Chennai South","textChars":29,"textLines":1,"bbox":[1001.09,312.51,657.41,53]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":""}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"Internship Scope","textShapes":2}
+{"kind":"shape","id":"sh/1cj2d8b6","slide":4,"name":"Freeform 2","bbox":[1614.94,-133.84,755.42,799.53]}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"name":"TextBox 3","text":"Internship Scope\n","textPreview":"Internship Scope |","textChars":17,"textLines":2,"bbox":[445.29,96,1029.41,220]}
+{"kind":"shape","id":"sh/rm1k7yt4","slide":4,"name":"Freeform 4","bbox":[-397.32,376.1,755.42,799.53]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"name":"TextBox 6","text":"Objective: to gain practical exposure to HR operations in a public-sector bank, alongside primary data collection for the dissertation on Hybrid Learning and Training Effectiveness.\nDivisional Exposure: involved in orientation across the RO's HR desk, the Rural and Agriculture Business Department (RABD), Currency Chest, and the branch network.\n","textPreview":"Objective: to gain practical exposure to HR operations in a public-sector bank, alongside primary data collection for the dissertation on...","textChars":346,"textLines":3,"bbox":[308.64,311.51,1369.38,671]}
+{"kind":"shape","id":"sh/sna103ap","slide":4,"name":"Freeform 7","bbox":[1368.1,763.3,573.02,339.57]}
+{"kind":"shape","id":"sh/3ihk3et8","slide":4,"name":"Freeform 8","bbox":[1635.65,-75.3,284.39,326.55]}
+{"kind":"shape","id":"sh/jadsz2xk","slide":4,"name":"Freeform 13","bbox":[7.64,-313.37,162,707.52]}
+{"kind":"shape","id":"sh/w72947yt","slide":4,"name":"TextBox 14","bbox":[48.14,-332.36,81,726.5]}
+{"kind":"shape","id":"sh/a5kr2xg3","slide":4,"name":"Freeform 16","bbox":[-46.03,-353.76,162,707.52]}
+{"kind":"shape","id":"sh/v6tsv2xo","slide":4,"name":"TextBox 17","bbox":[-5.53,-372.74,81,726.5]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":""}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"Work Areas","textShapes":6}
+{"kind":"shape","id":"sh/dgbulwnm","slide":5,"name":"Freeform 2","bbox":[1455.22,367.96,755.42,799.53]}
+{"kind":"shape","id":"sh/z2tcnm5s","slide":5,"name":"Freeform 4","bbox":[1370.7,506.18,261.55,261.55]}
+{"kind":"shape","id":"sh/yhkbe1o7","slide":5,"name":"TextBox 5","bbox":[1395.22,518.44,212.51,224.77]}
+{"kind":"shape","id":"sh/l4bupwny","slide":5,"name":"Freeform 6","bbox":[-21.6,-18.57,249.69,367.19]}
+{"kind":"shape","id":"sh/n6dcr65o","slide":5,"name":"Freeform 8","bbox":[-1.06,665.26,424.74,487.7]}
+{"kind":"shape","id":"sh/w32dkbuh","slide":5,"name":"Freeform 10","bbox":[50.15,704.98,162,707.52]}
+{"kind":"shape","id":"sh/x4vedgvm","slide":5,"name":"TextBox 11","bbox":[90.65,686,81,726.5]}
+{"kind":"shape","id":"sh/ahkvi1cb","slide":5,"name":"Freeform 12","bbox":[1584.56,-77.49,304.9,422.75]}
+{"kind":"shape","id":"sh/j6dwfqds","slide":5,"name":"Freeform 17","bbox":[287.76,506.18,261.55,261.55]}
+{"kind":"shape","id":"sh/sb6xsvu9","slide":5,"name":"TextBox 18","bbox":[312.28,518.44,212.51,224.77]}
+{"kind":"shape","id":"sh/hgrmpwj2","slide":5,"name":"Freeform 20","bbox":[654.61,506.18,261.55,261.55]}
+{"kind":"shape","id":"sh/gfi5grih","slide":5,"name":"TextBox 21","bbox":[679.13,518.44,212.51,224.77]}
+{"kind":"shape","id":"sh/fe94nm1w","slide":5,"name":"Freeform 22","bbox":[1425.18,542.48,160.98,196.43]}
+{"kind":"shape","id":"sh/ud0ne10b","slide":5,"name":"Freeform 23","bbox":[698.25,552.93,174.25,175.53]}
+{"kind":"shape","id":"sh/4ji5kbid","slide":5,"name":"Freeform 25","bbox":[1027.43,506.18,261.55,261.55]}
+{"kind":"shape","id":"sh/3i94r61s","slide":5,"name":"TextBox 26","bbox":[1051.95,518.44,212.51,224.77]}
+{"kind":"shape","id":"sh/2h0ni107","slide":5,"name":"Freeform 27","bbox":[1078.09,542.48,170.98,176.44]}
+{"kind":"shape","id":"sh/5o7mhcju","slide":5,"name":"Freeform 28","bbox":[328.8,547.64,179.45,178.63]}
+{"kind":"textbox","id":"sh/kny587i9","slide":5,"name":"TextBox 29","text":"Work Areas","textPreview":"Work Areas","textChars":10,"textLines":1,"bbox":[353.76,91,1212.48,157.53]}
+{"kind":"textbox","id":"sh/atcjidg7","slide":5,"name":"TextBox 30","text":"The internship covered four main work areas, moving from HR administration through fieldwork to change management.","textPreview":"The internship covered four main work areas, moving from HR administration through fieldwork to change management.","textChars":114,"textLines":1,"bbox":[281.03,316.04,1517.83,124.87]}
+{"kind":"textbox","id":"sh/vu5kbihc","slide":5,"name":"TextBox 31","text":"HR Administration","textPreview":"HR Administration","textChars":17,"textLines":1,"bbox":[249.86,810.85,325.19,40.87]}
+{"kind":"textbox","id":"sh/wve1knyx","slide":5,"name":"TextBox 32","text":"Branch Visits","textPreview":"Branch Visits","textChars":13,"textLines":1,"bbox":[1021.36,810.85,245.38,40.87]}
+{"kind":"textbox","id":"sh/xwn2dszi","slide":5,"name":"TextBox 33","text":"Transfers & Discipline","textPreview":"Transfers & Discipline","textChars":22,"textLines":1,"bbox":[615.61,810.85,327.38,40.87]}
+{"kind":"textbox","id":"sh/ihw3mxg3","slide":5,"name":"TextBox 34","text":"Change Management","textPreview":"Change Management","textChars":17,"textLines":1,"bbox":[1320.65,810.08,349.49,40.87]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":""}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"HR Administration","textShapes":7}
+{"kind":"shape","id":"sh/yhg7epsj","slide":6,"name":"Freeform 2","bbox":[782.08,849.81,755.42,799.53]}
+{"kind":"textbox","id":"sh/zi98nu94","slide":6,"name":"TextBox 3","text":"HR Administration","textPreview":"HR Administration","textChars":17,"textLines":1,"bbox":[445.29,91,1029.41,157.53]}
+{"kind":"shape","id":"sh/87ipkzal","slide":6,"name":"Freeform 4","bbox":[-51.73,767,754.19,410]}
+{"kind":"shape","id":"sh/ml07i9sv","slide":6,"name":"Freeform 6","bbox":[1522.44,690.63,343.11,475.73]}
+{"kind":"shape","id":"sh/7m98ru9g","slide":6,"name":"Freeform 7","bbox":[-617.41,66.94,755.42,799.53]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"TextBox 11","text":"Morning prayer followed by reading of circulars on performance, NPAs, policy updates and training requirements.","textPreview":"Morning prayer followed by reading of circulars on performance, NPAs, policy updates and training requirements.","textChars":111,"textLines":1,"bbox":[227.69,389.43,462.91,460.87]}
+{"kind":"textbox","id":"sh/v2tcn650","slide":6,"name":"TextBox 12","text":"Daily Circulars","textPreview":"Daily Circulars","textChars":15,"textLines":1,"bbox":[248.44,312.51,421.41,53]}
+{"kind":"textbox","id":"sh/u1kbu1ov","slide":6,"name":"TextBox 13","text":"Leave Sanctioning","textPreview":"Leave Sanctioning","textChars":17,"textLines":1,"bbox":[761.36,312.51,421.41,53]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"name":"TextBox 14","text":"Salary & Allowances","textPreview":"Salary & Allowances","textChars":19,"textLines":1,"bbox":[1274.28,312.51,421.41,53]}
+{"kind":"textbox","id":"sh/47mt0b6x","slide":6,"name":"TextBox 15","text":"Routine leave sanctioned at the RO; maternity, sabbatical and study leave need higher approval.","textPreview":"Routine leave sanctioned at the RO; maternity, sabbatical and study leave need higher approval.","textChars":95,"textLines":1,"bbox":[728.54,389.43,462.91,460.87]}
+{"kind":"textbox","id":"sh/j6dcr65c","slide":6,"name":"TextBox 16","text":"RO's role in processing pay, permissible allowances, and TA/conveyance claims for official travel between branches.","textPreview":"RO's role in processing pay, permissible allowances, and TA/conveyance claims for official travel between branches.","textChars":115,"textLines":1,"bbox":[1253.53,389.43,462.91,460.87]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":""}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"Transfers, Discipline & RABD","textShapes":7}
+{"kind":"shape","id":"sh/cb2tkvap","slide":7,"name":"Freeform 2","bbox":[782.08,849.81,755.42,799.53]}
+{"kind":"textbox","id":"sh/dcbud0ra","slide":7,"name":"TextBox 3","text":"Transfers, Discipline & RABD\n","textPreview":"Transfers, Discipline & RABD |","textChars":29,"textLines":2,"bbox":[445.29,98,1029.41,182.67]}
+{"kind":"shape","id":"sh/ydkbm5sv","slide":7,"name":"Freeform 4","bbox":[-51.73,767,754.19,410]}
+{"kind":"shape","id":"sh/kzmdova1","slide":7,"name":"Freeform 6","bbox":[1522.44,690.63,343.11,475.73]}
+{"kind":"shape","id":"sh/l0vuh0rm","slide":7,"name":"Freeform 7","bbox":[-617.41,66.94,755.42,799.53]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"name":"TextBox 11","text":"inter-state transfers involve management, unions and the Head Office; intra-region transfers are handled directly by the RO\n","textPreview":"inter-state transfers involve management, unions and the Head Office; intra-region transfers are handled directly by the RO |","textChars":124,"textLines":2,"bbox":[227.69,389.43,462.91,250.87]}
+{"kind":"textbox","id":"sh/xcz2l03q","slide":7,"name":"TextBox 12","text":"Transfer Policy\n","textPreview":"Transfer Policy |","textChars":16,"textLines":2,"bbox":[142.05,312.51,421.41,115.47]}
+{"kind":"textbox","id":"sh/cbq1sv25","slide":7,"name":"TextBox 13","text":"Discipline\n","textPreview":"Discipline |","textChars":11,"textLines":2,"bbox":[702.46,312.51,421.41,115.47]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"TextBox 14","text":"RABD & PSL\n","textPreview":"RABD & PSL |","textChars":11,"textLines":2,"bbox":[1262.46,312.51,572.34,115.47]}
+{"kind":"textbox","id":"sh/25ojml43","slide":7,"name":"TextBox 15","text":"reporting of an issue, examination by the concerned authority, and a formal inquiry where necessary.\n","textPreview":"reporting of an issue, examination by the concerned authority, and a formal inquiry where necessary. |","textChars":101,"textLines":2,"bbox":[728.54,389.43,462.91,208.87]}
+{"kind":"textbox","id":"sh/p8fih03e","slide":7,"name":"TextBox 16","text":"agricultural lending, rural development schemes, and mandatory credit to agriculture, MSMEs, education, housing and weaker sections — the bank's role in financial inclusion.\n","textPreview":"agricultural lending, rural development schemes, and mandatory credit to agriculture, MSMEs, education, housing and weaker sections — the...","textChars":174,"textLines":2,"bbox":[1262.46,389.43,462.91,292.87]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":""}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"Branch Visits","textShapes":5}
+{"kind":"shape","id":"sh/18byd4zy","slide":8,"name":"Freeform 2","bbox":[1545.22,229.88,755.42,799.53]}
+{"kind":"textbox","id":"sh/g72x4zyd","slide":8,"name":"TextBox 3","text":"Branch Visits","textPreview":"Branch Visits","textChars":13,"textLines":1,"bbox":[445.29,91,1029.41,157.53]}
+{"kind":"shape","id":"sh/ri9g7uhw","slide":8,"name":"Freeform 4","bbox":[1486.73,-111.28,360.48,530.11]}
+{"kind":"shape","id":"sh/tkby9kzm","slide":8,"name":"Freeform 6","bbox":[-481.34,178.35,755.42,799.53]}
+{"kind":"shape","id":"sh/sjix0zy1","slide":8,"name":"Freeform 7","bbox":[-28.64,561.79,373.71,549.58]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"TextBox 11","text":"What I Did","textPreview":"What I Did","textChars":10,"textLines":1,"bbox":[303.99,312.51,657.41,53]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"TextBox 12","text":"What I Found","textPreview":"What I Found","textChars":12,"textLines":1,"bbox":[1001.09,312.51,657.41,53]}
+{"kind":"textbox","id":"sh/n6pwfmd8","slide":8,"name":"TextBox 13","text":"Visited 27 branches across the region plus RO departments (Retail Loans, Currency Chest) to administer a questionnaire on training effectiveness.","textPreview":"Visited 27 branches across the region plus RO departments (Retail Loans, Currency Chest) to administer a questionnaire on training effect...","textChars":145,"textLines":1,"bbox":[269.16,389.43,665.83,418.87]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"name":"TextBox 14","text":"Staffing varied widely (e.g. Triplicane 2 ran on 2 officers and 1 cashier), directly limiting training time. Employees compared classroom, online and live-streamed training and how far they applied it at work.","textPreview":"Staffing varied widely (e.g. Triplicane 2 ran on 2 officers and 1 cashier), directly limiting training time. Employees compared classroom...","textChars":209,"textLines":1,"bbox":[985.01,389.43,665.83,418.87]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":""}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"Change Management","textShapes":6}
+{"kind":"shape","id":"sh/1cfmhgne","slide":9,"name":"Freeform 2","bbox":[-49.83,643.26,2019.67,767.47]}
+{"kind":"shape","id":"sh/0b65obm9","slide":9,"name":"Freeform 3","bbox":[1280.64,-291.76,755.42,799.53]}
+{"kind":"textbox","id":"sh/nex4jq5k","slide":9,"name":"TextBox 4","text":"Change Management","textPreview":"Change Management","textChars":17,"textLines":1,"bbox":[445.29,91,1029.41,157.53]}
+{"kind":"shape","id":"sh/9gzml0nq","slide":9,"name":"Freeform 6","bbox":[-539.03,-245.98,755.42,799.53]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"name":"TextBox 10","text":"The Merger: Andhra Bank and Corporation Bank amalgamated with Union Bank of India, bringing employees from different legacy systems together.","textPreview":"The Merger: Andhra Bank and Corporation Bank amalgamated with Union Bank of India, bringing employees from different legacy systems toget...","textChars":141,"textLines":1,"bbox":[281.03,313.51,573.8,544.87]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"name":"TextBox 11","text":"SOP Adoption","textPreview":"SOP Adoption","textChars":12,"textLines":1,"bbox":[909.93,312.51,421.41,53]}
+{"kind":"textbox","id":"sh/2xsjepgb","slide":9,"name":"TextBox 12","text":"Staff had to learn common Standard Operating Procedures for documentation, authorisation levels and customer service.","textPreview":"Staff had to learn common Standard Operating Procedures for documentation, authorisation levels and customer service.","textChars":117,"textLines":1,"bbox":[909.93,389.38,804.78,124.87]}
+{"kind":"textbox","id":"sh/3y107axw","slide":9,"name":"TextBox 13","text":"Ongoing Training","textPreview":"Ongoing Training","textChars":16,"textLines":1,"bbox":[909.93,569.05,421.41,53]}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"name":"TextBox 14","text":"Continuous training, not one-time orientation, helped employees adapt with confidence to the merged systems.","textPreview":"Continuous training, not one-time orientation, helped employees adapt with confidence to the merged systems.","textChars":108,"textLines":1,"bbox":[909.93,645.92,804.78,124.87]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":""}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"Key Learnings","textShapes":2}
+{"kind":"shape","id":"sh/xc3mho32","slide":10,"name":"Freeform 2","bbox":[1614.94,-133.84,755.42,799.53]}
+{"kind":"textbox","id":"sh/cbu58j2h","slide":10,"name":"TextBox 3","text":"Key Learnings\n","textPreview":"Key Learnings |","textChars":14,"textLines":2,"bbox":[445.29,96,1029.41,220]}
+{"kind":"shape","id":"sh/zelojyl8","slide":10,"name":"Freeform 4","bbox":[-397.32,376.1,755.42,799.53]}
+{"kind":"textbox","id":"sh/l036l83y","slide":10,"name":"TextBox 6","text":"Broad HR Perspective: HR in a public-sector bank goes beyond recruitment and salary — it covers welfare, leave, transfers, training, internal communication and industrial relations.\nResearch Skills: developed professional communication, research ethics and respectful data collection in a live banking environment.\n","textPreview":"Broad HR Perspective: HR in a public-sector bank goes beyond recruitment and salary — it covers welfare, leave, transfers, training, inte...","textChars":315,"textLines":3,"bbox":[308.64,312.51,1369.38,778.53]}
+{"kind":"shape","id":"sh/kzu5c32t","slide":10,"name":"Freeform 7","bbox":[1368.1,763.3,573.02,339.57]}
+{"kind":"shape","id":"sh/725onyl4","slide":10,"name":"Freeform 8","bbox":[1635.65,-75.3,284.39,326.55]}
+{"kind":"shape","id":"sh/r6pcv6lw","slide":10,"name":"Freeform 13","bbox":[7.64,-313.37,162,707.52]}
+{"kind":"shape","id":"sh/0bit8b2d","slide":10,"name":"TextBox 14","bbox":[48.14,-332.36,81,726.5]}
+{"kind":"shape","id":"sh/e9gb61k7","slide":10,"name":"Freeform 16","bbox":[-46.03,-353.76,162,707.52]}
+{"kind":"shape","id":"sh/fapcz6ls","slide":10,"name":"TextBox 17","bbox":[-5.53,-372.74,81,726.5]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":""}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"Core Takeaways","textShapes":5}
+{"kind":"shape","id":"sh/xcryxg7y","slide":11,"name":"Freeform 2","bbox":[1392.29,-269.98,755.42,799.53]}
+{"kind":"textbox","id":"sh/wbih4b6d","slide":11,"name":"TextBox 3","text":"Core Takeaways","textPreview":"Core Takeaways","textChars":14,"textLines":1,"bbox":[445.29,91,1029.41,157.53]}
+{"kind":"shape","id":"sh/n69grmpw","slide":11,"name":"Freeform 4","bbox":[1165.81,790.97,754.19,410]}
+{"kind":"shape","id":"sh/98rytw72","slide":11,"name":"Freeform 6","bbox":[-548.19,12.92,755.42,799.53]}
+{"kind":"shape","id":"sh/ofqtgnyt","slide":11,"name":"Freeform 10","bbox":[-24,790.97,754.19,410]}
+{"kind":"textbox","id":"sh/9gza9sze","slide":11,"name":"TextBox 11","text":"Confidentiality and controlled access are central to handling employee records.","textPreview":"Confidentiality and controlled access are central to handling employee records.","textChars":79,"textLines":1,"bbox":[281.03,313.51,1411.83,124.87]}
+{"kind":"textbox","id":"sh/mdobedg3","slide":11,"name":"TextBox 12","text":"Staffing levels and branch workload directly shape training participation.","textPreview":"Staffing levels and branch workload directly shape training participation.","textChars":74,"textLines":1,"bbox":[281.03,459.32,1411.83,124.87]}
+{"kind":"textbox","id":"sh/nehs7iho","slide":11,"name":"TextBox 13","text":"Hybrid learning (classroom + digital + live) works best when matched to the branch's operating conditions.","textPreview":"Hybrid learning (classroom + digital + live) works best when matched to the branch's operating conditions.","textChars":106,"textLines":1,"bbox":[281.03,604.98,1411.83,124.87]}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":11,"name":"TextBox 14","text":"Training is a key tool of change management during organisational transitions.","textPreview":"Training is a key tool of change management during organisational transitions.","textChars":78,"textLines":1,"bbox":[281.03,750.79,1411.83,124.87]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":""}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"Conclusion","textShapes":6}
+{"kind":"shape","id":"sh/1gbm9s3a","slide":12,"name":"Freeform 2","bbox":[1404.31,710.13,755.42,799.53]}
+{"kind":"shape","id":"sh/0f2lgnmp","slide":12,"name":"Freeform 3","bbox":[1390.16,-551.11,755.42,799.53]}
+{"kind":"shape","id":"sh/q903ad4n","slide":12,"name":"Freeform 5","bbox":[142.96,991.93,464.36,432]}
+{"kind":"shape","id":"sh/dcbm583y","slide":12,"name":"Freeform 6","bbox":[644.89,747.5,464.36,432]}
+{"kind":"shape","id":"sh/sb2lcnmd","slide":12,"name":"Freeform 7","bbox":[1091.41,407.49,464.36,432]}
+{"kind":"shape","id":"sh/b6d4f2lc","slide":12,"name":"Freeform 8","bbox":[1456.98,-14.46,464.36,432]}
+{"kind":"textbox","id":"sh/a543mx4r","slide":12,"name":"TextBox 9","text":"Conclusion","textPreview":"Conclusion","textChars":10,"textLines":1,"bbox":[265.95,93.26,1461.85,157.53]}
+{"kind":"shape","id":"sh/wvupgz6t","slide":12,"name":"Freeform 10","bbox":[-32.23,805.25,560.39,304.65]}
+{"kind":"shape","id":"sh/orapcf6h","slide":12,"name":"Freeform 14","bbox":[286.78,567.85,96.7,157.36]}
+{"kind":"shape","id":"sh/9sj65kn2","slide":12,"name":"Freeform 15","bbox":[300.47,584.42,69.32,69.32]}
+{"kind":"shape","id":"sh/mps7a5or","slide":12,"name":"Freeform 16","bbox":[619.9,703.1,96.7,157.36]}
+{"kind":"shape","id":"sh/nq1o3a5w","slide":12,"name":"Freeform 17","bbox":[1126.37,716.95,96.7,157.36]}
+{"kind":"shape","id":"sh/0nap8f6l","slide":12,"name":"Freeform 18","bbox":[1626.8,624.53,96.7,157.36]}
+{"kind":"shape","id":"sh/1oj61kn6","slide":12,"name":"Freeform 19","bbox":[633.59,716.84,69.32,69.32]}
+{"kind":"shape","id":"sh/hkbm5wzu","slide":12,"name":"Freeform 20","bbox":[1140.06,733.44,69.32,69.32]}
+{"kind":"shape","id":"sh/gj25cry9","slide":12,"name":"Freeform 21","bbox":[1640.49,638.27,69.32,69.32]}
+{"kind":"shape","id":"sh/fit436ho","slide":12,"name":"Freeform 22","bbox":[646.62,725.11,43.26,52.79]}
+{"kind":"shape","id":"sh/uh0na1g3","slide":12,"name":"Freeform 23","bbox":[1152.6,745.82,44.24,44.56]}
+{"kind":"shape","id":"sh/tgrm1wzy","slide":12,"name":"Freeform 24","bbox":[303.77,587.86,62.73,62.44]}
+{"kind":"shape","id":"sh/sfi58ryd","slide":12,"name":"Freeform 25","bbox":[1649.78,648.48,50.74,48.9]}
+{"kind":"textbox","id":"sh/7u94zmhs","slide":12,"name":"TextBox 26","text":"Professional Growth","textPreview":"Professional Growth","textChars":19,"textLines":1,"bbox":[1049.77,643.48,249.91,40.87]}
+{"kind":"textbox","id":"sh/6t0n6hg7","slide":12,"name":"TextBox 27","text":"Operational Grounding","textPreview":"Operational Grounding","textChars":21,"textLines":1,"bbox":[490.47,633.27,355.55,40.87]}
+{"kind":"textbox","id":"sh/dcv6dgz2","slide":12,"name":"TextBox 28","text":"Dissertation Value","textPreview":"Dissertation Value","textChars":18,"textLines":1,"bbox":[1538.3,556.64,273.7,40.87]}
+{"kind":"textbox","id":"sh/cbm5kbyh","slide":12,"name":"TextBox 29","text":"Theory to Practice","textPreview":"Theory to Practice","textChars":18,"textLines":1,"bbox":[233.89,508.04,202.49,40.87]}
+{"kind":"textbox","id":"sh/alwbitsn","slide":12,"name":"TextBox 30","text":"The internship connected classroom learning with practical HR administration, fieldwork and change management, directly informing the dissertation on Hybrid Learning and Training Effectiveness.","textPreview":"The internship connected classroom learning with practical HR administration, fieldwork and change management, directly informing the dis...","textChars":193,"textLines":1,"bbox":[281.03,316.04,1517.83,124.87]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":""}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"Thank You","textShapes":2}
+{"kind":"textbox","id":"sh/q50nydsj","slide":13,"name":"TextBox 2","text":"Thank You","textPreview":"Thank You","textChars":9,"textLines":1,"bbox":[445.29,309.89,1029.41,224.67]}
+{"kind":"shape","id":"sh/bq9orito","slide":13,"name":"Freeform 3","bbox":[756.67,782.89,755.42,799.53]}
+{"kind":"shape","id":"sh/o3i5w3ad","slide":13,"name":"Freeform 4","bbox":[-38.78,733.81,754.19,410]}
+{"kind":"shape","id":"sh/21gnuts7","slide":13,"name":"Freeform 6","bbox":[1169.17,326.91,1149.89,436.96]}
+{"kind":"textbox","id":"sh/hcfy9k3u","slide":13,"name":"TextBox 10","text":"Presented by Sreetama Ghosh Ray\n","textPreview":"Presented by Sreetama Ghosh Ray |","textChars":32,"textLines":2,"bbox":[608.34,528,703.33,111]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":""}
