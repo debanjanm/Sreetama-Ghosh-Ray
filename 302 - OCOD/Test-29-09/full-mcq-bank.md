@@ -1,11 +1,11 @@
-# OC&OD Test (29 Sept) — Full MCQ Bank (35 per topic, trap-style)
-Source: Forces of OC & Models of OC pulled directly from "OC OD - Unit 1.pdf" / "OC OD - Unit 2.pdf". Basics of OD & Action Research are generic OD-textbook content (not in the supplied PDFs) — same disclaimer as revision-sheet.md and practice-mcq.md.
+# OC&OD Test (29 Sept) — Full MCQ Bank (50 per topic, trap-style)
+Source: Forces of OC & Models of OC pulled directly from "OC OD - Unit 1.pdf" / "OC OD - Unit 2.pdf" — now covering change-agent skills/roles, the 5 implementation strategies, all 6 Kotter&Schlesinger strategies, Kilmann's Team/Reward tracks, Kotter's middle steps, Weisbord's key diagnostic questions, and Sociotechnical/org-design detail that the first pass skipped. Basics of OD & Action Research are generic OD-textbook content (not in the supplied PDFs) — same disclaimer as revision-sheet.md and practice-mcq.md; this pass adds standard OD history (NTL, McGregor, Blake & Mouton, Argyris), the Cummings & Worley intervention typology, the OD consulting process, and Action Research variants (Action Learning, Participatory AR).
 
-Distractors below are deliberately built from REAL terms/names/numbers pulled from elsewhere in the same or a different topic (not throwaway fillers) — so you actually have to know which fact belongs where, not just spot the silly option.
+Distractors are built from REAL terms/names/numbers pulled from elsewhere in the same or a different topic — so you have to know which fact belongs where, not just spot the silly option.
 
 ---
 
-# TOPIC 1: FORCES OF OC (35 questions)
+# TOPIC 1: FORCES OF OC (50 questions)
 
 **1.** The notes define change as "any alteration which occurs in the overall ______ of an organisation."
 A) work environment  B) organisational climate  C) force field of driving and restraining forces  D) six boxes of organisational functioning
@@ -147,9 +147,69 @@ A) Dissatisfaction  B) Habit  C) Selective information processing  D) Group iner
 A) A person who initiates change in the organisation to increase organisational effectiveness  B) A manager trained by consultants who implements change within existing organisational norms  C) A strategy formulated by the change agent, also known as an OD intervention  D) A person with a high need for security who is likely to resist change
 **Answer: A**
 
+**36.** Which of the following is listed as a required SKILL for a change agent?
+A) Negotiation and influencing skills  B) Accounting proficiency  C) Legal drafting  D) Social media marketing
+**Answer: A**
+
+**37.** External change agents, per the notes, take a:
+A) Total view of the organisation as a system  B) Narrow view limited to one department  C) View shaped strongly by internal norms  D) View focused only on financial reporting
+**Answer: A**
+
+**38.** Which of these is TRUE of INTERNAL change agents, per the notes?
+A) They accept the system as given and apply change practices suitable to organisational norms  B) They take a totally objective outsider view, unaffected by norms  C) Their role is comprehensive and primarily diagnostic, like external agents  D) They are appointed only for one-time specific tasks, like external agents
+**Answer: A**
+
+**39.** Which of the following is one of the 6 listed "roles of a change agent" in the notes?
+A) He formulates strategies for change, known as OD interventions  B) He audits financial statements  C) He negotiates union wage contracts exclusively  D) He designs the reward system track
+**Answer: A**
+
+**40.** How many strategies/guidelines to implement change are listed in the notes (Use Group Forces, Change of Change Agent, Share Rewards, Cooperation of Unions, Concern for Employees)?
+A) 4  B) 5  C) 6  D) 8
+**Answer: B**
+
+**41.** Which strategy for implementing change argues that unions, though generally seen as anti-change, can themselves act as change agents if taken into confidence?
+A) Use the Group Forces  B) Cooperation of Unions  C) Change of Change Agent  D) Concern for Employees
+**Answer: B**
+
+**42.** Which strategy for implementing change states that the change agent must himself change first, to reinforce a psychological climate of support?
+A) Share Rewards  B) Concern for Employees  C) Change of Change Agent  D) Use the Group Forces
+**Answer: C**
+
+**43.** "A change should not be introduced for the sake of it... it must be by evolution and not by revolution" reflects which strategy for implementing change?
+A) Concern for Employees  B) Share Rewards  C) Cooperation of Unions  D) Use the Group Forces
+**Answer: A**
+
+**44.** Which of Kotter & Schlesinger's 6 resistance strategies works best "where there is a lack of information or inaccurate information and analysis"?
+A) Negotiation and Agreement  B) Education and Communication  C) Manipulation and Co-optation  D) Explicit and Implicit Coercion
+**Answer: B**
+
+**45.** Which Kotter & Schlesinger strategy is best used "where someone or some group will clearly lose out in a change and has considerable power to resist"?
+A) Participation and Involvement  B) Facilitation and Support  C) Negotiation and Agreement  D) Education and Communication
+**Answer: C**
+
+**46.** Which Kotter & Schlesinger strategy is commonly used "where people are resisting because of adjustment problems"?
+A) Facilitation and Support  B) Manipulation and Co-optation  C) Explicit and Implicit Coercion  D) Negotiation and Agreement
+**Answer: A**
+
+**47.** "It is speedy and can overcome any kind of resistance, but can be risky if it leaves people angry at the initiators" describes which Kotter & Schlesinger strategy?
+A) Participation and Involvement  B) Explicit and Implicit Coercion  C) Education and Communication  D) Facilitation and Support
+**Answer: B**
+
+**48.** A major drawback of "Participation and Involvement" as a resistance strategy is that it:
+A) Is always too expensive regardless of context  B) Can be time-consuming if participators design an inappropriate change  C) Leaves people feeling manipulated  D) Risks alerting others to negotiate for compliance
+**Answer: B**
+
+**49.** Which group-level resistance factor refers to the tendency of highly cohesive groups to resist management's attempts to change what the group does or who belongs to it?
+A) Group Inertia  B) Structural Inertia (cohesiveness)  C) Selective Information Processing  D) Economic Factors
+**Answer: B**
+
+**50.** Which group-level resistance factor refers to strong informal norms that specify appropriate/inappropriate behaviour and get disrupted by change?
+A) Group Inertia  B) Structural Inertia (cohesiveness)  C) Habit  D) Security
+**Answer: A**
+
 ---
 
-# TOPIC 2: BASICS OF OD (35 questions)
+# TOPIC 2: BASICS OF OD (50 questions)
 *(Generic OD-textbook content — not sourced from the supplied PDFs; verify wording against class material if available.)*
 
 **1.** OD stands for:
@@ -292,9 +352,69 @@ A) Participative, collaborative decision-making with employee involvement  B) De
 A) Kurt Lewin  B) Warner Burke  C) Richard Beckhard  D) French & Bell
 **Answer: B**
 
+**36.** Which organisation, founded in the late 1940s, is historically linked to the T-group/laboratory training movement that fed into OD's origins?
+A) National Training Laboratories (NTL)  B) The Tavistock Institute  C) Harvard Business School  D) McKinsey & Company
+**Answer: A**
+
+**37.** Which of these is widely considered one of the founding figures of Organization Development, alongside Kurt Lewin?
+A) Douglas McGregor  B) Marvin Weisbord  C) Warner Burke  D) Ralph Kilmann
+**Answer: A**
+
+**38.** Robert Blake and Jane Mouton, notable OD contributors, are best known for developing:
+A) The Managerial Grid  B) The Six-Box Model  C) The Burke-Litwin Model  D) Force Field Analysis
+**Answer: A**
+
+**39.** Chris Argyris, an influential OD theorist, is best known for his concept of:
+A) Double-loop learning  B) The Six-Box Model  C) Sociotechnical Systems  D) The 5-Track Model
+**Answer: A**
+
+**40.** Cummings & Worley's well-known classification of OD interventions includes which four broad categories?
+A) Human process, Techno-structural, HR management, and Strategic interventions  B) Financial, Legal, Marketing, and Operations interventions  C) Culture, Skills, Team, and Reward interventions  D) Unfreeze, Change, Refreeze, and Feedback interventions
+**Answer: A**
+
+**41.** A "techno-structural" OD intervention, per this typology, would most likely involve:
+A) Redesigning organisational structure or work design  B) Individual coaching/counselling only  C) Diagnosing culture via a Culture Track  D) Anchoring change permanently in corporate culture
+**Answer: A**
+
+**42.** A typical OD consulting process begins with which phase, before diagnosis?
+A) Entry and contracting  B) Evaluation  C) Refreezing  D) Consolidating gains
+**Answer: A**
+
+**43.** In OD, the "contracting" phase primarily involves:
+A) Clarifying expectations, roles, and terms of engagement between consultant and client  B) Signing a legally binding sales contract for products  C) Formulating a reward system track  D) Anchoring change permanently in culture
+**Answer: A**
+
+**44.** Which of these best fits the typical OD process sequence immediately AFTER diagnosis?
+A) Feedback to the client, followed by joint action planning  B) Immediate termination with no feedback  C) Skipping straight to evaluation  D) Structural redesign with no data shared
+**Answer: A**
+
+**45.** OD's emphasis on a "whole system" perspective is philosophically closest to which broader idea also seen in this course?
+A) General systems thinking (as in Sociotechnical Systems' "joint optimisation")  B) Classical economic theory  C) Pure financial accounting theory  D) Legal compliance theory
+**Answer: A**
+
+**46.** Which is a well-established criticism of OD as a change approach?
+A) It can be slow and resource-intensive compared to a quick top-down directive  B) It never uses any data  C) It ignores employees completely  D) It is identical to a hostile takeover
+**Answer: A**
+
+**47.** OD interventions targeting "Employee Well-being" would most likely include:
+A) Stress-management and work-life balance programmes  B) A structural redesign of reporting lines only  C) A new core-banking software rollout  D) A financial audit
+**Answer: A**
+
+**48.** Which is generally true of the OD consultant's stance toward the client organisation?
+A) Neutral, collaborative facilitator rather than an authority imposing solutions  B) An auditor solely checking regulatory compliance  C) A silent observer with no interaction  D) A decision-maker with sole authority over outcomes
+**Answer: A**
+
+**49.** OD differs from a purely "top-down rollout" style of change mainly by emphasising:
+A) Bottom-up, participative diagnosis and joint problem-solving throughout  B) Speed above all else, regardless of buy-in  C) A rigid, fixed sequence with no deviation  D) Anchoring change in culture as the very first step
+**Answer: A**
+
+**50.** Which of these is NOT typically considered an OD value?
+A) Collaboration  B) Trust and support  C) Centralized, unquestioned authority  D) Power equalisation
+**Answer: C**
+
 ---
 
-# TOPIC 3: ACTION RESEARCH (35 questions)
+# TOPIC 3: ACTION RESEARCH (50 questions)
 *(Generic OD-textbook content — not sourced from the supplied PDFs; verify wording against class material if available.)*
 
 **1.** Action Research, as a foundational OD methodology, is most closely associated with:
@@ -437,9 +557,69 @@ A) Also strictly top-down with no client input  B) Collaborative and jointly dia
 A) Diagnose → Gather data → Feed back → Plan jointly → Act → Re-evaluate, and repeat  B) Act first, diagnose never  C) A single meeting with no follow-through  D) Unfreeze → Change → Refreeze, with no data gathering at all
 **Answer: A**
 
+**36.** "Action Learning," a related but distinct concept from Action Research, is most closely associated with:
+A) Reg Revans  B) Kurt Lewin  C) Ralph Kilmann  D) Marvin Weisbord
+**Answer: A**
+
+**37.** "Participatory Action Research" differs from more traditional/diagnostic Action Research mainly by:
+A) Involving participants as co-researchers throughout, not just as subjects of study  B) Removing all data collection  C) Being led entirely by external experts with no client involvement  D) Following Kotter's 8-step sequence instead
+**Answer: A**
+
+**38.** Action Research is generally classified as which type of research, combining knowledge generation with practical problem-solving?
+A) Applied, participatory research  B) Purely theoretical, non-applied research  C) Purely quantitative market research  D) Legal/regulatory compliance research
+**Answer: A**
+
+**39.** Which of these best distinguishes Action Research from a standard one-off organisational survey?
+A) Action Research is cyclical and leads to joint action, not just data reporting  B) Action Research never involves any survey or data collection  C) A standard survey is always cyclical while Action Research is not  D) There is no meaningful difference between the two
+**Answer: A**
+
+**40.** In Action Research, "preliminary diagnosis" (paired with initial data gathering) primarily aims to:
+A) Form an initial understanding of the problem before deeper joint diagnosis  B) Immediately implement a permanent solution  C) Replace the need for any consultation with an expert  D) Anchor the change in organisational culture
+**Answer: A**
+
+**41.** The Action Research model is often visually represented as a:
+A) Spiral or cycle of interlocking steps that repeat over time  B) Straight, one-directional line with a clear endpoint  C) Six-box grid, like Weisbord's model  D) Pyramid hierarchy, like a functional organisational design
+**Answer: A**
+
+**42.** Which statement correctly contrasts Action Research with Lewin's separate 3-step (Unfreeze-Change-Refreeze) model?
+A) Action Research is a more detailed, cyclical methodology often used to operationalise the diagnosis-and-planning work within a broader change effort  B) They are entirely unrelated theories with no connection  C) Lewin's 3-step model is cyclical while Action Research is strictly linear  D) Action Research replaces the need for any unfreezing stage
+**Answer: A**
+
+**43.** A key strength of Action Research, often cited in OD literature, is that it:
+A) Reduces resistance by involving those affected in diagnosing their own problems  B) Removes the need for any behavioural science expertise  C) Works only in small organisations  D) Eliminates the need for a change agent entirely
+**Answer: A**
+
+**44.** Which of these would be considered a LIMITATION of Action Research as a change approach?
+A) It can be time-consuming due to its cyclical, collaborative nature  B) It never generates useful data  C) It cannot be used in any organisational setting  D) It requires no client participation at all
+**Answer: A**
+
+**45.** In the Action Research cycle, if the "data gathering after action" step reveals the problem persists, what happens next?
+A) A new cycle of diagnosis and action planning begins  B) The entire Action Research approach is permanently abandoned  C) The process moves straight to "Termination"  D) No further steps are taken; the data is discarded
+**Answer: A**
+
+**46.** Which best reflects the collaborative philosophy embedded in Action Research's "joint action planning" step?
+A) Both consultant and client contribute to designing the intervention together  B) Only the consultant designs the intervention, unilaterally  C) Only the client designs the intervention, with no consultant input  D) The plan is decided by a company-wide vote among all employees
+**Answer: A**
+
+**47.** Action Research, when used within OD, ultimately serves which dual purpose?
+A) To both diagnose/understand the problem AND to actually improve the situation  B) Only to produce an academic research paper  C) Only to satisfy a regulatory requirement  D) Only to reduce costs, with no diagnostic value
+**Answer: A**
+
+**48.** Which of the following would be an appropriate FIRST action once "Problem identification" surfaces a genuine issue?
+A) Consult with a behavioural science expert to help interpret it  B) Immediately implement a company-wide policy change  C) Terminate the change effort  D) Skip to "data gathering after action"
+**Answer: A**
+
+**49.** Action Research's iterative nature means that "termination" of a project:
+A) Is not a fixed step in the basic French & Bell cycle, since new data can always trigger another cycle  B) Always happens after exactly one cycle, by design  C) Is the very first step of the process  D) Happens automatically after "problem identification," with no further steps
+**Answer: A**
+
+**50.** Overall, which best captures Action Research's core contribution to OD practice?
+A) A disciplined way to combine evidence-based diagnosis with genuinely collaborative, iterative change  B) A purely financial forecasting tool with no behavioural component  C) A one-time employee satisfaction survey  D) A strict, non-negotiable 8-step compliance checklist
+**Answer: A**
+
 ---
 
-# TOPIC 4: MODELS OF OC (35 questions)
+# TOPIC 4: MODELS OF OC (50 questions)
 
 **1.** Kurt Lewin's model of organisational change consists of which three steps, in order?
 A) Change, Unfreeze, Refreeze  B) Unfreeze, Change, Refreeze  C) Refreeze, Change, Unfreeze  D) Diagnose, Feedback, Act
@@ -579,4 +759,64 @@ A) Functional Design  B) Geographical Design  C) Matrix Structure  D) Product-Or
 
 **35.** A design model where the organisation divides itself into regions such as America, Europe and Asia is called:
 A) Functional Organizational Design  B) Geographical Organizational Design  C) Matrix Structure  D) Market-Oriented Design
+**Answer: B**
+
+**36.** Per the notes, the Kurt Lewin model can help a leader do all of the following EXCEPT:
+A) Make a radical change  B) Minimize the disruption of the structure's operations  C) Make sure the change is adopted permanently  D) Anchor the change in corporate culture through short-term wins
+**Answer: D**
+
+**37.** Burke describes two distinct sets of organisational dynamics. One is associated with everyday interactions/exchanges that create climate; the other concerns:
+A) Sudden "leaps" in behaviour required for genuine culture change  B) The reward system track  C) Minimal critical specification  D) The whole task concept
+**Answer: A**
+
+**38.** Which of Kilmann's tracks "keeps dysfunctional behaviour in check so negativity will not disrupt cooperative team efforts"?
+A) The Culture Track  B) The Skills Track  C) The Team Track  D) The Reward System Track
+**Answer: C**
+
+**39.** The Reward System Track, per Kilmann, is implemented through a process of how many steps?
+A) 5  B) 7  C) 8  D) 3
+**Answer: B**
+
+**40.** In Kotter's model, "Forming Powerful Guiding Coalitions" is achieved partly by:
+A) Identifying effective change leaders and key stakeholders and forming a team  B) Surfacing actual cultural norms  C) Diagnosing the client system's problem  D) Establishing new reward structures
+**Answer: A**
+
+**41.** In Kotter's model, "Creating Short-Term Wins" involves:
+A) Creating many short-term, achievable targets instead of one long-term goal  B) Establishing alternative routes for change  C) Assessing motivation and capacity for change  D) Surfacing dysfunctional norms
+**Answer: A**
+
+**42.** Which Weisbord Six-Box question asks: "Do organisational members agree with and support the organisation's mission and goals?"
+A) Structure  B) Purposes  C) Relationships  D) Helpful Mechanisms
+**Answer: B**
+
+**43.** Which Weisbord Six-Box question asks: "What are the modes of conflict, and what is the quality of relations between individuals/departments?"
+A) Relationships  B) Rewards  C) Leadership  D) Purposes
+**Answer: A**
+
+**44.** The ETHICS methodology, developed by Mumford using Action Research to improve work design, stands for:
+A) Effective Technical & Human Implementation of Computer-based Systems  B) Economic Theory of Human Industrial Change Systems  C) External Technology and Human Interaction Control System  D) Efficient Team-based Holographic Industrial Control Strategy
+**Answer: A**
+
+**45.** "Responsible autonomy," a Sociotechnical Systems concept, refers to:
+A) Self-regulating small groups with internal supervision/leadership  B) A leader's unilateral control over all group decisions  C) The reward system being tied strictly to individual output  D) Complete absence of any regulation at group level
+**Answer: A**
+
+**46.** Trist and Bamforth's foundational 1951 sociotechnical case study was based on observing:
+A) Falling productivity and rising absenteeism despite improved technology and pay, in coal mines  B) Rising productivity in automobile assembly lines  C) A banking sector merger  D) A retail chain's customer service scores
+**Answer: A**
+
+**47.** In a functional organisational design model, the structure is best compared to:
+A) A military line of command with a strict pyramidal hierarchy  B) A matrix with dual reporting lines  C) Semi-autonomous groups regulating themselves  D) A loosely coupled network with no hierarchy
+**Answer: A**
+
+**48.** In a geographical organisational design model, top management typically employs:
+A) Local decision-makers suited to regional/cultural sensibilities  B) Only one centralised decision-maker for all regions  C) Product managers assigned to each product line  D) Dual-reporting project managers
+**Answer: A**
+
+**49.** Companies like BMW, Ferrari and Ducati, with a niche customer base and personalised service, are cited in the notes as examples of which organisational design model?
+A) Functional Design  B) Market-Oriented Design  C) Matrix Structure  D) Geographical Design
+**Answer: B**
+
+**50.** According to the notes' conclusion on organisational design, successful multinational companies typically:
+A) Stick rigidly to just one design model across all countries and businesses  B) Use different design models (e.g. product-oriented in one country, matrix in another) depending on context  C) Avoid using any formal design model  D) Only ever use the matrix structure
 **Answer: B**
