@@ -1,5 +1,6 @@
-# OC&OD Test (29 Sept) — Full MCQ Bank (50 per topic, trap-style)
-Source: Forces of OC & Models of OC pulled directly from "OC OD - Unit 1.pdf" / "OC OD - Unit 2.pdf" — now covering change-agent skills/roles, the 5 implementation strategies, all 6 Kotter&Schlesinger strategies, Kilmann's Team/Reward tracks, Kotter's middle steps, Weisbord's key diagnostic questions, and Sociotechnical/org-design detail that the first pass skipped. Basics of OD & Action Research are generic OD-textbook content (not in the supplied PDFs) — same disclaimer as revision-sheet.md and practice-mcq.md; this pass adds standard OD history (NTL, McGregor, Blake & Mouton, Argyris), the Cummings & Worley intervention typology, the OD consulting process, and Action Research variants (Action Learning, Participatory AR).
+# OC&OD Test (29 Sept) — Full MCQ Bank (244 questions, trap-style)
+Topic 1: Forces of OC — 62 questions. Topic 2: Basics of OD — 60 questions. Topic 3: Action Research — 60 questions. Topic 4: Models of OC — 62 questions.
+Source: Forces of OC & Models of OC pulled directly from "OC OD - Unit 1.pdf" / "OC OD - Unit 2.pdf" — now covering change-agent skills/roles, the 5 implementation strategies, all 6 Kotter&Schlesinger strategies (incl. their advantages), Kilmann's all 5 tracks in depth, Lippitt's all 7 phases individually, Kotter's middle steps, Weisbord's key diagnostic questions, and deeper Sociotechnical/org-design detail (human redundancy, whole tasks, adaptability). Basics of OD & Action Research are generic OD-textbook content (not in the supplied PDFs) — same disclaimer as revision-sheet.md and practice-mcq.md; this pass adds standard OD history (NTL, McGregor, Blake & Mouton, Argyris), the Cummings & Worley intervention typology, the OD consulting process, Action Research variants (Action Learning, Participatory AR), and Appreciative Inquiry as a strength-based alternative to problem-based Action Research.
 
 Distractors are built from REAL terms/names/numbers pulled from elsewhere in the same or a different topic — so you have to know which fact belongs where, not just spot the silly option.
 
@@ -207,9 +208,57 @@ A) Group Inertia  B) Structural Inertia (cohesiveness)  C) Selective Information
 A) Group Inertia  B) Structural Inertia (cohesiveness)  C) Habit  D) Security
 **Answer: A**
 
+**51.** CNC, mentioned under "Technology" (used for metal cutting operations), stands for:
+A) Computer Numerical Control  B) Computer Integrated Manufacturing  C) Computer-Aided Design  D) Central Numeric Configuration
+**Answer: A**
+
+**52.** Which individual-level resistance factor is illustrated by the example of an office moving to a new location, forcing you to change your commute route, parking spot, and lunch routine?
+A) Habit  B) Security  C) Selective Information Processing  D) Economic Factors
+**Answer: A**
+
+**53.** Which individual-level resistance factor is illustrated by workers fearing they "might lose their jobs" or that "role relationships may be reorganized"?
+A) Habit  B) Security  C) Selective Information Processing  D) Economic Factors
+**Answer: B**
+
+**54.** The advantage of "Education and Communication" as a resistance strategy is that:
+A) Once persuaded, people will often help with implementing the change  B) It is the fastest possible strategy regardless of context  C) It always avoids the need for any further negotiation  D) It works only when speed is essential
+**Answer: A**
+
+**55.** The advantage of "Facilitation and Support" as a resistance strategy is that:
+A) No other approach works as well specifically for adjustment problems  B) It is the cheapest strategy in all situations  C) It avoids the need for any employee training  D) It is best where a group has considerable power to resist
+**Answer: A**
+
+**56.** The advantage of "Negotiation and Agreement" as a resistance strategy is that:
+A) It is sometimes a relatively easy way to avoid major resistance  B) It always builds long-term trust with no drawback  C) It requires no bargaining or incentives  D) It works only for adjustment problems
+**Answer: A**
+
+**57.** "Decentralized operations and participative management style" is described in the notes as a recent trend under which type of organisational-level change?
+A) Strategic Change  B) Structural Change  C) Process-Oriented Change  D) People-Oriented Change
+**Answer: B**
+
+**58.** Which resistance-to-change example describes union leaders accepting the installation of CNC machines despite the machines displacing part of the workforce?
+A) Cooperation of Unions  B) Use the Group Forces  C) Change of Change Agent  D) Concern for Employees
+**Answer: A**
+
+**59.** Under "Deficiencies in Existing Management Structure," which of these is explicitly listed?
+A) Lack of uniformity in policy decisions  B) High employee turnover  C) Selective information processing  D) Group inertia
+**Answer: A**
+
+**60.** Which internal force for change explicitly discusses "old managers are replaced by new managers... each manager brings his own ideas and way of working"?
+A) Change in Managerial Personnel  B) Nature of the Workforce  C) Managerial Behaviour/Decisions  D) Human Resource Problems/Prospects
+**Answer: A**
+
+**61.** Which internal force for change is illustrated by "excessive interpersonal conflict between managers and their subordinates," suggesting a need for interpersonal skills training?
+A) Managerial Behaviour/Decisions  B) Change in Managerial Personnel  C) Deficiencies in Existing Management Structure  D) To Avoid Developing Inertia
+**Answer: A**
+
+**62.** "Organisational changes take place just to avoid developing inertia or inflexibility" reflects which internal force for change?
+A) To Avoid Developing Inertia  B) Human Resource Problems/Prospects  C) Nature of the Workforce  D) Managerial Behaviour/Decisions
+**Answer: A**
+
 ---
 
-# TOPIC 2: BASICS OF OD (50 questions)
+# TOPIC 2: BASICS OF OD (60 questions)
 *(Generic OD-textbook content — not sourced from the supplied PDFs; verify wording against class material if available.)*
 
 **1.** OD stands for:
@@ -412,9 +461,49 @@ A) Bottom-up, participative diagnosis and joint problem-solving throughout  B) S
 A) Collaboration  B) Trust and support  C) Centralized, unquestioned authority  D) Power equalisation
 **Answer: C**
 
+**51.** Appreciative Inquiry (AI), a strength-based alternative to problem-focused Action Research, is most closely associated with:
+A) David Cooperrider  B) Kurt Lewin  C) Warner Burke  D) Ralph Kilmann
+**Answer: A**
+
+**52.** Appreciative Inquiry's core philosophy is to focus on:
+A) An organisation's problems and deficits that need fixing  B) An organisation's strengths and what is already working well, to build from there  C) Purely financial performance metrics  D) Punishing underperforming employees
+**Answer: B**
+
+**53.** Appreciative Inquiry's well-known cycle is often called the "4-D" model. Which of these is one of its four stages?
+A) Discover  B) Diagnose  C) Consult  D) Terminate
+**Answer: A**
+
+**54.** The 4 stages of Appreciative Inquiry's 4-D cycle are:
+A) Discover, Dream, Design, Destiny  B) Diagnose, Data-gather, Deliver, Debrief  C) Develop, Direct, Deploy, Defend  D) Disrupt, Decide, Do, Done
+**Answer: A**
+
+**55.** Unlike French & Bell's Action Research, which starts by identifying a "problem," Appreciative Inquiry's "Discover" phase starts by:
+A) Identifying what already works well ("the best of what is")  B) Identifying financial losses  C) Identifying which employees to lay off  D) Identifying legal compliance gaps
+**Answer: A**
+
+**56.** Appreciative Inquiry's "Dream" phase involves:
+A) Envisioning what the organisation could become at its best  B) Auditing past financial statements  C) Assigning blame for past failures  D) Drafting a termination letter
+**Answer: A**
+
+**57.** Appreciative Inquiry's "Destiny" phase focuses on:
+A) Sustaining and embedding the envisioned future changes  B) Identifying the original problem  C) Consulting a behavioural science expert for the first time  D) Surfacing dysfunctional cultural norms
+**Answer: A**
+
+**58.** Compared to traditional (deficit-based) Action Research, Appreciative Inquiry is generally considered:
+A) A more strength/positive-based approach to organisational change  B) Identical in every respect, just renamed  C) Focused purely on punishing resistance  D) A purely financial forecasting technique
+**Answer: A**
+
+**59.** Which of these change approaches would be LEAST likely to start a diagnosis by asking "what's wrong here"?
+A) Appreciative Inquiry  B) Traditional problem-based Action Research  C) Kotter's "create urgency" step, which often highlights threats  D) A standard SWOT-style weakness audit
+**Answer: A**
+
+**60.** Appreciative Inquiry is best classified as:
+A) An OD approach/intervention style, built on a positive, strength-based philosophy  B) A financial accounting standard  C) A type of organisational design model, like Matrix or Functional  D) A resistance-to-change strategy from Kotter & Schlesinger's list
+**Answer: A**
+
 ---
 
-# TOPIC 3: ACTION RESEARCH (50 questions)
+# TOPIC 3: ACTION RESEARCH (60 questions)
 *(Generic OD-textbook content — not sourced from the supplied PDFs; verify wording against class material if available.)*
 
 **1.** Action Research, as a foundational OD methodology, is most closely associated with:
@@ -617,9 +706,49 @@ A) Is not a fixed step in the basic French & Bell cycle, since new data can alwa
 A) A disciplined way to combine evidence-based diagnosis with genuinely collaborative, iterative change  B) A purely financial forecasting tool with no behavioural component  C) A one-time employee satisfaction survey  D) A strict, non-negotiable 8-step compliance checklist
 **Answer: A**
 
+**51.** Compared to traditional Action Research (which starts from a "problem"), Appreciative Inquiry starts from:
+A) An organisation's existing strengths and successes  B) A financial loss statement  C) A customer complaint log only  D) A legal compliance failure
+**Answer: A**
+
+**52.** Which best contrasts Action Research and Appreciative Inquiry?
+A) Action Research is generally deficit/problem-focused; Appreciative Inquiry is generally strength/possibility-focused  B) They are identical, just with different names  C) Appreciative Inquiry always uses more data than Action Research  D) Action Research was developed after Appreciative Inquiry
+**Answer: A**
+
+**53.** In both Action Research and Appreciative Inquiry, a common thread is that they are both:
+A) Collaborative approaches that actively involve organisational members in the change process  B) Purely top-down, imposed approaches with no employee involvement  C) One-time events with no follow-up  D) Concerned only with financial outcomes
+**Answer: A**
+
+**54.** Which of the following would Action Research and Appreciative Inquiry BOTH be classified as?
+A) OD change methodologies grounded in collaborative inquiry  B) Organisational design models, like Matrix or Functional  C) Resistance-to-change strategies from Kotter & Schlesinger's list  D) Types of organisational-level change, like Structural or Strategic
+**Answer: A**
+
+**55.** If a consultant chooses to ask "what is already working well here, and how can we build on it?" instead of "what is the problem?", they are most likely applying:
+A) Appreciative Inquiry rather than traditional Action Research  B) Kotter's "create urgency" step  C) Kilmann's Reward System Track  D) The Matrix Structure
+**Answer: A**
+
+**56.** Which step in French & Bell's Action Research most closely resembles Appreciative Inquiry's "Discover" phase, in that both involve gathering initial information about the organisation's current state?
+A) Data gathering & preliminary diagnosis  B) Terminal relationship  C) Refreezing  D) Anchoring change in corporate culture
+**Answer: A**
+
+**57.** A criticism sometimes made of Action Research (relevant when compared with Appreciative Inquiry) is that its problem-first framing can:
+A) Unintentionally focus energy on deficits rather than existing strengths  B) Make the process too fast and unplanned  C) Eliminate the need for any client involvement  D) Make data collection unnecessary
+**Answer: A**
+
+**58.** Which of these would be considered a HYBRID approach, using both deficit-based diagnosis and strength-based elements, in modern OD practice?
+A) Many contemporary OD consultants blend elements of Action Research and Appreciative Inquiry as needed  B) The Matrix Structure  C) The Burke-Litwin Model  D) The Weisbord Six-Box Model
+**Answer: A**
+
+**59.** Overall, the choice between Action Research and Appreciative Inquiry mainly reflects a difference in:
+A) Underlying philosophy — fixing problems vs. amplifying strengths — rather than a difference in whether data or collaboration is used  B) Whether any data is gathered at all  C) Whether the client is involved at all  D) Whether the process is planned or unplanned
+**Answer: A**
+
+**60.** Which statement is TRUE about both Action Research and Appreciative Inquiry?
+A) Both are cyclical, collaborative OD methodologies, just with different starting philosophies  B) Both were developed by Ralph Kilmann  C) Both are 8-step models with identical step names  D) Neither involves any client participation
+**Answer: A**
+
 ---
 
-# TOPIC 4: MODELS OF OC (50 questions)
+# TOPIC 4: MODELS OF OC (62 questions)
 
 **1.** Kurt Lewin's model of organisational change consists of which three steps, in order?
 A) Change, Unfreeze, Refreeze  B) Unfreeze, Change, Refreeze  C) Refreeze, Change, Unfreeze  D) Diagnose, Feedback, Act
@@ -820,3 +949,51 @@ A) Functional Design  B) Market-Oriented Design  C) Matrix Structure  D) Geograp
 **50.** According to the notes' conclusion on organisational design, successful multinational companies typically:
 A) Stick rigidly to just one design model across all countries and businesses  B) Use different design models (e.g. product-oriented in one country, matrix in another) depending on context  C) Avoid using any formal design model  D) Only ever use the matrix structure
 **Answer: B**
+
+**51.** Both the Culture Track and the Skills Track in Kilmann's model are 5-step processes. Which one begins with "surfacing actual norms"?
+A) The Culture Track  B) The Skills Track  C) The Team Track  D) The Reward System Track
+**Answer: A**
+
+**52.** Which of Kilmann's tracks begins its 5-step process with "sensing problems," not "surfacing norms"?
+A) The Culture Track  B) The Skills Track  C) The Strategy-Structure Track  D) The Reward System Track
+**Answer: B**
+
+**53.** In Lippitt's 7-phase model, Phase 2 is called:
+A) Change relationship — assessing motivation and capacity for change  B) Clarification — diagnosing the client system's problem  C) Establishing alternative routes  D) Stabilising change
+**Answer: A**
+
+**54.** In Lippitt's 7-phase model, Phase 3 is called:
+A) Change relationship  B) Clarification — diagnosing the client system's problem  C) Establishing alternative routes  D) Terminal relationship
+**Answer: B**
+
+**55.** In Lippitt's 7-phase model, Phase 5 is called:
+A) Establishing alternative routes  B) Transforming intentions into actual efforts to change  C) Stabilising change  D) Diagnose the problem
+**Answer: B**
+
+**56.** A "whole task," per Sociotechnical Systems theory, is best described as:
+A) A task split across many disconnected departments with no single owner  B) A task where responsibility rests squarely on a single, small, face-to-face group that experiences the entire cycle of operations  C) A task specified in complete detail, covering both what and how it must be done  D) A purely individual task with no group involvement at all
+**Answer: B**
+
+**57.** "Human redundancy," a concept linked to Sociotechnical Systems' semi-autonomous groups, refers to:
+A) Flexibility/ubiquity of resources, where groups can adjust aspiration levels to the age/stamina of individuals  B) Firing excess staff to cut costs  C) A formal performance-appraisal system  D) The reward system track's 7-step process
+**Answer: A**
+
+**58.** Sitter (1997) proposed two options for organisations facing rising complexity. One is increasing internal complexity via more staff functions; the other is:
+A) Simplifying the organisation while complexifying jobs ("simple organisations and complex jobs")  B) Ignoring complexity entirely  C) Adopting the Matrix Structure exclusively  D) Applying Kotter's 8-step model
+**Answer: A**
+
+**59.** Which organisational design model is described as working best for "self-contained working units, such as a small company or a freelance-assignment team," though issues tend to escalate vertically rather than resolve laterally?
+A) Functional Design  B) Geographical Design  C) Product-Oriented Design  D) Matrix Structure
+**Answer: A**
+
+**60.** Product-Oriented organisational design is said to work best in organisations that:
+A) Provide entrepreneurial opportunities to people with good business ideas  B) Operate across many countries with distinct local cultures  C) Require an employee to report to two bosses at once  D) Serve a very small, niche customer base like BMW or Ferrari
+**Answer: A**
+
+**61.** Which Burke-Litwin factor is explicitly distinguished from "organizational climate" as being "deep-seated, often unconscious, and difficult to change"?
+A) Organizational culture  B) Work climate  C) Task requirement  D) Management practices
+**Answer: A**
+
+**62.** The Burke-Litwin model states that transactional leadership is sufficient for causing:
+A) First-order change  B) Second-order change  C) Both first- and second-order change equally  D) Neither type of change
+**Answer: A**
