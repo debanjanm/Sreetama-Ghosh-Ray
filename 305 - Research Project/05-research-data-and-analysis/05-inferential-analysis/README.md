@@ -1,6 +1,6 @@
 # Stage 5 — Reliability and Inferential Analysis
 
-This stage reports reliability, Pearson correlations, and the two planned regression models for the 105 eligible records. It completes the statistical testing portion of Chapter 4.
+This stage reports reliability, Pearson correlations, and the two planned regression models for the 103 profile-complete records. It completes the statistical testing portion of Chapter 4.
 
 ## Files
 

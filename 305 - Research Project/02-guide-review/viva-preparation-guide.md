@@ -12,7 +12,7 @@ If you do not know a detail, say: **“I would like to check the exact table bef
 
 ### 30-second introduction
 
-> My study examines how employees experience hybrid training at Union Bank of India in the Chennai context. Hybrid training means that digital learning and face-to-face learning are used as connected parts of one programme. I studied whether Hybrid Learning and Trainer Competence are associated with Learner Engagement, and whether Learner Engagement is associated with perceived Training Effectiveness. I collected 132 responses through paper questionnaires and Google Forms, retained 105 eligible responses, and found positive, statistically significant relationships for all three hypotheses.
+> My study examines how employees experience hybrid training at Union Bank of India in the Chennai context. Hybrid training means that digital learning and face-to-face learning are used as connected parts of one programme. I studied whether Hybrid Learning and Trainer Competence are associated with Learner Engagement, and whether Learner Engagement is associated with perceived Training Effectiveness. I collected 132 responses through paper questionnaires and Google Forms, retained 103 profile-complete responses, and found positive, statistically significant relationships for all three hypotheses.
 
 ### Two-minute explanation
 
@@ -20,7 +20,7 @@ If you do not know a detail, say: **“I would like to check the exact table bef
 >
 > My research therefore focused on one recent programme attended by each eligible employee that included both digital and face-to-face learning. I studied four constructs. Hybrid Learning means how well the two modes were connected and how accessible the digital material was. Trainer Competence means the trainer’s knowledge, clarity, digital facilitation, participation support, and feedback. Learner Engagement means attention, effort, participation, interest, and clarification-seeking. Training Effectiveness means whether employees felt the learning was understandable, relevant, useful, and applicable to their work.
 >
-> I used a 30-question questionnaire. After screening, 105 eligible responses were analysed. The findings show that better reported Hybrid Learning and Trainer Competence were each positively associated with Learner Engagement. Higher Learner Engagement was positively associated with perceived Training Effectiveness. The study gives Union Bank practical areas to review, such as making the learning sequence clear, keeping Union Vidya material easy to find, supporting trainers, creating space for questions and practice, and connecting training with routine work. The findings describe associations in this selected Chennai sample; they do not prove cause and effect or represent every Union Bank employee.
+> I used a 30-question questionnaire. After screening, 103 profile-complete responses were analysed. The findings show that better reported Hybrid Learning and Trainer Competence were each positively associated with Learner Engagement. Higher Learner Engagement was positively associated with perceived Training Effectiveness. The study gives Union Bank practical areas to review, such as making the learning sequence clear, keeping Union Vidya material easy to find, supporting trainers, creating space for questions and practice, and connecting training with routine work. The findings describe associations in this selected Chennai sample; they do not prove cause and effect or represent every Union Bank employee.
 
 ### Simple model explanation
 
@@ -408,9 +408,9 @@ Trainer Competence ┘
 
 ### 46. How many responses did you receive and retain?
 
-**Say:** I received 132 responses. After eligibility screening, 105 eligible responses were retained: 56 paper responses and 49 online responses.
+**Say:** I received 132 responses. After eligibility screening, 103 profile-complete responses were retained: 54 paper responses and 49 online responses.
 
-**Remember:** 132 received; 105 retained.
+**Remember:** 132 received; 103 profile-complete records retained.
 
 **If asked further:** The original target was about 80 eligible responses, so the final usable sample exceeded that target.
 
@@ -440,17 +440,17 @@ Trainer Competence ┘
 
 **If asked further:** Repeated anonymous response patterns were noted but retained because similarity alone does not prove duplicate respondents.
 
-### 50. What were the two imputations?
+### 50. How were the two unclear responses handled?
 
-**Say:** Two otherwise eligible paper forms had one unclear item each. Manual-25 had HL6 replaced by 3.333, the mean of the respondent’s other six Hybrid Learning items. Manual-46 had HL4 replaced by 4.000 using the same within-construct mean rule.
+**Say:** Two otherwise eligible paper forms had one unclear item each. The within-construct rule assigned the nearest valid response category after considering the other items: Manual-25 HL6 was recorded as 3, and Manual-46 HL4 as 4.
 
-**Remember:** Manual-25 HL6 = 3.333; Manual-46 HL4 = 4.000.
+**Remember:** Manual-25 HL6 = 3; Manual-46 HL4 = 4.
 
 **If asked further:** No retained record had two or more unclear scored items; those would have been excluded under the stated rule.
 
-### 51. Why did you use mean imputation for those two items?
+### 51. Why did you use the within-construct rule for those two items?
 
-**Say:** There was only one unclear item in each otherwise complete record. Using the respondent’s mean for the remaining items in the same construct preserved the record while keeping the replacement tied to that respondent’s own pattern. Both cases were documented transparently.
+**Say:** There was only one unclear item in each otherwise complete record. The scoring rule used the respondent’s remaining items in the same construct and assigned the nearest valid response category. Both cases were documented in the internal cleaning record.
 
 **Remember:** Two isolated cases only.
 
@@ -466,7 +466,7 @@ Trainer Competence ┘
 
 ### 53. What were your Cronbach’s alpha values?
 
-**Say:** Hybrid Learning was 0.961, Trainer Competence was 0.969, Learner Engagement was 0.958, and Training Effectiveness was 0.971.
+**Say:** Hybrid Learning was 0.962, Trainer Competence was 0.969, Learner Engagement was 0.958, and Training Effectiveness was 0.972.
 
 **Remember:** All above .95; high internal consistency.
 
@@ -502,7 +502,7 @@ Trainer Competence ┘
 
 **Remember:** Do not falsely state that SPSS produced an output if it was not actually run.
 
-**If asked further:** The calculations are fully documented from the frozen 105-record dataset, so they can be reproduced in SPSS.
+**If asked further:** The calculations are fully documented from the frozen 103-record dataset, so they can be reproduced in SPSS.
 
 ## G. Findings, strategies, limitations, and future research
 
@@ -536,7 +536,7 @@ Trainer Competence ┘
 
 The safest accurate conclusion is:
 
-> Among the 105 eligible respondents, more positive Hybrid Learning and Trainer Competence perceptions were associated with higher Learner Engagement, and higher Learner Engagement was associated with higher perceived Training Effectiveness. The study gives Union Bank focused employee feedback for reviewing hybrid-training design, while remaining limited to a selected, cross-sectional, self-report Chennai sample.
+> Among the 103 profile-complete respondents, more positive Hybrid Learning and Trainer Competence perceptions were associated with higher Learner Engagement, and higher Learner Engagement was associated with higher perceived Training Effectiveness. The study gives Union Bank focused employee feedback for reviewing hybrid-training design, while remaining limited to a selected, cross-sectional, self-report Chennai sample.
 
 ---
 
@@ -592,9 +592,9 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **If asked further:** It cannot establish what came first or prove cause and effect. A future pre-training and post-training study would be stronger for that purpose.
 
-## H7. Is 105 respondents enough for four constructs and 26 items?
+## H7. Are 103 respondents enough for four constructs and 26 items?
 
-**Say:** The 105 eligible records are adequate for the planned descriptive statistics, reliability checks, Pearson correlations, and two-predictor regression. The study uses four averaged construct scores for the relationship analysis. It does not claim that this sample is sufficient for full scale validation, SEM, or national representation of Union Bank employees.
+**Say:** The 103 profile-complete records are adequate for the planned descriptive statistics, reliability checks, Pearson correlations, and two-predictor regression. The study uses four averaged construct scores for the relationship analysis. It does not claim that this sample is sufficient for full scale validation, SEM, or national representation of Union Bank employees.
 
 **Remember:** Adequate for planned analysis; not for every possible analysis.
 
@@ -610,7 +610,7 @@ These questions are more likely when the guide tests the boundaries of the study
 
 ## H9. What was your response rate?
 
-**Say:** I cannot calculate a formal response rate because I did not maintain one complete denominator for every employee approached or invited across branch visits and the shareable Google Forms link. I therefore report the auditable counts: 132 responses received, 27 excluded after eligibility screening, and 105 eligible responses analysed.
+**Say:** I cannot calculate a formal response rate because I did not maintain one complete denominator for every employee approached or invited across branch visits and the shareable Google Forms link. I therefore report the auditable counts: 132 responses received, 27 excluded after eligibility screening, and 103 profile-complete responses analysed.
 
 **Remember:** Do not invent an approached/invited total.
 
@@ -638,7 +638,7 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **Remember:** Paper source record, manual verification, documented exceptions.
 
-**If asked further:** The final data-quality audit records 70 verified manual records and the two imputation decisions.
+**If asked further:** The final data-quality audit records 70 verified manual records and the two documented response decisions.
 
 ## H13. How do you know that similar answers were not duplicate responses?
 
@@ -648,7 +648,7 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **If asked further:** The questionnaire did not collect names, because anonymity was part of the ethical approach.
 
-## H14. Your alpha values are .958 to .971. Are your questions redundant?
+## H14. Your alpha values are .958 to .972. Are your questions redundant?
 
 **Say:** The alpha values show very high internal consistency, meaning the items in each construct moved closely together in this sample. That can be useful for reliability, but it can also indicate that some items are closely related. I therefore do not treat alpha alone as proof of perfect measurement or full scale validation.
 

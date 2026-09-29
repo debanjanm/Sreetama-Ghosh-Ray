@@ -45,7 +45,7 @@ The menu bar across the top (Analyze, Graphs, Transform, etc.) is where everythi
 
 ## 4. Importing this study's data
 
-Your file is `final-analysis-data.csv`, already scored (105 rows, one per eligible respondent, with `Hybrid_Learning`, `Trainer_Competence`, `Learner_Engagement`, `Training_Effectiveness` already calculated as construct means).
+Your file is `final-analysis-data.csv`, already scored (103 rows, one per profile-complete respondent, with `Hybrid_Learning`, `Trainer_Competence`, `Learner_Engagement`, `Training_Effectiveness` already calculated as construct means).
 
 1. Open SPSS → **File → Open → Data...**
 2. In the file-type dropdown, choose **CSV (*.csv)**.
@@ -55,7 +55,7 @@ Your file is `final-analysis-data.csv`, already scored (105 rows, one per eligib
    - Delimited, and "Are variable names included at the top?" → **Yes**.
    - Delimiter → **Comma**.
    - Click through **Next** on the remaining screens (defaults are fine), then **Finish**.
-5. Check Data View — you should see 105 rows and columns including `response_id`, `HL1`...`TE7`, and the four construct-mean columns.
+5. Check Data View — you should see 103 rows and columns including `response_id`, `HL1`...`TE7`, and the four construct-mean columns.
 
 **Shortcut:** a ready-made syntax file, `final-analysis-spss-syntax.sps`, already exists in this same folder and does steps above automatically plus runs every analysis below in one go. To use it: **File → Open → Syntax**, open that file, then **Run → All**. The menu steps below are for understanding *what* that syntax does and for running things individually if you want to double-check one result at a time.
 
@@ -84,7 +84,7 @@ Output: one table with mean/SD per item and per construct — matches Tables 4.5
 - Repeat with **LE1 to LE6** only.
 - Repeat with **TE1 to TE7** only.
 
-Important: each run uses *only* the items for that one construct — don't mix constructs in the same run, or the alpha will be meaningless. Expected results for this dataset: HL ≈ .961, TC ≈ .969, LE ≈ .958, TE ≈ .971 (Table 4.10).
+Important: each run uses *only* the items for that one construct — don't mix constructs in the same run, or the alpha will be meaningless. Expected results for this dataset: HL ≈ .962, TC ≈ .969, LE ≈ .958, TE ≈ .972 (Table 4.10).
 
 ### 5.4 Correlation (tests H1, H2, H3)
 
@@ -134,4 +134,4 @@ To put a table into a Word document: right-click the table in the Output Viewer 
 
 - **"Text Import Wizard" shows garbled columns** → you probably picked the wrong delimiter; go back and choose Comma, not Tab or Semicolon.
 - **Reliability gives a negative or very low alpha** → you've likely included an item from the wrong construct, or a reverse-scored item is mixed in unreversed (this study has no reverse-scored items, so this shouldn't occur if only the correct 6–7 items are selected).
-- **Regression won't run / "insufficient valid cases"** → check for typos in variable names in the Data Editor; the two imputed values (Manual-25 HL6, Manual-46 HL4) should already be filled in as decimals, not blank.
+- **Regression won't run / "insufficient valid cases"** → check for typos in variable names in the Data Editor; the two corrected single-item values (Manual-25 HL6, Manual-46 HL4) should already be present as whole-number scores, not blank.

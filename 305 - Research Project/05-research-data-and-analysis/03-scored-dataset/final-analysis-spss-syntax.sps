@@ -1,5 +1,5 @@
 * Hybrid Learning and Training Effectiveness at Union Bank of India.
-* Stage 3 syntax: 105 eligible response records.
+* Stage 3 syntax: 103 profile-complete response records.
 * Set SPSS's working directory to the folder that contains final-analysis-data.csv before running.
 
 GET DATA

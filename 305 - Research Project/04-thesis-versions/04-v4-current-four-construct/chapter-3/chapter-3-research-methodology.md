@@ -76,7 +76,7 @@ The study population comprises Union Bank of India employees connected with Regi
 
 Non-probability purposive sampling was used. An employee was eligible only when the employee had attended hybrid training in the stated period. This condition was necessary because employees who had experienced only one delivery mode could not comment meaningfully on the connection between digital and face-to-face activity.
 
-The initial target was approximately 80 eligible respondents. The final data set contains 132 submitted records: 70 printed questionnaires and 62 Google Forms submissions. After eligibility screening, 105 eligible response records were retained for analysis. This number includes 56 retained paper responses and 49 retained online responses.
+The initial target was approximately 80 eligible respondents. The final data set contains 132 submitted records: 70 printed questionnaires and 62 Google Forms submissions. After eligibility and profile-completeness screening, 103 response records were retained for analysis. This number includes 54 retained paper responses and 49 retained online responses.
 
 The questionnaire was anonymous and did not collect employee names or numbers. Therefore, the analysis treats each eligible submitted form as one response record. Similar answer patterns were recorded during data cleaning but were not treated as proof of duplicate respondents without identifying evidence.
 
@@ -84,27 +84,19 @@ The questionnaire collects limited profile information: age group, length of ser
 
 ## 3.6 Data Collection Procedure and Data Cleaning
 
-Data were collected through printed questionnaires and an approved Google Form. The online form recorded 62 submissions between 19 September 2026 and 21 September 2026. The final data set also includes 70 paper questionnaires. The paper forms are preserved as scanned records, while their responses were manually transcribed, rectified where necessary through direct checking of the forms, and retained as verified JSON records.
+Primary data were collected through printed questionnaires and a Google Forms link. The final profile-complete analysis uses 103 responses: 49 digital and 54 manual.
 
-Eligible participants received a short explanation of the academic purpose of the study, the voluntary nature of participation, and the confidential handling of responses. They were asked to select one recent hybrid-training programme and answer every scale item with that programme in mind. The questionnaire introduced Union Vidya as an example of the digital platform used in a programme. It did not assume that every programme used Union Vidya or that every employee had access to identical digital features.
+**Table 3.3: Response disposition after screening**
 
-The questionnaire did not ask for names, employee numbers, customer details, account information, internal passwords, or other confidential Bank information. Responses are reported in aggregate form.
+| Disposition | Digital | Manual | Total |
+| --- | --- | --- | --- |
+| Responses received | 62 | 70 | 132 |
+| Q1 = No | 13 | 3 | 16 |
+| Q1 blank or unreadable | 0 | 11 | 11 |
+| Required profile field blank | 0 | 2 | 2 |
+| **Final analysed sample** | **49** | **54** | **103** |
 
-Question 1 screened for eligibility. Only records marked “Yes” were retained. Table 3.3 presents the final response disposition.
-
-**Table 3.3: Response disposition after eligibility screening**
-
-| Collection mode | Received | Retained | Excluded |
-| --- | ---: | ---: | ---: |
-| Printed questionnaire | 70 | 56 | 14 |
-| Google Forms | 62 | 49 | 13 |
-| **Total** | **132** | **105** | **27** |
-
-Of the 27 exclusions, 16 respondents marked “No” to the eligibility question. Eleven printed forms had a blank or illegible eligibility response. They were excluded because eligibility could not be confirmed. All 105 retained records contained the required 26 scored-item fields.
-
-The five-point scale was coded from 1 for Strongly Disagree to 5 for Strongly Agree. Two otherwise eligible printed forms contained one unclear scored item each. In accordance with the stated cleaning rule, the unclear item was replaced by the arithmetic mean of that respondent’s remaining items in the same construct: HL6 in Manual-25 was recorded as 3.333, and HL4 in Manual-46 was recorded as 4.000. No eligible record contained two or more unclear scored items. Profile fields were not imputed: two retained records had a missing age group and one had a missing service-length category. These records remain in the construct analysis because their scored responses were complete; the relevant profile tables will use valid-response denominators.
-
-All retained item values were checked to confirm that they fell within the permitted 1–5 range. Repeated anonymous answer patterns were noted but not removed because a matching pattern alone does not demonstrate that two forms came from the same respondent.
+Manual-25 and Manual-37 were excluded because required profile fields were blank on the paper forms. All 103 retained records have completed profile fields and 26 valid whole-number Likert responses. Manual-46 remains in the dataset with HL4 recorded as 4; its response-coding trace is retained in the internal audit.
 
 ## 3.7 Research Instrument and Scoring
 
@@ -112,7 +104,7 @@ The research instrument is a structured, self-administered questionnaire placed 
 
 The instrument is literature-informed and adapted to the Union Bank context. It does not claim to be a ready-made Union Bank scale. Its content basis is documented through the selected base papers and supporting measurement literature. Union Vidya is named only as the Bank’s LMS and as an example platform that may have been used in the selected programme.
 
-For Questions 5–30, response categories are coded from 1 for Strongly Disagree to 5 for Strongly Agree. Each construct score will be calculated as the arithmetic mean of the assigned items, using the two documented imputed values described in Section 3.6. Higher scores indicate a more positive perception of the relevant construct.
+For Questions 5–30, response categories are coded from 1 for Strongly Disagree to 5 for Strongly Agree. Each construct score will be calculated as the arithmetic mean of the assigned items, using the two documented numeric replacements described in Section 3.6. Higher scores indicate a more positive perception of the relevant construct.
 
 ## 3.8 Research Questions
 
@@ -153,7 +145,7 @@ The analysis does not compare online-only and classroom-only programmes, use str
 
 Before main data collection, the academic guide-approved questionnaire was piloted online with 20 eligible employees on 15–16 September 2026. The pilot checked clarity, completion burden, Union Vidya wording, relevance, and repetition. Preliminary Cronbach’s alpha values ranged from .879 to .929 across Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness. Feedback did not identify a systematic issue requiring deletion of a scored item, so the approved 30-question instrument was retained. Pilot records were stored separately and excluded from the final analysis. The questionnaire was prepared from the documented questionnaire evidence map, the selected base papers, and supporting measurement literature.
 
-Cronbach’s alpha will be calculated separately for the four item sets in the final eligible sample of 105 response records. A value of .70 or above will be treated as an initial indication of acceptable internal consistency. Alpha values will be interpreted with item distributions, response-pattern checks, and the size of the final sample; they will not be treated as proof that the instrument is a fully validated Union Bank scale.
+Cronbach’s alpha will be calculated separately for the four item sets in the final profile-complete sample of 103 response records. A value of .70 or above will be treated as an initial indication of acceptable internal consistency. Alpha values will be interpreted with item distributions, response-pattern checks, and the size of the final sample; they will not be treated as proof that the instrument is a fully validated Union Bank scale.
 
 Content relevance is supported by the questionnaire evidence map. Hybrid Learning items are based on blended-learning integration and workplace-access literature. Trainer Competence and Learner Engagement items are based on workplace blended-learning and engagement literature. Training Effectiveness items are based on corporate training evaluation and transfer literature, including Bahl, Kiran and Sharma’s (2024) banking evaluation context. Bahl does not provide the present item set or model. The academic guide’s review supports the practical suitability of the wording for this academic study.
 

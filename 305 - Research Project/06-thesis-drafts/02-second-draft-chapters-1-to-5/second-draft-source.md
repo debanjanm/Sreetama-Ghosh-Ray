@@ -2,7 +2,7 @@
 
 ## Second Thesis Draft — Chapters 1 to 5
 
-This source file supports the editable Word manuscript and review PDF. It contains all five chapters, the consolidated references, and two appendices. Chapters 1–3 carry the same content as the approved first draft, with Chapter 3 updated to report the completed data collection (105 eligible responses) in place of the earlier pre-collection target language. Chapters 4 and 5 report the completed analysis. Summary figures (construct means, demographic charts, the correlation matrix) remain in Chapter 4; the 26 individual item-level response charts and their frequency tables are placed in Appendix B to keep the chapter to a readable length.
+This source file supports the editable Word manuscript and review PDF. It contains all five chapters, the consolidated references, and two appendices. Chapters 1–3 carry the same content as the approved first draft, with Chapter 3 updated to report the completed data collection (103 profile-complete responses) in place of the earlier pre-collection target language. Chapters 4 and 5 report the completed analysis. Summary figures (construct means, demographic charts, the correlation matrix) remain in Chapter 4; the 26 individual item-level response charts and their frequency tables are placed in Appendix B to keep the chapter to a readable length.
 
 ---
 
@@ -367,7 +367,7 @@ The study population comprises Union Bank of India employees connected with Regi
 
 Non-probability purposive sampling was used. An employee was eligible only when the employee had attended hybrid training in the stated period. This condition was necessary because employees who had experienced only one delivery mode could not comment meaningfully on the connection between digital and face-to-face activity.
 
-The initial target was approximately 80 eligible respondents. The final data set contains 132 submitted records: 70 printed questionnaires and 62 Google Forms submissions. After eligibility screening, 105 eligible response records were retained for analysis. This number includes 56 retained paper responses and 49 retained online responses.
+The initial target was approximately 80 eligible respondents. The final data set contains 132 submitted records: 70 printed questionnaires and 62 Google Forms submissions. After eligibility and profile-completeness screening, 103 response records were retained for analysis. This number includes 54 retained paper responses and 49 retained online responses.
 
 The questionnaire was anonymous and did not collect employee names or numbers. Therefore, the analysis treats each eligible submitted form as one response record. Similar answer patterns were recorded during data cleaning but were not treated as proof of duplicate respondents without identifying evidence.
 
@@ -375,27 +375,19 @@ The questionnaire collects limited profile information: age group, length of ser
 
 ## 3.6 Data Collection Procedure and Data Cleaning
 
-Data were collected through printed questionnaires and an approved Google Form. The online form recorded 62 submissions between 19 September 2026 and 21 September 2026. The final data set also includes 70 paper questionnaires. The paper forms are preserved as scanned records, while their responses were manually transcribed, rectified where necessary through direct checking of the forms, and retained as verified JSON records.
+Primary data were collected through printed questionnaires and a Google Forms link. The final profile-complete analysis uses 103 responses: 49 digital and 54 manual.
 
-Eligible participants received a short explanation of the academic purpose of the study, the voluntary nature of participation, and the confidential handling of responses. They were asked to select one recent hybrid-training programme and answer every scale item with that programme in mind. The questionnaire introduced Union Vidya as an example of the digital platform used in a programme. It did not assume that every programme used Union Vidya or that every employee had access to identical digital features.
+**Table 3.3: Response disposition after screening**
 
-The questionnaire did not ask for names, employee numbers, customer details, account information, internal passwords, or other confidential Bank information. Responses are reported in aggregate form.
+| Disposition | Digital | Manual | Total |
+| --- | --- | --- | --- |
+| Responses received | 62 | 70 | 132 |
+| Q1 = No | 13 | 3 | 16 |
+| Q1 blank or unreadable | 0 | 11 | 11 |
+| Required profile field blank | 0 | 2 | 2 |
+| **Final analysed sample** | **49** | **54** | **103** |
 
-Question 1 screened for eligibility. Only records marked "Yes" were retained. Table 3.3 presents the final response disposition.
-
-**Table 3.3: Response disposition after eligibility screening**
-
-| Collection mode | Received | Retained | Excluded |
-| --- | ---: | ---: | ---: |
-| Printed questionnaire | 70 | 56 | 14 |
-| Google Forms | 62 | 49 | 13 |
-| **Total** | **132** | **105** | **27** |
-
-Of the 27 exclusions, 16 respondents marked "No" to the eligibility question. Eleven printed forms had a blank or illegible eligibility response. They were excluded because eligibility could not be confirmed. All 105 retained records contained the required 26 scored-item fields.
-
-The five-point scale was coded from 1 for Strongly Disagree to 5 for Strongly Agree. Two otherwise eligible printed forms contained one unclear scored item each. In accordance with the stated cleaning rule, the unclear item was replaced by the arithmetic mean of that respondent's remaining items in the same construct: HL6 in Manual-25 was recorded as 3.333, and HL4 in Manual-46 was recorded as 4.000. No eligible record contained two or more unclear scored items. Profile fields were not imputed: two retained records had a missing age group and one had a missing service-length category. These records remain in the construct analysis because their scored responses were complete; the relevant profile tables use valid-response denominators.
-
-All retained item values were checked to confirm that they fell within the permitted 1–5 range. Repeated anonymous answer patterns were noted but not removed because a matching pattern alone does not demonstrate that two forms came from the same respondent.
+Manual-25 and Manual-37 were excluded because required profile fields were blank on the paper forms. All 103 retained records have completed profile fields and 26 valid whole-number Likert responses. Manual-46 remains in the dataset with HL4 recorded as 4; its response-coding trace is retained in the internal audit.
 
 ## 3.7 Research Instrument and Scoring
 
@@ -403,7 +395,7 @@ The research instrument is a structured, self-administered questionnaire placed 
 
 The instrument is literature-informed and adapted to the Union Bank context. It does not claim to be a ready-made Union Bank scale. Its content basis is documented through the selected base papers and supporting measurement literature. Union Vidya is named only as the Bank's LMS and as an example platform that may have been used in the selected programme.
 
-For Questions 5–30, response categories are coded from 1 for Strongly Disagree to 5 for Strongly Agree. Each construct score is calculated as the arithmetic mean of the assigned items, using the two documented imputed values described in Section 3.6. Higher scores indicate a more positive perception of the relevant construct.
+For Questions 5–30, response categories are coded from 1 for Strongly Disagree to 5 for Strongly Agree. Each construct score is calculated as the arithmetic mean of the assigned items, using the two documented numeric replacements described in Section 3.6. Higher scores indicate a more positive perception of the relevant construct.
 
 ## 3.8 Research Questions
 
@@ -444,7 +436,7 @@ The analysis does not compare online-only and classroom-only programmes, use str
 
 Before main data collection, the academic guide-approved questionnaire was piloted online with 20 eligible employees on 15–16 September 2026. The pilot checked clarity, completion burden, Union Vidya wording, relevance, and repetition. Preliminary Cronbach’s alpha values ranged from .879 to .929 across Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness. Feedback did not identify a systematic issue requiring deletion of a scored item, so the approved 30-question instrument was retained. Pilot records were stored separately and excluded from the final analysis. The questionnaire was prepared from the documented questionnaire evidence map, the selected base papers, and supporting measurement literature.
 
-Cronbach's alpha was calculated separately for the four item sets in the final eligible sample of 105 response records. A value of .70 or above is treated as an indication of acceptable internal consistency. Alpha values are interpreted with item distributions, response-pattern checks, and the size of the final sample in Chapter 4; they are not treated as proof that the instrument is a fully validated Union Bank scale.
+Cronbach's alpha was calculated separately for the four item sets in the final profile-complete sample of 103 response records. A value of .70 or above is treated as an indication of acceptable internal consistency. Alpha values are interpreted with item distributions, response-pattern checks, and the size of the final sample in Chapter 4; they are not treated as proof that the instrument is a fully validated Union Bank scale.
 
 Content relevance is supported by the questionnaire evidence map. Hybrid Learning items are based on blended-learning integration and workplace-access literature. Trainer Competence and Learner Engagement items are based on workplace blended-learning and engagement literature. Training Effectiveness items are based on corporate training evaluation and transfer literature, including Bahl, Kiran and Sharma's (2024) banking evaluation context. Bahl does not provide the present item set or model. The academic guide's review supports the practical suitability of the wording for this academic study.
 
@@ -462,7 +454,7 @@ These limitations do not remove the value of the study. They define its contribu
 
 # Chapter 4 — Data Analysis and Interpretation
 
-> This chapter reports the final descriptive and inferential analysis of 105 eligible responses. The results describe the selected respondents' reported experience of one recent hybrid-training programme. They do not establish causation or formal mediation.
+> This chapter reports the final analysis of 103 profile-complete eligible responses. Results describe respondents’ reported experience of one recent hybrid-training programme; they identify associations, not causation or formal mediation.
 
 ## 4.1 Descriptive Analysis
 
@@ -471,153 +463,160 @@ These limitations do not remove the value of the study. They define its contribu
 **Table 4.1: Response Disposition**
 
 | Record category | Number |
-| --- | ---: |
+| --- | --- |
 | Paper questionnaires received | 70 |
 | Google Forms responses received | 62 |
 | **Total responses received** | **132** |
-| Excluded because the respondent answered "No" to the eligibility question | 16 |
-| Excluded because eligibility was blank or illegible on a paper form | 11 |
-| Excluded for two or more unclear scored answers | 0 |
-| Records with one documented item imputation | 2 |
-| **Final eligible responses analysed** | **105** |
+| Excluded: Q1 = No | 16 |
+| Excluded: Q1 blank or unreadable | 11 |
+| Excluded: required profile field blank | 2 |
+| **Final profile-complete responses analysed** | **103** |
 
 *Source: Primary data.*
 
-The questionnaire asked respondents whether they had attended, during the previous 12 months, a programme containing both digital or online learning and face-to-face learning. Only those who met this condition were included. Of 132 received records, 105 were eligible for analysis. Two retained paper records had one unclear Likert response each. Following the pre-specified procedure, each was replaced with that respondent's mean for the remaining items in the same construct. No record had two or more unclear scored answers.
+Of 132 received records, 103 were retained. The final sample contains 49 digital and 54 manual responses. Manual-25 and Manual-37 met the eligibility condition but were excluded because required profile information was blank on the paper forms.
 
 ### 4.1.2 Respondent Profile
 
 **Table 4.2: Age Group of Respondents**
 
 | Category | Frequency | Percentage |
-| --- | ---: | ---: |
+| --- | --- | --- |
 | 25–34 | 30 | 29.1% |
 | 35–44 | 56 | 54.4% |
 | 45–54 | 13 | 12.6% |
 | 55 and above | 4 | 3.9% |
-| Missing | 2 | — |
-| **Valid responses** | **103** | **100.0%** |
 
-*Source: Primary data. Percentages are based on valid responses to this profile question.*
+*Source: Primary data, N = 103.*
 
-![Figure 4.1: Age group of respondents](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-1-age-group.svg)
-
-More than half of the respondents who reported age were in the 35–44 age group (54.4%, n = 56). The next largest group was 25–34 years (29.1%, n = 30). Two respondents did not report age, so the percentages in Table 4.2 use 103 valid age responses.
+![Figure 4.1: Age group](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-1-age-group.svg)
 
 **Table 4.3: Length of Service of Respondents**
 
 | Category | Frequency | Percentage |
-| --- | ---: | ---: |
-| Below 5 years | 8 | 7.7% |
-| 5–10 years | 29 | 27.9% |
-| 11–20 years | 56 | 53.8% |
-| Above 20 years | 11 | 10.6% |
-| Missing | 1 | — |
-| **Valid responses** | **104** | **100.0%** |
+| --- | --- | --- |
+| Below 5 years | 8 | 7.8% |
+| 5–10 years | 29 | 28.2% |
+| 11–20 years | 56 | 54.4% |
+| Above 20 years | 10 | 9.7% |
 
-*Source: Primary data. Percentages are based on valid responses to this profile question.*
+*Source: Primary data, N = 103.*
 
-![Figure 4.2: Length of service of respondents](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-2-service-length.svg)
-
-Among the 104 respondents who reported length of service, 53.8% (n = 56) had worked in the Bank for 11–20 years. A further 27.9% (n = 29) had 5–10 years of service. This shows that the selected sample included a substantial proportion of employees with several years of Bank experience.
+![Figure 4.2: Service length](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-2-service-length.svg)
 
 **Table 4.4: Job Level of Respondents**
 
 | Category | Frequency | Percentage |
-| --- | ---: | ---: |
-| Clerical | 22 | 21.0% |
-| Officer | 57 | 54.3% |
-| Managerial | 26 | 24.8% |
-| **Valid responses** | **105** | **100.0%** |
+| --- | --- | --- |
+| Clerical | 20 | 19.4% |
+| Officer | 57 | 55.3% |
+| Managerial | 26 | 25.2% |
 
-*Source: Primary data. Percentages are based on valid responses to this profile question.*
+*Source: Primary data, N = 103.*
 
-![Figure 4.3: Job level of respondents](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-3-job-level.svg)
-
-Officers formed the largest group in the sample (54.3%, n = 57), followed by managerial employees (24.8%, n = 26) and clerical employees (21.0%, n = 22). All eligible respondents reported a job level.
+![Figure 4.3: Job level](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-3-job-level.svg)
 
 ### 4.1.3 Construct-Level Descriptive Statistics
 
 **Table 4.5: Construct-Level Descriptive Statistics**
 
 | Construct | Items | Mean | Standard deviation | Rank |
-| --- | ---: | ---: | ---: | ---: |
-| Learner Engagement | 6 | 4.305 | 0.799 | 1 |
-| Training Effectiveness | 7 | 4.238 | 0.840 | 2 |
-| Trainer Competence | 6 | 4.165 | 0.853 | 3 |
-| Hybrid Learning | 7 | 4.142 | 0.850 | 4 |
+| --- | --- | --- | --- | --- |
+| Learner Engagement | 6 | 4.303 | 0.802 | 1 |
+| Training Effectiveness | 7 | 4.237 | 0.847 | 2 |
+| Trainer Competence | 6 | 4.162 | 0.860 | 3 |
+| Hybrid Learning | 7 | 4.144 | 0.853 | 4 |
 
-*Source: Primary data, N = 105. Construct scores are arithmetic means of their assigned 1–5 Likert items.*
+*Source: Primary data, N = 103.*
 
-![Figure 4.4: Construct mean scores](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-4-construct-mean-scores.svg)
+![Figure 4.4: Construct means](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-4-construct-mean-scores.svg)
 
-All four construct means were above the neutral midpoint of the five-point scale. Learner Engagement had the highest descriptive mean (M = 4.305, SD = 0.799), followed by Training Effectiveness (M = 4.238, SD = 0.840), Trainer Competence (M = 4.165, SD = 0.853), and Hybrid Learning (M = 4.142, SD = 0.850). These rankings describe the responses in this sample only; they do not test the proposed relationships.
+All construct means were above the neutral midpoint. Learner Engagement had the highest mean (M = 4.303), while Hybrid Learning had the lowest (M = 4.144).
 
 ### 4.1.4 Item-Wise Responses
 
-The full five-category response table and bar chart for every Likert statement are provided in **Appendix B**, to keep this chapter to a readable length. Tables 4.6–4.9 below provide a compact item-wise summary for the four constructs.
+The full five-category response distributions and charts are provided in Appendix B.
 
 **Table 4.6: Hybrid Learning — Item-Wise Descriptive Statistics**
 
-| Code | Statement focus | Mean | Standard deviation |
-| --- | --- | ---: | ---: |
-| HL1 | Connected design | 4.095 | 0.966 |
-| HL2 | Digital preparation | 3.990 | 0.935 |
-| HL3 | Clarification/application | 4.162 | 0.942 |
-| HL4 | Platform access | 4.181 | 0.907 |
-| HL5 | Platform navigation | 4.086 | 1.020 |
-| HL6 | Material availability | 4.222 | 0.937 |
-| HL7 | Revision access | 4.257 | 0.899 |
+| Item | Short label | Mean | Standard deviation |
+| --- | --- | --- | --- |
+| HL1 | Connected design | 4.097 | 0.965 |
+| HL2 | Digital preparation | 3.981 | 0.939 |
+| HL3 | Clarification/application | 4.165 | 0.951 |
+| HL4 | Platform access | 4.184 | 0.905 |
+| HL5 | Platform navigation | 4.107 | 1.009 |
+| HL6 | Material availability | 4.223 | 0.939 |
+| HL7 | Revision access | 4.252 | 0.904 |
 
-*Source: Primary data, N = 105.*
-
-The Hybrid Learning item means ranged from 3.990 to 4.257. The lowest mean was for digital activities preparing respondents for face-to-face sessions (HL2, M = 3.990, SD = 0.935). The highest was for revision access to digital modules or materials (HL7, M = 4.257, SD = 0.899). This identifies digital preparation as an area that can be examined further when practical suggestions are developed. Item-level response frequencies and charts for HL1–HL7 are provided as Tables B.1–B.7 in Appendix B.
+*Source: Primary data, N = 103.*
 
 **Table 4.7: Trainer Competence — Item-Wise Descriptive Statistics**
 
-| Code | Statement focus | Mean | Standard deviation |
-| --- | --- | ---: | ---: |
-| TC1 | Subject knowledge | 4.210 | 0.895 |
-| TC2 | Clear explanation | 4.229 | 0.923 |
-| TC3 | Explains connection | 4.095 | 0.894 |
-| TC4 | Digital-tool use | 4.143 | 0.914 |
-| TC5 | Encourages participation | 4.219 | 0.899 |
-| TC6 | Helpful feedback | 4.095 | 0.976 |
+| Item | Short label | Mean | Standard deviation |
+| --- | --- | --- | --- |
+| TC1 | Subject knowledge | 4.204 | 0.901 |
+| TC2 | Clear explanation | 4.223 | 0.928 |
+| TC3 | Explains connection | 4.097 | 0.902 |
+| TC4 | Digital-tool use | 4.146 | 0.923 |
+| TC5 | Encourages participation | 4.214 | 0.904 |
+| TC6 | Helpful feedback | 4.087 | 0.981 |
 
-*Source: Primary data, N = 105.*
-
-Trainer Competence item means ranged from 4.095 to 4.229. Clear explanation of content (TC2, M = 4.229, SD = 0.923) was the highest-rated item. Explaining the connection between activities (TC3) and providing helpful feedback (TC6) had the joint lowest mean (M = 4.095), while remaining above the scale midpoint. Item-level response frequencies and charts for TC1–TC6 are provided as Tables B.8–B.13 in Appendix B.
+*Source: Primary data, N = 103.*
 
 **Table 4.8: Learner Engagement — Item-Wise Descriptive Statistics**
 
-| Code | Statement focus | Mean | Standard deviation |
-| --- | --- | ---: | ---: |
-| LE1 | Attention | 4.276 | 0.935 |
-| LE2 | Effort | 4.295 | 0.909 |
-| LE3 | Participation | 4.276 | 0.860 |
-| LE4 | Involvement | 4.362 | 0.786 |
-| LE5 | Clarification-seeking | 4.257 | 0.877 |
-| LE6 | Interest in completion | 4.362 | 0.900 |
+| Item | Short label | Mean | Standard deviation |
+| --- | --- | --- | --- |
+| LE1 | Attention | 4.272 | 0.941 |
+| LE2 | Effort | 4.291 | 0.914 |
+| LE3 | Participation | 4.282 | 0.857 |
+| LE4 | Involvement | 4.359 | 0.790 |
+| LE5 | Clarification-seeking | 4.252 | 0.882 |
+| LE6 | Interest in completion | 4.359 | 0.906 |
 
-*Source: Primary data, N = 105.*
-
-Learner Engagement had the highest construct mean. Feeling involved in the learning process (LE4) and remaining interested in completing the programme (LE6) had the joint highest item mean (M = 4.362). Seeking clarification (LE5, M = 4.257) was the lowest engagement item, although it remained above the neutral midpoint. Item-level response frequencies and charts for LE1–LE6 are provided as Tables B.14–B.19 in Appendix B.
+*Source: Primary data, N = 103.*
 
 **Table 4.9: Training Effectiveness — Item-Wise Descriptive Statistics**
 
-| Code | Statement focus | Mean | Standard deviation |
-| --- | --- | ---: | ---: |
-| TE1 | Understanding | 4.257 | 0.899 |
-| TE2 | Useful knowledge/skills | 4.257 | 0.910 |
-| TE3 | Work relevance | 4.238 | 0.861 |
-| TE4 | Capability | 4.238 | 0.915 |
-| TE5 | Work application | 4.238 | 0.904 |
-| TE6 | Task/problem support | 4.152 | 0.918 |
-| TE7 | Confidence | 4.286 | 0.958 |
+| Item | Short label | Mean | Standard deviation |
+| --- | --- | --- | --- |
+| TE1 | Understanding | 4.252 | 0.904 |
+| TE2 | Useful knowledge/skills | 4.262 | 0.918 |
+| TE3 | Work relevance | 4.233 | 0.866 |
+| TE4 | Capability | 4.233 | 0.920 |
+| TE5 | Work application | 4.233 | 0.910 |
+| TE6 | Task/problem support | 4.155 | 0.926 |
+| TE7 | Confidence | 4.291 | 0.966 |
 
-*Source: Primary data, N = 105.*
+*Source: Primary data, N = 103.*
 
-Training Effectiveness item means ranged from 4.152 to 4.286. Confidence in carrying out relevant responsibilities (TE7, M = 4.286, SD = 0.958) received the highest mean. Support in dealing with relevant work tasks or problems (TE6, M = 4.152, SD = 0.918) received the lowest mean and may be useful when considering later recommendations. Item-level response frequencies and charts for TE1–TE7 are provided as Tables B.20–B.26 in Appendix B.
+![Figure 4.5: HL1 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-5-hl1-response-distribution.svg)
+![Figure 4.6: HL2 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-6-hl2-response-distribution.svg)
+![Figure 4.7: HL3 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-7-hl3-response-distribution.svg)
+![Figure 4.8: HL4 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-8-hl4-response-distribution.svg)
+![Figure 4.9: HL5 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-9-hl5-response-distribution.svg)
+![Figure 4.10: HL6 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-10-hl6-response-distribution.svg)
+![Figure 4.11: HL7 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-11-hl7-response-distribution.svg)
+![Figure 4.12: TC1 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-12-tc1-response-distribution.svg)
+![Figure 4.13: TC2 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-13-tc2-response-distribution.svg)
+![Figure 4.14: TC3 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-14-tc3-response-distribution.svg)
+![Figure 4.15: TC4 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-15-tc4-response-distribution.svg)
+![Figure 4.16: TC5 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-16-tc5-response-distribution.svg)
+![Figure 4.17: TC6 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-17-tc6-response-distribution.svg)
+![Figure 4.18: LE1 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-18-le1-response-distribution.svg)
+![Figure 4.19: LE2 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-19-le2-response-distribution.svg)
+![Figure 4.20: LE3 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-20-le3-response-distribution.svg)
+![Figure 4.21: LE4 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-21-le4-response-distribution.svg)
+![Figure 4.22: LE5 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-22-le5-response-distribution.svg)
+![Figure 4.23: LE6 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-23-le6-response-distribution.svg)
+![Figure 4.24: TE1 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-24-te1-response-distribution.svg)
+![Figure 4.25: TE2 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-25-te2-response-distribution.svg)
+![Figure 4.26: TE3 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-26-te3-response-distribution.svg)
+![Figure 4.27: TE4 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-27-te4-response-distribution.svg)
+![Figure 4.28: TE5 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-28-te5-response-distribution.svg)
+![Figure 4.29: TE6 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-29-te6-response-distribution.svg)
+![Figure 4.30: TE7 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-30-te7-response-distribution.svg)
 
 ## 4.2 Inferential Analysis
 
@@ -625,132 +624,94 @@ Training Effectiveness item means ranged from 4.152 to 4.286. Confidence in carr
 
 **Table 4.10: Internal Consistency of the Study Constructs**
 
-| Construct | Number of items | Cronbach's alpha | Interpretation |
-| --- | ---: | ---: | --- |
-| Hybrid Learning | 7 | 0.961 | Excellent internal consistency |
+| Construct | Items | Cronbach’s alpha | Interpretation |
+| --- | --- | --- | --- |
+| Hybrid Learning | 7 | 0.962 | Excellent internal consistency |
 | Trainer Competence | 6 | 0.969 | Excellent internal consistency |
 | Learner Engagement | 6 | 0.958 | Excellent internal consistency |
-| Training Effectiveness | 7 | 0.971 | Excellent internal consistency |
+| Training Effectiveness | 7 | 0.972 | Excellent internal consistency |
 
-*Source: Primary data, N = 105.*
-
-All four item sets showed high internal consistency, with Cronbach's alpha values from 0.958 to 0.971. This supports using the defined item sets as construct scores in the planned association tests. Since all coefficients are very high, the results should also be read with the study's common self-report format in mind; closely related items can contribute to high internal-consistency values.
+*Source: Primary data, N = 103.*
 
 ### 4.2.2 Pearson Correlation and Hypothesis Decisions
 
 **Table 4.11: Pearson Correlations among the Four Constructs**
 
 | Construct | 1 | 2 | 3 | 4 |
-| --- | ---: | ---: | ---: | ---: |
-| 1. Hybrid Learning | 1.000 | 0.817*** | 0.715*** | 0.660*** |
-| 2. Trainer Competence | 0.817*** | 1.000 | 0.726*** | 0.648*** |
-| 3. Learner Engagement | 0.715*** | 0.726*** | 1.000 | 0.765*** |
-| 4. Training Effectiveness | 0.660*** | 0.648*** | 0.765*** | 1.000 |
+| --- | --- | --- | --- | --- |
+| 1. Hybrid Learning | 1.000 | 0.818*** | 0.713*** | 0.660*** |
+| 2. Trainer Competence | 0.818*** | 1.000 | 0.725*** | 0.647*** |
+| 3. Learner Engagement | 0.713*** | 0.725*** | 1.000 | 0.765*** |
+| 4. Training Effectiveness | 0.660*** | 0.647*** | 0.765*** | 1.000 |
 
-***p < .001, two-tailed. Source: Primary data, N = 105.***
+***p < .001, two-tailed. Source: Primary data, N = 103.***
 
-![Figure 4.31: Pearson correlations among the four constructs](../../05-research-data-and-analysis/05-inferential-analysis/figure-4-31-correlation-matrix.svg)
-
-All reported relationships were positive and statistically significant at the 5% level. Hybrid Learning was positively associated with Learner Engagement (r = 0.715, p < .001). Trainer Competence was also positively associated with Learner Engagement (r = 0.726, p < .001). Learner Engagement was positively associated with Training Effectiveness (r = 0.765, p < .001).
+![Figure 4.31: Correlation matrix](../../05-research-data-and-analysis/05-inferential-analysis/figure-4-31-correlation-matrix.svg)
 
 **Table 4.12: Hypothesis Decisions**
 
-| Hypothesis | Pearson r | p value | Decision |
-| --- | ---: | ---: | --- |
-| H1: Hybrid Learning and Learner Engagement | 0.715 | < .001 | Reject H₀; alternative hypothesis supported |
-| H2: Trainer Competence and Learner Engagement | 0.726 | < .001 | Reject H₀; alternative hypothesis supported |
-| H3: Learner Engagement and Training Effectiveness | 0.765 | < .001 | Reject H₀; alternative hypothesis supported |
+| Hypothesis | Relationship | r | p value | Decision |
+| --- | --- | --- | --- | --- |
+| H1 | Hybrid Learning ↔ Learner Engagement | 0.713 | < .001 | Supported |
+| H2 | Trainer Competence ↔ Learner Engagement | 0.725 | < .001 | Supported |
+| H3 | Learner Engagement ↔ Training Effectiveness | 0.765 | < .001 | Supported |
 
-*Source: Primary data, N = 105.*
-
-The three null hypotheses were rejected because each reported two-tailed p value was below 0.05 and the observed correlation was positive. This supports the three stated relationship hypotheses within the selected sample. It does not establish that one factor caused the other.
+All three planned positive relationships were statistically significant in this selected sample.
 
 ### 4.2.3 Regression Models
 
 **Table 4.13: Multiple Regression Model for Learner Engagement**
 
-| Model statistic | Value |
-| --- | ---: |
-| R | 0.756 |
-| R² | 0.572 |
-| Adjusted R² | 0.564 |
-| Standard error of estimate | 0.528 |
-| F(2, 102) | 68.218 |
+| Statistic | Value |
+| --- | --- |
+| R | 0.754 |
+| R² | 0.569 |
+| Adjusted R² | 0.561 |
+| Standard error of estimate | 0.532 |
+| F(2, 100) | 66.070 |
 | p value | < .001 |
-
-*Dependent variable: Learner Engagement. Source: Primary data, N = 105.*
-
-The model including Hybrid Learning and Trainer Competence was statistically significant, F(2, 102) = 68.218, p < .001. Together, the two predictors accounted for 57.2% of the observed variation in Learner Engagement (R² = 0.572).
 
 **Table 4.14: Coefficients for the Learner Engagement Model**
 
 | Predictor | B | Standard error | β | t | p value | Tolerance | VIF |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| Constant | 1.213 | 0.270 | — | 4.500 | < .001 | — | — |
-| Hybrid Learning | 0.345 | 0.105 | 0.367 | 3.270 | = 0.001 | 0.333 | 3.005 |
-| Trainer Competence | 0.399 | 0.105 | 0.426 | 3.798 | < .001 | 0.333 | 3.005 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Constant | 1.225 | 0.273 | — | 4.490 | < .001 | — | — |
+| Hybrid Learning | 0.339 | 0.107 | 0.361 | 3.162 | = 0.002 | 0.331 | 3.024 |
+| Trainer Competence | 0.401 | 0.106 | 0.430 | 3.769 | < .001 | 0.331 | 3.024 |
 
-*Dependent variable: Learner Engagement. Source: Primary data, N = 105.*
-
-When both predictors were considered together, Hybrid Learning (β = 0.367, p = .001) and Trainer Competence (β = 0.426, p < .001) each had a positive coefficient in the fitted model. The tolerance value of 0.333 and VIF of 3.005 indicate predictor overlap that should be kept in view, but do not indicate severe multicollinearity under the common VIF = 5 screening rule.
+The two-predictor model was significant, F(2, 100) = 66.070, p < .001, and accounted for 56.9% of observed variation in Learner Engagement.
 
 **Table 4.15: Simple Regression Model for Training Effectiveness**
 
-| Model statistic | Value |
-| --- | ---: |
+| Statistic | Value |
+| --- | --- |
 | R | 0.765 |
 | R² | 0.585 |
 | Adjusted R² | 0.581 |
-| Standard error of estimate | 0.544 |
-| F(1, 103) | 145.452 |
+| Standard error of estimate | 0.548 |
+| F(1, 101) | 142.647 |
 | p value | < .001 |
-
-*Dependent variable: Training Effectiveness. Predictor: Learner Engagement. Source: Primary data, N = 105.*
-
-The simple regression model was statistically significant, F(1, 103) = 145.452, p < .001. Learner Engagement accounted for 58.5% of the observed variation in Training Effectiveness (R² = 0.585).
 
 **Table 4.16: Coefficients for the Training Effectiveness Model**
 
 | Predictor | B | Standard error | β | t | p value |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| Constant | 0.774 | 0.292 | — | 2.649 | = 0.009 |
-| Learner Engagement | 0.805 | 0.067 | 0.765 | 12.060 | < .001 |
+| --- | --- | --- | --- | --- | --- |
+| Constant | 0.760 | 0.296 | — | 2.566 | = 0.012 |
+| Learner Engagement | 0.808 | 0.068 | 0.765 | 11.943 | < .001 |
 
-*Dependent variable: Training Effectiveness. Source: Primary data, N = 105.*
-
-Learner Engagement had a positive coefficient in the fitted model (β = 0.765, p < .001). This is consistent with the positive Pearson correlation reported for H3. The regression result is a supporting association analysis; it does not establish that engagement causes training effectiveness.
+Learner Engagement was positively associated with Training Effectiveness; the fitted model accounted for 58.5% of observed variation.
 
 ## 4.3 Interpretation of Results
 
-The descriptive and inferential results show a consistent positive pattern in the selected sample. Respondents who reported more positive Hybrid Learning experiences and stronger Trainer Competence also tended to report higher Learner Engagement. Respondents reporting higher Learner Engagement also tended to report higher Training Effectiveness. The regression results show that the planned predictor sets were statistically associated with their respective dependent construct scores. These findings remain limited to the selected respondents, their recalled programme experience, and the common self-report questionnaire format.
+Hybrid Learning and Trainer Competence were each positively related to Learner Engagement. Learner Engagement was positively related to Training Effectiveness. These results describe associations in the 103 profile-complete responses and do not establish a causal sequence.
 
 ## 4.4 Comparison with Previous Studies
 
-The positive relationship between Hybrid Learning and Learner Engagement is consistent with the broad design argument in the reviewed literature. Garrison and Kanuka (2004) and Graham (2006) describe blended learning as the purposeful connection of online and face-to-face learning. In the present study, the Hybrid Learning items asked whether respondents experienced the digital and face-to-face parts as connected, accessible, and available for revision. The positive H1 result therefore fits the view that employees may engage more actively when the two modes are experienced as parts of one programme. It does not show that the programme design produced engagement.
-
-Sosnova et al. (2025) found stronger learning outcomes in a hybrid condition among higher-education students. The present result is similar only at a broad conceptual level: both studies link hybrid learning with a learning-related outcome. The populations, designs, measures, and outcomes differ. Sosnova et al. used a student experiment, while the present study used a cross-sectional employee questionnaire. The current result should therefore not be presented as a replication of that study.
-
-Kim (2022) is the closest corporate comparison. Kim's automotive sales-training analysis showed that fully digital delivery had lower reported effectiveness than the hybrid arrangement, while also showing that hybrid training should be evaluated through programme design, instructor involvement, participation, and perceived competence. The present results are compatible with that practical emphasis. The positive correlations show that respondents who reported a more connected hybrid-learning experience and stronger trainer competence also tended to report higher engagement. However, the present study does not compare traditional, fully digital, and hybrid groups, and it cannot determine which delivery mode is best.
-
-The H2 finding is also consistent with the literature that distinguishes facilitation from technology availability. Kim (2022) identifies instructor engagement as relevant in corporate training, while Mulaudzi (2021) discusses facilitation, access, materials, and workplace barriers. In the present sample, Trainer Competence was positively related to Learner Engagement. The regression model retained a positive coefficient for both Hybrid Learning and Trainer Competence when they were considered together. This supports the practical value of explaining content clearly, connecting activities across modes, encouraging participation, and giving useful feedback. It does not establish that trainer behaviour caused engagement.
-
-The positive H3 relationship is consistent with training-evaluation and transfer literature. Kirkpatrick (1994) explains why understanding and application matter in training evaluation, while Holton (1996), Baldwin and Ford (1988), and Blume et al. (2010) describe the role of individual, design, and work-environment conditions in later use of learning. Bahl, Kiran and Sharma (2024) likewise demonstrate that Training Effectiveness is a meaningful employee-level issue in Indian banking. Their study uses Kirkpatrick's framework with a broader banking sample; it does not test Hybrid Learning, Trainer Competence, Learner Engagement, or Union Vidya. The present study adds an employee-experience perspective to this banking context rather than reproducing Bahl et al.'s model.
-
-The results also align with the measurement logic used in the present study. Han and Ellis (2020) support viewing the blended environment as a set of related conditions rather than one general opinion. Mulaudzi (2021) supports workplace attention to access, materials, and facilitation. Aziz (2015) supports an employee-level view of Training Effectiveness that includes learning and work relevance without claiming organisation-level results. The high internal-consistency values support the use of the four item sets in this sample, while the high correlations and common self-report format mean that the associations should be interpreted carefully.
+The pattern supports the literature’s practical emphasis on connecting digital activities with trainer-led discussion, practice, and feedback. It is broadly compatible with the conceptual contribution of Sosnova et al. (2025), the corporate hybrid-training evidence of Kim (2022), and Bahl et al.’s (2024) banking focus on Training Effectiveness. The present study differs from those studies in population, measures, and design.
 
 ## 4.5 Theoretical and Practical Implications
 
-The results support a practical interpretation of hybrid training as a connected learning experience. The programme should make clear what employees need to do before, during, and after a trainer-led session. The lowest Hybrid Learning mean was for whether digital activities prepared respondents for face-to-face sessions (HL2, M = 3.990). This item remained above the neutral midpoint, but it suggests a useful area for attention. Training teams can state the purpose of a pre-session module, link it directly to the discussion or practice that follows, and refer back to it during the trainer-led session.
-
-Union Vidya can support this connection when it is used as a place for timely material, revision resources, and follow-up information. Revision access was the highest-rated Hybrid Learning item (HL7, M = 4.257), while platform navigation was lower (HL5, M = 4.086). The finding does not evaluate the technical quality of Union Vidya or prove that platform changes would improve training. It suggests that training teams can keep material locations clear, use simple programme-specific instructions, and ensure that employees know where to revisit relevant content after a session.
-
-Trainer Competence was positively associated with Learner Engagement. Clear explanation was the highest trainer item (TC2, M = 4.229), whereas explaining how digital and face-to-face activities connect (TC3, M = 4.095) and helpful feedback (TC6, M = 4.095) were comparatively lower. Trainers can be supported with a short facilitation plan that identifies the link between the digital activity, the live session, a relevant work example, and any follow-up material. Where a live-streamed or virtual element is used, the plan can also state how employees may raise questions and when responses or feedback will be provided.
-
-Learner Engagement was the highest-rated construct, but clarification-seeking (LE5, M = 4.257) was its lowest item. Programmes can therefore include planned opportunities for questions, short case discussions, practice activities, and follow-up clarification. This should be treated as a way of inviting participation rather than as an assumption that every employee will learn in the same way.
-
-Training Effectiveness was positively associated with Learner Engagement. The lowest Training Effectiveness item was help in dealing with relevant work tasks or problems (TE6, M = 4.152). Training teams can consider short work-based examples, problem cases, or post-session application prompts that help employees connect learning with routine responsibilities. This is a practical suggestion based on the response pattern. The present study does not test whether any specific intervention will cause improved work performance.
-
-These implications are relevant to Union Bank's documented combination of Union Vidya, virtual learning, trainer-led activity, Union Learning Academies, and training centres. They should be used as focused points for review rather than as proof that the Bank must adopt one uniform training design. Different programmes may require different combinations of digital preparation, live explanation, practice, and later revision.
+The item results can guide practical review. Training teams can make the sequence between Union Vidya material and trainer-led activity clear, identify where follow-up material is located, provide opportunities for questions, and link examples to routine work tasks. These are suggestions informed by the respondent pattern, not tested interventions.
 
 ---
 
@@ -758,43 +719,23 @@ These implications are relevant to Union Bank's documented combination of Union 
 
 ## 5.1 Summary of Findings
 
-This study examined the reported relationships among Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness among employees of Union Bank of India. It was conducted in the Chennai context through paper questionnaires and a Google Forms link. The questionnaire asked each eligible respondent to think about one training programme attended during the previous 12 months that included both digital or online learning and face-to-face learning.
+The analysis used 103 profile-complete eligible responses: 49 digital and 54 manual. Of 132 received records, 16 were excluded because Q1 was No, 11 because eligibility was blank or unreadable, and 2 because required profile information was blank.
 
-A total of 132 responses were received. Sixteen respondents answered "No" to the eligibility question and 11 paper records had blank or illegible eligibility responses; these 27 records were excluded. The final analysis used 105 eligible responses. Two retained paper records had one unclear Likert response. In line with the stated data-cleaning rule, each response was replaced with the respondent's arithmetic mean for the remaining items in that construct and documented in the data audit.
+Learner Engagement had the highest mean (M = 4.303), while Hybrid Learning had the lowest (M = 4.144). All item sets showed high internal consistency, with alpha values from 0.958 to 0.972.
 
-The profile results show that officers formed the largest respondent group (54.3%, n = 57). Among respondents who reported age, the largest group was 35–44 years (54.4%, n = 56). Among those who reported length of service, the largest group had 11–20 years of service (53.8%, n = 56). These figures describe the selected respondents and are not intended to represent the complete Union Bank workforce.
-
-All four construct means were above the neutral midpoint of the five-point scale. Learner Engagement had the highest mean (M = 4.305), followed by Training Effectiveness (M = 4.238), Trainer Competence (M = 4.165), and Hybrid Learning (M = 4.142). The four item sets showed high internal consistency, with Cronbach's alpha values from 0.958 to 0.971.
-
-The three relationship hypotheses were supported in the selected sample. Hybrid Learning was positively associated with Learner Engagement (r = 0.715, p < .001), and Trainer Competence was positively associated with Learner Engagement (r = 0.726, p < .001). Learner Engagement was positively associated with Training Effectiveness (r = 0.765, p < .001). The two-predictor regression model for Learner Engagement was statistically significant and accounted for 57.2% of the observed variation. The simple regression model for Training Effectiveness was also statistically significant and accounted for 58.5% of the observed variation. These results identify associations in respondents' reported perceptions. They do not establish causation or a formal mediation effect.
+The three relationship hypotheses were supported: Hybrid Learning and Learner Engagement (r = 0.713, p < .001); Trainer Competence and Learner Engagement (r = 0.725, p < .001); and Learner Engagement and Training Effectiveness (r = 0.765, p < .001).
 
 ## 5.2 Contributions and Limitations
 
-The study contributes a focused employee-learning perspective to the Union Bank and public-sector banking context. Union Bank has documented digital-learning and trainer-led learning infrastructure, including Union Vidya, virtual-learning arrangements, Union Learning Academies, and training centres. However, organisational infrastructure alone does not show how employees experience a particular programme. This study addresses that employee-level question by examining the connection between digital and face-to-face learning, trainer competence, engagement, and perceived Training Effectiveness.
-
-The study also brings together complementary literature. Sosnova et al. (2025) provide a conceptual Hybrid Learning and effectiveness link; Kim (2022) provides corporate evidence on hybrid training, instructor involvement, and training evaluation; and Bahl, Kiran and Sharma (2024) establish the relevance of Training Effectiveness evaluation in Indian banking. The present study does not claim to replicate any of these papers. It adapts their compatible ideas to a short, literature-informed questionnaire for a selected Union Bank employee group.
-
-Several limitations should guide the interpretation. First, purposive data collection through Chennai South Regional Office, associated collection points, branches, paper forms, and Google Forms does not permit statistical generalisation to all Union Bank employees. Second, the study is cross-sectional: the survey captures reported experience at one point in time and cannot show time order or cause and effect. Third, the same respondent reported Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness. This shared response method may strengthen observed associations. Fourth, the online pilot involved only 20 eligible employees and was used as a small pre-test of clarity and preliminary internal consistency; it did not provide full scale validation. Fifth, the study did not use test scores, Union Vidya system logs, supervisor ratings, customer outcomes, or organisation-level performance data. Finally, the very high reliability coefficients and the positive correlations show that the constructs are closely related in this sample, so the findings should not be treated as independent proof of separate causal processes.
+The study provides a focused employee-learning account in the Chennai Union Bank context. Its purposive, cross-sectional self-report design supports interpretation of associations within this selected group, not causal or Bank-wide conclusions.
 
 ## 5.3 Suggestions and Future Directions
 
-The findings suggest several practical areas that Union Bank's learning and development teams may consider when reviewing hybrid programmes.
-
-1. **Make the learning sequence visible.** At the start of a programme, state what employees should complete on Union Vidya or another authorised platform, how that activity will be used in the trainer-led session, and how learning will be revisited afterwards. This responds to the comparatively lower score for digital preparation before face-to-face learning.
-
-2. **Keep materials easy to find and revisit.** Revision access was rated positively, but navigation scored comparatively lower. A simple programme page, clear naming of modules, and direct links to relevant material can help employees find the content required before and after a session.
-
-3. **Prepare trainers to connect the two modes.** Trainer preparation can include explaining how the digital activity, discussion, case example, and work application fit together. The plan can also cover feedback and question handling when employees join through a virtual or live-streamed arrangement.
-
-4. **Create structured opportunities for clarification and practice.** Short question periods, practical cases, demonstrations, peer discussion, and follow-up clarification can support employees who may otherwise complete digital material without discussing how it applies to their work.
-
-5. **Connect learning with routine work.** A post-session example, checklist, or manager-supported application prompt may help employees use training in relevant work tasks. This is particularly relevant because support in dealing with work tasks or problems had the lowest Training Effectiveness item mean.
-
-These are suggestions for review, not tested interventions. Future studies can use a larger and more systematically selected sample, compare different roles or regions, collect data before and after a programme, and combine employee perceptions with knowledge assessments, supervisor observations, or relevant system records. A future study could also compare particular training designs, such as digital preparation followed by face-to-face practice, with other sequences. Such designs would provide stronger evidence about learning processes and later application.
+Union Bank’s learning teams can make the sequence between digital preparation, trainer-led practice, feedback, and revision access more visible. Future research can use larger multi-region samples and combine employee perceptions with supervisor, completion, or performance evidence.
 
 ## 5.4 Conclusion
 
-Among the 105 eligible respondents in this study, more positive Hybrid Learning and Trainer Competence perceptions were associated with higher Learner Engagement, and higher Learner Engagement was associated with higher perceived Training Effectiveness. The findings support a practical view of hybrid training in which digital resources, trainer-led explanation, participation, practice, and revision are connected parts of one employee-learning experience. They provide a focused basis for reviewing how Union Bank employees experience hybrid programmes, while remaining limited to the selected cross-sectional self-report sample.
+Hybrid Learning and Trainer Competence were positively associated with Learner Engagement, and Learner Engagement was positively associated with perceived Training Effectiveness in the 103 profile-complete responses.
 
 ---
 
@@ -948,343 +889,290 @@ In Questions 5–11, "digital learning platform" means **Union Vidya** where it 
 
 # Appendix B — Item-Level Response Distributions
 
-All percentages use the 105 eligible responses as the denominator. The single documented imputed score for HL6 is separately identified and is not placed in a Likert response category.
+All percentages use the 103 analysed responses as the denominator.
 
 ## Table B.1: HL1 — The digital and face-to-face parts of the programme were planned as one connected learning experience.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
-| Strongly disagree | 4 | 3.8% |
-| Disagree | 4 | 3.8% |
-| Neither agree nor disagree | 8 | 7.6% |
-| Agree | 51 | 48.6% |
-| Strongly agree | 38 | 36.2% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.1: HL1 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-5-hl1-response-distribution.svg)
+| --- | --- | --- |
+| Strongly disagree | 4 | 3.9% |
+| Disagree | 4 | 3.9% |
+| Neither agree nor disagree | 7 | 6.8% |
+| Agree | 51 | 49.5% |
+| Strongly agree | 37 | 35.9% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.2: HL2 — The digital activities prepared me for the face-to-face sessions.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
+| --- | --- | --- |
 | Strongly disagree | 3 | 2.9% |
-| Disagree | 5 | 4.8% |
-| Neither agree nor disagree | 13 | 12.4% |
-| Agree | 53 | 50.5% |
-| Strongly agree | 31 | 29.5% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.2: HL2 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-6-hl2-response-distribution.svg)
+| Disagree | 5 | 4.9% |
+| Neither agree nor disagree | 13 | 12.6% |
+| Agree | 52 | 50.5% |
+| Strongly agree | 30 | 29.1% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.3: HL3 — The face-to-face sessions helped me clarify or apply what I learned through the digital activities.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
-| Strongly disagree | 4 | 3.8% |
+| --- | --- | --- |
+| Strongly disagree | 4 | 3.9% |
 | Disagree | 2 | 1.9% |
-| Neither agree nor disagree | 9 | 8.6% |
-| Agree | 48 | 45.7% |
-| Strongly agree | 42 | 40.0% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.3: HL3 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-7-hl3-response-distribution.svg)
+| Neither agree nor disagree | 9 | 8.7% |
+| Agree | 46 | 44.7% |
+| Strongly agree | 42 | 40.8% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.4: HL4 — I could access the digital learning platform used for the programme without much difficulty.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
+| --- | --- | --- |
 | Strongly disagree | 3 | 2.9% |
 | Disagree | 3 | 2.9% |
-| Neither agree nor disagree | 8 | 7.6% |
-| Agree | 49 | 46.7% |
-| Strongly agree | 42 | 40.0% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.4: HL4 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-8-hl4-response-distribution.svg)
+| Neither agree nor disagree | 7 | 6.8% |
+| Agree | 49 | 47.6% |
+| Strongly agree | 41 | 39.8% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.5: HL5 — The digital platform was easy for me to navigate while completing the training.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
-| Strongly disagree | 5 | 4.8% |
-| Disagree | 4 | 3.8% |
-| Neither agree nor disagree | 8 | 7.6% |
-| Agree | 48 | 45.7% |
-| Strongly agree | 40 | 38.1% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.5: HL5 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-9-hl5-response-distribution.svg)
+| --- | --- | --- |
+| Strongly disagree | 5 | 4.9% |
+| Disagree | 3 | 2.9% |
+| Neither agree nor disagree | 8 | 7.8% |
+| Agree | 47 | 45.6% |
+| Strongly agree | 40 | 38.8% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.6: HL6 — Learning materials on the digital platform were available when I needed them.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
-| Strongly disagree | 4 | 3.8% |
+| --- | --- | --- |
+| Strongly disagree | 4 | 3.9% |
 | Disagree | 2 | 1.9% |
-| Neither agree nor disagree | 6 | 5.7% |
-| Agree | 46 | 43.8% |
-| Strongly agree | 46 | 43.8% |
-| Documented imputed score (3.333) | 1 | 1.0% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.6: HL6 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-10-hl6-response-distribution.svg)
+| Neither agree nor disagree | 6 | 5.8% |
+| Agree | 46 | 44.7% |
+| Strongly agree | 45 | 43.7% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.7: HL7 — I could revisit digital modules or learning materials when I needed revision.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
-| Strongly disagree | 4 | 3.8% |
+| --- | --- | --- |
+| Strongly disagree | 4 | 3.9% |
 | Disagree | 1 | 1.0% |
-| Neither agree nor disagree | 5 | 4.8% |
-| Agree | 49 | 46.7% |
-| Strongly agree | 46 | 43.8% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.7: HL7 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-11-hl7-response-distribution.svg)
+| Neither agree nor disagree | 5 | 4.9% |
+| Agree | 48 | 46.6% |
+| Strongly agree | 45 | 43.7% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.8: TC1 — The trainer had good knowledge of the training subject.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
-| Strongly disagree | 4 | 3.8% |
+| --- | --- | --- |
+| Strongly disagree | 4 | 3.9% |
 | Disagree | 1 | 1.0% |
-| Neither agree nor disagree | 6 | 5.7% |
-| Agree | 52 | 49.5% |
-| Strongly agree | 42 | 40.0% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.8: TC1 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-12-tc1-response-distribution.svg)
+| Neither agree nor disagree | 6 | 5.8% |
+| Agree | 51 | 49.5% |
+| Strongly agree | 41 | 39.8% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.9: TC2 — The trainer explained the training content clearly.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
-| Strongly disagree | 5 | 4.8% |
+| --- | --- | --- |
+| Strongly disagree | 5 | 4.9% |
 | Disagree | 0 | 0.0% |
-| Neither agree nor disagree | 5 | 4.8% |
-| Agree | 51 | 48.6% |
-| Strongly agree | 44 | 41.9% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.9: TC2 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-13-tc2-response-distribution.svg)
+| Neither agree nor disagree | 5 | 4.9% |
+| Agree | 50 | 48.5% |
+| Strongly agree | 43 | 41.7% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.10: TC3 — The trainer explained how the digital and face-to-face activities were connected.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
-| Strongly disagree | 4 | 3.8% |
+| --- | --- | --- |
+| Strongly disagree | 4 | 3.9% |
 | Disagree | 1 | 1.0% |
-| Neither agree nor disagree | 10 | 9.5% |
-| Agree | 56 | 53.3% |
-| Strongly agree | 34 | 32.4% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.10: TC3 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-14-tc3-response-distribution.svg)
+| Neither agree nor disagree | 10 | 9.7% |
+| Agree | 54 | 52.4% |
+| Strongly agree | 34 | 33.0% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.11: TC4 — The trainer was able to use the digital tools involved in the programme effectively.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
-| Strongly disagree | 4 | 3.8% |
+| --- | --- | --- |
+| Strongly disagree | 4 | 3.9% |
 | Disagree | 2 | 1.9% |
-| Neither agree nor disagree | 7 | 6.7% |
-| Agree | 54 | 51.4% |
-| Strongly agree | 38 | 36.2% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.11: TC4 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-15-tc4-response-distribution.svg)
+| Neither agree nor disagree | 7 | 6.8% |
+| Agree | 52 | 50.5% |
+| Strongly agree | 38 | 36.9% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.12: TC5 — The trainer encouraged employees to ask questions and take part in activities.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
-| Strongly disagree | 4 | 3.8% |
+| --- | --- | --- |
+| Strongly disagree | 4 | 3.9% |
 | Disagree | 1 | 1.0% |
-| Neither agree nor disagree | 6 | 5.7% |
-| Agree | 51 | 48.6% |
-| Strongly agree | 43 | 41.0% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.12: TC5 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-16-tc5-response-distribution.svg)
+| Neither agree nor disagree | 6 | 5.8% |
+| Agree | 50 | 48.5% |
+| Strongly agree | 42 | 40.8% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.13: TC6 — The trainer gave feedback that helped me understand or improve my learning.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
-| Strongly disagree | 5 | 4.8% |
+| --- | --- | --- |
+| Strongly disagree | 5 | 4.9% |
 | Disagree | 3 | 2.9% |
-| Neither agree nor disagree | 6 | 5.7% |
-| Agree | 54 | 51.4% |
-| Strongly agree | 37 | 35.2% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.13: TC6 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-17-tc6-response-distribution.svg)
+| Neither agree nor disagree | 6 | 5.8% |
+| Agree | 53 | 51.5% |
+| Strongly agree | 36 | 35.0% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.14: LE1 — I stayed attentive during the training activities.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
+| --- | --- | --- |
 | Strongly disagree | 3 | 2.9% |
-| Disagree | 4 | 3.8% |
-| Neither agree nor disagree | 5 | 4.8% |
-| Agree | 42 | 40.0% |
-| Strongly agree | 51 | 48.6% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.14: LE1 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-18-le1-response-distribution.svg)
+| Disagree | 4 | 3.9% |
+| Neither agree nor disagree | 5 | 4.9% |
+| Agree | 41 | 39.8% |
+| Strongly agree | 50 | 48.5% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.15: LE2 — I made a serious effort to understand the training content.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
+| --- | --- | --- |
 | Strongly disagree | 3 | 2.9% |
 | Disagree | 3 | 2.9% |
-| Neither agree nor disagree | 5 | 4.8% |
-| Agree | 43 | 41.0% |
-| Strongly agree | 51 | 48.6% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.15: LE2 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-19-le2-response-distribution.svg)
+| Neither agree nor disagree | 5 | 4.9% |
+| Agree | 42 | 40.8% |
+| Strongly agree | 50 | 48.5% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.16: LE3 — I participated actively in discussions, exercises, or other training activities.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
+| --- | --- | --- |
 | Strongly disagree | 3 | 2.9% |
 | Disagree | 1 | 1.0% |
-| Neither agree nor disagree | 7 | 6.7% |
-| Agree | 47 | 44.8% |
-| Strongly agree | 47 | 44.8% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.16: LE3 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-20-le3-response-distribution.svg)
+| Neither agree nor disagree | 6 | 5.8% |
+| Agree | 47 | 45.6% |
+| Strongly agree | 46 | 44.7% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.17: LE4 — I felt involved in the learning process rather than simply completing required activities.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
+| --- | --- | --- |
 | Strongly disagree | 2 | 1.9% |
 | Disagree | 0 | 0.0% |
-| Neither agree nor disagree | 8 | 7.6% |
-| Agree | 43 | 41.0% |
-| Strongly agree | 52 | 49.5% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.17: LE4 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-21-le4-response-distribution.svg)
+| Neither agree nor disagree | 8 | 7.8% |
+| Agree | 42 | 40.8% |
+| Strongly agree | 51 | 49.5% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.18: LE5 — I asked questions or sought clarification when I did not understand something.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
+| --- | --- | --- |
 | Strongly disagree | 3 | 2.9% |
 | Disagree | 0 | 0.0% |
-| Neither agree nor disagree | 12 | 11.4% |
-| Agree | 42 | 40.0% |
-| Strongly agree | 48 | 45.7% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.18: LE5 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-22-le5-response-distribution.svg)
+| Neither agree nor disagree | 12 | 11.7% |
+| Agree | 41 | 39.8% |
+| Strongly agree | 47 | 45.6% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.19: LE6 — I remained interested in completing the programme.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
-| Strongly disagree | 4 | 3.8% |
+| --- | --- | --- |
+| Strongly disagree | 4 | 3.9% |
 | Disagree | 0 | 0.0% |
-| Neither agree nor disagree | 6 | 5.7% |
-| Agree | 39 | 37.1% |
-| Strongly agree | 56 | 53.3% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.19: LE6 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-23-le6-response-distribution.svg)
+| Neither agree nor disagree | 6 | 5.8% |
+| Agree | 38 | 36.9% |
+| Strongly agree | 55 | 53.4% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.20: TE1 — I understood the main knowledge or skills covered in the programme.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
-| Strongly disagree | 4 | 3.8% |
+| --- | --- | --- |
+| Strongly disagree | 4 | 3.9% |
 | Disagree | 1 | 1.0% |
-| Neither agree nor disagree | 5 | 4.8% |
-| Agree | 49 | 46.7% |
-| Strongly agree | 46 | 43.8% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.20: TE1 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-24-te1-response-distribution.svg)
+| Neither agree nor disagree | 5 | 4.9% |
+| Agree | 48 | 46.6% |
+| Strongly agree | 45 | 43.7% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.21: TE2 — The training gave me knowledge or skills that are useful in my current role.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
+| --- | --- | --- |
 | Strongly disagree | 3 | 2.9% |
 | Disagree | 2 | 1.9% |
-| Neither agree nor disagree | 9 | 8.6% |
-| Agree | 42 | 40.0% |
-| Strongly agree | 49 | 46.7% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.21: TE2 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-25-te2-response-distribution.svg)
+| Neither agree nor disagree | 9 | 8.7% |
+| Agree | 40 | 38.8% |
+| Strongly agree | 49 | 47.6% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.22: TE3 — The content of the programme was relevant to the work I do at the Bank.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
+| --- | --- | --- |
 | Strongly disagree | 3 | 2.9% |
 | Disagree | 0 | 0.0% |
-| Neither agree nor disagree | 11 | 10.5% |
-| Agree | 46 | 43.8% |
-| Strongly agree | 45 | 42.9% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.22: TE3 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-26-te3-response-distribution.svg)
+| Neither agree nor disagree | 11 | 10.7% |
+| Agree | 45 | 43.7% |
+| Strongly agree | 44 | 42.7% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.23: TE4 — I feel capable of using the knowledge or skills taught in the programme.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
-| Strongly disagree | 4 | 3.8% |
+| --- | --- | --- |
+| Strongly disagree | 4 | 3.9% |
 | Disagree | 0 | 0.0% |
-| Neither agree nor disagree | 10 | 9.5% |
-| Agree | 44 | 41.9% |
-| Strongly agree | 47 | 44.8% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.23: TE4 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-27-te4-response-distribution.svg)
+| Neither agree nor disagree | 10 | 9.7% |
+| Agree | 43 | 41.7% |
+| Strongly agree | 46 | 44.7% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.24: TE5 — I have applied learning from the programme in my day-to-day work.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
+| --- | --- | --- |
 | Strongly disagree | 3 | 2.9% |
 | Disagree | 2 | 1.9% |
-| Neither agree nor disagree | 9 | 8.6% |
-| Agree | 44 | 41.9% |
-| Strongly agree | 47 | 44.8% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.24: TE5 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-28-te5-response-distribution.svg)
+| Neither agree nor disagree | 9 | 8.7% |
+| Agree | 43 | 41.7% |
+| Strongly agree | 46 | 44.7% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.25: TE6 — The programme helped me deal with relevant work tasks or problems more effectively.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
-| Strongly disagree | 4 | 3.8% |
+| --- | --- | --- |
+| Strongly disagree | 4 | 3.9% |
 | Disagree | 1 | 1.0% |
-| Neither agree nor disagree | 10 | 9.5% |
-| Agree | 50 | 47.6% |
-| Strongly agree | 40 | 38.1% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.25: TE6 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-29-te6-response-distribution.svg)
+| Neither agree nor disagree | 10 | 9.7% |
+| Agree | 48 | 46.6% |
+| Strongly agree | 40 | 38.8% |
+| **Total scored records** | **103** | **100.0%** |
 
 ## Table B.26: TE7 — The programme has improved my confidence in carrying out relevant work responsibilities.
 
 | Response | Frequency | Percentage |
-| --- | ---: | ---: |
+| --- | --- | --- |
 | Strongly disagree | 3 | 2.9% |
 | Disagree | 3 | 2.9% |
-| Neither agree nor disagree | 10 | 9.5% |
-| Agree | 34 | 32.4% |
-| Strongly agree | 55 | 52.4% |
-| **Total scored records** | **105** | **100.0%** |
-
-![Figure B.26: TE7 response distribution](../../05-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-30-te7-response-distribution.svg)
+| Neither agree nor disagree | 10 | 9.7% |
+| Agree | 32 | 31.1% |
+| Strongly agree | 55 | 53.4% |
+| **Total scored records** | **103** | **100.0%** |

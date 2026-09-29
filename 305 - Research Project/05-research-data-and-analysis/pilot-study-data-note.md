@@ -23,4 +23,4 @@ These figures are preliminary internal-consistency results from 20 pilot respons
 
 ## Separation from Final Analysis
 
-The pilot data are stored separately and are not included in the 132 main responses received, the 105 eligible main responses retained, Chapter 4 tables, or inferential analysis. Because both pilot and main records are anonymous, this project does not make a person-level claim about whether an individual might have later answered the main survey.
+The pilot data are stored separately and are not included in the 132 main responses received, the 103 profile-complete main responses retained, Chapter 4 tables, or inferential analysis. Because both pilot and main records are anonymous, this project does not make a person-level claim about whether an individual might have later answered the main survey.

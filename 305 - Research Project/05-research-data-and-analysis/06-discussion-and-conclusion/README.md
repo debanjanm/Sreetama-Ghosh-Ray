@@ -1,6 +1,6 @@
 # Stage 6 — Discussion and Conclusion
 
-This stage completes the written discussion of the final 105-response analysis. It adds the literature comparison and practical implications to Chapter 4, and writes Chapter 5.
+This stage completes the written discussion of the final 103-profile-complete-response analysis. It adds the literature comparison and practical implications to Chapter 4, and writes Chapter 5.
 
 ## Evidence-to-Suggestion Trace
 

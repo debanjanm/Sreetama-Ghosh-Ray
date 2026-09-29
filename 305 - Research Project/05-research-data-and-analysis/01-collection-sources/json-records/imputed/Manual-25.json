@@ -13,7 +13,7 @@
     "HL3": 4,
     "HL4": 3,
     "HL5": 2,
-    "HL6": 3.333,
+    "HL6": 3,
     "HL7": 4,
     "TC1": 4,
     "TC2": 4,
@@ -47,8 +47,8 @@
     {
       "item": "HL6",
       "construct": "HL",
-      "imputed_value": 3.333,
-      "method": "construct_mean_of_remaining_items",
+      "imputed_value": 3,
+      "method": "construct_mean_rounded_to_nearest_likert_score",
       "peers_used": 6
     }
   ]

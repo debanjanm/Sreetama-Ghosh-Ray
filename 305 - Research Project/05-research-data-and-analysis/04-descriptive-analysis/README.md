@@ -1,6 +1,6 @@
 # Stage 4 — Descriptive Analysis
 
-This stage reports descriptive results for the 105 eligible responses retained in the final dataset. It does not yet report reliability, correlations, regression, or hypothesis decisions.
+This stage reports descriptive results for the 103 profile-complete responses retained in the final dataset. It does not yet report reliability, correlations, regression, or hypothesis decisions.
 
 ## Files
 
@@ -11,9 +11,9 @@ This stage reports descriptive results for the 105 eligible responses retained i
 
 ## Boundaries
 
-- The 105 eligible records are the only basis for these descriptive results.
-- Percentages for age and service length use their valid-response denominators; job-level percentages use all 105 eligible responses.
-- HL6 includes one documented imputed value (3.333), identified outside the five Likert categories.
+- The 103 profile-complete records are the only basis for these descriptive results.
+- Percentages for age and service length use their valid-response denominators; job-level percentages use all 103 profile-complete responses.
+- All item-level distributions use the five standard response categories.
 - No inference, causal conclusion, formal mediation conclusion, or hypothesis decision is made at this stage.
 
 The approved Word manuscript and review PDF have not been changed.

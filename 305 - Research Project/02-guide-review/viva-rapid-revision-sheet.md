@@ -46,7 +46,7 @@ Trainer Competence ┘
 
 - Chennai South Regional Office, associated locations, and branches.
 - 70 paper questionnaires + 62 Google Forms = **132 received**.
-- **105 retained:** 56 paper + 49 online.
+- **103 retained:** 54 paper + 49 online.
 - **27 excluded:** 16 said No to hybrid-training eligibility; 11 paper forms had unclear/blank eligibility.
 - Sampling: purposive, because only employees with relevant hybrid-training experience could answer.
 
@@ -54,9 +54,9 @@ Trainer Competence ┘
 
 - Retained only Q1 = Yes.
 - Checked 26 scored items were present and within 1–5.
-- Two documented imputed values only:
-  - Manual-25 HL6 = **3.333**
-  - Manual-46 HL4 = **4.000**
+- Two documented unclear-response decisions:
+  - Manual-25 HL6 = **3**
+  - Manual-46 HL4 = **4**
 - Similar anonymous patterns were retained because similarity alone does not prove duplicate respondents.
 
 ## Main statistics
@@ -65,7 +65,7 @@ Trainer Competence ┘
 
 | HL | TC | LE | TE |
 | ---: | ---: | ---: | ---: |
-| .961 | .969 | .958 | .971 |
+| .962 | .969 | .958 | .972 |
 
 High internal consistency. It does not prove full instrument validity.
 

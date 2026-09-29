@@ -1,4 +1,4 @@
 term,unstandardized_b,standard_error,standardized_beta,t,p_value,tolerance,vif
-Constant,1.213,0.270,,4.500,< .001, , 
-Hybrid Learning,0.345,0.105,0.367,3.270,= 0.001,0.333,3.005
-Trainer Competence,0.399,0.105,0.426,3.798,< .001,0.333,3.005
+Constant,1.225,0.273,,4.490,< .001,,
+Hybrid Learning,0.339,0.107,0.361,3.162,= 0.002,0.331,3.024
+Trainer Competence,0.401,0.106,0.430,3.769,< .001,0.331,3.024

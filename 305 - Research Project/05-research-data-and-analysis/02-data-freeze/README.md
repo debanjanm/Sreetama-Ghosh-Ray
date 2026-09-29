@@ -14,18 +14,18 @@ The manual JSON files are the authoritative cleaned transcription of paper respo
 
 ## Final response disposition
 
-| Collection mode | Received | Retained | Excluded |
+| Collection mode | Received | Profile-complete retained | Excluded |
 |---|---:|---:|---:|
-| Manual questionnaire | 70 | 56 | 14 |
+| Manual questionnaire | 70 | 54 | 16 |
 | Google Forms | 62 | 49 | 13 |
-| **Total** | **132** | **105** | **27** |
+| **Total** | **132** | **103** | **29** |
 
-Only responses with Q1 = Yes are retained. The 27 excluded records comprise 16 No responses and 11 manual forms with blank or illegible eligibility responses.
+The final inclusion rule requires Q1 = Yes, completed age group, completed service length, completed job level, and all 26 scored answers. The 29 excluded records comprise 16 No responses, 11 forms with blank or unreadable eligibility responses, and 2 otherwise eligible manual records with a required profile field blank (Manual-25 and Manual-37).
 
 ## Files created in this freeze
 
 - [Response register](response-register.csv): all 132 submissions, inclusion decision, source reference, exclusions, flags, and imputation metadata.
-- [Eligible responses](eligible-responses.csv): the 105 retained records, profile fields, and 26 numeric Likert values. No construct scores appear here yet.
+- [Eligible responses](eligible-responses.csv): the 103 profile-complete records, profile fields, and 26 numeric Likert values. No construct scores appear here yet.
 - [Codebook](codebook.md): variable names, coding, constructs, and item wording.
 - [Data-quality audit](data-quality-audit.md): reconciliation and structural checks.
 - [Input fingerprint manifest](input-manifest.sha256): SHA-256 fingerprints of the original workbook, questionnaire scan, and all verified manual JSON files.

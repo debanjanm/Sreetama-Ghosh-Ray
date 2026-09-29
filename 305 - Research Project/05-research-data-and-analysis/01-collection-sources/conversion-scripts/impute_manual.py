@@ -7,7 +7,8 @@ Rule (verbatim from chapter-3-research-methodology.md):
     in the final analysis. Responses marked 'No' or with a blank eligibility answer
     are excluded... When an otherwise eligible response has one blank or unclear
     Likert item, that item is replaced with the respondent's arithmetic mean for
-    the remaining items of the same construct and the imputation is recorded.
+    the remaining items of the same construct, rounded to the nearest valid
+    whole-number Likert score, and the replacement is recorded.
     Responses with two or more blank or unclear scored items are excluded."
 
 This script does not decide policy - it applies the policy already committed to
@@ -18,11 +19,12 @@ Usage:
     python3 impute_manual.py
 """
 import json
+import math
 from pathlib import Path
 
-APPENDIX = Path(__file__).resolve().parent.parent
-SRC_DIR = APPENDIX / "interim"
-OUT_DIR = APPENDIX / "imputed"
+RECORDS_DIR = Path(__file__).resolve().parent.parent / "json-records"
+SRC_DIR = RECORDS_DIR / "interim"
+OUT_DIR = RECORDS_DIR / "imputed"
 
 CONSTRUCTS = {
     "HL": [f"HL{i}" for i in range(1, 8)],
@@ -58,7 +60,8 @@ def process(record):
         out["imputations"] = []
         return out
 
-    # exactly one missing item: mean-impute from the rest of its own construct
+    # Exactly one missing item: use the within-construct mean, then map it to
+    # the nearest permitted whole-number Likert response.
     item = null_items[0]
     construct = ITEM_TO_CONSTRUCT[item]
     peers = [answers[i] for i in CONSTRUCTS[construct] if i != item and answers[i] is not None]
@@ -69,7 +72,7 @@ def process(record):
         return out
 
     mean_value = sum(peers) / len(peers)
-    answers[item] = round(mean_value, 3)
+    answers[item] = int(math.floor(mean_value + 0.5))
     out["answers"] = answers
     out["status"] = "retained_with_imputation"
     out["exclusion_reason"] = None
@@ -77,7 +80,7 @@ def process(record):
         "item": item,
         "construct": construct,
         "imputed_value": answers[item],
-        "method": "construct_mean_of_remaining_items",
+        "method": "construct_mean_rounded_to_nearest_likert_score",
         "peers_used": len(peers),
     }]
     return out

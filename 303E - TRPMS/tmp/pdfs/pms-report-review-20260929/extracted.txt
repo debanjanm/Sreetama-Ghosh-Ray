@@ -1,0 +1,301 @@
+Performance Management Systems:
+A Comparative Secondary Research Report
+
+Abstract
+
+
+Performance management is no longer seen only as an annual appraisal exercise. Many
+organisations now try to connect goal setting, feedback, development and reward
+decisions more closely with day-to-day work. This report studies three well-known cases:
+Adobe, Microsoft and Infosys. It is based on secondary sources such as company
+reports, published articles and academic literature. Adobe replaced annual ratings with
+its Check-in process. Microsoft stopped stack ranking, while Infosys introduced iCount
+and moved away from the bell curve. The cases show that companies are trying to
+reduce the problems created by forced ranking and delayed feedback. However, a new
+PMS cannot work only because it is digital or because ratings are removed. Manager
+capability, clear goals and trust in the process remain important. The report concludes
+that organisations should design PMS according to the nature of their work rather than
+copy a practice used by another company.
+
+
+Keywords: performance management system, appraisal, feedback, bell curve, Check-in,
+iCount
+
+
+1. Introduction
+
+
+A Performance Management System (PMS) helps an organisation clarify what
+employees are expected to do, review their contribution and support their development.
+In many companies, employees set goals at the beginning of the year and meet their
+manager at the end of the year for an appraisal. The rating given in that meeting can
+affect salary increase, promotion and training opportunities.
+
+
+The annual appraisal is still used in many organisations, but it has been questioned for
+some time. Employees may receive feedback too late to improve their work during the
+same year. Managers may also focus on completing forms and ratings instead of
+discussing work problems. Justin and Joy [1] note that performance management
+research has increasingly moved towards regular feedback, development and a more
+continuous view of performance.
+
+
+The bell-curve or forced-distribution system is another area of debate. Under such a
+system, managers are required to place employees in fixed categories, even if the whole
+team has performed well. This can be difficult in jobs where employees depend on each
+other. Moon, Scullen and Latham [2] suggest that forced distribution can create some
+short-term performance benefits, but it can also reduce helping behaviour and create
+unhealthy competition when employees feel that the process is unfair.
+
+
+This report compares the PMS changes made by Adobe, Microsoft and Infosys. These
+cases were selected because they show different responses to the limits of traditional
+appraisal. Adobe changed the whole review experience through Check-in. Microsoft
+ended stack ranking. Infosys introduced a system that linked individual contribution with
+continuous feedback. The report does not suggest that one model will suit every
+organisation. Instead, it looks at what can be learned from each case.
+
+
+2. Objectives and Research Questions
+
+
+The objectives of this report are:
+1. To understand the problems associated with annual appraisal and forced-distribution
+systems.
+2. To examine the PMS changes made by Adobe, Microsoft and Infosys.
+3. To identify lessons for organisations planning to redesign their performance
+management system.
+
+
+The report addresses the following questions:
+1. What problem did each company try to solve through PMS redesign?
+2. What change did each company make?
+3. What should organisations consider before adopting a similar practice?
+3. Methodology and Scope
+
+
+This is a qualitative secondary research report. It uses published material rather than
+surveys or interviews conducted by the researcher. The main sources are company
+websites, annual reports, sustainability reports, HR publications and two academic
+articles. Company sources were used for facts about Adobe and Infosys. For Microsoft,
+contemporary reporting was used because detailed internal PMS documents are not
+publicly available.
+
+
+There are some limits to this method. Public sources usually explain a company change
+in a positive way and may not show all employee reactions. It is also not possible to
+prove that a PMS change alone caused a business result such as lower turnover.
+Therefore, the report treats the company cases as examples of practice, not as proof that
+one specific method will produce the same result in every organisation.
+
+
+4. Why Organisations Are Rethinking Traditional Appraisal
+
+
+Traditional appraisal often tries to do too many things in one meeting. The manager has
+to review past performance, discuss career growth, decide a rating and sometimes
+explain the effect on salary. These discussions do not always work well together. An
+employee may hesitate to speak openly about a weakness if the same meeting decides a
+pay increase. The manager may also avoid a difficult development discussion because
+the focus is mainly on the final rating.
+
+
+Forced distribution creates a separate problem. It can help managers differentiate
+performance where every employee is rated highly. But it can also become unfair when a
+team has worked well together and some members still have to be placed in a low
+category. This is particularly unsuitable for work involving project teams, customer
+delivery and knowledge sharing. In such work, employees are expected to support
+colleagues, not compete for a fixed number of high ratings.
+Regular feedback is often presented as the solution. It can help an employee know
+where improvement is needed while the project is still running. Still, frequent feedback by
+itself is not enough. If goals are unclear or the manager gives only general comments,
+employees may not know what they need to improve. A useful PMS needs timely
+discussion, but it also needs evidence, consistency and fair judgement.
+
+
+5. Case Analysis
+
+
+5.1 Adobe: Check-in
+
+
+Adobe introduced Check-in in 2012 after employees found the annual review process
+bureaucratic and frustrating. According to Adobe, the earlier system included ratings and
+stack ranking for compensation. The company felt that this created barriers to teamwork
+and that employees should not have to wait until the end of the year for feedback [3].
+
+
+Check-in is an ongoing two-way conversation between the employee and manager. It
+covers current performance, goals, career growth, strengths and areas for improvement.
+Adobe later developed a digital platform where employees and managers can record
+goals, feedback and development discussions. The official Check-in page also states
+that performance conversations happen quarterly, while goals can be reviewed and
+updated during the year [3].
+
+
+One widely reported outcome was a reduction in voluntary turnover. Deloitte reported
+that Adobe saw a 30% reduction in voluntary turnover after the initial rollout [4]. This is an
+encouraging result, but it should not be read as proof that Check-in alone caused the fall.
+Retention can also be affected by pay, leadership, job opportunities and conditions in the
+labour market.
+
+
+For this report, Adobe’s case shows the value of replacing one large annual discussion
+with regular conversations. The model may work well in a fast-changing environment, but
+it also puts responsibility on managers. Managers need to set expectations clearly and
+be comfortable discussing performance throughout the year.
+5.2 Microsoft: Ending Stack Ranking
+
+
+Microsoft is often discussed in PMS literature because of its earlier stack-ranking system.
+Employees were compared with their colleagues and managers had to fit them into a
+distribution of ratings. In November 2013, Microsoft ended the system and no longer
+required managers to grade employees against one another on a one-to-five scale [5].
+
+
+The criticism of stack ranking was connected with its impact on collaboration. Employees
+may become less willing to share ideas if they think a colleague’s success will reduce
+their own chance of receiving a high rating. This is a serious issue in a technology
+company where product development depends on teams and shared knowledge.
+Contemporary reporting also noted that the older bell-curve system could rank an
+employee below colleagues even when the team as a whole had performed well [6].
+
+
+Microsoft’s case should not be overstated. The public sources confirm that the company
+ended stack ranking, but they do not give a complete picture of every later review
+practice used by different teams. The key lesson is simpler: a comparative rating system
+can damage teamwork when employees feel they are competing with each other rather
+than working towards a common result.
+
+
+5.3 Infosys: iCount
+
+
+Infosys provides an Indian example of PMS redesign in a very large IT-services
+organisation. During the 2015-16 financial year, Infosys introduced iCount as a renewed
+performance management system. The company reported that it moved away from the
+bell curve to focus on individual contribution and continuous feedback [7].
+
+
+Later Infosys reports describe iCount as a framework and application that supports goals,
+feedback and career development. Employees can add goals and update their progress,
+while managers provide feedback and development support. The ESG report also states
+that managers may consider client stakeholder feedback, although this is not mandatory.
+Employees may seek and share feedback with colleagues as well [8][9].
+This approach is relevant for a project-based organisation. An employee may work with
+different managers, clients and teams during a year. A single annual discussion may not
+capture all those contributions. At the same time, using feedback from many people can
+create another challenge. The organisation must decide whose feedback will be
+considered, how the evidence will be checked and how an employee can raise a concern
+about an unfair assessment.
+
+
+6. Discussion
+
+
+The three cases have one common direction: they reduce reliance on a single annual
+rating exercise. Adobe made ongoing discussion central to its system. Infosys combined
+continuing goals and feedback through iCount. Microsoft mainly removed a forced
+comparative ranking requirement. Their approaches are different, but all three cases
+recognise that performance cannot always be understood properly through one meeting
+at the end of the year.
+
+
+The cases also show that PMS design should depend on the work situation. Adobe’s
+method depends on regular conversations between managers and employees. Infosys
+uses a technology-supported system that suits a large workforce working on multiple
+projects. Microsoft’s example is useful where internal competition may affect teamwork. It
+would be risky for another organisation to copy any one of these systems without
+considering its own culture, manager capability and nature of work.
+
+
+Another important point is that removing the bell curve does not mean removing
+accountability. Organisations still need to recognise strong contribution, identify weak
+performance and make fair reward decisions. The difference is that these decisions can
+be based on clearer goals, regular evidence and timely feedback rather than on a fixed
+quota of high and low ratings.
+7. Recommendations
+
+
+Based on the cases and the literature, the following recommendations are suggested:
+
+
+1. Review goals during the year. Goals should be linked to the employee’s role and
+changed when project needs change.
+2. Keep development discussion meaningful. Where possible, organisations should
+create space for career and learning discussions that are not only about salary or ratings.
+3. Use forced distribution carefully. It may create problems in jobs that need
+collaboration. If it is used, the criteria should be clear and employees should have a way
+to question an unfair decision.
+4. Build manager capability. A PMS will not improve simply because a company
+introduces an app or removes ratings. Managers need training in goal setting, feedback
+and difficult conversations.
+5. Use multi-source feedback with clear rules. Feedback from clients or colleagues
+can be useful in project work, but it should be related to actual work and checked
+properly.
+6. Review the new process after implementation. Organisations should ask whether
+employees understand the system, whether managers can use it properly and whether
+the feedback is helping people improve.
+
+
+8. Conclusion
+
+
+Adobe, Microsoft and Infosys did not follow one common formula. Adobe replaced
+annual ratings with Check-in conversations. Microsoft stopped stack ranking. Infosys
+introduced iCount and moved away from the bell curve. Their experiences suggest that
+performance management works better when employees receive feedback while work is
+going on and when the process does not unnecessarily weaken teamwork.
+
+
+At the same time, PMS redesign is not only about removing ratings or introducing
+software. The system has to fit the organisation. It should give employees clear
+expectations, managers enough support and everyone confidence that decisions are fair.
+In this sense, the main lesson from the cases is practical: a good PMS should help
+people improve their work and should also support the wider goals of the organisation.
+
+
+References
+
+
+[1] Justin, E. M. A., & Joy, M. M. (2022). Managing the most important asset: A twenty
+year review on the performance management literature. *Journal of Management History,
+28*(3), 428-451. https://doi.org/10.1108/JMH-04-2021-0023
+
+
+[2] Moon, S. H., Scullen, S. E., & Latham, G. P. (2016). Precarious curve ahead: The
+effects of forced distribution rating systems on job performance. *Human Resource
+Management Review, 26*(2), 166-179. https://doi.org/10.1016/j.hrmr.2015.12.002
+
+
+[3] Adobe. (n.d.). *How Adobe continues to inspire great performance and support career
+growth.* https://www.adobe.com/check-in.html
+
+
+[4] Deloitte. (2015). *Performance management redesign.* Deloitte Insights.
+https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2015/performa
+nce-management-redesign-human-capital-trends-2015.html
+
+
+[5] Society for Human Resource Management. (2013). *Stack ranking ends at Microsoft.*
+https://www.shrm.org/topics-tools/news/benefits-compensation/stack-ranking-ends-micro
+soft-generating-heated-debate
+
+
+[6] Buckingham, M. (2013). *Trouble with the curve? Why Microsoft is ditching stack
+rankings.* Harvard Business Review.
+https://hbr.org/2013/11/dont-rate-your-employees-on-a-curve
+
+
+[7] Infosys. (2016). *Annual Report 2015-16.*
+https://www.infosys.com/investors/reports-filings/annual-report/annual/Documents/infosys
+-AR-16.pdf
+[8] Infosys. (2022). *Annual Report 2021-22.*
+https://www.sec.gov/Archives/edgar/data/1067491/000156459022023521/infy-20f_20220
+331.htm
+
+
+[9] Infosys. (2022). *ESG Report 2021-22.*
+https://www.infosys.com/sustainability/documents/infosys-esg-report-print-version-2021-2
+2.pdf
+

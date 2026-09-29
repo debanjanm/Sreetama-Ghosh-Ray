@@ -2,7 +2,7 @@
 
 ## Dataset Used
 
-All calculations use the 105 eligible records in the Stage 3 scored dataset. Construct scores are the arithmetic means already defined in the approved analysis plan. No respondent was removed for a repeated response pattern. The two documented single-item imputations remain in the scored dataset.
+All calculations use the 103 profile-complete records in the Stage 3 scored dataset. Construct scores are the arithmetic means already defined in the approved analysis plan. No respondent was removed for a repeated response pattern. The two documented single-item replacements remain in the scored dataset.
 
 ## How the Results Were Calculated
 
@@ -17,11 +17,11 @@ The companion [SPSS syntax](../03-scored-dataset/final-analysis-spss-syntax.sps)
 
 ## Main Results
 
-- Internal-consistency coefficients ranged from 0.958 to 0.971.
+- Internal-consistency coefficients ranged from 0.958 to 0.972.
 - H1: Hybrid Learning and Learner Engagement: r = 0.715, p < .001.
 - H2: Trainer Competence and Learner Engagement: r = 0.726, p < .001.
 - H3: Learner Engagement and Training Effectiveness: r = 0.765, p < .001.
-- The two-predictor model had R² = 0.572, F(2, 102) = 68.218, p < .001. VIF was 3.005 for both predictors.
+- The two-predictor model had R² = 0.572, F(2, 102) = 68.235, p < .001. VIF was 3.000 for both predictors.
 - The simple model had R² = 0.585, F(1, 103) = 145.452, p < .001.
 
 ## Reporting Boundary

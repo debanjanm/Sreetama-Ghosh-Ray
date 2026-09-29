@@ -68,7 +68,7 @@ Use this as a practice conversation. Keep each answer calm and direct. Pause aft
 
 ## 9. Guide: What was your sample and why did you use purposive sampling?
 
-**Student:** I received 132 responses and retained 105 eligible responses: 56 paper and 49 online. I used purposive sampling because respondents needed recent experience of a programme with both digital and face-to-face learning.
+**Student:** I received 132 responses and retained 103 profile-complete responses: 54 paper and 49 online. I used purposive sampling because respondents needed recent experience of a programme with both digital and face-to-face learning.
 
 **Guide follow-up:** Can you generalise this to all Union Bank employees?
 
@@ -82,17 +82,17 @@ Use this as a practice conversation. Keep each answer calm and direct. Pause aft
 
 **Student:** No. Similar anonymous patterns do not prove duplicate respondents, so I retained them and documented the pattern check.
 
-## 11. Guide: Explain your two imputations.
+## 11. Guide: Explain the two unclear-response decisions.
 
-**Student:** Two otherwise eligible paper forms each had one unclear Likert item. Manual-25 HL6 was replaced by 3.333, and Manual-46 HL4 was replaced by 4.000, using each respondent’s mean on the remaining items in that same construct.
+**Student:** Two otherwise eligible paper forms each had one unclear Likert item. Following the within-construct scoring rule, Manual-25 HL6 was recorded as 3 and Manual-46 HL4 as 4.
 
 **Guide follow-up:** Why did you not exclude them?
 
-**Student:** They were otherwise complete and had only one unclear item. The pre-stated within-construct mean rule allowed their retention, and both changes were documented.
+**Student:** They were otherwise complete and had only one unclear item. The pre-stated within-construct rule allowed their retention, and both decisions were documented.
 
 ## 12. Guide: What did Cronbach’s alpha show?
 
-**Student:** The four scales had high internal consistency: Hybrid Learning .961, Trainer Competence .969, Learner Engagement .958, and Training Effectiveness .971.
+**Student:** The four scales had high internal consistency: Hybrid Learning .962, Trainer Competence .969, Learner Engagement .958, and Training Effectiveness .972.
 
 **Guide follow-up:** Does that mean your scale is fully validated?
 
