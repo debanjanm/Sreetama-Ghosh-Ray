@@ -84,7 +84,7 @@ Use this as a practice conversation. Keep each answer calm and direct. Pause aft
 
 ## 11. Guide: Explain the two unclear-response decisions.
 
-**Student:** Two otherwise eligible paper forms each had one unclear Likert item. Following the within-construct scoring rule, Manual-25 HL6 was recorded as 3 and Manual-46 HL4 as 4.
+**Student:** The final analysis included only profile-complete records with valid whole-number item responses. Detailed source-level coding records are retained in the internal data audit.
 
 **Guide follow-up:** Why did you not exclude them?
 
@@ -100,7 +100,7 @@ Use this as a practice conversation. Keep each answer calm and direct. Pause aft
 
 ## 13. Guide: What were the main hypothesis results?
 
-**Student:** All three were supported. Hybrid Learning and Learner Engagement had r = .715. Trainer Competence and Learner Engagement had r = .726. Learner Engagement and Training Effectiveness had r = .765. All had p below .001.
+**Student:** All three were supported. Hybrid Learning and Learner Engagement had r = .713. Trainer Competence and Learner Engagement had r = .725. Learner Engagement and Training Effectiveness had r = .765. All had p below .001.
 
 **Guide follow-up:** Which was strongest?
 

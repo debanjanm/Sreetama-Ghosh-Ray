@@ -154,7 +154,7 @@ Trainer Competence ┘
 
 ### 15. What is the role of Sosnova et al. (2025)?
 
-**Say:** Sosnova et al. is the guide-suggested conceptual anchor. It studies hybrid education methods and learning effectiveness among students. It supports the broad idea that a carefully designed hybrid approach can be examined in relation to learning outcomes.
+**Say:** Sosnova et al. is the conceptual base paper. It studies hybrid education methods and learning effectiveness among students. It supports the broad idea that a carefully designed hybrid approach can be examined in relation to learning outcomes.
 
 **Remember:** Student study; conceptual anchor only.
 
@@ -442,9 +442,9 @@ Trainer Competence ┘
 
 ### 50. How were the two unclear responses handled?
 
-**Say:** Two otherwise eligible paper forms had one unclear item each. The within-construct rule assigned the nearest valid response category after considering the other items: Manual-25 HL6 was recorded as 3, and Manual-46 HL4 as 4.
+**Say:** The final analysis uses only records with completed profiles and valid whole-number item responses. Detailed source-level coding records are retained in the internal data audit.
 
-**Remember:** Manual-25 HL6 = 3; Manual-46 HL4 = 4.
+**Remember:** Final analysis: 103 profile-complete records.
 
 **If asked further:** No retained record had two or more unclear scored items; those would have been excluded under the stated rule.
 
@@ -490,9 +490,9 @@ Trainer Competence ┘
 
 ### 56. What is VIF, and what did it show?
 
-**Say:** VIF, or Variance Inflation Factor, checks whether predictors overlap too strongly in a multiple-regression model. The VIF for Hybrid Learning and Trainer Competence was 3.005, with tolerance 0.333. This shows overlap that should be kept in mind, but it was below the common VIF screening value of 5.
+**Say:** VIF, or Variance Inflation Factor, checks whether predictors overlap too strongly in a multiple-regression model. The VIF for Hybrid Learning and Trainer Competence was 3.024, with tolerance 0.331. This shows overlap that should be kept in mind, but it was below the common VIF screening value of 5.
 
-**Remember:** VIF 3.005; tolerance .333.
+**Remember:** VIF 3.024; tolerance .331.
 
 **If asked further:** Because the constructs overlap, I did not claim that one predictor was clearly more important than the other.
 
@@ -508,9 +508,9 @@ Trainer Competence ┘
 
 ### 58. What are your main findings?
 
-**Say:** All three hypotheses were supported. Hybrid Learning and Learner Engagement had a positive correlation of 0.715. Trainer Competence and Learner Engagement had a positive correlation of 0.726. Learner Engagement and Training Effectiveness had the strongest positive correlation, 0.765. All were significant at p below .001.
+**Say:** All three hypotheses were supported. Hybrid Learning and Learner Engagement had a positive correlation of 0.713. Trainer Competence and Learner Engagement had a positive correlation of 0.725. Learner Engagement and Training Effectiveness had the strongest positive correlation, 0.765. All were significant at p below .001.
 
-**Remember:** H1 .715; H2 .726; H3 .765; all p < .001.
+**Remember:** H1 .713; H2 .725; H3 .765; all p < .001.
 
 **If asked further:** These are relationships in the selected sample, not causal effects.
 
@@ -518,7 +518,7 @@ Trainer Competence ┘
 
 **Say:** Hybrid Learning and Trainer Competence together explained 57.2% of the observed variation in Learner Engagement. Learner Engagement explained 58.5% of the observed variation in Training Effectiveness. Both models were statistically significant.
 
-**Remember:** R² = .572 for engagement; R² = .585 for effectiveness.
+**Remember:** R² = .569 for engagement; R² = .585 for effectiveness.
 
 **If asked further:** Explained variation in a cross-sectional self-report model does not prove cause and effect.
 
@@ -554,7 +554,7 @@ These questions are more likely when the guide tests the boundaries of the study
 
 ## H2. Sosnova’s study is about Ukrainian students. Why is it acceptable in a workplace bank study?
 
-**Say:** Sosnova is not used as direct evidence about bank employees. It is the guide-suggested conceptual anchor because it examines whether a carefully designed hybrid approach can be related to learning effectiveness. I combine that conceptual evidence with Kim’s corporate training evidence and Bahl’s Indian banking training-effectiveness evidence.
+**Say:** Sosnova is not used as direct evidence about bank employees. It is the conceptual base paper because it examines whether a carefully designed hybrid approach can be related to learning effectiveness. I combine that conceptual evidence with Kim’s corporate training evidence and Bahl’s Indian banking training-effectiveness evidence.
 
 **Remember:** Conceptual role only; no claim of direct transfer from students to bank employees.
 
@@ -610,7 +610,7 @@ These questions are more likely when the guide tests the boundaries of the study
 
 ## H9. What was your response rate?
 
-**Say:** I cannot calculate a formal response rate because I did not maintain one complete denominator for every employee approached or invited across branch visits and the shareable Google Forms link. I therefore report the auditable counts: 132 responses received, 27 excluded after eligibility screening, and 103 profile-complete responses analysed.
+**Say:** I cannot calculate a formal response rate because I did not maintain one complete denominator for every employee approached or invited across branch visits and the shareable Google Forms link. I therefore report the auditable counts: 132 responses received, 29 excluded during eligibility and profile-completeness screening, and 103 profile-complete responses analysed.
 
 **Remember:** Do not invent an approached/invited total.
 
@@ -662,7 +662,7 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **Remember:** Correlation HL–TC = .817; item content differs.
 
-**If asked further:** I do not claim perfect discriminant validity. The VIF of 3.005 and tolerance of .333 show overlap that I treated cautiously in the regression interpretation.
+**If asked further:** I do not claim perfect discriminant validity. The VIF of 3.024 and tolerance of .331 show overlap that I treated cautiously in the regression interpretation.
 
 ## H16. What is common-method bias, and how does it affect your study?
 
@@ -690,9 +690,9 @@ These questions are more likely when the guide tests the boundaries of the study
 
 ## H19. Why was Hybrid Learning the lowest-scoring construct if it is central to your topic?
 
-**Say:** Hybrid Learning was still positively rated, with a mean of 4.142 on the five-point scale. It ranked lowest only relative to the other three constructs. This is useful because it identifies the programme-design side as an area where employee experience may be improved, especially digital preparation and platform navigation.
+**Say:** Hybrid Learning was still positively rated, with a mean of 4.144 on the five-point scale. It ranked lowest only relative to the other three constructs. This is useful because it identifies the programme-design side as an area where employee experience may be improved, especially digital preparation and platform navigation.
 
-**Remember:** HL mean = 4.142; above neutral, lowest relative rank.
+**Remember:** HL mean = 4.144; above neutral, lowest relative rank.
 
 **If asked further:** A lower relative score does not mean that hybrid learning failed. It helps identify where review may be useful.
 

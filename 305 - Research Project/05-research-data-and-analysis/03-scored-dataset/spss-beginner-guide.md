@@ -93,21 +93,40 @@ Move all four construct-mean columns (`Hybrid_Learning`, `Trainer_Competence`, `
 Correlation Coefficient: **Pearson** (default, leave checked). Test of Significance: **Two-tailed** (default) → **OK**.
 Output: a 4×4 correlation matrix with significance stars — matches Table 4.11. Read HL↔LE, TC↔LE, and LE↔TE for H1/H2/H3.
 
-### 5.5 Regression Model 1 — predicting Learner Engagement
+### 5.5 Regression Model 1 — what predicts Learner Engagement?
+
+| Role | Variable | In SPSS |
+|---|---|---|
+| **Dependent variable** (the outcome being explained) | Learner Engagement — `Learner_Engagement` | "Dependent" box |
+| **Independent variable 1** (predictor) | Hybrid Learning — `Hybrid_Learning` | "Independent(s)" box |
+| **Independent variable 2** (predictor) | Trainer Competence — `Trainer_Competence` | "Independent(s)" box |
+
+This is a multiple regression: two independent variables, one dependent variable. It supports H1 and H2.
 
 **Analyze → Regression → Linear**
-- Dependent: `Learner_Engagement`
-- Independent(s): `Hybrid_Learning`, `Trainer_Competence`
-- Click **Statistics** → tick Estimates, Model fit, and **Collinearity diagnostics** → **Continue → OK**.
-Output: three tables — Model Summary (R, R²), ANOVA (F, significance), Coefficients (B, Beta, t, Sig., Tolerance, VIF) — matches Tables 4.13–4.14.
+1. Move `Learner_Engagement` into **Dependent**.
+2. Move `Hybrid_Learning` and `Trainer_Competence` into **Independent(s)**. Leave Method as *Enter*.
+3. Click **Statistics**, tick Estimates, Model fit and **Collinearity diagnostics**, then **Continue → OK**.
 
-### 5.6 Regression Model 2 — predicting Training Effectiveness
+Output: Model Summary (R, R²), ANOVA (F, significance) and Coefficients (B, Beta, t, Sig., Tolerance, VIF), matching Tables 4.13–4.14. Expected: R² = .569, F(2,100) = 66.070, VIF = 3.024.
+
+### 5.6 Regression Model 2 — what predicts Training Effectiveness?
+
+| Role | Variable | In SPSS |
+|---|---|---|
+| **Dependent variable** (the outcome being explained) | Training Effectiveness — `Training_Effectiveness` | "Dependent" box |
+| **Independent variable** (predictor) | Learner Engagement — `Learner_Engagement` | "Independent(s)" box |
+
+This is a simple regression: one independent variable, one dependent variable. It supports H3.
 
 **Analyze → Regression → Linear**
-- Dependent: `Training_Effectiveness`
-- Independent(s): `Learner_Engagement`
-- **Statistics** → Estimates, Model fit → **Continue → OK**.
-Output matches Tables 4.15–4.16.
+1. Move `Training_Effectiveness` into **Dependent**. If Model 1's variables are still in the boxes, clear them first.
+2. Move `Learner_Engagement` into **Independent(s)**.
+3. Click **Statistics**, tick Estimates and Model fit, then **Continue → OK**.
+
+Output matches Tables 4.15–4.16. Expected: R² = .585, F(1,101) = 142.647.
+
+**Note on Learner Engagement:** it is the dependent variable in Model 1 and the independent variable in Model 2. This is not a mistake. It lets the two models describe a chain (Hybrid Learning and Trainer Competence → Learner Engagement → Training Effectiveness). Each is a separate association model, and neither is a formal mediation test. Say that plainly in the viva.
 
 ---
 
@@ -134,4 +153,4 @@ To put a table into a Word document: right-click the table in the Output Viewer 
 
 - **"Text Import Wizard" shows garbled columns** → you probably picked the wrong delimiter; go back and choose Comma, not Tab or Semicolon.
 - **Reliability gives a negative or very low alpha** → you've likely included an item from the wrong construct, or a reverse-scored item is mixed in unreversed (this study has no reverse-scored items, so this shouldn't occur if only the correct 6–7 items are selected).
-- **Regression won't run / "insufficient valid cases"** → check for typos in variable names in the Data Editor; the two corrected single-item values (Manual-25 HL6, Manual-46 HL4) should already be present as whole-number scores, not blank.
+- **Regression won't run / "insufficient valid cases"** → check for typos in variable names in the Data Editor; all included item responses should appear as whole-number scores from 1 to 5.

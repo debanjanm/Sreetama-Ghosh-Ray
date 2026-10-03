@@ -249,12 +249,16 @@ Learner Engagement was positively associated with Training Effectiveness; the fi
 
 ## 4.3 Interpretation of Results
 
-Hybrid Learning and Trainer Competence were each positively related to Learner Engagement. Learner Engagement was positively related to Training Effectiveness. These results describe associations in the 103 profile-complete responses and do not establish a causal sequence.
+The findings show three clear positive relationships in the selected Chennai respondent group. Employees who rated the connection between digital and face-to-face learning more positively also tended to report stronger engagement. The same pattern appeared for Trainer Competence and Learner Engagement. In turn, respondents who reported stronger engagement also tended to report higher Training Effectiveness.
+
+Learner Engagement had the highest construct mean, whereas Hybrid Learning had the lowest mean of the four constructs, although all four remained above the neutral midpoint. Within Hybrid Learning, digital preparation had the lowest item mean. This makes the link between pre-session digital material and later trainer-led learning a practical point for review. It does not mean that the Bank’s hybrid approach failed; rather, it identifies where employees’ experience may be strengthened.
 
 ## 4.4 Comparison with Previous Studies
 
-The pattern supports the literature’s practical emphasis on connecting digital activities with trainer-led discussion, practice, and feedback. It is broadly compatible with the conceptual contribution of Sosnova et al. (2025), the corporate hybrid-training evidence of Kim (2022), and Bahl et al.’s (2024) banking focus on Training Effectiveness. The present study differs from those studies in population, measures, and design.
+Sosnova et al. (2025) show that hybrid learning can be examined in relation to learning effectiveness when digital and interactive activities are deliberately combined. Kim (2022) brings the discussion into a corporate setting by showing the importance of training design, instructor involvement, practice, and participation. Bahl et al. (2024) establish that employee training effectiveness is a substantive issue in Indian banking. The present findings bring these strands together in a focused Chennai Union Bank context by examining programme connection, trainer support, engagement, and employee-reported effectiveness within the same survey.
+
+The studies differ in population, measures, and research design. For that reason, the present results do not replicate their findings or compare effect sizes. They provide employee-level evidence that the four selected aspects of training are related in this respondent group.
 
 ## 4.5 Theoretical and Practical Implications
 
-The item results can guide practical review. Training teams can make the sequence between Union Vidya material and trainer-led activity clear, identify where follow-up material is located, provide opportunities for questions, and link examples to routine work tasks. These are suggestions informed by the respondent pattern, not tested interventions.
+The practical message is that hybrid training should feel like one learning journey rather than a digital requirement followed by an unrelated session. Training teams can make the sequence between Union Vidya material and trainer-led activity clear, show employees where follow-up material is located, prepare trainers to invite questions and feedback, and use examples that connect the programme with everyday work. These are review areas arising from the response pattern, not tested interventions.

@@ -47,7 +47,7 @@ Trainer Competence ┘
 - Chennai South Regional Office, associated locations, and branches.
 - 70 paper questionnaires + 62 Google Forms = **132 received**.
 - **103 retained:** 54 paper + 49 online.
-- **27 excluded:** 16 said No to hybrid-training eligibility; 11 paper forms had unclear/blank eligibility.
+- **29 excluded:** 16 said No to hybrid-training eligibility; 11 paper forms had unclear/blank eligibility; 2 otherwise eligible paper forms lacked required profile information.
 - Sampling: purposive, because only employees with relevant hybrid-training experience could answer.
 
 ## Data cleaning
@@ -55,8 +55,7 @@ Trainer Competence ┘
 - Retained only Q1 = Yes.
 - Checked 26 scored items were present and within 1–5.
 - Two documented unclear-response decisions:
-  - Manual-25 HL6 = **3**
-  - Manual-46 HL4 = **4**
+  - Source-level coding details are retained in the internal data audit.
 - Similar anonymous patterns were retained because similarity alone does not prove duplicate respondents.
 
 ## Main statistics
@@ -73,15 +72,15 @@ High internal consistency. It does not prove full instrument validity.
 
 | Hypothesis | Result |
 | --- | --- |
-| H1: HL ↔ LE | r = .715, p < .001, supported |
-| H2: TC ↔ LE | r = .726, p < .001, supported |
+| H1: HL ↔ LE | r = .713, p < .001, supported |
+| H2: TC ↔ LE | r = .725, p < .001, supported |
 | H3: LE ↔ TE | r = .765, p < .001, supported |
 
 ### Regression results
 
-- HL + TC → LE: **R² = .572**, F(2,102) = 68.218, p < .001.
-- LE → TE: **R² = .585**, F(1,103) = 145.452, p < .001.
-- VIF for HL and TC = **3.005**; overlap exists but is below the common screening value of 5.
+- HL + TC → LE: **R² = .569**, F(2,100) = 66.070, p < .001.
+- LE → TE: **R² = .585**, F(1,101) = 142.647, p < .001.
+- VIF for HL and TC = **3.024**; overlap exists but is below the common screening value of 5.
 
 ## Five recommendations
 

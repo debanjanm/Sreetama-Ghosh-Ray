@@ -14,13 +14,13 @@ The present study is situated at Union Bank of India, among eligible employees c
 
 The study examines four constructs. **Hybrid Learning** refers to the employee’s experience of how the digital and face-to-face parts of the programme were connected, including platform access, availability of material, and opportunities to revisit learning. **Trainer Competence** refers to the trainer’s knowledge, clarity, ability to connect activities across modes, use of relevant digital tools, encouragement of participation, and feedback. **Learner Engagement** refers to the employee’s attention, effort, interest, participation, and willingness to seek clarification. **Training Effectiveness** refers to the employee’s perception that the programme produced useful, understandable, relevant, and applicable learning for the current role.
 
-The proposed framework is:
+The Version 5 framework is:
 
-    Hybrid Learning ─┐
-                     ├──→ Learner Engagement ───→ Training Effectiveness
-    Trainer Competence ┘
+    Hybrid Learning ────────┐
+    Trainer Competence ─────┼──→ Training Effectiveness
+    Learner Engagement ────┘
 
-The framework examines reported relationships. It asks whether employees who report a more positive experience of Hybrid Learning and Trainer Competence also report higher Learner Engagement, and whether higher engagement is associated with Training Effectiveness. Employee perception matters because employees use the platform, attend sessions, interact with trainers, and decide whether learning helps in their work. The findings are therefore interpreted alongside the study’s stated self-report and cross-sectional limits.
+The framework treats Hybrid Learning, Trainer Competence, and Learner Engagement as separate employee-level predictors of Training Effectiveness. It does not assume that a well-planned programme or a competent trainer automatically makes every employee engage. Workload, time available for learning, prior experience, digital confidence, motivation, and immediate workplace conditions can also influence engagement. Employee perception matters because employees use the platform, attend sessions, interact with trainers, and decide whether learning helps in their work. The findings are therefore interpreted alongside the study’s stated self-report and cross-sectional limits.
 
 Three complementary base papers provide the academic foundation for the study. Sosnova et al. (2025) provide the conceptual base paper by examining hybrid education methods and learning effectiveness in higher education. Kim (2022) provides corporate evidence from automotive sales training and shows why training delivery, instructor involvement, practice, and design should be evaluated rather than assumed to be effective. Bahl, Kiran and Sharma (2024) provide the Indian banking anchor through an open-access study of 402 managerial and non-managerial bank employees using Kirkpatrick’s Reaction, Learning, Behaviour, and Results framework. None of these papers reproduces the present Union Bank model. Together, they provide a justified conceptual, corporate, and banking basis for examining employee training effectiveness.
 
@@ -38,7 +38,7 @@ In this study, Hybrid Learning is measured through the employee’s view of whet
 
 Trainer Competence refers to the ability of a trainer to support employee learning. It includes subject knowledge, clear explanation, effective use of relevant digital tools, the ability to connect digital and face-to-face activities, encouragement of participation, and useful feedback. These abilities matter in a hybrid programme because employees may need help in understanding why an online activity comes before a session, how a task will be discussed later, or how a new process applies in their own role.
 
-Trainer Competence is treated separately from Hybrid Learning. A platform may be accessible, yet an employee may still need clear guidance and feedback. Similarly, a competent trainer may face limitations if learning material is difficult to access. Keeping the two constructs separate allows the study to examine the distinct relationships of programme design and trainer support with Learner Engagement.
+Trainer Competence is treated separately from Hybrid Learning. A platform may be accessible, yet an employee may still need clear guidance and feedback. Similarly, a competent trainer may face limitations if learning material is difficult to access. Keeping the two constructs separate allows the study to examine their distinct associations with Training Effectiveness.
 
 ### Learner Engagement
 
@@ -62,7 +62,7 @@ In the present study, Union Vidya is part of the Hybrid Learning context, not a 
 
 ### Need for the Study
 
-The study addresses a practical question: when employees attend a programme that combines digital and face-to-face learning, how are the quality of the programme and the competence of the trainer related to their engagement and their perception of training effectiveness? This question matters because employees may be expected to learn while also managing regular work, responding to customers, following procedures, and keeping pace with digital change. Training that is difficult to access or poorly connected may increase the burden on employees rather than support them.
+The study addresses a practical question: when employees attend a programme that combines digital and face-to-face learning, how are Hybrid Learning, Trainer Competence, and Learner Engagement related to their perception of Training Effectiveness? This question matters because employees may be expected to learn while also managing regular work, responding to customers, following procedures, and keeping pace with digital change. Training that is difficult to access or poorly connected may increase the burden on employees rather than support them.
 
 Research supports the importance of examining this issue, but a context gap remains. Much blended-learning research has been conducted with students. Those studies are helpful for understanding how learning environments can be designed, yet employees in banks learn under different conditions. They may need to balance learning with operational schedules, customer responsibilities, compliance work, and changing systems. Corporate evidence is available, but verified evidence on the combined relationships of Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness among employees of an Indian public-sector bank remains limited.
 
@@ -90,13 +90,12 @@ Union Bank of India has a documented learning and development system that includ
 
 The problem addressed by this study is the limited verified evidence on the relationships among Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness among Union Bank employees. Existing research offers useful findings from higher education, corporate training, and other workplace settings. It does not directly examine this four-construct framework in the selected public-sector banking setting or in relation to the Union Vidya/LMS context.
 
-The study therefore examines whether more positive employee perceptions of Hybrid Learning and Trainer Competence are associated with higher Learner Engagement, and whether higher Learner Engagement is associated with greater Training Effectiveness.
+The study therefore examines whether Hybrid Learning, Trainer Competence, and Learner Engagement together are associated with employees’ perceptions of Training Effectiveness.
 
 ## 1.5 Research Questions
 
 1. What are employees’ perceptions of Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness?
-2. Are Hybrid Learning and Trainer Competence associated with Learner Engagement?
-3. Is Learner Engagement associated with Training Effectiveness?
+2. To what extent do Hybrid Learning, Trainer Competence, and Learner Engagement jointly predict Training Effectiveness?
 
 ## 1.6 Industry and Company Context
 
@@ -126,7 +125,7 @@ Chapter 1 introduces the topic, defines the four study constructs, explains the 
 
 Chapter 2 reviews literature on Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness. It explains the role of the three selected base papers, presents the theoretical and conceptual framework, describes the Union Bank case context, and identifies the workplace, banking, LMS, and measurement gaps addressed by the study.
 
-Chapter 3 presents the research methodology. It explains the objectives, relationship hypotheses, variable definitions, research design, sample approach, data-collection procedure, questionnaire, scoring method, reliability and validity plan, ethical considerations, limitations, and analysis plan.
+Chapter 3 presents the research methodology. It explains the objective and hypothesis, variable definitions, research design, sample approach, data-collection procedure, questionnaire, SPSS-based analysis record, ethical considerations, limitations, and analysis plan.
 
 Chapter 4 presents the data analysis and interpretation. Chapter 5 brings together the findings, contribution, limitations, future directions, and conclusion.
 

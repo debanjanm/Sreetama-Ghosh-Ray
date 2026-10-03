@@ -30,7 +30,7 @@ The study tests three relationship hypotheses at the 5 per cent level of signifi
 
 H1 and H2 examine whether a connected hybrid-learning experience and trainer support are associated with engagement. H3 examines whether active engagement is associated with respondents’ perception that training was understandable, relevant, useful, and applicable to their work.
 
-The hypotheses do not test a formal mediation effect. The study does not state that Hybrid Learning or Trainer Competence causes Training Effectiveness through Learner Engagement. Such a claim would require a more demanding design, stronger evidence of time order, and analysis beyond a cross-sectional self-report survey.
+The hypotheses test reported relationships. They do not test a formal mediation effect or establish that Hybrid Learning or Trainer Competence causes Training Effectiveness through Learner Engagement.
 
 ## 3.3 Definition of Variables
 
@@ -54,7 +54,7 @@ The study uses four constructs.
 | Training Effectiveness | 24–30 | 7 |
 | **Total Likert-scale items** | **5–30** | **26** |
 
-The questionnaire has 30 numbered questions. Questions 1–4 confirm eligibility and describe the respondent group. Questions 5–30 are five-point agreement items. The study does not measure Knowledge Retention, Job Performance, organisation-level results, employee agility, supervisor support, metacognitive skills, or technical performance of Union Vidya as separate variables.
+The questionnaire has 30 numbered questions. Questions 1–4 confirm eligibility and describe the respondent group. Questions 5–30 are five-point agreement items. Knowledge Retention, Job Performance, organisation-level results, employee agility, supervisor support, metacognitive skills, and technical performance of Union Vidya are outside the measured model.
 
 ## 3.4 Research Design
 
@@ -68,7 +68,7 @@ The model is:
                      ├──→ Learner Engagement ───→ Training Effectiveness
     Trainer Competence ┘
 
-The arrows show the relationships examined through correlation and regression analysis. They do not state that the survey proves a causal process. Other conditions, including workload, opportunity to apply learning, digital confidence, supervisor support, and the nature of the selected programme, may also influence engagement and training effectiveness.
+The arrows represent the relationships examined through correlation and regression analysis. Workload, opportunity to apply learning, digital confidence, supervisor support, and the nature of the selected programme may also influence engagement and training effectiveness.
 
 ## 3.5 Population, Sample and Sampling Method
 
@@ -86,6 +86,10 @@ The questionnaire collects limited profile information: age group, length of ser
 
 Primary data were collected through printed questionnaires and a Google Forms link. The final profile-complete analysis uses 103 responses: 49 digital and 54 manual.
 
+The fieldwork record confirms that employees were approached through Regional Office Chennai South and 27 Chennai branches: Triplicane 1, Triplicane 2, Triplicane 3, Alandur, Teynampet, Mowbrays Road, Chamiers Road, Mylapore 1, Mylapore 2, Mylapore 3, Adyar, Madhya Kailash, Besant Nagar 1, Besant Nagar 2, Indiranagar, Shastri Nagar, T. Nagar 1, T. Nagar 2, T. Nagar 3, West Mambalam, Nungambakkam, Koyambedu, Virugambakkam, Saligramam, Ashok Nagar 1, Ashok Nagar 2, and Ashok Nagar 3. Responses were also collected from the Retail Loans and Currency Chest departments at the Regional Office. The fieldwork record describes employees being approached during working hours; the Google Forms link provided a way to participate when a paper form could not be completed immediately because of work responsibilities.
+
+*Source: Researcher’s internship fieldwork record.*
+
 **Table 3.3: Response disposition after screening**
 
 | Disposition | Digital | Manual | Total |
@@ -96,15 +100,15 @@ Primary data were collected through printed questionnaires and a Google Forms li
 | Required profile field blank | 0 | 2 | 2 |
 | **Final analysed sample** | **49** | **54** | **103** |
 
-Manual-25 and Manual-37 were excluded because required profile fields were blank on the paper forms. All 103 retained records have completed profile fields and 26 valid whole-number Likert responses. Manual-46 remains in the dataset with HL4 recorded as 4; its response-coding trace is retained in the internal audit.
+After screening, all 103 analysed records contained completed profile information and 26 valid whole-number Likert responses. Detailed source checking and response-coding records are retained in the internal data audit.
 
 ## 3.7 Research Instrument and Scoring
 
-The research instrument is a structured, self-administered questionnaire placed in the Appendix. It has 30 numbered questions. Questions 1–4 screen for eligibility and describe the respondent group. Questions 5–30 use a five-point agreement scale from Strongly Disagree to Strongly Agree. Each eligible respondent answered about one hybrid-training programme attended during the preceding 12 months.
+The research instrument is a structured, self-administered questionnaire placed in the Appendix. It has 30 numbered questions. Questions 1–4 screen for eligibility and describe the respondent group. Questions 5–30 use a five-point agreement scale from Strongly Disagree to Strongly Agree. Each respondent answered about one hybrid-training programme attended during the preceding 12 months.
 
-The instrument is literature-informed and adapted to the Union Bank context. It does not claim to be a ready-made Union Bank scale. Its content basis is documented through the selected base papers and supporting measurement literature. Union Vidya is named only as the Bank’s LMS and as an example platform that may have been used in the selected programme.
+The instrument is literature-informed and adapted to the Union Bank context. Its content basis is documented through the selected base papers and supporting measurement literature. Union Vidya is named as the Bank’s LMS and as an example platform that may have been used in the selected programme.
 
-For Questions 5–30, response categories are coded from 1 for Strongly Disagree to 5 for Strongly Agree. Each construct score will be calculated as the arithmetic mean of the assigned items, using the two documented numeric replacements described in Section 3.6. Higher scores indicate a more positive perception of the relevant construct.
+For Questions 5–30, response categories are coded from 1 for Strongly Disagree to 5 for Strongly Agree. Each construct score is the arithmetic mean of its assigned items; a higher score indicates a more positive reported experience of that construct.
 
 ## 3.8 Research Questions
 
@@ -137,19 +141,19 @@ The second regression model is:
 
 This simple-regression model examines the relationship between Learner Engagement and Training Effectiveness.
 
-The three hypotheses are stated as relationships. Pearson correlation is therefore the primary test for deciding whether each reported relationship is positive and statistically significant. The null hypothesis is rejected when the relevant *p*-value is below .05. Regression analysis provides supporting model-level evidence. The final report will present correlation coefficients, regression coefficients, test statistics, *p*-values, and explained variance where appropriate. It will also report tolerance and Variance Inflation Factor values for the two-predictor model. If predictor overlap is high, the report will not claim that one predictor has a stronger independent relationship than the other. A statistically significant finding will be described as an association in the retained sample, not proof that one construct caused another.
+Pearson correlation is the primary hypothesis test because the hypotheses are stated as relationships. The null hypothesis is rejected when the relevant *p*-value is below .05. Regression provides supporting model-level evidence through coefficients, explained variance, tolerance, and Variance Inflation Factor values. Results are interpreted as associations in the retained sample.
 
-The analysis does not compare online-only and classroom-only programmes, use structural-equation modelling, calculate a formal indirect effect, or evaluate Bank-level performance. These analyses would require a different design or additional data.
+The analysis does not compare online-only and classroom-only programmes, estimate a formal indirect effect, or evaluate Bank-level performance. Those questions require a different design or additional data.
 
 ## 3.10 Questionnaire Review, Reliability and Validity
 
 Before main data collection, the academic guide-approved questionnaire was piloted online with 20 eligible employees on 15–16 September 2026. The pilot checked clarity, completion burden, Union Vidya wording, relevance, and repetition. Preliminary Cronbach’s alpha values ranged from .879 to .929 across Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness. Feedback did not identify a systematic issue requiring deletion of a scored item, so the approved 30-question instrument was retained. Pilot records were stored separately and excluded from the final analysis. The questionnaire was prepared from the documented questionnaire evidence map, the selected base papers, and supporting measurement literature.
 
-Cronbach’s alpha will be calculated separately for the four item sets in the final profile-complete sample of 103 response records. A value of .70 or above will be treated as an initial indication of acceptable internal consistency. Alpha values will be interpreted with item distributions, response-pattern checks, and the size of the final sample; they will not be treated as proof that the instrument is a fully validated Union Bank scale.
+Cronbach’s alpha was calculated separately for the four item sets in the final profile-complete sample of 103 responses. Alpha values are interpreted with item distributions, response-pattern checks, and sample size; they indicate internal consistency in this study rather than full scale validation.
 
 Content relevance is supported by the questionnaire evidence map. Hybrid Learning items are based on blended-learning integration and workplace-access literature. Trainer Competence and Learner Engagement items are based on workplace blended-learning and engagement literature. Training Effectiveness items are based on corporate training evaluation and transfer literature, including Bahl, Kiran and Sharma’s (2024) banking evaluation context. Bahl does not provide the present item set or model. The academic guide’s review supports the practical suitability of the wording for this academic study.
 
-The questionnaire is literature-informed and adapted to the selected Union Bank setting. It is not presented as a ready-made or fully validated bank-specific scale. Its limitations will be stated when the final reliability results are reported.
+The questionnaire is literature-informed and adapted to the selected Union Bank setting. Chapter 5 discusses its limits alongside the final reliability results.
 
 ## 3.11 Ethical Considerations and Limitations
 

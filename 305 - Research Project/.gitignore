@@ -2,3 +2,5 @@
 tmp/
 *.inspect.ndjson
 node_modules/
+__pycache__/
+*.pyc

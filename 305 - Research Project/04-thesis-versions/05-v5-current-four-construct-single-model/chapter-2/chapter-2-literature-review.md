@@ -38,7 +38,7 @@ The present study does not reproduce the Uddin model. Soft-skill development, kn
 
 Trainer competence is particularly important when a programme is spread across digital and face-to-face activity. Employees may need a trainer who can explain the subject clearly, connect an online module with a later session, use relevant digital tools, invite questions, and provide useful feedback. Without this support, an employee may complete the required activity without understanding how it relates to a current work responsibility.
 
-Trainer competence should not be confused with the technical quality of an LMS. A platform may work well, yet a trainer may not explain the connection between its content and the learning objective. Similarly, a knowledgeable trainer may find it difficult to support learners if the material is inaccessible. These are related conditions, but they are not the same condition. The present study therefore treats Hybrid Learning and Trainer Competence as separate antecedent constructs.
+Trainer competence should not be confused with the technical quality of an LMS. A platform may work well, yet a trainer may not explain the connection between its content and the learning objective. Similarly, a knowledgeable trainer may find it difficult to support learners if the material is inaccessible. These are related conditions, but they are not the same condition. The present study therefore treats Hybrid Learning and Trainer Competence as separate independent variables.
 
 The selected base papers do not provide one open workplace study that measures Trainer Competence and Learner Engagement together in this exact model. Kim (2022) identifies instructor engagement, training design, participation, and practice as relevant to corporate training effectiveness. Mulaudzi (2021) discusses access, facilitation, material use, and practical barriers in workplace blended learning. Ansari et al. (2023) show, in a university setting, that blended-learning training was associated with improved lecturer and student competence and satisfaction. The population differs from the present study, but the paper supports the practical view that facilitation across digital and face-to-face modes requires competence rather than mere availability of technology.
 
@@ -50,7 +50,7 @@ Learner engagement refers to active involvement in the learning process. It may 
 
 Schaufeli, Bakker and Salanova (2006) describe engagement in the work context through vigour, dedication, and absorption. The present study does not transfer their work-engagement scale directly to training. It uses the broader principle that engagement involves active effort and involvement. Employees are asked whether they stayed attentive, made an effort to understand, participated in activities, felt involved, sought clarification, and remained interested in completing the selected programme.
 
-Learner Engagement is placed between the antecedent constructs and Training Effectiveness for a practical reason. A connected programme and a competent trainer may create better conditions for learning, but employees still need to invest attention and effort. When employees take part in discussion or practice, ask questions, and relate content to their work, they may be better able to understand why a procedure matters and how it can be used. The study does not claim that engagement is a proven mediator. It treats engagement as an intervening construct and tests its reported relationships with the antecedents and outcome.
+Learner Engagement is retained as a separate independent variable for a practical reason. A connected programme and a competent trainer can support learning, but they cannot fully determine whether an employee remains attentive, participates, asks for clarification, or makes an effort to understand. Workload, time pressure, prior experience, digital confidence, motivation, and local work conditions may also influence engagement. The Version 5 model therefore examines engagement’s own association with Training Effectiveness rather than treating it as a mediator between the other constructs and the outcome.
 
 ### Training Effectiveness
 
@@ -105,9 +105,9 @@ No single source provides a ready-made questionnaire or the complete present mod
 
 The first theoretical perspective is that Hybrid Learning works through the meaningful integration of learning modes. Garrison and Kanuka (2004) and Graham (2006) provide the conceptual basis for this view. A programme should not ask employees to complete digital work and attend a session without explaining the relationship between them. When learning activities have a clear sequence, employees may be more likely to understand the purpose of the programme and participate actively.
 
-### Trainer-Supported Learner Engagement
+### Separate Employee-Level Predictors
 
-The second perspective is that trainer support may create better conditions for engagement. Kim (2022) highlights instructor engagement in corporate training, while Ansari et al. (2023) and Mulaudzi (2021) provide additional evidence that facilitation and access conditions matter when learning is distributed across digital and face-to-face modes. A trainer cannot guarantee engagement, because the employee must still invest attention and effort. However, clear explanation, opportunities to participate, and useful feedback may make active involvement more likely.
+The second perspective is that Hybrid Learning, Trainer Competence, and Learner Engagement are related but distinct employee-level conditions. Kim (2022) highlights instructional design, instructor involvement, participation, and practice in corporate training. Ansari et al. (2023) and Mulaudzi (2021) also show that facilitation and access conditions matter when learning is distributed across digital and face-to-face modes. At the same time, an employee’s engagement can be shaped by circumstances beyond the trainer and programme design. The present study therefore measures all three constructs separately and examines their joint association with Training Effectiveness.
 
 ### Training Evaluation and Transfer
 
@@ -117,11 +117,11 @@ The third perspective is drawn from training evaluation and transfer literature.
 
 The theoretical perspectives support the following framework:
 
-    Hybrid Learning ─┐
-                     ├──→ Learner Engagement ───→ Training Effectiveness
-    Trainer Competence ┘
+    Hybrid Learning ────────┐
+    Trainer Competence ─────┼──→ Training Effectiveness
+    Learner Engagement ────┘
 
-Hybrid Learning and Trainer Competence are expected to be positively related to Learner Engagement. Learner Engagement is expected to be positively related to Training Effectiveness. The arrows represent relationship hypotheses, not proof that one construct causes another. The study uses correlations and regression models suitable for a cross-sectional self-report survey.
+The three independent variables are examined together in relation to Training Effectiveness. The model does not assume a fixed sequence between programme design, trainer support, and employee engagement. The arrows show the predictor–outcome structure used in the SPSS multiple regression; they do not prove causation.
 
 ## 2.3 Case Study: Union Bank of India
 
@@ -143,9 +143,9 @@ The first gap is a **workplace-context gap**. Important blended-learning literat
 
 The second gap is a **banking-sector gap**. Bahl, Kiran and Sharma (2024) show that Training Effectiveness can be evaluated among Indian bank employees, but their study does not examine Hybrid Learning, Trainer Competence, Learner Engagement, or Union Vidya. Union Bank has documented digital-learning infrastructure, yet published organisational material does not show how employees experience the integration of digital and face-to-face learning, trainer support, engagement, and training effectiveness.
 
-The third gap is a **mechanism gap**. Sosnova examines hybrid methods and learning effectiveness in education. Kim examines training effectiveness across delivery methods in a corporate setting. Bahl, Kiran and Sharma evaluate training effectiveness in Indian banking through Kirkpatrick’s model. These papers are complementary, but none examines the present focused framework in which Hybrid Learning and Trainer Competence are associated with Learner Engagement and Learner Engagement is associated with employee-level Training Effectiveness in a public-sector bank.
+The third gap is a **predictor-combination gap**. Sosnova examines hybrid methods and learning effectiveness in education. Kim examines training effectiveness across delivery methods in a corporate setting. Bahl, Kiran and Sharma evaluate training effectiveness in Indian banking through Kirkpatrick’s model. These papers are complementary, but none examines Hybrid Learning, Trainer Competence, and Learner Engagement together as separate predictors of employee-level Training Effectiveness in a public-sector bank.
 
-The fourth gap is a **measurement gap**. A validated blended-learning environment scale is available in a student setting, while a workplace training-effectiveness scale includes organisation-level outcomes. Neither can be used unchanged for a short survey of Union Bank employees. The present study uses a literature-informed questionnaire that separates programme design, trainer competence, learner engagement, and employee-level training effectiveness. The instrument was reviewed by the academic guide, piloted online with 20 eligible employees on 15–16 September 2026, and assessed again for internal consistency using the final survey data. The pilot did not identify a systematic issue requiring deletion of a scored item.
+The fourth gap is a **measurement gap**. A validated blended-learning environment scale is available in a student setting, while a workplace training-effectiveness scale includes organisation-level outcomes. Neither can be used unchanged for a short survey of Union Bank employees. The present study uses a literature-informed questionnaire that separates programme design, trainer competence, learner engagement, and employee-level training effectiveness. The instrument was reviewed by the academic guide and piloted online with 20 eligible employees on 15–16 September 2026. The supplied SPSS output reports overall internal consistency for the 26-item questionnaire; it does not provide separate reliability estimates for the four constructs.
 
 Related research exists across higher education, corporate learning, and banking training evaluation. Evidence remains limited, however, at the specific intersection of hybrid learning, trainer competence, learner engagement, training effectiveness, public-sector banking, and Union Vidya/LMS experience. This study addresses that focused intersection.
 

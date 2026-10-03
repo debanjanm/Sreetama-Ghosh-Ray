@@ -6,9 +6,9 @@
 
 ## Authoritative inputs
 
-- [Verified manual JSON records](../01-collection-sources/json-records/imputed) — 70 paper questionnaires manually rectified and verified.
-- [Original Google Forms export](<../01-collection-sources/online-export/Hybrid Learning and Training Effectiveness at Union Bank of India (Responses).xlsx>) — 62 online submissions.
-- [Paper questionnaire scan](../01-collection-sources/paper-scan/QUESTIONNAIRE_SCAN.pdf) — source record for the manual forms.
+- [Verified manual JSON records](../../../01-collection-sources/json-records/imputed) — 70 paper questionnaires manually rectified and verified.
+- [Original Google Forms export](<../../../01-collection-sources/online-export/Hybrid Learning and Training Effectiveness at Union Bank of India (Responses).xlsx>) — 62 online submissions.
+- [Paper questionnaire scan](../../../01-collection-sources/paper-scan/QUESTIONNAIRE_SCAN.pdf) — source record for the manual forms.
 
 The manual JSON files are the authoritative cleaned transcription of paper responses. The online JSON records were checked against every row and scored response in the original Google Forms workbook. The audit found **0 mismatch(es)**.
 
