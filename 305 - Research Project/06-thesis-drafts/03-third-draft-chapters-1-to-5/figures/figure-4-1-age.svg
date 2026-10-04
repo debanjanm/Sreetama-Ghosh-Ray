@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" role="img" aria-label="Respondents by age group">
+<rect width="900" height="470" fill="white"/>
+<text x="30" y="42" font-family="Arial" font-size="25" font-weight="bold" fill="#172c3d">Respondents by age group</text>
+<text x="30" y="69" font-family="Arial" font-size="15" fill="#486171">Number of respondents; N = 102</text>
+<text x="30" y="132" font-family="Arial" font-size="17" fill="#172c3d">Below 25</text>
+<rect x="245" y="105" width="580" height="37" fill="#eef2f5" rx="5"/>
+<rect x="245" y="105" width="0.0" height="37" fill="#245a81" rx="5"/>
+<text x="254.0" y="131" font-family="Arial" font-size="16" font-weight="bold" fill="#172c3d">0</text>
+<text x="30" y="194" font-family="Arial" font-size="17" fill="#172c3d">25–34</text>
+<rect x="245" y="167" width="580" height="37" fill="#eef2f5" rx="5"/>
+<rect x="245" y="167" width="280.3" height="37" fill="#245a81" rx="5"/>
+<text x="534.3" y="193" font-family="Arial" font-size="16" font-weight="bold" fill="#172c3d">29</text>
+<text x="30" y="256" font-family="Arial" font-size="17" fill="#172c3d">35–44</text>
+<rect x="245" y="229" width="580" height="37" fill="#eef2f5" rx="5"/>
+<rect x="245" y="229" width="541.3" height="37" fill="#245a81" rx="5"/>
+<text x="795.3" y="255" font-family="Arial" font-size="16" font-weight="bold" fill="#172c3d">56</text>
+<text x="30" y="318" font-family="Arial" font-size="17" fill="#172c3d">45–54</text>
+<rect x="245" y="291" width="580" height="37" fill="#eef2f5" rx="5"/>
+<rect x="245" y="291" width="125.7" height="37" fill="#245a81" rx="5"/>
+<text x="379.7" y="317" font-family="Arial" font-size="16" font-weight="bold" fill="#172c3d">13</text>
+<text x="30" y="380" font-family="Arial" font-size="17" fill="#172c3d">55 and above</text>
+<rect x="245" y="353" width="580" height="37" fill="#eef2f5" rx="5"/>
+<rect x="245" y="353" width="38.7" height="37" fill="#245a81" rx="5"/>
+<text x="292.7" y="379" font-family="Arial" font-size="16" font-weight="bold" fill="#172c3d">4</text>
+</svg>

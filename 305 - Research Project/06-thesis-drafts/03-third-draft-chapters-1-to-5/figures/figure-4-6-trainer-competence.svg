@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="547" viewBox="0 0 900 547" role="img" aria-label="Trainer Competence item responses">
+<rect width="900" height="547" fill="white"/>
+<text x="28" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="#172c3d">Trainer Competence item responses</text>
+<text x="28" y="68" font-family="Arial" font-size="15" fill="#486171">Percent of 102 respondents in each response category</text>
+<text x="35" y="132" font-family="Arial" font-size="17" fill="#172c3d">Q12</text>
+<rect x="125.00" y="105" width="25.88" height="38" fill="#b95d58"/>
+<rect x="150.88" y="105" width="6.47" height="38" fill="#db9b74"/>
+<rect x="157.35" y="105" width="38.82" height="38" fill="#d3d9dc"/>
+<text x="176.76" y="130" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">6</text>
+<rect x="196.18" y="105" width="330.00" height="38" fill="#74a9a4"/>
+<text x="361.18" y="130" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">51</text>
+<rect x="526.18" y="105" width="258.82" height="38" fill="#2d766e"/>
+<text x="655.59" y="130" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">40</text>
+<text x="35" y="192" font-family="Arial" font-size="17" fill="#172c3d">Q13</text>
+<rect x="125.00" y="165" width="32.35" height="38" fill="#b95d58"/>
+<rect x="157.35" y="165" width="32.35" height="38" fill="#d3d9dc"/>
+<rect x="189.71" y="165" width="317.06" height="38" fill="#74a9a4"/>
+<text x="348.24" y="190" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">49</text>
+<rect x="506.76" y="165" width="278.24" height="38" fill="#2d766e"/>
+<text x="645.88" y="190" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">43</text>
+<text x="35" y="252" font-family="Arial" font-size="17" fill="#172c3d">Q14</text>
+<rect x="125.00" y="225" width="25.88" height="38" fill="#b95d58"/>
+<rect x="150.88" y="225" width="6.47" height="38" fill="#db9b74"/>
+<rect x="157.35" y="225" width="64.71" height="38" fill="#d3d9dc"/>
+<text x="189.71" y="250" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">10</text>
+<rect x="222.06" y="225" width="342.94" height="38" fill="#74a9a4"/>
+<text x="393.53" y="250" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">53</text>
+<rect x="565.00" y="225" width="220.00" height="38" fill="#2d766e"/>
+<text x="675.00" y="250" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">34</text>
+<text x="35" y="312" font-family="Arial" font-size="17" fill="#172c3d">Q15</text>
+<rect x="125.00" y="285" width="25.88" height="38" fill="#b95d58"/>
+<rect x="150.88" y="285" width="12.94" height="38" fill="#db9b74"/>
+<rect x="163.82" y="285" width="45.29" height="38" fill="#d3d9dc"/>
+<text x="186.47" y="310" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">7</text>
+<rect x="209.12" y="285" width="330.00" height="38" fill="#74a9a4"/>
+<text x="374.12" y="310" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">51</text>
+<rect x="539.12" y="285" width="245.88" height="38" fill="#2d766e"/>
+<text x="662.06" y="310" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">38</text>
+<text x="35" y="372" font-family="Arial" font-size="17" fill="#172c3d">Q16</text>
+<rect x="125.00" y="345" width="25.88" height="38" fill="#b95d58"/>
+<rect x="150.88" y="345" width="6.47" height="38" fill="#db9b74"/>
+<rect x="157.35" y="345" width="38.82" height="38" fill="#d3d9dc"/>
+<text x="176.76" y="370" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">6</text>
+<rect x="196.18" y="345" width="323.53" height="38" fill="#74a9a4"/>
+<text x="357.94" y="370" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">50</text>
+<rect x="519.71" y="345" width="265.29" height="38" fill="#2d766e"/>
+<text x="652.35" y="370" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">41</text>
+<text x="35" y="432" font-family="Arial" font-size="17" fill="#172c3d">Q17</text>
+<rect x="125.00" y="405" width="32.35" height="38" fill="#b95d58"/>
+<rect x="157.35" y="405" width="19.41" height="38" fill="#db9b74"/>
+<rect x="176.76" y="405" width="38.82" height="38" fill="#d3d9dc"/>
+<text x="196.18" y="430" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">6</text>
+<rect x="215.59" y="405" width="342.94" height="38" fill="#74a9a4"/>
+<text x="387.06" y="430" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">53</text>
+<rect x="558.53" y="405" width="226.47" height="38" fill="#2d766e"/>
+<text x="671.76" y="430" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" fill="white">35</text>
+<rect x="40" y="497" width="13" height="13" fill="#b95d58"/>
+<text x="58" y="509" font-family="Arial" font-size="12" fill="#172c3d">1 Strongly disagree</text>
+<rect x="205" y="497" width="13" height="13" fill="#db9b74"/>
+<text x="223" y="509" font-family="Arial" font-size="12" fill="#172c3d">2 Disagree</text>
+<rect x="370" y="497" width="13" height="13" fill="#d3d9dc"/>
+<text x="388" y="509" font-family="Arial" font-size="12" fill="#172c3d">3 Neutral</text>
+<rect x="535" y="497" width="13" height="13" fill="#74a9a4"/>
+<text x="553" y="509" font-family="Arial" font-size="12" fill="#172c3d">4 Agree</text>
+<rect x="700" y="497" width="13" height="13" fill="#2d766e"/>
+<text x="718" y="509" font-family="Arial" font-size="12" fill="#172c3d">5 Strongly agree</text>
+</svg>

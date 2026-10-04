@@ -2,7 +2,7 @@
 
 ## 5.1 Introduction
 
-This chapter brings together the results of the study on Hybrid Learning and Training Effectiveness among selected Union Bank respondents. The Version 5 model treats Hybrid Learning, Trainer Competence, and Learner Engagement as three independent variables and Training Effectiveness as the dependent variable. The findings are based on the supplied SPSS output and its 102 valid regression cases.
+This chapter brings together the results of the study on Hybrid Learning and Training Effectiveness among selected Union Bank respondents. Hybrid Learning, Trainer Competence, and Learner Engagement are the three independent variables; Training Effectiveness is the dependent variable. The regression uses 102 valid cases.
 
 ## 5.2 Summary of the Study
 
@@ -17,7 +17,7 @@ The study focused on four constructs:
 
 The questionnaire asked respondents to consider one hybrid-training programme attended during the preceding 12 months. It contained 26 five-point agreement items across the four constructs, along with four eligibility and profile questions. A small online pilot was conducted before the main collection to check clarity, relevance, repetition, completion burden, and Union Vidya wording.
 
-Main responses were gathered through printed questionnaires and Google Forms from employees connected with Regional Office Chennai South and selected Chennai branches. Of 132 received records, 103 were profile-complete before SPSS analysis. The supplied SPSS output reports 102 valid cases for the construct-level and regression analysis because one case had a missing Trainer Competence mean in that file.
+Main responses were gathered through printed questionnaires and Google Forms from employees connected with Regional Office Chennai South and selected Chennai branches. Of 132 received records, 103 were profile-complete before SPSS analysis. The SPSS analysis reports 102 valid cases for the construct-level and regression analysis because one case had a missing Trainer Competence mean in that file.
 
 The main hypothesis tested whether Hybrid Learning, Trainer Competence, and Learner Engagement jointly predict Training Effectiveness. Descriptive statistics, an overall reliability analysis, exploratory factor analysis, Pearson correlations, and multiple regression were available in the SPSS output. The regression was the main hypothesis test.
 
@@ -53,7 +53,7 @@ The study also adds a banking context to literature that often examines hybrid l
 
 The following suggestions are based on the response pattern and are intended as areas for practical review. They are not claims that the suggested action will automatically cause higher training effectiveness.
 
-1. **Strengthen digital preparation before trainer-led sessions.** The lowest Hybrid Learning item mean in the SPSS item output is the item on receiving enough digital preparation before a session (mean 3.990). Programme coordinators can check whether employees receive the relevant reading, video, login information, or short pre-session activity early enough to use it.
+1. **Strengthen digital preparation before trainer-led sessions.** Question 6, on digital preparation before the face-to-face session, has the lowest Hybrid Learning item mean (3.990; Table 4.2). Programme coordinators can check whether employees receive the relevant reading, video, login information, or short pre-session activity early enough to use it.
 
 2. **Connect digital material with the live or classroom session.** A trainer can refer directly to the digital resource, demonstrate how it applies to a work task, and make clear what employees should revisit after the session. This helps employees see one learning journey instead of two unrelated formats.
 
@@ -67,7 +67,7 @@ The following suggestions are based on the response pattern and are intended as 
 
 The findings apply to the selected respondent group and cannot be generalised statistically to all Union Bank employees. The sample was purposive and focused on employees connected with the Chennai South fieldwork context. Responses were collected at one point in time and were self-reported, so the results cannot establish causation or show which experience came first.
 
-The same person rated programme design, trainer competence, engagement, and training effectiveness. This may increase observed associations because of shared response conditions. The supplied SPSS output provides one very high overall alpha for all 26 scored items, not separate reliability coefficients for each construct. It also reports one listwise exclusion from the main model because a Trainer Competence mean was missing in the SPSS file. Finally, the three independent variables overlap substantially, particularly Hybrid Learning and Trainer Competence. This overlap should be kept in mind when reading the individual regression coefficients.
+The same person rated programme design, trainer competence, engagement, and training effectiveness. This may increase observed associations because of shared response conditions. SPSS provides one very high overall alpha for all 26 scored items, rather than separate reliability coefficients for each construct. It also reports one listwise exclusion from the main model because a Trainer Competence mean was missing in the SPSS file. Finally, the three independent variables overlap substantially, particularly Hybrid Learning and Trainer Competence. This overlap should be kept in mind when reading the individual regression coefficients.
 
 ## 5.7 Directions for Future Research
 
@@ -77,6 +77,6 @@ Further research may examine the work conditions that shape engagement, such as 
 
 ## 5.8 Conclusion
 
-The study found a positive overall relationship between the three training-experience variables and perceived Training Effectiveness among 102 valid SPSS cases. The combined model was significant and explained 60.8 per cent of the variation in reported Training Effectiveness. Learner Engagement was the strongest unique predictor in the model.
+The study found a positive overall relationship between the three training-experience variables and perceived Training Effectiveness among 102 valid cases. The combined model was significant and explained 60.8 per cent of the variation in reported Training Effectiveness. Learner Engagement was the strongest unique predictor in the model.
 
 For Union Bank’s training context, the central message is practical: digital resources and trainer-led sessions need to be connected in a way that helps employees take part, ask questions, practise, and use what they learn in their work. The result gives the Bank a basis for reviewing hybrid-training design and employee participation, while recognising that the present study reports associations within one selected respondent group rather than proven causal effects.

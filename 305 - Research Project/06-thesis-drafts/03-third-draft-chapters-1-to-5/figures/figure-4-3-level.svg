@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="346" viewBox="0 0 900 346" role="img" aria-label="Respondents by job level">
+<rect width="900" height="346" fill="white"/>
+<text x="30" y="42" font-family="Arial" font-size="25" font-weight="bold" fill="#172c3d">Respondents by job level</text>
+<text x="30" y="69" font-family="Arial" font-size="15" fill="#486171">Number of respondents; N = 102</text>
+<text x="30" y="132" font-family="Arial" font-size="17" fill="#172c3d">Clerical</text>
+<rect x="245" y="105" width="580" height="37" fill="#eef2f5" rx="5"/>
+<rect x="245" y="105" width="193.3" height="37" fill="#245a81" rx="5"/>
+<text x="447.3" y="131" font-family="Arial" font-size="16" font-weight="bold" fill="#172c3d">20</text>
+<text x="30" y="194" font-family="Arial" font-size="17" fill="#172c3d">Officer</text>
+<rect x="245" y="167" width="580" height="37" fill="#eef2f5" rx="5"/>
+<rect x="245" y="167" width="541.3" height="37" fill="#245a81" rx="5"/>
+<text x="795.3" y="193" font-family="Arial" font-size="16" font-weight="bold" fill="#172c3d">56</text>
+<text x="30" y="256" font-family="Arial" font-size="17" fill="#172c3d">Managerial</text>
+<rect x="245" y="229" width="580" height="37" fill="#eef2f5" rx="5"/>
+<rect x="245" y="229" width="251.3" height="37" fill="#245a81" rx="5"/>
+<text x="505.3" y="255" font-family="Arial" font-size="16" font-weight="bold" fill="#172c3d">26</text>
+</svg>

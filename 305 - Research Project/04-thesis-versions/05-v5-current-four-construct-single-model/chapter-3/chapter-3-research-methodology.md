@@ -50,7 +50,7 @@ The study uses four scored constructs.
 | Training Effectiveness | 24–30 | 7 | Dependent variable |
 | **Total Likert-scale items** | **5–30** | **26** | — |
 
-The questionnaire has 30 numbered questions. Questions 1–4 confirm eligibility and describe the respondent group. Questions 5–30 are five-point agreement items. Knowledge Retention, Job Performance, organisation-level results, employee agility, supervisor support, and technical performance of Union Vidya are outside the measured model.
+The questionnaire has 30 numbered questions. Questions 1–4 confirm eligibility and describe the respondent group. Questions 5–30 are five-point agreement items. Knowledge retention, job performance, organisation-level results, employee agility, supervisor support, and technical performance of Union Vidya are outside the measured model.
 
 ## 3.4 Research Design
 
@@ -72,7 +72,7 @@ The study population comprises Union Bank of India employees connected with Regi
 
 Non-probability purposive sampling was used. An employee was eligible only when the employee had attended hybrid training in the stated period. This condition was necessary because employees who had experienced only one delivery mode could not comment meaningfully on the connection between digital and face-to-face activity.
 
-The initial target was approximately 80 eligible respondents. A total of 132 records were received: 70 printed questionnaires and 62 Google Forms submissions. Initial screening retained 103 profile-complete records. The supplied SPSS output uses 102 valid cases for the multiple regression because one record had a missing Trainer Competence mean in the SPSS analysis file. Version 5 therefore reports 102 valid SPSS cases for model-level analysis.
+The initial target was approximately 80 eligible respondents. A total of 132 records were received: 70 printed questionnaires and 62 Google Forms submissions. Initial screening retained 103 profile-complete records. The multiple regression uses 102 valid cases because one record had no Trainer Competence mean in the SPSS analysis file.
 
 The questionnaire was anonymous and did not collect employee names or numbers. Therefore, the analysis treats each eligible submitted form as one response record. Similar answer patterns were not treated as proof of duplicate respondents without identifying evidence.
 
@@ -85,7 +85,7 @@ Primary data were collected through printed questionnaires and a Google Forms li
 **Table 3.3: Response disposition and SPSS analysis cases**
 
 | Disposition | Digital | Manual | Total |
-| --- | ---: | ---: | ---:|
+| --- | ---: | ---: | ---: |
 | Responses received | 62 | 70 | 132 |
 | Q1 = No | 13 | 3 | 16 |
 | Q1 blank or unreadable | 0 | 11 | 11 |
@@ -93,8 +93,6 @@ Primary data were collected through printed questionnaires and a Google Forms li
 | Profile-complete records before SPSS | 49 | 54 | 103 |
 | SPSS listwise exclusion for missing construct mean | — | — | 1 |
 | **Valid SPSS analysis cases** | — | — | **102** |
-
-The original records and earlier 103-record data freeze remain preserved. Version 5 uses the supplied SPSS output as its analytical result source. The output identifies one missing Trainer Competence mean but does not provide a defensible basis for naming an individual respondent in thesis text.
 
 ## 3.7 Research Instrument and Scoring
 
@@ -112,17 +110,16 @@ For Questions 5–30, response categories are coded from 1 for Strongly Disagree
 
 ## 3.9 Data Analysis Techniques
 
-The Version 5 analysis is based on procedures contained in the supplied SPSS Statistics 23 output. The analysis used 102 valid cases for the regression model.
+SPSS Statistics 23 was used to describe responses and test the relationships among the four constructs. The regression model used 102 valid cases.
 
 **Table 3.4: SPSS-based analysis plan**
 
 | Analysis | SPSS procedure used | Role in the study |
 | --- | --- | --- |
-| Item description | Descriptives with mean, standard deviation, skewness, and kurtosis for 26 items | Describes the response pattern and distribution of questionnaire items. |
+| Item description | Descriptives with mean, standard deviation, skewness, and kurtosis for 26 items | Chapter 4 presents the seven Hybrid Learning item means used to discuss the lowest-rated aspect of that construct. |
 | Construct exploration | Explore procedure with histograms, Q–Q plots, boxplots, and normality tests | Examines the construct-mean distributions. |
 | Overall questionnaire consistency | One 26-item Cronbach’s alpha analysis | Reports overall internal consistency of the item set. |
 | Exploratory structure check | Principal Component Analysis with varimax rotation | Retained as an exploratory diagnostic; it does not redefine the four theory-based constructs. |
-| Supplementary group analysis | Crosstabs, chi-square tests, t-tests, and one-way ANOVA with Duncan post-hoc comparison | Retained as supporting analysis only; not used to decide the main hypothesis. |
 | Association | Pearson correlation | Describes pairwise associations among the four construct means. |
 | Main hypothesis test | Multiple regression | Tests the combined relationship of Hybrid Learning, Trainer Competence, and Learner Engagement with Training Effectiveness. |
 
@@ -132,13 +129,13 @@ The multiple-regression model is:
 
 In this model, Training Effectiveness is the dependent variable. Hybrid Learning, Trainer Competence, and Learner Engagement are entered together as independent variables. The overall F-test determines whether the three predictors jointly explain a statistically significant amount of variation in Training Effectiveness. The coefficient table then shows each predictor’s adjusted association after the other predictors are considered.
 
-Pearson correlations and supplementary group analyses provide context for interpreting the results. They do not establish causation, prove mediation, or show that the results represent all Union Bank employees.
+Pearson correlations provide context for interpreting the regression results. These analyses establish association within the selected sample rather than cause and effect.
 
 ## 3.10 Questionnaire Review, Reliability and Validity
 
 Before main data collection, the academic guide-approved questionnaire was piloted online with 20 eligible employees on 15–16 September 2026. The pilot checked clarity, completion burden, Union Vidya wording, relevance, and repetition. Feedback did not identify a systematic issue requiring deletion of a scored item, so the approved 30-question instrument was retained. Pilot records were stored separately and excluded from the main analysis.
 
-The supplied SPSS output reports one reliability analysis across all 26 Likert-scale items. The overall Cronbach’s alpha is .980239. This indicates very high internal consistency for the complete item set in the SPSS analysis file. Because the output does not provide four separate reliability runs, it is not used to claim separate alpha values for Hybrid Learning, Trainer Competence, Learner Engagement, or Training Effectiveness.
+The SPSS analysis reports one reliability analysis across all 26 Likert-scale items. The overall Cronbach’s alpha is .980239. This indicates very high internal consistency for the complete item set in the SPSS analysis file. Because the output does not provide four separate reliability runs, it is not used to claim separate alpha values for Hybrid Learning, Trainer Competence, Learner Engagement, or Training Effectiveness.
 
 Content relevance is supported by the questionnaire evidence map. Hybrid Learning items are based on blended-learning integration and workplace-access literature. Trainer Competence and Learner Engagement items are based on workplace blended-learning and engagement literature. Training Effectiveness items are based on corporate training evaluation and transfer literature, including Bahl, Kiran and Sharma’s (2024) banking evaluation context. The academic guide’s review supports the practical suitability of the wording for this academic study.
 
@@ -146,7 +143,7 @@ Content relevance is supported by the questionnaire evidence map. Hybrid Learnin
 
 Participation was voluntary, and the survey avoided personal identifiers and confidential Bank data. Respondents were informed that the study was for academic use and that only combined results would be reported.
 
-The study uses a non-probability sample, so its findings cannot be generalised statistically to all Bank employees. It is cross-sectional and based on employee perceptions; therefore, it cannot establish causation. The same respondent assessed programme experience, trainer competence, engagement, and training effectiveness, which may strengthen observed associations through a common self-report condition. The supplied SPSS output also contains one overall 26-item alpha rather than separate construct-level reliability estimates, and one record was excluded listwise from the regression because a Trainer Competence mean was missing in the SPSS analysis file.
+The study uses a non-probability sample, so its findings cannot be generalised statistically to all Bank employees. It is cross-sectional and based on employee perceptions; therefore, it cannot establish causation. The same respondent assessed programme experience, trainer competence, engagement, and training effectiveness, which may strengthen observed associations through a common self-report condition. SPSS provides one overall 26-item alpha rather than separate construct-level reliability estimates. One record was excluded listwise from the regression because a Trainer Competence mean was missing in the analysis file.
 
 These limitations define the study’s contribution. It offers a focused account of how eligible respondents experienced Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness in the Union Bank context, while keeping conclusions within the evidence available.
 

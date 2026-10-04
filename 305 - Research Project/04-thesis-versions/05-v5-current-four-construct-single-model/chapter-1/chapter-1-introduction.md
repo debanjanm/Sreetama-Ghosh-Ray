@@ -14,7 +14,7 @@ The present study is situated at Union Bank of India, among eligible employees c
 
 The study examines four constructs. **Hybrid Learning** refers to the employee’s experience of how the digital and face-to-face parts of the programme were connected, including platform access, availability of material, and opportunities to revisit learning. **Trainer Competence** refers to the trainer’s knowledge, clarity, ability to connect activities across modes, use of relevant digital tools, encouragement of participation, and feedback. **Learner Engagement** refers to the employee’s attention, effort, interest, participation, and willingness to seek clarification. **Training Effectiveness** refers to the employee’s perception that the programme produced useful, understandable, relevant, and applicable learning for the current role.
 
-The Version 5 framework is:
+The conceptual framework is:
 
     Hybrid Learning ────────┐
     Trainer Competence ─────┼──→ Training Effectiveness
@@ -94,8 +94,9 @@ The study therefore examines whether Hybrid Learning, Trainer Competence, and Le
 
 ## 1.5 Research Questions
 
-1. What are employees’ perceptions of Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness?
-2. To what extent do Hybrid Learning, Trainer Competence, and Learner Engagement jointly predict Training Effectiveness?
+1. What are respondents’ perceptions of Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness?
+2. What associations are reported among the four study constructs?
+3. To what extent do Hybrid Learning, Trainer Competence, and Learner Engagement jointly predict Training Effectiveness?
 
 ## 1.6 Industry and Company Context
 
