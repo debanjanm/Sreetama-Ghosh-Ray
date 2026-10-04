@@ -753,15 +753,33 @@ Hybrid Learning had the lowest mean among the four constructs, although it was s
 
 All pairwise Pearson correlations were positive and statistically significant. Learner Engagement had the strongest association with Training Effectiveness (*r* = .765). Hybrid Learning and Trainer Competence were also strongly associated with each other (*r* = .818). The pattern suggests that respondents often experienced these parts of training together, rather than as completely separate experiences.
 
-### 5.3.3 The overall regression model was significant
+### 5.3.3 Decision on the study hypothesis
 
-The three-predictor model was statistically significant, *F*(3, 98) = 50.652, *p* < .001. Hybrid Learning, Trainer Competence, and Learner Engagement together explained 60.8 per cent of the variation in reported Training Effectiveness (*R*² = .608). The alternative hypothesis was therefore supported at the overall model level.
+The study tested one overall hypothesis: whether Hybrid Learning, Trainer Competence, and Learner Engagement jointly predict perceived Training Effectiveness. The regression model was statistically significant at the 5 per cent level. **The null hypothesis (H₀) is rejected, and the alternative hypothesis (H₁) is supported for the three predictors together.**
 
-### 5.3.4 Learner Engagement made the clearest unique contribution
+**Table 5.1: Decision on the overall regression hypothesis**
 
-When all three predictors were entered together, Learner Engagement was the only individually significant predictor of Training Effectiveness (*β* = .532, *p* < .001). Hybrid Learning and Trainer Competence had positive coefficients, but their individual coefficients were not statistically significant in the combined model.
+| Test | Result | Decision |
+| --- | --- | --- |
+| Hybrid Learning, Trainer Competence, and Learner Engagement jointly predicting Training Effectiveness | *F*(3, 98) = 50.652; *p* < .001; *R*² = .608; valid N = 102 | Reject H₀; support H₁ for the combined model. |
 
-This should not be interpreted as evidence that programme design or trainer competence is unnecessary. Those two variables were positively related to Training Effectiveness in the correlation analysis and strongly related to each other. The regression result shows a narrower point: once the three overlapping experiences were examined at the same time, active learner involvement was the clearest separate statistical associate of perceived effectiveness in this sample.
+The *R*² value means that the three predictors together accounted for 60.8 per cent of the variation in reported Training Effectiveness among these respondents. It does not mean that they caused 60.8 per cent of an employee’s learning or work performance.
+
+### 5.3.4 Individual predictor results
+
+The overall decision does not mean that all three predictors were individually significant. The coefficient results answer a separate question: which variable still has a distinct statistical association with Training Effectiveness when the other two are included in the model?
+
+**Table 5.2: Individual predictors in the combined regression model**
+
+| Predictor | Standardised beta | Significance | Result at the 5 per cent level |
+| --- | ---: | ---: | --- |
+| Hybrid Learning | .194 | .096 | Not individually significant |
+| Trainer Competence | .113 | .346 | Not individually significant |
+| Learner Engagement | .532 | < .001 | Individually significant |
+
+Learner Engagement had the clearest unique association with perceived Training Effectiveness. Hybrid Learning and Trainer Competence had positive coefficients, but their separate contributions were not statistically established after all three variables were entered together. These results do not make either area unnecessary: both were positively correlated with Training Effectiveness, and Hybrid Learning and Trainer Competence were strongly related to each other.
+
+There are no separate H₀/H₁ decisions for the three predictors. The study stated one hypothesis for the combined model; the individual coefficients help explain that model’s result.
 
 ## 5.4 Contribution of the Study
 
@@ -771,17 +789,17 @@ The study also adds a banking context to literature that often examines hybrid l
 
 ## 5.5 Suggestions for Training Review
 
-The following suggestions are based on the response pattern and are intended as areas for practical review. They are not claims that the suggested action will automatically cause higher training effectiveness.
+Two findings guide the practical suggestions: Learner Engagement was the only individually significant predictor in the combined regression, and digital preparation before face-to-face sessions was the lowest-rated Hybrid Learning item (Question 6, mean = 3.990; Table 4.3). The following actions are proposals for review, not interventions tested by this study.
 
-1. **Strengthen digital preparation before trainer-led sessions.** Question 6, on digital preparation before the face-to-face session, has the lowest Hybrid Learning item mean (3.990; Table 4.3). Programme coordinators can check whether employees receive the relevant reading, video, login information, or short pre-session activity early enough to use it.
+1. **Give employees a clear chance to participate.** Trainers can include a work-related case, a demonstration, time for questions, and a short practice activity. The Bank can review whether employees are able to take part in these activities rather than only attend a session.
 
-2. **Connect digital material with the live or classroom session.** A trainer can refer directly to the digital resource, demonstrate how it applies to a work task, and make clear what employees should revisit after the session. This helps employees see one learning journey instead of two unrelated formats.
+2. **Send digital preparation early enough to use it.** Programme coordinators can check whether employees receive the relevant material, login information, and a clear pre-session task before the trainer-led session. This directly addresses the lower rating for Question 6.
 
-3. **Build participation into the session design.** Since engagement is the strongest unique associate of perceived effectiveness, programmes can include case discussion, demonstrations, practice questions, supervised task application, and structured time for clarification. Participation should be practical and appropriate to the programme topic.
+3. **Connect the two learning modes.** During the live or classroom session, the trainer can refer to the earlier digital material and show how it applies to a banking task. Employees should know what to revisit afterward.
 
-4. **Protect time for learning where operationally possible.** A branch employee may be willing to engage but may still face customer pressure, time constraints, or competing work. Programme scheduling and local coordination can consider whether employees have a reasonable opportunity to complete digital preparation and participate in live sessions.
+4. **Allow workable learning time where possible.** Branch workload and customer service may limit the time available for preparation and participation. Local scheduling can take those demands into account.
 
-5. **Use feedback to review the digital–in-person connection.** After a programme, a short feedback process can ask whether employees could access material, understand the sequence, participate, and apply the learning. This can help the Bank identify whether a concern relates to content, access, facilitation, or work conditions.
+5. **Use short feedback to identify the problem.** After training, employees can be asked whether access, preparation, trainer guidance, participation, or work relevance needs attention. The Bank can then review the part of the learning experience that employees actually found difficult.
 
 ## 5.6 Limitations of the Study
 
@@ -797,9 +815,9 @@ Further research may examine the work conditions that shape engagement, such as 
 
 ## 5.8 Conclusion
 
-The study found a positive overall relationship between the three training-experience variables and perceived Training Effectiveness among 102 valid cases. The combined model was significant and explained 60.8 per cent of the variation in reported Training Effectiveness. Learner Engagement was the strongest unique predictor in the model.
+The study’s overall null hypothesis is rejected: Hybrid Learning, Trainer Competence, and Learner Engagement jointly predicted perceived Training Effectiveness among the 102 valid cases, with *R*² = .608. The alternative hypothesis is supported for the combined model. Of the three predictors, only Learner Engagement had a statistically significant individual coefficient after the other two were considered.
 
-For Union Bank’s training context, the central message is practical: digital resources and trainer-led sessions need to be connected in a way that helps employees take part, ask questions, practise, and use what they learn in their work. The result gives the Bank a basis for reviewing hybrid-training design and employee participation, while recognising that the present study reports associations within one selected respondent group rather than proven causal effects.
+For Union Bank, this points to a practical review of how employees prepare for a session and how actively they can participate in it. Digital resources and trainer-led activities should connect to the work employees need to do. These are recommendations based on reported patterns, while the statistical findings remain associations within this selected respondent group rather than proof that a particular training change will cause better outcomes.
 
 # References
 

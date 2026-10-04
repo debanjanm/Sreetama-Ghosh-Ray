@@ -190,7 +190,7 @@ Use these as speaking points, not a script. Distinguish what you observed, what 
 
 ## K. Reflection
 
-153. **What were your key learnings?** Regional HR supports daily branch work; confidentiality sets clear boundaries; in my survey, active learner engagement had the clearest unique association with perceived training effectiveness.
+153. **What were your key learnings?** Regional HR supports daily branch work; confidentiality sets clear boundaries; in my survey, active learner engagement had the clearest unique association with perceived training effectiveness. See Q235–249 for follow-up questions.
 154. **What was the biggest challenge?** Collecting data around branch workload within a schedule shortened by medical leave.
 155. **What surprised you most?** **[Choose a genuine personal example.]** The field log records variation in how much time staff could spare across visits.
 156. **What skills did you build?** Professional communication, field documentation, questionnaire administration, and careful handling of research limits.
@@ -289,14 +289,32 @@ Use these as speaking points, not a script. Distinguish what you observed, what 
 229. **"Suppose the bank asks for your raw responses. What do you do?"** I would check the consent statement and college/Bank requirements with my supervisor before sharing anything; the questionnaire promised combined reporting.
 230. **"Why should we trust a student's findings from a restricted internship?"** The methods, counts, and limits are documented. The analysis supports associations in 102 valid regression cases, not an audit or causal claim.
 
-## N. Version 5 follow-up questions
+## N. Additional viva questions
 
 231. **What is the dissertation's single main hypothesis?** Hybrid Learning, Trainer Competence, and Learner Engagement jointly predict perceived Training Effectiveness among the eligible respondents. The null hypothesis says they do not jointly predict it.
 232. **What did the main regression show?** The overall model was significant, *F*(3, 98) = 50.652, *p* < .001, with *R*² = .608 in 102 valid cases. It explains 60.8% of variation in reported Training Effectiveness within this sample.
 233. **How can the overall model be significant when two predictors are not individually significant?** The three predictors have overlapping relationships. Together the model predicts the outcome, but after adjusting for the others, only Learner Engagement had a statistically significant unique coefficient (*β* = .532, *p* < .001).
 234. **Were merger experiences measured in your dissertation model?** No. Staff conversations about post-merger adaptation informed my internship learning; the dissertation's scored model contains only the four stated training constructs.
 
-## O. Short answers to practise
+## O. Learnings and key takeaways: practice questions
+
+235. **What are your three main takeaways from the internship?** First, regional HR work supports the daily functioning of branches. Second, training has to fit around operational workload and employees' opportunities to participate. Third, research in a bank requires confidentiality and care when interpreting what employees report.
+236. **What did the Zonal Office and Regional Office teach you about how a large bank works?** At the Zonal Office, I saw how information moves between administrative levels. At Chennai South Regional Office, I learned how central HR policies are applied in matters affecting many branches. The levels have different responsibilities but depend on one another.
+237. **What did you learn about the practical importance of HR administration?** Leave, attendance, transfers, allowances, and staff welfare are connected to whether branches have the people and support they need. The orientation showed me that HR is involved in operational continuity, not just recruitment or payroll.
+238. **What did the leave and salary demonstration teach you?** I saw, at a limited level, how leave records relate to salary processing. I also learned why access to individual staff information must be controlled; the demonstration did not make those records available for my research.
+239. **What was your key learning from RABD and Priority Sector Lending?** Agricultural and rural banking connects the Bank's lending work with financial inclusion. RABD helped me see that banking decisions can have a wider social purpose. I learned the function at a broad level rather than assessing individual loans or schemes.
+240. **What did you take away from the Currency Chest and security exposure?** Cash distribution and verification depend on documentation, controls, and physical security. My exposure was to the general process, which taught me why confidentiality and compliance matter even in functions customers rarely see.
+241. **What did visiting 27 branches teach you that office orientation could not?** The visits showed me staff working around customer transactions and other time-sensitive duties. The time employees could spare for a research discussion varied across visits. That made branch workload a concrete consideration when thinking about training schedules.
+242. **What did you learn about approaching employees during busy working hours?** I needed to explain the study briefly, respect a refusal or delay, and approach staff between transactions where possible. A good research schedule has to adapt to the workplace instead of interrupting customer service.
+243. **What did you learn about hybrid learning in practice?** Staff conversations gave me context about classroom, online, and live sessions. The dissertation focused more narrowly on whether digital and face-to-face parts of one recent programme felt connected. My takeaway is that simply offering both modes does not tell us how employees experienced their connection.
+244. **What was the most important research finding for you?** In the current 102-case regression, the three predictors together explained 60.8% of variation in *reported* Training Effectiveness. Learner Engagement was the only individually significant predictor after the others were considered. This is an association within the selected sample, not proof that engagement caused better performance.
+245. **What did you learn about organisational change after the merger?** Some staff described adapting to common systems, reporting formats, and procedures after the amalgamation. Their accounts helped me understand why continuing explanation and practice may be useful during change. These conversations were internship learning, not a measured merger variable in my dissertation.
+246. **What did the internship teach you about research ethics?** I learned to ask only for information relevant to the study, avoid names and confidential bank data, and report combined results. I also learned to distinguish a single field observation from a finding supported by the questionnaire analysis.
+247. **What did you learn about the limits of your findings?** The questionnaire captured self-reported perceptions from eligible employees in a non-probability Chennai sample at one point in time. The results describe associations for those respondents; they cannot represent the whole Bank or establish cause and effect.
+248. **Which professional or social-work skills did you develop?** The visits required respectful communication, sensitivity to employees' time, careful documentation, and attention to confidentiality. These skills helped me collect data while recognising staff members' responsibilities to customers.
+249. **What practical takeaway would you give someone planning bank training?** Consider how the digital and face-to-face parts connect, whether staff can access and revisit material, and whether sessions allow questions and practice. Plan these around branch duties and evaluate the results before applying a change broadly.
+
+## P. Short answers to practise
 
 - **Introduce the internship:** “My internship at Union Bank began at Chennai North Zonal Office on 19 August and continued at Regional Office Chennai South. I learned about regional HR work and visited 27 branches for research data collection. The scheduled end is 6 October; I will confirm my final hours after that date.”
 - **Explain the research:** “I surveyed eligible employees about one recent programme connecting digital and face-to-face learning. I studied Hybrid Learning, Trainer Competence, Learner Engagement, and perceived Training Effectiveness.”
