@@ -708,9 +708,9 @@ The correlation and regression findings should be read together. Correlation sho
 
 Sosnova et al. (2025) examined hybrid methods and learning effectiveness among higher-education students. The positive ratings in the present study are broadly compatible with their interest in connected learning activities, but the two studies used different populations and outcome measures. The Union Bank survey did not compare a hybrid group with a classroom-only group.
 
-Kim (2022) found that training delivery, instructor involvement and programme design mattered in automotive sales training. Kim also reported that the hybrid group did not outperform the traditional group in every comparison. The present findings similarly suggest that the quality of the learning experience deserves attention: Hybrid Learning and Trainer Competence were positively correlated with Training Effectiveness, while Learner Engagement had the clearest separate coefficient in the combined model. These are employee perceptions from one banking sample, so they cannot reproduce Kim's comparison of delivery methods.
+Kim (2022) found that training delivery, instructor involvement and programme design mattered in automotive sales training. Kim also reported that the hybrid group did not outperform the traditional group in every comparison. The present findings similarly suggest that the quality of the learning experience deserves attention: Hybrid Learning and Trainer Competence were positively correlated with Training Effectiveness, while Learner Engagement had the clearest separate coefficient in the combined model. These are employee perceptions from one banking sample, so they cannot reproduce Kim’s comparison of delivery methods.
 
-Bahl, Kiran and Sharma (2024) showed the value of evaluating training among Indian bank employees through Kirkpatrick's framework. The present study adds a narrower view of one hybrid programme, with employees reporting understanding, relevance and use of learning in their own roles. It did not measure Kirkpatrick's full results level or objective work performance. Mulaudzi's (2021) workplace study also highlights access and practical barriers; the lower digital-preparation item in Table 4.3 makes that issue worth examining in the Bank's training process.
+Bahl, Kiran and Sharma (2024) showed the value of evaluating training among Indian bank employees through Kirkpatrick’s framework. The present study adds a narrower view of one hybrid programme, with employees reporting understanding, relevance and use of learning in their own roles. It did not measure Kirkpatrick’s full results level or objective work performance. Mulaudzi’s (2021) workplace study also highlights access and practical barriers; the lower digital-preparation item in Table 4.3 makes that issue worth examining in the Bank’s training process.
 
 ## 4.5 Theoretical and Practical Implications
 
@@ -795,7 +795,7 @@ Two findings guide the practical suggestions: Learner Engagement was the only in
 
 2. **Send digital preparation early enough to use it.** Programme coordinators can check whether employees receive the relevant material, login information, and a clear pre-session task before the trainer-led session. This directly addresses the lower rating for Question 6.
 
-3. **Connect the two learning modes.** During the live or classroom session, the trainer can refer to the earlier digital material and show how it applies to a banking task. Employees should know what to revisit afterward.
+3. **Connect the two learning modes.** During the live or classroom session, the trainer can refer to the earlier digital material and show how it applies to a banking task. Employees should know what to revisit afterwards.
 
 4. **Allow workable learning time where possible.** Branch workload and customer service may limit the time available for preparation and participation. Local scheduling can take those demands into account.
 
