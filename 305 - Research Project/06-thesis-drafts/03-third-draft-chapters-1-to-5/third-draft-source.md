@@ -403,6 +403,8 @@ A formal response rate cannot be calculated because a complete count of all empl
 
 Primary data were collected through printed questionnaires and a Google Forms link. The fieldwork record confirms that employees were approached through Regional Office Chennai South and 27 Chennai branches: Triplicane 1, Triplicane 2, Triplicane 3, Alandur, Teynampet, Mowbrays Road, Chamiers Road, Mylapore 1, Mylapore 2, Mylapore 3, Adyar, Madhya Kailash, Besant Nagar 1, Besant Nagar 2, Indiranagar, Shastri Nagar, T. Nagar 1, T. Nagar 2, T. Nagar 3, West Mambalam, Nungambakkam, Koyambedu, Virugambakkam, Saligramam, Ashok Nagar 1, Ashok Nagar 2, and Ashok Nagar 3. Responses were also collected from the Retail Loans and Currency Chest departments at the Regional Office. The Google Forms link allowed employees to respond when a paper form could not be completed immediately because of work responsibilities.
 
+Main-study questionnaire collection began at the Regional Office on 15 September 2026, while a separate online pilot was also under way. The dated fieldwork record places the branch visits between 16 and 28 September 2026. The pilot submissions were complete by 16 September and were kept outside the main-study response count.
+
 The researcher reported obtaining verbal permission through the Regional Office HR Manager for academic data collection. At branches, employees were approached around their work responsibilities so that completing a form would not interrupt customer service. The printed and online versions asked the same 30 numbered questions and used the same response scale. The two modes widened the opportunity to respond, although this study did not separately test whether paper and online respondents interpreted or answered the questions differently.
 
 *Source: Researcher’s internship fieldwork record.*
@@ -471,7 +473,7 @@ This source distinction also governs the descriptive tables. The main construct 
 
 ## 3.10 Questionnaire Review, Reliability and Validity
 
-Before main data collection, the academic guide-approved questionnaire was piloted online with 20 eligible employees on 15–16 September 2026. The pilot checked clarity, completion burden, Union Vidya wording, relevance, and repetition. Feedback did not identify a systematic issue requiring deletion of a scored item, so the approved 30-question instrument was retained. Pilot records were stored separately and excluded from the main analysis.
+At the start of main fieldwork, the academic guide-approved questionnaire was also piloted online with 20 eligible employees. The pilot opened on 15 September 2026, and all pilot responses had been submitted by 16 September. Main-study collection began on 15 September in parallel, using the same approved instrument. The pilot checked clarity, completion burden, Union Vidya wording, relevance, and repetition. Feedback did not identify a systematic issue requiring deletion of a scored item; no scored wording was changed during main collection. Pilot records were stored separately and excluded from the main analysis.
 
 The pilot feedback gave a practical check on how long the form took to complete. The mean completion time was 14.3 minutes, with a median of 14 minutes. Sixteen respondents considered the length about right and four considered it too long. Individual comments pointed to possible overlap between Questions 5 and 6 and between Questions 14 and 15; one respondent found Question 24 difficult when thinking about more than one programme. These comments were considered against the instruction to answer about one selected programme. They did not show a repeated difficulty across the pilot group, and no scored question was removed.
 
@@ -815,7 +817,7 @@ The study focused on four constructs:
 - Learner Engagement; and
 - Training Effectiveness.
 
-The questionnaire asked respondents to consider one hybrid-training programme attended during the preceding 12 months. It contained 26 five-point agreement items across the four constructs, along with four eligibility and profile questions. A small online pilot was conducted before the main collection to check clarity, relevance, repetition, completion burden, and Union Vidya wording.
+The questionnaire asked respondents to consider one hybrid-training programme attended during the preceding 12 months. It contained 26 five-point agreement items across the four constructs, along with four eligibility and profile questions. A separate online pilot ran from 15 to 16 September 2026 while main-study collection began on 15 September. It checked clarity, relevance, repetition, completion burden, and Union Vidya wording; its responses were excluded from the main analysis.
 
 Main responses were gathered through printed questionnaires and Google Forms from employees connected with Regional Office Chennai South and selected Chennai branches. Of 132 received records, 103 were profile-complete before SPSS analysis. The SPSS analysis reports 102 valid cases for the construct-level and regression analysis because one case had a missing Trainer Competence mean in that file.
 

@@ -15,7 +15,7 @@ The study focused on four constructs:
 - Learner Engagement; and
 - Training Effectiveness.
 
-The questionnaire asked respondents to consider one hybrid-training programme attended during the preceding 12 months. It contained 26 five-point agreement items across the four constructs, along with four eligibility and profile questions. A small online pilot was conducted before the main collection to check clarity, relevance, repetition, completion burden, and Union Vidya wording.
+The questionnaire asked respondents to consider one hybrid-training programme attended during the preceding 12 months. It contained 26 five-point agreement items across the four constructs, along with four eligibility and profile questions. A separate online pilot ran from 15 to 16 September 2026 while main-study collection began on 15 September. It checked clarity, relevance, repetition, completion burden, and Union Vidya wording; its responses were excluded from the main analysis.
 
 Main responses were gathered through printed questionnaires and Google Forms from employees connected with Regional Office Chennai South and selected Chennai branches. Of 132 received records, 103 were profile-complete before SPSS analysis. The SPSS analysis reports 102 valid cases for the construct-level and regression analysis because one case had a missing Trainer Competence mean in that file.
 

@@ -1,5 +1,7 @@
 # Rapid Viva Revision Sheet
 
+> **Historical sheet:** The model and figures below belong to the earlier 103-case draft. The current Version 5 thesis uses one 102-case SPSS regression model. Do not use this sheet for the current viva without revision.
+
 # Hybrid Learning and Training Effectiveness at Union Bank of India
 
 ## Study in one sentence
@@ -95,7 +97,7 @@ High internal consistency. It does not prove full instrument validity.
 - Purposive Chennai sample; cannot statistically represent all Union Bank employees.
 - Cross-sectional data; cannot prove cause and effect.
 - Same respondents reported all constructs; common self-report method may strengthen associations.
-- No separate pilot study.
+- A separate online pilot had 20 eligible responses on 15–16 September 2026. Main-study collection began on 15 September in parallel; pilot responses were excluded from the main analysis.
 - No examination scores, system logs, supervisor ratings, customer outcomes, or Bank-level performance data.
 - SPSS syntax is prepared for reproduction; only claim SPSS-generated output when it is retained.
 

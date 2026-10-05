@@ -1,5 +1,7 @@
 # Viva Preparation Guide
 
+> **Historical guide:** This document still describes the earlier multi-hypothesis model and 103-case analysis. It is not the viva guide for the current Version 5 thesis, which uses one 102-case SPSS regression model. Check the current thesis before using any model or result stated below.
+
 # Hybrid Learning and Training Effectiveness at Union Bank of India
 
 ## How to use this guide
@@ -358,11 +360,11 @@ Trainer Competence ┘
 
 ### 40. Did you conduct a pilot study?
 
-**Say:** No separate pilot study was conducted before main collection. The questionnaire was reviewed by the academic guide, mapped to literature, and its final-sample internal consistency was checked using Cronbach’s alpha.
+**Say:** Yes. I ran a separate online pilot with 20 eligible employees from 15 to 16 September 2026. Main-study collection also began on 15 September, using the same guide-approved questionnaire. The pilot checked clarity and burden, but it did not lead to changes in the scored questions. Pilot responses were kept out of the main analysis.
 
-**Remember:** Be transparent; do not invent a pilot.
+**Remember:** The pilot and main collection overlapped at the start; do not say the pilot was completed first.
 
-**If asked further:** This is a limitation, and future research should include a pilot or formal content-validation panel.
+**If asked further:** Because the main survey had already begun, pilot feedback could not be used to revise the first main questionnaires. The pilot was small and online only; a larger independent validation study could test the instrument further.
 
 ## E. Sample and data collection
 
@@ -698,7 +700,7 @@ These questions are more likely when the guide tests the boundaries of the study
 
 ## H20. If Learner Engagement was the highest-rated construct, what is left to improve, and who benefits?
 
-**Say:** Learner Engagement was highest at 4.305, but its lowest item was clarification-seeking. Employees may be attentive and interested while still needing clearer opportunities to ask questions or apply learning. The Bank and its learning-and-development staff can use the findings to review programme design and trainer support; employees may benefit from clearer material, practice, feedback, and work-related follow-up. With more time and resources, I would use a larger multi-region sample, record the response denominator, collect data before and after training, conduct a pilot, and add objective learning or application measures.
+**Say:** Learner Engagement was highest at 4.305, but its lowest item was clarification-seeking. Employees may be attentive and interested while still needing clearer opportunities to ask questions or apply learning. The Bank and its learning-and-development staff can use the findings to review programme design and trainer support; employees may benefit from clearer material, practice, feedback, and work-related follow-up. With more time and resources, I would use a larger multi-region sample, record the response denominator, collect data before and after training, and add objective learning or application measures.
 
 **Remember:** LE mean = 4.305; practical benefit plus future improvement plan.
 

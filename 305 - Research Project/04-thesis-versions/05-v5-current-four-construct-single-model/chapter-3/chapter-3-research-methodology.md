@@ -80,6 +80,8 @@ The questionnaire was anonymous and did not collect employee names or numbers. T
 
 Primary data were collected through printed questionnaires and a Google Forms link. The fieldwork record confirms that employees were approached through Regional Office Chennai South and 27 Chennai branches: Triplicane 1, Triplicane 2, Triplicane 3, Alandur, Teynampet, Mowbrays Road, Chamiers Road, Mylapore 1, Mylapore 2, Mylapore 3, Adyar, Madhya Kailash, Besant Nagar 1, Besant Nagar 2, Indiranagar, Shastri Nagar, T. Nagar 1, T. Nagar 2, T. Nagar 3, West Mambalam, Nungambakkam, Koyambedu, Virugambakkam, Saligramam, Ashok Nagar 1, Ashok Nagar 2, and Ashok Nagar 3. Responses were also collected from the Retail Loans and Currency Chest departments at the Regional Office. The Google Forms link allowed employees to respond when a paper form could not be completed immediately because of work responsibilities.
 
+Main-study questionnaire collection began at the Regional Office on 15 September 2026, while a separate online pilot was also under way. The dated fieldwork record places the branch visits between 16 and 28 September 2026. The pilot submissions were complete by 16 September and were kept outside the main-study response count.
+
 *Source: Researcher’s internship fieldwork record.*
 
 **Table 3.3: Response disposition and SPSS analysis cases**
@@ -133,7 +135,7 @@ Pearson correlations provide context for interpreting the regression results. Th
 
 ## 3.10 Questionnaire Review, Reliability and Validity
 
-Before main data collection, the academic guide-approved questionnaire was piloted online with 20 eligible employees on 15–16 September 2026. The pilot checked clarity, completion burden, Union Vidya wording, relevance, and repetition. Feedback did not identify a systematic issue requiring deletion of a scored item, so the approved 30-question instrument was retained. Pilot records were stored separately and excluded from the main analysis.
+At the start of main fieldwork, the academic guide-approved questionnaire was also piloted online with 20 eligible employees. The pilot opened on 15 September 2026, and all pilot responses had been submitted by 16 September. Main-study collection began on 15 September in parallel, using the same approved instrument. The pilot checked clarity, completion burden, Union Vidya wording, relevance, and repetition. Feedback did not identify a systematic issue requiring deletion of a scored item; no scored wording was changed during main collection. Pilot records were stored separately and excluded from the main analysis.
 
 The SPSS analysis reports one reliability analysis across all 26 Likert-scale items. The overall Cronbach’s alpha is .980239. This indicates very high internal consistency for the complete item set in the SPSS analysis file. Because the output does not provide four separate reliability runs, it is not used to claim separate alpha values for Hybrid Learning, Trainer Competence, Learner Engagement, or Training Effectiveness.
 

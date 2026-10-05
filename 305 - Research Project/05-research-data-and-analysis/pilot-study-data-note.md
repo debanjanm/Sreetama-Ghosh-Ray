@@ -2,9 +2,9 @@
 
 ## Purpose and Timing
 
-This note documents the small pre-test used before the main survey. According to the researcher’s fieldwork record, 20 eligible Union Bank employees completed the questionnaire online on 15–16 September 2026. The main collection began on 19 September 2026.
+This note documents the separate online pilot conducted at the start of fieldwork. The researcher has clarified that the pilot opened on 15 September 2026 and all 20 eligible pilot responses had been submitted by 16 September. Main-study questionnaire collection also began on 15 September, in parallel. The pilot was therefore an early clarity check, not a completed phase before the main survey began. The same guide-approved questionnaire was used in both streams, and pilot responses were kept separate from the main-study records.
 
-The source file is [corrected_pilot_data.csv](corrected_pilot_data.csv). It contains 20 anonymous pilot records, all marked eligible, with four profile questions, 26 scored Likert items, and unscored feedback. The file itself does not contain a date or timestamp column; the pilot dates are researcher-reported fieldwork dates.
+The source file is [corrected_pilot_data.csv](corrected_pilot_data.csv). It contains 20 anonymous pilot records, all marked eligible, with four profile questions, 26 scored Likert items, and unscored feedback. The file itself does not contain a date or timestamp column; the timing above is based on the researcher's clarification and dated fieldwork record.
 
 ## What the Pilot Checked
 

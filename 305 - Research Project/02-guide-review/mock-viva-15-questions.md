@@ -1,5 +1,7 @@
 # Mock Viva: 15 Most Likely Questions
 
+> **Historical practice set:** Several answers below use the earlier 103-case, multi-hypothesis model. The current Version 5 thesis uses one 102-case SPSS regression model; these answers need a full update before viva use.
+
 Use this as a practice conversation. Keep each answer calm and direct. Pause after the first answer; add the second paragraph only if the guide asks for more.
 
 ## 1. Guide: Explain your research in simple words.
@@ -96,7 +98,7 @@ Use this as a practice conversation. Keep each answer calm and direct. Pause aft
 
 **Guide follow-up:** Does that mean your scale is fully validated?
 
-**Student:** No. It supports consistency in this sample. Full validation would need further work, including pilot testing and validation in another sample.
+**Student:** No. It supports consistency in this sample. A small online pilot was conducted, but full validation would need further testing in an independent sample.
 
 ## 13. Guide: What were the main hypothesis results?
 
