@@ -1,0 +1,45 @@
+3.6 Data Collection Procedure and Screening
+
+The researcher used printed forms and a Google Forms link. Fieldwork records list Regional Office Chennai South and 27 Chennai branches: Triplicane 1, Triplicane 2, Triplicane 3, Alandur, Teynampet, Mowbrays Road, Chamiers Road, Mylapore 1, Mylapore 2, Mylapore 3, Adyar, Madhya Kailash, Besant Nagar 1, Besant Nagar 2, Indiranagar, Shastri Nagar, T. Nagar 1, T. Nagar 2, T. Nagar 3, West Mambalam, Nungambakkam, Koyambedu, Virugambakkam, Saligramam, Ashok Nagar 1, Ashok Nagar 2, and Ashok Nagar 3. Retail Loans and Currency Chest at the Regional Office were also collection points. The online option let staff respond later when branch duties prevented them from completing a paper form at once.
+
+Main-study collection began at the Regional Office on 15 September 2026, alongside a separate online pilot. The dated fieldwork record places branch visits from 16 to 28 September 2026. All pilot submissions were in by 16 September and remained outside the main-study count.
+
+The researcher reported verbal permission through the Regional Office HR Manager. Branch staff were approached around their work so that customer service could continue. Paper and online forms used the same 30 questions and response scale. Offering both modes made participation easier, although possible differences between paper and online responses were not tested separately.
+
+Question 1 screened for attendance at a programme combining the two modes within the stated period. Sixteen respondents answered “No”; eligibility was unconfirmed in another eleven records. Two otherwise eligible paper forms lacked a required profile answer. After excluding those 29 forms, 103 profile-complete records remained. SPSS then excluded one case from analyses requiring all four construct means because its Trainer Competence mean was missing in that file. The main regression therefore has 102 cases. The saved viewer output does not identify the case by response ID, which prevents an exact person-by-person reconciliation with the reconstructed supplementary subset.
+
+3.7 Research Instrument and Scoring
+
+Appendix A contains the self-administered 30-question instrument. Questions 1–4 establish eligibility and profile; Questions 5–30 use a five-point scale from Strongly Disagree to Strongly Agree. Respondents referred to one hybrid programme from the previous 12 months.
+
+The item themes come from the base papers and supporting measurement literature, with the adaptation recorded in Appendix B. Union Vidya is identified as the Bank’s LMS and given as an example of a platform a respondent may have used.
+
+The four question blocks follow different parts of the same programme. Questions 5–11 address connected delivery and access to material; 12–17 concern trainer support; 18–23 concern the employee’s own involvement; and 24–30 concern learning and usefulness at work. This separation provides more information than a single overall judgement of the programme.
+
+Questions 5–30 are coded from 1 (Strongly Disagree) to 5 (Strongly Agree). In SPSS, the four construct means are named HLTMEAN, TCTMEAN, LETMEAN, and TETMEAN.
+
+Each construct score is the arithmetic mean of its assigned items and remains on the 1–5 scale; higher values indicate more favourable ratings. All items run in the same direction, so none requires reverse coding. Means allow comparison of blocks with six or seven items. They summarise respondents’ answers, not observed job performance or Bank-wide results.
+
+3.8 Research Questions
+
+1. What are respondents’ perceptions of Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness? 2. What associations are reported among the four study constructs? 3. To what extent do Hybrid Learning, Trainer Competence, and Learner Engagement jointly predict Training Effectiveness?
+
+3.9 Data Analysis Techniques
+
+SPSS Statistics 23 supplied the construct summaries and relationship tests. Its main regression used 102 valid cases.
+
+The multiple-regression model is:
+
+Training Effectiveness is the dependent variable. The other three constructs enter together as predictors. The overall F-test assesses their joint association; the coefficient table shows what remains for each predictor after the others are included.
+
+Pearson correlations show the pairwise relationships that provide context for the joint model. Neither analysis establishes cause and effect.
+
+An Excel workbook produced the respondent-profile summary. Supplementary Chapter 4 comparisons came from a 102-record subset of the frozen 103-record scored CSV. They are labelled separately because some additional tests in the saved SPSS viewer used 103 cases. Without the SPSS data file, exact case-by-case agreement between the sources remains unverified. The supplementary comparisons play no part in the main hypothesis decision.
+
+The same distinction applies to descriptive results. Construct and regression figures come from SPSS; profile frequencies and supplementary item distributions come from selected scored records. Source and case count are shown with the tables. A 103-case SPSS item mean and a 102-case frequency distribution are therefore not treated as calculations on identical respondents.
+
+3.10 Questionnaire Review, Reliability and Validity
+
+The guide-approved questionnaire was piloted online with 20 eligible employees as main collection began. The pilot opened on 15 September 2026 and was complete by 16 September; the main survey also began on 15 September with the same approved questions. Pilot feedback covered clarity, time burden, Union Vidya wording, relevance, and repetition. No systematic problem required removing an item, and scored wording stayed unchanged during collection. Pilot records were kept separate from the main analysis.
+
+The pilot also provided a check on completion time: the mean was 14.3 minutes and the median 14. Sixteen participants thought the length was about right; four found it too long. Comments noted possible overlap between Questions 5 and 6 and Questions 14 and 15, while one person found Question 24 difficult when considering more than one programme. The instruction to answer about one selected programme addressed the latter concern. The comments did not amount to a repeated difficulty across the group, and all scored questions were retained.

@@ -1,0 +1,67 @@
+The banking-sector gap remains despite Bahl, Kiran and Sharma’s (2024) study of training effectiveness among Indian bank employees. Their model does not address Hybrid Learning, Trainer Competence, Learner Engagement, or Union Vidya. Union Bank’s public material describes its learning facilities but not how employees experienced the combination of modes in one programme.
+
+The predictor-combination gap concerns what the three base papers do not examine together. Sosnova studies hybrid methods in education, Kim compares corporate delivery arrangements, and Bahl, Kiran and Sharma evaluate training in banking. None tests the three independent constructs together against employee-level Training Effectiveness in a public-sector bank.
+
+The measurement gap follows from the settings of available scales: one blended-learning instrument was designed for students, while a workplace effectiveness scale extends to organisation-level outcomes. Neither fits this short bank survey unchanged. The four questionnaire blocks were informed by the literature, reviewed by the guide, and piloted online with 20 eligible employees on 15–16 September 2026. SPSS reports overall consistency for the 26 items, but no separate reliability estimate for each construct.
+
+The contribution lies at the intersection of those separate literatures: employee experience of hybrid delivery, trainer support, participation, and perceived effectiveness within a public-sector bank using Union Vidya as part of its learning system.
+
+CHAPTER 3 — RESEARCH METHODOLOGY
+
+3.1 Objectives of the Study
+
+This research asks how eligible Union Bank employees experienced one hybrid-training programme and how their ratings relate to perceived Training Effectiveness. They may use digital material and attend trainer-led sessions while continuing ordinary bank work. The measure is their account of that programme, not the mere presence of an LMS.
+
+The primary objective is:
+
+To examine whether Hybrid Learning, Trainer Competence, and Learner Engagement jointly predict Training Effectiveness among eligible respondents of Union Bank of India.
+
+The specific objectives are:
+
+1. To describe respondents’ perceptions of Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness. 2. To examine the associations among the four study constructs. 3. To determine the joint contribution of Hybrid Learning, Trainer Competence, and Learner Engagement in predicting Training Effectiveness.
+
+These objectives concern associations and statistical prediction in the selected sample, without a claim of causation.
+
+3.2 Hypothesis of the Study
+
+One overall regression hypothesis is tested at the 5 per cent significance level.
+
+The hypothesis refers to the model as a whole. Coefficients are reported separately to show each predictor’s adjusted association after accounting for overlap with the others.
+
+3.3 Definition of Variables
+
+Four constructs are scored from the questionnaire.
+
+Hybrid Learning concerns the connection between digital and face-to-face activities in one programme. Questions 5–11 cover that design, platform access, available material, and later revision.
+
+Trainer Competence covers subject knowledge, clear explanation, links across modes, suitable digital-tool use, encouragement, and feedback. It is measured by Questions 12–17.
+
+Learner Engagement refers to the respondent’s attention, effort, participation, questions, and interest during the selected programme. Questions 18–23 measure it. Engagement remains an independent variable because workload, available time, experience, motivation, digital confidence, and local conditions can affect participation beyond programme design or trainer support.
+
+Training Effectiveness records perceived understanding, role relevance, capability, application to related tasks, and confidence. Questions 24–30 ask about these employee-level outcomes.
+
+There are 30 numbered questions: four for eligibility and profile, followed by 26 five-point agreement items. Knowledge retention, job performance, organisation-level results, employee agility, supervisor support, and Union Vidya’s technical performance are not additional measured variables.
+
+3.4 Research Design
+
+The design is quantitative, descriptive, correlational, and predictive in the statistical sense. Structured ratings describe the response pattern; correlations show the direction and strength of pairwise associations; and SPSS regression assesses the three independent variables together in relation to Training Effectiveness.
+
+Each respondent completed the survey once about a hybrid programme attended in the previous 12 months. Referring to one programme reduces the need to combine memories of several different courses. The individual response record is the unit of analysis.
+
+The model is:
+
+The predictors may be related, but the model does not assume that programme design or trainer skill determines engagement. Employee and workplace conditions outside the questionnaire may also matter.
+
+3.5 Population, Sample and Sampling Method
+
+The population of interest was employees connected with Union Bank’s Regional Office Chennai South who had attended a programme using both digital and face-to-face learning in the previous 12 months.
+
+Purposive, non-probability sampling identified employees with the experience needed to answer the questions. Only those who had attended both modes in the stated period were eligible, because the survey asks about the connection between them.
+
+Collection was limited to offices and branches accessible during the internship. The eligibility question then screened for relevant training experience. Respondents were not drawn at random from a Bank-wide list, so the resulting percentages and associations cannot be extended statistically to all Union Bank employees.
+
+The initial target was about 80 eligible respondents. Collection produced 132 submissions—70 on paper and 62 through Google Forms. Screening left 103 profile-complete records. SPSS used 102 valid cases for the multiple regression because one record lacked a Trainer Competence mean in its analysis file.
+
+No employee name or number was requested. Each eligible form was treated as one response record; similar answer patterns alone could not establish that one person responded twice.
+
+The number of employees approached or sent the link was not recorded completely, so a formal response rate is unavailable. Table 3.3 instead accounts for forms received and retained.

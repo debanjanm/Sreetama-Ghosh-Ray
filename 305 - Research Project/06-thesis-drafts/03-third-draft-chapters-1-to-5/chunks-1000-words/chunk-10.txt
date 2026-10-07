@@ -1,0 +1,59 @@
+On Q29, 88 respondents said training helped them handle relevant tasks or problems more effectively—five fewer than the favourable count for understanding content in Q24. This difference was not significance-tested. It nevertheless shows why understanding and work application are asked about separately. Q30 drew 87 favourable and ten neutral responses on confidence in responsibilities; confidence remains a perception rather than a measured improvement in job performance.
+
+Across Figures 4.5–4.8, agreement is common without being universal. Neutral and unfavourable answers matter because a high group mean can conceal a different experience for some employees. The item counts describe what respondents selected, not why; any action suggested by them needs further review.
+
+4.1.3 Distribution Diagnostics
+
+Histograms, normal Q–Q plots, and boxplots from SPSS show the four construct distributions; residual plots accompany the regression. The negative skewness in Table 4.2 reflects the concentration of ratings toward the high end of the scale.
+
+Normality tests are significant for all four construct means, which is consistent with the skewed distributions. The five-point scale is bounded and many respondents chose positive categories; these features matter when reading the regression.
+
+4.1.4 Overall Questionnaire Consistency and Exploratory Structure Check
+
+One SPSS reliability run covers all 26 scored questions. It uses 102 valid cases and excludes one case.
+
+The .980 alpha indicates very high consistency across the combined item set. It cannot stand for four construct-specific values, since only the combined run is available. Closely related questions may also contribute to this high figure and to associations among constructs measured on the same form.
+
+An exploratory Principal Component Analysis used varimax rotation. The Kaiser–Meyer–Olkin value is .929; Bartlett’s test is significant, χ²(325) = 3664.340, p < .001; and SPSS extracted four components. These figures provide a structural diagnostic for an instrument designed around four theory-based constructs. They do not establish full scale validation or change the study model.
+
+4.2 Inferential Analysis
+
+4.2.1 Correlation Analysis
+
+Pearson’s r shows the direction and strength of each pairwise relationship. Every correlation in Table 4.6 is positive and statistically significant.
+
+Learner Engagement has the strongest pairwise relationship with Training Effectiveness (r = .765): respondents who rated their participation more highly also tended to rate effectiveness more highly. Hybrid Learning and Trainer Competence are strongly related to each other (r = .818). Their overlap matters when interpreting the separate regression coefficients.
+
+4.2.2 Multiple Regression Analysis
+
+The main hypothesis uses multiple regression, with Training Effectiveness as the outcome and the other three constructs entered together as predictors.
+
+The model is significant, F(3, 98) = 50.652, p < .001. Its three predictors together account for 60.8 per cent of the variation in reported Training Effectiveness among the 102 cases. This supports the overall alternative hypothesis.
+
+With all three predictors in the model, only Learner Engagement has an individually significant coefficient (β = .532, p < .001). Higher engagement ratings accompany higher effectiveness ratings after accounting for overlap with Hybrid Learning and Trainer Competence.
+
+Hybrid Learning and Trainer Competence have positive, non-significant individual coefficients in this joint model. Their pairwise correlations remain positive, including a strong relationship with each other. For these respondents, Learner Engagement shows the clearest distinct statistical association after all three variables are entered together; the other two should not be labelled unimportant on that basis.
+
+VIF and tolerance were not reported in the saved regression output. The interpretation therefore acknowledges the strong Hybrid Learning–Trainer Competence correlation shown in Table 4.6.
+
+4.2.3 Supplementary Comparisons and Test Suitability
+
+The supplementary tests below use the 102-case scored CSV and answer questions apart from the main regression. They are exploratory, with no causal interpretation. The saved SPSS viewer often used 103 cases for its additional tests, and its data file was unavailable for a cell-by-cell comparison. The supplementary figures consequently still require SPSS verification before final submission.
+
+One-sample t-tests compare each construct mean with the neutral value of 3. All four means are higher, restating the positive descriptive pattern rather than testing the relationship hypothesis.
+
+Hybrid Learning averages 4.144 in this CSV subset and 4.148 in the supplied SPSS Explore table. The difference means the two sources have not been shown to contain identical item values. Tables 4.2–4.7 and the hypothesis decision continue to follow the saved SPSS figures.
+
+The Welch comparison includes 56 officers (M = 4.163) and 26 managers (M = 4.220). Their Training Effectiveness means did not differ significantly, t(52.261) = −0.270, p = .788. Clerical staff were outside this two-group test.
+
+Paired t-tests compare each respondent’s effectiveness score with that person’s other construct scores. None of the three mean differences reaches the .05 level. The comparisons concern different concepts on one survey, not changes over time.
+
+The one-way ANOVA compares clerical (M = 4.550, n = 20), officer (M = 4.163, n = 56), and managerial (M = 4.220, n = 26) respondents. The difference is not significant, F(2, 99) = 1.629, p = .201. A Duncan post-hoc comparison is therefore not used to claim distinct groups in the 102-case analysis.
+
+The raw-mean crosstabs are too sparse for a dependable Pearson chi-square interpretation. Across the three predictor-by-effectiveness tables, 98.8–99.3 per cent of expected cells fall below five, with a minimum expected count near .010. The pairwise construct relationships are instead interpreted through the correlations in Table 4.6.
+
+The construct means have many distinct values, producing very small expected counts. No hypothesis decision is based on these chi-square statistics.
+
+4.3 Interpretation of Results
+
+Employees who described greater involvement in the selected programme also gave stronger ratings to relevance, confidence, and work application. For bank staff, involvement may mean following a session closely, asking questions, practising a procedure, or revisiting material when a task arises.

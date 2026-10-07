@@ -1,0 +1,45 @@
+Union Bank of India Context
+
+Union Bank was registered in Mumbai on 11 November 1919 and nationalised in 1969. Andhra Bank and Corporation Bank joined it through amalgamation on 1 April 2020 (Union Bank of India, n.d.-a). Its public profile reported more than 8,700 domestic branches and 73,900 employees in June 2026. In a workforce spread across so many locations, access to current material and trainer support becomes a practical learning concern.
+
+Union Bank Training Architecture
+
+Union Bank supports learning through both physical training facilities and digital delivery. Its 2024–25 annual report describes a Master Policy on Learning and Development covering e-learning, virtual and staggered programmes, role-based training, mandatory e-learning for officers, and a Training Management System within Union Vidya (Union Bank of India, 2025). The preceding annual report identifies Union Vidya as the Bank’s LMS and records digital resources and virtual workshops alongside classroom and locational programmes (Union Bank of India, 2024).
+
+Nine specialised Union Learning Academies were launched in 2022. The Bank’s public list also names a Staff Training College in Bengaluru and seven Staff Training Centres elsewhere (Union Bank of India, 2022; Union Bank of India, n.d.-b). Together with the digital facilities, these are part of its learning infrastructure. Their existence does not establish who attended a centre or whether every programme combined the two modes.
+
+A circular dated 9 September 2026 gives one example of a connection between the modes. Selected classroom sessions at Union Learning Academies and Zonal Learning Centres can be streamed through Microsoft Teams. Schedules and recordings are made available through Union Vidya, and virtual participants can ask questions in the chat for the programme coordinator to raise at suitable intervals (Union Bank of India, 2026). This arrangement extends access to selected trainer-led sessions; the circular provides no evidence about employee outcomes across the Bank.
+
+The survey therefore stays with the experience employees can report: one recent hybrid programme attended by eligible respondents connected with Regional Office Chennai South. Its findings speak to that group, rather than the Bank as a whole.
+
+1.7 Chapterisation
+
+Chapter 1 sets out the banking context, the four constructs, the research problem, and the questions guiding the study.
+
+Chapter 2 reviews the relevant literature and explains the roles of the three base papers. It then develops the framework and the gap addressed in the Union Bank setting.
+
+Chapter 3 describes the objective, hypothesis, sampling and collection procedures, questionnaire, analysis, and ethical safeguards.
+
+Chapter 4 reports and interprets the results. Chapter 5 draws out the findings, limitations, suggestions, and conclusion.
+
+CHAPTER 2 — REVIEW OF LITERATURE
+
+2.1 Review of Relevant Literature
+
+Hybrid Learning as an Integrated Training Design
+
+In workplace training, hybrid learning means more than assigning hours to an online module and a classroom session. The activities need to be designed as a sequence that employees can follow and connect to their work. A digital task should have a clear reason for appearing before or after a trainer-led activity.
+
+Digital delivery can distribute basic information, short assessments, and material for later reference across locations. In-person time can be used for questions, demonstration, practice, and feedback. Employees are more likely to see a programme as one course of learning when they understand why those activities are connected.
+
+Garrison and Kanuka (2004) place integration at the centre of blended learning. Graham (2006) discusses the combination of delivery modes, teaching methods, and learning approaches. Although both accounts come mainly from education, they offer a relevant design test for employee training: the activities should support one another, not repeat or conflict with each other.
+
+Two education reviews help establish the broader learning question. Vo, Zhu and Diep (2017) combined 51 effect sizes from higher-education courses and reported a small average advantage for blended learning over conventional classroom teaching (g = 0.385). Yu, Yu, Li and Wang (2025) reviewed 133 studies with 18,464 students and found an upper-medium effect on learning performance (g = 0.651). These are student results. Bank employees must often learn alongside customer service, deadlines, and changing procedures, so the estimates provide background rather than a prediction for Union Bank.
+
+Kumar and Pande (2017) examine technology-mediated learning among working professionals. They identify institutional, facilitator, learner, and pedagogical conditions within a blended-learning ecosystem. Their account is useful here because access to a platform alone cannot explain whether employees find the content relevant, receive guidance, or carry learning into work.
+
+Mulaudzi’s (2021) Master’s dissertation examines blended teaching in South African transport-sector training. Its discussion of time, access, flexibility, materials, and practical barriers is relevant to employees who train around ordinary work. Those themes informed the present questionnaire’s wording on access and connected learning, although the dissertation instrument was not adopted as a ready-made corporate scale.
+
+The Perceptions of the Blended Learning Environment Questionnaire by Han and Ellis (2020) asks how learners experience the relationship between modes and the contribution of online learning. Its higher-education wording is not suitable for direct use with bank staff. The underlying themes—connection, access, availability of materials, and revision—help explain the content of the Hybrid Learning items.
+
+Sosnova, Hlianenko, Sosnova, Tsyna and Tsyna (2025) provide the conceptual base paper. Their experiment with 64 higher-education students combined online platforms with practice-oriented, problem-based, interactive, and project activities. Learning outcomes were stronger for the hybrid group than for the comparison group. The population and outcome measures differ from those in this thesis, and the paper offers no Union Bank questionnaire. It is used for the narrower proposition that hybrid design and learning effectiveness can be studied together.

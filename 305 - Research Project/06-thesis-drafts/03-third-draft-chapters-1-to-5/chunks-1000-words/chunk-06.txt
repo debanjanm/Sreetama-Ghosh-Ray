@@ -1,0 +1,53 @@
+Literature Summary
+
+2.2 Theoretical Framework
+
+Blended-Learning Integration
+
+The framework begins with the integration of learning modes described by Garrison and Kanuka (2004) and Graham (2006). Digital work and a live session should form an intelligible sequence. When employees can see the connection, the purpose of each activity is easier to understand.
+
+For an employee, that sequence might start with digital material that introduces a topic before a session devoted to cases and practice. The material may remain available when a procedure needs to be checked later. A programme could also begin with a live explanation and use digital resources for follow-up. What matters is whether employees recognise the link between activities and the work need.
+
+Programme design cannot be reduced to the platform used. Posting a module does not ensure it prepares staff for discussion; a good classroom activity may also be hard to apply later without a reference resource. The Hybrid Learning items consequently ask about both connection and access, not merely a login or completion record.
+
+Separate Employee-Level Predictors
+
+The second perspective keeps three related experiences distinct. Kim (2022) discusses design, instructors, participation, and practice in corporate training. Ansari et al. (2023) and Mulaudzi (2021) add evidence about facilitation and access across learning modes. Employee engagement may also reflect circumstances beyond either the trainer or programme. This is why all three are measured separately and entered together in the regression.
+
+Consider an employee who receives the material and understands the trainer but cannot participate because branch work demands attention. Another may be eager to learn but unable to find the digital resource. Combining these situations in one favourable or unfavourable rating would hide which part of the experience needs attention.
+
+The predictors can still move together. Clear instructions may help employees follow a digital task, while connected activities may invite participation. The model allows those associations without imposing a sequence in which one predictor must cause engagement. Its regression asks how the three ratings relate to Training Effectiveness when considered together.
+
+Training Evaluation and Transfer
+
+Training evaluation and transfer provide the third perspective. Kirkpatrick (1994) distinguishes immediate reaction from later outcomes. Holton (1996), Baldwin and Ford (1988), and Blume et al. (2010) discuss how the learner, design, and work environment relate to application. The outcome here is the employee’s report of understandable, relevant, useful, and applicable learning, not an organisation-level result.
+
+“Effectiveness” can otherwise mean several different things. Enjoying a trainer’s session is a reaction; understanding a concept is learning; using it in a task is application. A Bank-wide change in service or productivity is broader still. The questionnaire concentrates on understanding, role relevance, and reported use or ability to use the learning.
+
+Transfer literature also draws attention to what happens after a session. An employee might understand a procedure but have no immediate opportunity, time, or support to use it. A one-time survey cannot follow a skill over several months; it can record whether respondents see a connection between training and their current tasks (Baldwin and Ford, 1988; Holton, 1996).
+
+Conceptual Framework
+
+The theoretical perspectives support the following framework:
+
+Hybrid Learning, Trainer Competence, and Learner Engagement enter the model together as independent variables. The arrows represent the SPSS predictor–outcome analysis, without specifying an order among predictors or demonstrating causation.
+
+Each questionnaire block has a distinct purpose: arrangement and access, trainer facilitation, employee participation, or perceived learning and relevance. Separate blocks make it possible to notice a weaker part of the experience even when overall ratings are high. The regression supplies the joint test; item responses point to practical matters for review.
+
+2.3 Case Study: Union Bank of India
+
+The respondents were employees connected with Union Bank’s Regional Office Chennai South. Their work may require updated knowledge of products, procedures, risk controls, digital systems, and customer service. Training supports that continuing work as well as individual development.
+
+The annual reports describe both digital and trainer-led learning. The 2023–24 report records Union Vidya’s launch as the Bank’s LMS, together with digital resources, virtual workshops, and classroom and locational training. The 2024–25 report describes the Master Policy on Learning and Development, e-learning, virtual and staggered programmes, ten mandatory e-learning modules for officers, role-based training, and a Training Management System in Union Vidya (Union Bank of India, 2024, 2025).
+
+Union Bank launched nine specialised Union Learning Academies in 2022. Its public training-centres list names the Bengaluru Staff Training College and seven Staff Training Centres elsewhere (Union Bank of India, 2022; Union Bank of India, n.d.-b). These records establish physical training facilities, although they do not describe every employee’s programme.
+
+An internal circular dated 9 September 2026 describes selected classroom sessions at Union Learning Academies and Zonal Learning Centres being live-streamed through Microsoft Teams. It places schedules and recordings in Union Vidya and allows virtual participants to raise questions through chat (Union Bank of India, 2026). This is an example of trainer-led sessions being extended through digital access.
+
+These resources make Union Bank a relevant setting for studying hybrid learning, but infrastructure alone cannot tell us how a programme felt to participants. The survey therefore asks eligible employees about one recent programme that used both modes, including the access and support they experienced.
+
+Respondents assess their own programme rather than the entire training system. They are not asked to compare several programmes or disclose customer information, confidential records, or Bank-wide performance data.
+
+2.4 Gaps in the Study
+
+The workplace-context gap arises because much blended-learning evidence and measurement work comes from higher education. Employees train alongside schedules, customer needs, and work pressure. Corporate studies exist, but provide less direct evidence about these experiences than the student literature.

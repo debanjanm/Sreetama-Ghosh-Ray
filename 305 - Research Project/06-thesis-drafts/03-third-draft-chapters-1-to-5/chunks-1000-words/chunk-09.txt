@@ -1,0 +1,61 @@
+Across the four pilot item blocks, preliminary Cronbach’s alpha values ranged from .879 to .929. With 20 responses, these figures offer an early consistency check rather than full scale validation. The later SPSS output was examined separately.
+
+SPSS reports one reliability analysis for all 26 agreement items: Cronbach’s alpha is .980239. The figure indicates very high consistency for the combined item set in that file. It is not a substitute for four separate construct alphas, which the saved output does not contain.
+
+Appendix B sets out the content basis of the questions. Blended-learning and access research informs Hybrid Learning; workplace facilitation and engagement literature informs the next two blocks; and training evaluation and transfer, including Bahl, Kiran and Sharma’s (2024) banking setting, informs the outcome block. The guide reviewed the wording for use in this academic survey.
+
+3.11 Ethical Considerations and Limitations
+
+Participation was voluntary. The questionnaire requested no personal identifiers or confidential Bank data, and respondents were told that only combined results would be used for academic purposes.
+
+Several design limits affect interpretation. The non-probability sample cannot represent all Bank employees statistically, and the one-time self-report survey cannot show causation. Having the same person rate programme experience and the outcome may strengthen observed associations. The saved SPSS output has an overall 26-item alpha but no separate construct alphas; it also excludes one record listwise from the regression because a Trainer Competence mean was missing.
+
+Within those limits, the results provide a focused account of eligible respondents’ experience of four aspects of training in the Union Bank setting.
+
+CHAPTER 4 — DATA ANALYSIS AND INTERPRETATION
+
+Chapter 4 brings together the saved SPSS Statistics 23 results and separately labelled summaries from the selected scored records. Its main test asks whether the three predictors jointly relate to Training Effectiveness among the Union Bank respondents.
+
+The SPSS construct summaries and multiple regression use 102 valid cases. Some item and pairwise procedures use 103 or 102, depending on available data. The case count is given beside each result.
+
+All findings concern this respondent group and the associations among its ratings; the survey cannot establish a causal sequence.
+
+4.1 Descriptive Analysis
+
+Respondent Profile
+
+The profile table covers 102 complete records, including 48 online and 54 paper forms. Most respondents were aged 35–44, just over half reported 11–20 years of service, and officers were the largest job-level group. All percentages in Table 4.1 use 102 as the denominator.
+
+4.1.1 Construct-Level Results
+
+The SPSS Explore results place all four construct means above the five-point scale’s midpoint. Learner Engagement ranks highest, then Training Effectiveness, Trainer Competence, and Hybrid Learning.
+
+Agreement and strong agreement predominate, producing the negative skewness in Table 4.2. Low ratings were less common, although the survey gives no reason for the pattern.
+
+Hybrid Learning is lowest but remains above neutral. Employees generally rated the combined arrangement favourably, yet its practical details may offer more room for review than the other areas. Learner Engagement is highest, reflecting respondents’ reports of attention, participation, and interest.
+
+4.1.2 Item-Level Results Across the Four Constructs
+
+The seven Hybrid Learning items address connection across modes and access to digital material. Table 4.3 gives their SPSS item means for 103 available responses; Table 4.2 uses 102 cases with all four construct means.
+
+Q6, about digital preparation for face-to-face sessions, has the lowest Hybrid Learning item mean at 3.990. This is still above neutral, but preparation is a reasonable part of the sequence for training staff to review.
+
+Table 4.4 shows how the selected 102 records are distributed across all five response categories for each scored question; every row totals 102. These CSV counts are separate from the 103-case SPSS item means in Table 4.3. Figures 4.5–4.8 use the same counts as Table 4.4.
+
+Trainer Competence responses
+
+Trainer ratings were mostly favourable. Of the 102 respondents, 92 agreed or strongly agreed that the trainer explained content clearly (Q13), and 91 rated subject knowledge in those categories (Q12). The figures describe the support given by a person, which the presence of online material alone cannot capture.
+
+The pattern is a little less favourable for connections across modes and feedback. On Q14, 87 agreed or strongly agreed that the trainer explained the link between activities, while ten were neutral. On Q17, 88 reported helpful feedback and eight disagreed or strongly disagreed. These modest item differences were not significance-tested, but they suggest checking how trainers refer to digital preparation and how feedback helps employees correct misunderstandings.
+
+Learner Engagement responses
+
+Engagement ratings were positive across attention, effort, participation, involvement, questions, and interest. On each of Q20, Q21, and Q23, 93 of 102 respondents selected agree or strongly agree. This is consistent with Learner Engagement having the highest construct mean: most described active involvement in the programme they chose.
+
+Question-seeking showed a slightly different pattern. On Q22, 88 respondents agreed or strongly agreed that they sought clarification, while eleven were neutral. Neutral could mean no clarification was needed, no opening was available, or the employee hesitated. Since the questionnaire cannot separate those possibilities, the practical question is whether programmes make it easy to ask.
+
+Positive trainer and engagement ratings appear in the same sample, but they describe different experiences. One concerns support offered; the other concerns what employees say they did. The regression examines whether the latter retains a distinct association with Training Effectiveness alongside trainer competence and hybrid design.
+
+Training Effectiveness responses
+
+Training Effectiveness items cover understanding, relevance, capability, application, task support, and confidence. In Figure 4.8, 93 respondents agreed or strongly agreed that they understood the main knowledge or skills (Q24). The count is 89 for each of Q25–Q28. These are employees’ own reports of learning and possible use, not supervisor observations of performance.

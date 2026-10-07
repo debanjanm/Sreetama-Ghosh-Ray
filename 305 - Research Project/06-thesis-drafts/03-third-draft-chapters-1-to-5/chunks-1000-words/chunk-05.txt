@@ -1,0 +1,43 @@
+Holton (1996) argues that evaluation levels do not by themselves explain transfer into practice. Baldwin and Ford (1988) describe transfer through the generalisation and maintenance of learning at work. Blume et al. (2010) find links between transfer and characteristics of the learner, training design, and work environment. These sources caution that later application depends on more than the training event.
+
+The outcome measured here is narrower: employees rate understanding, relevance, capability, application to tasks, help with related problems, and confidence in current responsibilities. They are not asked to estimate productivity, customer satisfaction, reputation, or financial results for the Bank, which would require other data.
+
+Aziz’s (2015) General Training Effectiveness Scale was developed for Malaysian workplace learning. Its distinction between individual learning and organisation-level outcomes informs the present questionnaire’s employee-level focus. Union Bank wording was then reviewed for content, piloted, and assessed through reliability analysis.
+
+Bahl, Kiran and Sharma (2024) evaluate a broader chain that includes results. This survey has no independent record of branch productivity, customer outcomes, or behaviour observed over time. It can instead ask whether employees understood the content, recognised its relevance, and felt able to use it. That is a perceived employee-level outcome, not a full Kirkpatrick evaluation.
+
+Aziz (2015) also helps keep individual learning distinct from what an organisation achieves. A respondent cannot reasonably judge a Bank-wide result from one recent programme. Job Performance was left outside the model for a related reason: actual performance would need a suitable measure and evidence beyond the same employee’s account of training.
+
+Workplace Implementation Conditions
+
+An LMS can hold content, but people still need to decide what should be read before a session, what requires discussion, and when feedback is needed. A classroom discussion, in turn, may not give employees material they can revisit later. This connection between activities is central to the Hybrid Learning measure.
+
+Mubayrik’s (2018) review of workplace blended learning identifies flexible access, authentic activities, collaboration, satisfaction, and support with technology as recurring themes. The studies vary in population, design, and measurement. Their variety is a reason to examine the task, trainer, technology, and opportunity to participate in a particular setting instead of assuming one delivery format works equally well everywhere.
+
+Sequence matters when employees must make time for training alongside work. A digital activity might introduce a policy or demonstration before a live session devoted to cases and practice. Alternatively, a trainer might introduce a difficult topic first and leave digital material for revision. The questionnaire asks whether the selected programme’s activities felt connected and accessible; it does not rank these possible sequences.
+
+One possible design is digital preparation, trainer-led practice, workplace application, and digital revision. This example clarifies what a connected programme might look like. It is not another model tested in the survey.
+
+Use of the Literature in Practical Recommendations
+
+Recommendations must begin with what respondents actually rated, then use the literature to interpret those ratings. Low access or material scores would point to resource timing and availability. Lower ratings of explanation or feedback would suggest reviewing trainer preparation. Limited participation or clarification-seeking would direct attention to questions, practice, and follow-up.
+
+Employee ratings identify areas of strength or difficulty in the selected programme; the reviewed studies help explain why those areas may matter.
+
+Summary of the Empirical Review
+
+The sources perform complementary roles. Sosnova et al. (2025) connect hybrid methods and learning effectiveness in education; Kim (2022) studies corporate training design, instructors, practice, and outcomes; and Bahl, Kiran and Sharma (2024) evaluate training among Indian bank employees. Han and Ellis (2020), Mulaudzi (2021), and Aziz (2015) inform the themes and workplace wording of the questionnaire.
+
+No one source contains the entire model or an instrument ready for Union Bank. Appendix B traces how the scored items draw on these separate strands of literature.
+
+Comparison of the Three Base Papers
+
+The base papers cover three settings rather than one identical model. Sosnova et al. (2025) work with students; Kim (2022) examines automotive sales trainees; and Bahl, Kiran and Sharma (2024) study Indian bank employees without a hybrid-delivery measure. Their differences make the Union Bank question meaningful, but none supplies a result to replicate directly in Chennai.
+
+Their methods also set limits on comparison. Sosnova and Kim compare arrangements or outcomes across delivery conditions, while Bahl and colleagues use a multi-level evaluation framework. The current one-time questionnaire describes four ratings and tests a single regression. It cannot show that changing Union Bank’s delivery mode would reproduce an earlier result or yield organisation-level outcomes.
+
+Kim’s discussion of instructors and participation, Mulaudzi’s (2021) workplace account of facilitation and time, and Schaufeli, Bakker and Salanova’s (2006) concept of active effort all help separate trainer support from learner behaviour. The last source concerns general work engagement, so it is used as background rather than a training scale. A bank employee may value a trainer’s explanation but still have little time to prepare or ask questions. The two experiences are therefore measured separately.
+
+The supporting measurement sources have a different purpose. Han and Ellis (2020) inform questions about the connection between modes, Mulaudzi (2021) contributes workplace access conditions, and Aziz (2015) supports an employee-level outcome. Appendix B records the adaptation of those themes to one Union Bank programme. Neither a student scale nor a transport-sector instrument becomes a validated Bank measure simply by changing its wording.
+
+The literature leads to one focused test: among employees exposed to both modes, do more positive ratings of integration, trainer competence, and engagement accompany higher perceived Training Effectiveness? The answer can direct attention to areas for review, while the one-time design leaves time order and causation unresolved.

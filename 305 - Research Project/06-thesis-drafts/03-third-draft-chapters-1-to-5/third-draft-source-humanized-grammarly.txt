@@ -1,0 +1,2236 @@
+HYBRID LEARNING AND TRAINING EFFECTIVENESS AT UNION BANK OF INDIA
+
+
+
+CHAPTER 1 — INTRODUCTION
+
+
+
+1.1 Background and Context
+
+
+
+Employees of the bank have to continue their learning even while carrying out their normal duties, since changes in procedure, the introduction of new digital systems, or updated products can influence the way in which they serve customers and satisfy compliance requirements. The training should be available during work and prove to be useful when the employees go back to their jobs.
+
+
+
+Digital platforms allow a bank to share learning materials with its staff who are based in different locations. Staff can access modules, videos, virtual sessions, assessments and job aids without having to travel for each activity. The flexibility is important when a branch has to keep serving customers. Yet access is only the first step: finishing a module doesn't prove that an employee has understood a procedure or knows how to use it in practice. Some questions still require an explanation from a trainer.
+
+
+
+With face-to-face sessions, employees have the opportunity to ask questions, have demonstrations, carry out practice exercises, and receive feedback. They are also able to talk about the situations that occur in their own branches. However, it is not essential to have a classroom for every update: a brief refresher or reference document might be more convenient to use online. The important point is the link between the two methods, so that the information given in digital form can be understood and put into practice during a trainer-led session or at work.
+
+
+
+Hybrid learning, also known as blended learning, is designed to link digital and face-to-face components together within a single programme. The digital element can be used to introduce a topic beforehand and will then stay accessible for later review. The trainer can then make use of the session to explain any difficult points and to carry out practical tasks related to the job. If this connection is not made, employees may see the different activities as separate obligations rather than as part of a single learning process.
+
+
+
+The study focuses on Union Bank employees who are associated with the Regional Office Chennai South in Royapettah, Chennai. The Bank makes use of Union Vidya, its Learning Management System (LMS), together with e-books, podcasts, audiobooks, microlearning, virtual workshops, role-based learning, mandatory e-learning for officers, and a Training Management System (Union Bank of India, 2024, 2025). The fact that these various methods of learning are provided indicates that there are multiple ways in which learning can take place. However, the information does not reveal how the employees experienced their involvement in a specific programme. For this reason, each respondent provided details regarding one recent programme that involved both digital and face-to-face components.
+
+
+
+There are four aspects which describe that experience. Hybrid Learning refers to the connection between digital and face-to-face activities, access to the platform and materials, and the opportunity to revise what has been taught. Trainer Competence relates to the trainer's subject knowledge, the clarity of their delivery, the use of appropriate tools, the encouragement they provide, and the feedback they give. Learner Engagement involves the employee's attention, level of effort, interest, participation, and readiness to ask for clarification. Training Effectiveness is about whether the employee found the learning to be understandable, relevant, useful, and applicable to their current role.
+
+
+
+The conceptual framework is:
+
+
+
+Hybrid Learning ────────┐
+
+Trainer Competence ─────┼──→ Training Effectiveness
+
+Learner Engagement ────┘
+
+
+
+Within the framework, Hybrid Learning, Trainer Competence, and Learner Engagement all act as separate predictors of perceived Training Effectiveness. It is not necessary for a well-organised programme and a capable trainer to lead to the same degree of engagement among all employees. Factors such as workload, available time, previous experience, digital confidence, motivation, and the conditions at the branch may also play a role. The questionnaire documents the way in which employees experienced these various aspects of the programme; the associations thus obtained are then interpreted within the constraints of a single self-report survey.
+
+
+
+Each of the three original papers looks at a different aspect of the question. Sosnova et al. (2025) look at hybrid education and the effectiveness of learning for students, offering a conceptual basis for the topic. Kim (2022) investigates automotive sales training and highlights the importance of delivery design, instructor involvement, and practical exercises in a corporate environment. Bahl, Kiran and Sharma (2024) evaluate training among 402 Indian bank employees using Kirkpatrick’s Reaction, Learning, Behaviour, and Results framework. The four-component Union Bank model being proposed here is not derived from any single one of these papers; rather, its foundation is based on a combination of the conceptual, practical worksetting, and banking viewpoints.
+
+
+
+For members of the human resources department and the learning-and-development team, it is important to consider how a programme is designed since employees have to fit the training around their own work. If the activities are not closely connected they may come across as an additional duty. A trainer who is able to explain the relevance of an activity and who answers questions can help make it easier for people to take part. The research has looked at access, integration, the level of support provided by trainers, and engagement, in order that the Bank may examine these various aspects of training while still keeping its normal services.
+
+
+
+1.2 Key Concepts and Definitions
+
+
+
+Hybrid Learning
+
+
+
+Hybrid Learning involves combining digital activities with face-to-face ones as part of a single planned programme. For the digital element a bank could make use of an LMS module, a video, a virtual session, an online assessment or downloadable reference material. The in-person component could be provided by classroom discussion, a demonstration, role play, a group exercise or supervised practice. Each of these methods has a specific purpose within the same learning sequence.
+
+
+
+The employees assessed whether the two methods felt connected, whether they were able to access the platform and the materials, and whether the digital materials remained available for revision. This evaluation relates to their experience of the programme in question and is not a technical assessment of Union Vidya nor a comparison of the programmes delivered via a single mode.
+
+
+
+Trainer Competence
+
+
+
+The level of a trainer's competence depends on how effectively they support the learning process. It is important that they have subject knowledge and provide clear explanations, as well as being able to link the work carried out online with the live session, to use appropriate tools, encourage participation and offer useful feedback. In a hybrid programme, employees might need the trainer to demonstrate how an online task relates to the subsequent discussion or to a procedure in their own role.
+
+
+
+It is impossible for a platform to replace the explanation given by a trainer. On the other hand, an able trainer may find themselves limited if the employees cannot get hold of the learning material. By evaluating these two aspects separately, it is possible to compare the way in which they are associated with Training Effectiveness.
+
+
+
+Learner Engagement
+
+
+
+Learner Engagement refers to the various aspects of what an employee contributes to the programme in question, such as their attention, effort, participation, interest, and readiness to ask questions. Simply being present or having completed the programme online does not demonstrate this level of involvement. A person may be there without paying close attention to the material; it is shown by their attempt to understand it and by their participation in the learning activities.
+
+
+
+The questions which relate to engagement are concerned with behaviour in a single training programme and do not evaluate general work engagement, organisational commitment, motivation, or metacognitive skill since these are additional constructs.
+
+
+
+Training Effectiveness
+
+
+
+Training Effectiveness refers to the employee's view of the contribution of the programme to their current work, and the questions address understanding, relevance, confidence, and the extent to which the employee feels they can apply what they have learned to everyday tasks and related problems.
+
+
+
+The literature on training evaluations and transfer backs this definition, going beyond simply asking whether the employees had liked the session. Nevertheless, the evidence obtained is based on people's own reports: in this case, no objective improvement is measured in individual performance, customer service, productivity, reputation, or financial results.
+
+
+
+Learning Management System
+
+
+
+A Learning Management System (LMS) enables an organisation to deliver and manage learning by means of various digital resources, including modules, readings, videos, quizzes, virtual sessions, and learning records. Within its wider system of e-learning, virtual training, staggered programmes, and role-based learning, Union Bank has chosen Union Vidya as its LMS (Union Bank of India, 2024, 2025).
+
+
+
+Union Vidya is given as an example when the questionnaire is asking about the platform used in the programme that the respondent has chosen, since there can be differences between programmes and platform features and it is not assessed as a separate item.
+
+
+
+1.3 The Need, Scope and Importance of the Study
+
+
+
+Need for the Study
+
+
+
+The main issue is the connection between employees' experience of Hybrid Learning, Trainer Competence, and Learner Engagement and their perception of Training Effectiveness. Bank employees acquire their knowledge by handling customers, carrying out various procedures, and managing their daily duties. When the activities are hard to access or poorly linked, training tends to increase the pressure on them rather than assist them in applying their new knowledge.
+
+
+
+Research into blended learning provides some valuable insights into the design of programmes, even though a great deal of it focuses on students. In the case of a bank employee, customer service and compliance duties go on during the training period. Corporate studies include evidence from the work environment, but there is still a lack of research looking at the four constructs together among the employees of an Indian public-sector bank.
+
+
+
+Union Bank has recorded its digital resources and the training facilities which are led by trainers. These records show what the setup is rather than the quality of the employee's experience within a particular programme. It is the survey that looks at this more specific question.
+
+
+
+Scope of the Study
+
+
+
+The respondents who were eligible had to be employees associated with Union Bank's Regional Office in Chennai South and must have taken part in a programme that included both digital and face-to-face elements over the past 12 months; each person was to discuss one programme that had recently taken place. Those who had taken part in only one of the two modes of delivery were unable to judge how the two were linked and so were not eligible.
+
+
+
+The areas that are measured include Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness; other factors which might be relevant, such as knowledge retention, job performance, supervisor support, digital literacy, and Union Vidya's technical performance, are not covered by this model. Using a more focused tool makes it possible to keep the analysis manageable for the selected sample.
+
+
+
+The responses were gathered singlely using a structured five-point agreement questionnaire. Descriptive and correlational analyses are used to describe the characteristics of this group of respondents and the relationships between their ratings. However, the design does not allow it to determine any subsequent changes in work behaviour or in Bank performance as a result of the training.
+
+
+
+Significance of the Study
+
+
+
+The results for Union Bank show how employees have responded to the relationship between different learning methods, the level of support provided by trainers, and the extent of their participation. Those aspects which have received lower ratings can help staff identify areas that should be looked at, for example regarding the timing of the modules, access to the materials, the guidance given, the feedback offered, or the opportunities for taking part.
+
+
+
+Trainers and members of the learning-and-development team can make use of these responses in order to go beyond simply delivering the content. Employees should also understand the reason why a digital module comes before a session, how a new procedure relates to their particular role, and where they can go to ask questions afterwards. These practical links influence whether the training seems manageable when combined with their normal duties.
+
+
+
+The academic contribution consists of a detailed account based on experience in the public-sector banking environment. The questionnaire was developed by drawing upon conceptual, corporate, and Indian banking literature; it was examined by the supervisor, tried out, and evaluated for internal consistency in the final sample.
+
+
+
+1.4 The problem being stated
+
+
+
+The learning system at Union Bank makes use of digital materials as well as trainer-led activities, which provides the possibility of hybrid training. However, the fact that such resources are available does not indicate much about an individual employee's actual experience. What remains to be determined is whether the activities are coherent, if the trainers offer adequate guidance, whether the employees take part, and whether they can apply what they have learned to their present jobs.
+
+
+
+The evidence available from higher education and corporate training provides some context for these questions, but it does not look at the four constructs together in the specific case of Union Bank. Specifically, the published material on Union Vidya fails to explain how employees link its digital resources with trainer-led learning.
+
+
+
+The study examines whether the ratings given for Hybrid Learning, Trainer Competence, and Learner Engagement are all related to the participants' perception of Training Effectiveness.
+
+
+
+1.5 Research Questions
+
+
+
+1. What do the respondents think about hybrid learning, trainer competence, learner engagement, and training effectiveness?
+2. W
+3. hat associations are reported among the four study constructs?
+4. 
+5. How much do Hybrid Learning, Trainer Competence, and Learner Engagement together predict Training Effectiveness?
+
+
+
+1.6 The industrial and company background
+
+
+
+Banking Industry Context
+
+
+
+The banking industry involves regulation, digital systems, a range of products, and customer service. Each day, staff are required to keep up to date with regard to procedures and risk controls as they are serving customers. In a public-sector bank with employees spread across various departments and locations, general material has to be available without compromising the chances for questions, practice, guidance, and subsequent revision.
+
+
+
+Since different training needs exist, different types of activities are required. For example, a brief policy update would be appropriate for a digital module followed by a knowledge check; a new procedure might need to be demonstrated and then practised; and a situation involving customers could be more easily dealt with using role play. Digital material can stay available afterwards. The mode chosen should be one that corresponds to the task the employees need to learn.
+
+
+
+Union Bank of India Context
+
+
+
+Union Bank was set up in Mumbai on 11 November 1919 and was nationalised in 1969. On 1 April 2020, Andhra Bank and Corporation Bank joined it by way of amalgamation (Union Bank of India, n.d.-a). The bank's public profile stated that it had more than 8,700 domestic branches and 73,900 employees in June 2026. Since its workforce is distributed over such a large number of locations, it becomes a practical issue to have access to up-to-date materials and to receive trainer support.
+
+
+
+Union Bank Training Architecture
+
+
+
+Union Bank promotes learning by providing both physical training facilities and digital courses. According to its 2024–25 annual report there is a Master Policy on Learning and Development which includes e-learning, virtual and staggered programmes, role-based training, mandatory e-learning for officers, and a Training Management System within Union Vidya (Union Bank of India, 2025). The previous annual report designates Union Vidya as the Bank's LMS and lists its digital resources and virtual workshops together with classroom and locational programmes (Union Bank of India, 2024).
+
+
+
+In 2022, nine specialised Union Learning Academies were set up. According to the Bank's public list, there is also a Staff Training College in Bengaluru and seven further Staff Training Centres (Union Bank of India, 2022; Union Bank of India, n.d.-b). Along with the digital facilities, these institutions make up its learning infrastructure, though their presence does not prove that anyone attended a centre or that each programme combined both modes.
+
+
+
+The circular, which dates from 9 September 2026, cites an example of a link between the different modes. Classroom sessions that have been selected at the Union Learning Academies and the Zonal Learning Centres can be watched via Microsoft Teams, with the schedules and recordings being made available through Union Vidya, and virtual participants being able to pose questions in the chat for the programme coordinator to raise at appropriate intervals (Union Bank of India, 2026). This arrangement enables access to certain trainer-led sessions; however, the circular contains no information regarding the effects on employees within the Bank.
+
+
+
+The survey therefore focuses on the experience that employees can report; a recent hybrid programme taking place at the Regional Office in Chennai South was attended by eligible respondents, and the findings refer to that group rather than to the Bank as a whole.
+
+
+
+1.7 Chapterisation
+
+
+
+The banking context the four constructs the research problem and the questions that guide the study are all outlined in Chapter 1.
+
+
+
+The chapter looks at the relevant literature and outlines the roles of the three fundamental papers; it then presents the framework together with the gap that is addressed in the case of Union Bank.
+
+
+
+Chapter 3 sets out the objective, the hypothesis, the method of sampling and the procedure for data collection, the questionnaire, the analysis, and the ethical safeguards.
+
+
+
+Chapter 4 sets out and explains the results. Chapter 5 summarizes the findings, the limitations, the recommendations, and reaches a conclusion.
+
+
+
+CHAPTER 2 — RE
+
+VIEW OF LITERATURE
+
+
+
+2.1 A review of the relevant literature
+
+
+
+Hybrid Learning as an Integrated Training Design
+
+
+
+Hybrid learning in the workplace involves more than simply allocating a certain number of hours for an online module and a classroom session; the various activities have to be arranged in a sequence that employees can follow and apply to their own work, and a digital task should have a clear reason for coming before or after a trainer-led activity.
+
+
+
+Digital delivery is capable of getting across basic information, short assessments, and material for later reference to various locations, while face-to-face time can be used for answering questions, giving demonstrations, providing practice, and offering feedback. Employees are more likely to regard the programme as a single cours
+
+e of learning if they understand why the different activities are connected.
+
+
+
+Garrison and Kanuka in 2004 positioned integration at the heart of blended learning, while Graham in 2006 looked at the combination of different modes of delivery, teaching methods, and learning approaches; even though both of these accounts are based in the field of education, they provide a suitable design criterion for use in employee training since the various activities should support each other and not repeat one another or conflict with each other.
+
+
+
+Two educational reviews contribute to the wider discussion about learning. Vo, Zhu and Diep (2017) pooled 51 effect sizes from courses in higher education and found a small average benefit of blended learning compared to traditional classroom teaching (g = 0.385). Yu, Yu, Li and Wang (2025) examined 133 studies involving 18,464 students and identified an upper-medium effect on learning performance (g = 0.651). These figures refer to students. Since bank employees frequently have to learn while dealing with customer service, meeting deadlines, and adapting to new procedures, the estimates only serve as background information and not as a prediction for Union Bank.
+
+
+
+Kumar and Pande in their 2017 study look at technology-mediated learning among working professionals. They point out the institutional, facilitator, learner, and pedagogical conditions that exist within a blended-learning ecosystem. Their analysis is relevant in this context since having access to a platform by itself is not enough to show that employees find the content relevant, get guidance, or apply what they have learned at work.
+
+
+
+The relevance of Mulaudzi's (2021) Master's dissertation to employees who have to undergo training around their regular work lies in its examination of issues such as time, access, flexibility, teaching materials and practical obstacles. These themes have therefore been reflected in the way the questions in the present questionnaire are phrased with regard to access and connected learning, even though the questionnaire instrument from the dissertation was not used directly as a ready-made corporate scale.
+
+
+
+The Questionnaire on the Perceptions of the Blended Learning Environment developed by Han and Ellis (2020) inquires into how learners perceive the relationship between different modes and the role of online learning; however, its language, which is geared towards higher education, is not appropriate for use directly with bank employees. The fundamental themes involved—namely, connection, access, availability of materials, and revision—help to explain the content of the Hybrid Learning items.
+
+
+
+The conceptual foundation paper was provided by Sosnova, Hlianenko, Sosnova and Tsyna and Tsyna in 2025. In their study, which involved 64 students from higher education, they combined online platforms with practice-based, problem-focused, interactive and project-related activities. The learning outcomes for the hybrid group were greater than those of the control group. However, the population and the outcome measures in that paper are different from those in this thesis, and the paper does not include the Union Bank questionnaire. It is nevertheless used to support the more limited claim that hybrid design and learning effectiveness can be examined together.
+
+
+
+Hybrid Training and Effectiveness in Corporate Settings
+
+
+
+The corporate training evidence is provided by Kim (2022). In South Korea automotive sales training the method of delivery shifted from traditional to fully digital and then to a hybrid approach. The analysis includes 583 training cases from 2019 to 2020: 325 traditional, 140 fully digital and 118 hybrid. Different from the more self-directed fully digital format, the hybrid format involved both online and offline activities.
+
+
+
+The effectiveness of the training was assessed using Kim’s Content, Instructional Design, Programmed Learning, and Recommendation (CIP-R) framework, a framework that includes content, design, personalised learning, perceived competence, and recommendation. Effectiveness was found to decrease when the method of delivery changed from traditional to fully digital training and increased afterwards when a hybrid approach was introduced. Factors linked to the reported outcome included instructor engagement, duration, personalised learning, confidence and competence, and job-related skill level.
+
+
+
+The order in which Kim's group ranked the different types of training was such that traditional training came top, hybrid training followed it, and fully digital training was at the bottom. There was no statistically significant difference between the hybrid and fully digital methods of delivery. Kim is therefore unable to make a general assertion that hybrid training is better. The paper is more helpful in illustrating the reasons why the design of the delivery, the role of the instructor, and practice should all be taken into account when assessing a corporate programme.
+
+
+
+The current decisions regarding measurement are based on Kim's findings; training effectiveness includes more than just a positive immediate reaction; hybrid learning relates to the quality of the link between the different methods; and trainer competence stays distinct since having access to digital materials does not take the place of guidance and feedback.
+
+
+
+The term "hybrid" doesn't indicate whether an employee would be able to access the materials, prepare in advance, take part, or practise. This is particularly important in the case where staff members attend from various branches while normal work goes on. That is why the Union Bank questionnaire inquires into the different activities associated with one programme and the support that is available, rather than asking employees to compare formats that they may have never experienced.
+
+
+
+Instead of comparing corporate delivery methods, this thesis seeks to find out from individual bank employees whether one of the programmes had helped them to understand and apply work-related learning. The designs are not going to yield exactly the same results, but the comparison at the corporate level does make the question at the employee level worth investigating.
+
+
+
+Uddin, Ahamed, Jakowan, Islam and Nahar in 2026 looked at 150 employees who had experience in blended learning. The researchers investigated the relationship between soft-skill development and knowledge acquisition and employee performance. Both of the variables related to learning showed a positive association with blended learning, but the direct link with performance was not significant when those intervening pathways had been taken into account. Their findings warn ag
+
+ainst concluding something about work outcomes simply on the basis of the delivery format.
+
+
+
+Uddin and others have provided relevant literature relating to the workplace. In order to test the specific pathways concerning soft skills, knowledge acquisition, and performance, it would be necessary to use measures that are not included in this four-factor survey.
+
+
+
+Trainer Competence in Hybrid Training
+
+
+
+When a training programme shifts from a digital session to face-to-face instruction, the trainer assists employees in understanding the order in which things take place. The clarity of the explanations given on the subject, the connections between the different activities, the appropriate use of digital tools, the asking of questions and the provision of f
+
+eedback can all make a difference. If this kind of support is not offered, then the completion of an online task may stay disconnected from the employee's duties.
+
+
+
+The quality of the technical platform and the level of competence of the trainer are two distinct issues. It is possible for the material to be available on line without there being an explanation of its purpose; similarly, an experienced trainer may have difficulty when employees are unable to access that material. That is why the questionnaire includes separate sections relating to programme design and trainer support.
+
+
+
+This particular workplace model does not include a check on both Trainer Competence and Learner Engagement. Kim (2022) looks at instructors, participation, practice, and design in the context of corporate training. Mulaudzi (2021) examines the aspects of facilitation and the barriers to practical access in a work environment. In a university setting, Ansari et al. (2023) link blended-learning training with lecturer and student competence and satisfaction. Although that group is different from bank employees, the study does provide support for looking at facilitation rath
+
+er than considering the availability of technology as sufficient.
+
+
+
+These sources allow the trainer's contribution to be differentiated from the employee's response. The items relating to trainer competence include explanation, digital facilitation, making connections between different modes, support for participation, and feedback. The items relating to learner engagement deal with attention, effort, involvement, questions, and interest. A good rating given to the trainer does not necessarily me
+
+an that the learner was actively participating.
+
+
+
+Learner Engagement
+
+
+
+Engagement refers to active involvement, such as showing attention, putting in effort, taking part, displaying interest, and asking for clarification. Since a login or attendance record does not indicate whether a person made an attempt to understand a changing procedure, completion is only a partial description of the learning process.
+
+
+
+Schaufeli, Bakker and Salanova (2006) define work engagement as comprising vigour, dedication and absorption. Their scale does not serve as a measure of one's participation in a specific training programme. The items used in the present study are based only on the general concept of active effort, namely that respondents indicate the degree of their attention, participation, involvement, questioning and interest during the programme in question.
+
+
+
+Learner Engagement has to be considered an independent variable since neither the design of the programme nor the trainer's skill is enough to determine an employee's level of attention or involvement. Other factors such as time pressure, previous experience, digital confidence, motivation, and the conditions of the branch can also influence the response. The model therefore looks at the relationship between engagement and Training Effectiveness rather than assuming that engagement is fixed in a particular sequence between the other variables and the outcome.
+
+
+
+Training Effectiveness
+
+
+
+Kirkpatrick's framework distinguishes between reaction, learning, behaviour and results. This distinction means that a positive reaction to a session cannot be taken as equivalent to all the outcomes of the training. It is possible for an employee to enjoy a session without understanding it, or to understand it without later having the opportunity to apply what they have learned.
+
+
+
+Kiran Bahl and Sharma (2024) have produced the paper that forms the basis of research into the Indian banking sector. In their open-access assessment they look at 402 managerial and non-managerial employees employed in public, private and foreign banks and apply Kirkpatrick’s four levels. The study shows that training evaluation is relevant in the banking industry. However, it does not look at hybrid delivery, trainer competence, learner engagement, or Union Vidya, for which reason it cannot by itself provide the current model.
+
+
+
+Holton in 1996 claims that the mere presence of evaluation levels is not sufficient to account for transfer into practice. Baldwin and Ford in 1988 explain transfer as involving the generalisation and maintenance of learning at work. Blume et al. in 2010 discover connections between transfer and the characteristics of the learner, the training design, and the work environment. All of these sources warn that the later application of what has been learned depends on factors other than the training event itself.
+
+
+
+The criterion used in this case is more limited in that employees are asked to assess the extent to which the training covers understanding, relevance, capability, its applicability to tasks, its value in helping with related problems, and the confidence it has given them in carrying out their present responsibilities; they are not required to judge productivity, customer satisfaction, the bank's reputation, or its financial performance, since that would demand further data.
+
+
+
+The General Training Effectiveness Scale developed by Aziz in 2015 was created with Malaysian workplace learning in mind, and the way it differentiates between individual learning and organisation-level outcomes is the reason why the current questionnaire focuses on the employee level. The wording of the Union Bank version was then chec
+
+ked over for content, tested in a pilot study, and evaluated using reliability analysis.
+
+
+
+Kiran Bahl and Sharma (2024) assess a wider chain that involves the results. This survey does not contain any independent records of branch productivity, customer outcomes, or behaviour that has been observed over time. Instead, it looks at whether the employees understood the content, recognised its relevance, and felt that they were able to use it. This relates to a perceived emplo
+
+
+
+yee-level outcome and is not a complete Kirkpatrick evaluation.
+
+
+
+Aziz (2015) also ensures that individual learning remains separate from the organisation's overall achievements. It would not be reasonable for a respondent to assess a result for the whole Bank on the basis of a single recent programme. The criterion of Job Performance was omitted from the model for a similar reason: there would need to be an appropriate measure and evidence beyond the emp
+
+loyee's own account of the training.
+
+
+
+Workplace Implementation Conditions
+
+
+
+While an LMS can store the content, it is up to people to decide what should be read before a session, what should be discussed, and when feedback is required. Likewise, a classroom discussion might not provide employees with material that they can go back and review later. This link between the different activities is at the heart of the Hybrid Learning measure.
+
+
+
+In his 2018 review of blended learning in the workplace, Mubayrik highlights flexible access, authentic activities, collaboration, satisfaction, and support with technology as themes that occur repeatedly. There is variation among the studies with respect to the population, design, and method of measurement. This variety is therefore a reason to look at the task, the trainer, the technology, and the opportunity to take part in a give
+
+n setting rather than assuming that one method of delivery is just as effective everywhere.
+
+
+
+It is important when employees have to find time for training within their work schedules for the order of activities to be considered. A digital activity could present a policy or give a demonstration before the live session, which focuses on cases and practice. On the other hand, a trainer might start by introducing a difficult topic and then use digital material for revision. The questionnaire inquires as to whether the activities in
+
+ the chosen programme seemed connected and accessible; it does not rank the different possible sequences.
+
+
+
+A possible approach would be digital preparation, followed by practice led by a trainer, then applying it in the workplace and finally carrying out digital feedback. This example illustrates what a connected programme could be like. It is not another model that was tested in the survey.
+
+
+
+Use of the Literature in Practical Recommendations
+
+
+
+The recommendations should start with the actual ratings given by the respondents and then refer to the relevant literature to interpret these ratings; if the scores for access or materials are low this would indicate a problem with the timing or availability of resources; if the ratings for explanation or feedback are low it would point to the need for reviewing the trainer's preparation; and if participation or seeking clarification is limited the focus should be on the questions, practice, and follow-up.
+
+
+
+The employee ratings point out the strengths or difficulties in the chosen programme, and the studies that have been reviewed help to explain why these areas might be important.
+
+
+
+Summary of the Empirical Review
+
+
+
+The various sources play complementary roles: Sosnova et al. (2025) look at the relationship between hybrid methods and learning effectiveness in the field of education; Kim (2022) examines corporate training design, the instructors, the practical components, and the outcomes; and Bahl, Kiran and Sharma (2024) assess training among employees of Indian banks. The themes and the way the questionnaire is worded
+
+ are informed by Han and Ellis (2020), Mulaudzi (2021), and Aziz (2015).
+
+
+
+No single source provides the whole model or an instrument ready for Union Bank; it is Appendix B that shows how the scored items draw on these separate strands of literature.
+
+
+
+Comparison of the Three Base Papers
+
+
+
+The studies refer to three different settings rather than using the same model. Sosnova et al. (2025) focus on students; Kim (2022) looks at trainees in the automotive sales field; and Bahl, Kiran and Sharma (2024) look at Indian bank employees without including a hybrid-delivery measure. The fact that these studies differ is what makes the Union Bank question relevant, but none of them provides a result that can be directly replicated in Chennai.
+
+
+
+Their methods also place restrictions on any comparison; while Sosnova and Kim examine arrangements or outcomes under different delivery conditions, Bahl and his colleagues use a multi-level evaluation framework. The present one-off questionnaire includes four ratings and carries out a single regression and thus cannot demonstrate that altering Union Bank's delivery method would replicate an earlier resul
+
+t or lead to organisation-level outcomes.
+
+
+
+All of the points made by Kim regarding instructors and participation, Mulaudzi's (2021) account of facilitation and time in the workplace, and Schaufeli, Bakker and Salanova's (2006) idea of active effort help in distinguishing between trainer support and learner behaviour. Since the last of these refers to general work engagement, it is included here as background rather than as a measure for training. Even if a bank employee appreciates the trainer's explanation, he or she may still not have much time to get prepared or to ask questions. The two aspects are therefore assessed separately.
+
+
+
+The other measurement sources have a different aim: Han and Ellis (2020) address questions concerning the relationship between modes, Mulaudzi (2021) provides information on workplace access conditions, and Aziz (2015) offers support for an employee-level outcome. Appendix B shows how these themes were adapted to apply to one Union Bank programme. A student scale or a transport-sector instrument does not automatically become a validated Bank measure just because its wording has been changed.
+
+
+
+A single test emerges from the literature: when employees have been exposed to both methods, does a higher level of perceived Training Effectiveness go with more positive evaluations of integration, trainer competence, and engagement? This answer could help identify areas that require review, though the one-off design does not allow for the establishment
+
+ of time order or causation.
+
+
+
+Literature Summary
+
+
+
+Table 2.1: The literature that supports the present study
+
+
+
+StudyContext and contributionUse in the present study
+
+Sosnova and others in 2025 carried out a hybrid education experiment involving students at higher education level; the study looked at the effectiveness of learning. It serves as a conceptual basis for the examination of hybrid learning and of learning effectiveness.
+
+Kim's 2022 study on corporate automotive sales training and the comparison of different methods. Corporate evidence relating to training design, instructor involvement, participation, and training effectiveness.
+
+Bahl and Sharma in their 2024 study of 402 employees applied Kirkpatrick’s framework as a basis for training effectiveness within the banking sector.
+
+Han and Ellis (20
+
+20)Validated blended-learning-environment instrument in higher education.Supports the structure of Hybrid Learning items, adapted for the workplace.
+
+Mulaudzi's (2021) study into blended learning in the transport sector supports workplace aspects relating to access, materials, flexibility, and facilitation.
+
+Aziz (2015), in the development of the workplace training-effectiveness scale, included items relating to employee-level learning, relevance, and application.
+
+
+
+2.2 Theoretical Framework
+
+
+
+Blended-Learning Integration
+
+
+
+The framework starts off by incorporating the learning modes described by Garrison and Kanuka in 2004 and those outlined by Graham in 2006. There should be a clear sequence involving digital work and a live session. Employees will then be better able to understand the purpose of each activity when they can see the connection between them.
+
+
+
+For an employee, the sequence could involve digital material being used to introduce a topic prior to the session on cases and practice; this material could then be kept available when it is necessary to check a procedure later on. Alternatively, the programme might start with a live explanation and make use of digital resources for follow-up. What is important is that employees recognise the link between the activities and the work need.
+
+
+
+The programme design cannot be determined by the platform employed. Simply posting a module does not guarantee that it will prepare staff for discussion; moreover, a well-designed classroom activity can also be difficult to apply later on without a reference resource. That is why the Hybrid Learning entries make reference to both connection and access, and not just to a login or completion record.
+
+
+
+Separate Employee-Level Predictors
+
+
+
+The third point treats the three related experiences as separate. Kim (2022) looks at design, the instructors, participation and practice in the context of corporate training, while Ansari et al. (2023) and Mulaudzi (2021) provide evidence regarding facilitation and access in different learning modes. Employee engagement might also be influenced by factors that go beyond both the trainer and the programme; that is why all three are measured 
+
+individually and included together in the regression.
+
+
+
+There is the case of an employee who receives the material, understands the trainer, but is unable to take part due to the demands of their branch work. In another instance, someone may be willing to learn but be unable to locate the digital resource. Combining such situations in a single positive or negative rating would mask the aspect of the experience that requires improvement.
+
+
+
+The predictors can still be linked. Although clear instructions can help employees carry out a digital task, related activities may encourage them to take part. The model permits these associations to exist without requiring that one predictor lead to engagement in a particular sequence. It examines how the three ratings relate to Training Effectiveness when they are considered as a group.
+
+
+
+Training
+
+ Evaluation and Transfer
+
+
+
+The third point of view is that of training evaluation and transfer. According to Kirkpatrick (1994) there is a difference between immediate reaction and later outcomes. Holton (1996), Baldwin and Ford (1988), and Blume et al. (2010) examine the relationship between the learner, the design and the work environment and application. In this case the outcome is the employee's statement that the learning is understandab
+
+le, relevant, useful and applicable, not an organisation-wide result.
+
+
+
+The word "effectiveness" may have a number of different meanings. Taking pleasure in a training session is a matter of reaction; understanding a concept constitutes learning; applying it in a task is application. A change throughout the Bank in terms of service or productivity is an even broader notion. The questionnaire focuses on understanding, relevance
+
+ to one's role, and on the reported use or ability to use the learning.
+
+
+
+Transfer of literature also looks at the situation that arises after a session. It is possible for an employee to understand a procedure but not have the opportunity, time, or support available to use it immediately. Since a single survey cannot track a skill over a period of several months, it can only show whether the respondents perceive a link between the training and their present duties (Baldwin and Ford, 1988; Holton, 1996).
+
+
+
+Conceptual Framework
+
+
+
+The theoretical perspectives support the following framework:
+
+
+
+Hybrid Learning ────────┐
+
+Trainer Competence ─────┼──→ Training Effectiveness
+
+Learner Engagement ────┘
+
+
+
+Hybrid Learning, Trainer Competence, and Learner Engagement are included in the model as independent variables. The arrows indicate the SPSS predictor–outcome analysis, without stating any order among the predictors or showing causation.
+
+
+
+The different sections of the questionnaire each have a specific purpose: to deal with arrangement and access, to aid the trainer, to encourage employee participation, or to assess perceived learning and relevance. Because the questionnaire is divided into separate sections, it is possible to identify a weak aspect of the experience even if the overall ratings are high. The regression provides the joint test and the answers given for each item indicate areas that require review.
+
+
+
+2.3 A case study: Union Bank of India
+
+
+
+The people who were the respondents were employees associated with the Union Bank Regional Office in Chennai South. Since their jobs might call for up-to-date knowledge of the products, the procedures, the risk controls, the digital systems and customer service, training was provided to help them carry on with their work as well as to promote their personal development.
+
+
+
+The annual reports refer to both digital and trainer-led training. According to the 2023–24 report, Union Vidya was introduced as the Bank's LMS, along with digital materials, virtual workshops, and classroom and locational training. The 2024–25 report mentions the Master Policy on Learning and Development, e-learning, virtual and staggered programmes, ten mandatory e-learning modules for officers, role-based training, and a Training Management System on Union Vidya (Union Bank of India, 2024, 2025).
+
+
+
+In 2022 Union Bank opened nine specialised Union Learning Academies. The list of its public training centres includes the Bengaluru Staff Training College and seven other Staff Training Centres (Union Bank of India, 2022; Union Bank of India, n.d.-b). Although these records show that the bank has physical training facilities they do not provide details about each employee's programme.
+
+
+
+A circular issued internally on 9 September 2026 states that certain classroom sessions at the Union Learning Academies and the Zonal Learning Centres are being live-streamed via Microsoft Teams. The schedules and recordings are made available on Union Vidya and enable participants taking part virtually to ask questions using the chat function (Union Bank of India, 2026). This serves as an instance of trainer-led sessions being extended by means of digital access.
+
+
+
+While these resources make Union Bank a suitable setting for the study of hybrid learning, the infrastructure by itself is not enough to show us how the programme was experienced by the participants. That is why the survey inquiries eligible employees about one recent programme which involved both modes, including the access and support they had.
+
+
+
+The respondents evaluate just their own programme and not the whole training system; they are not required to compare different programmes or to provide information about customers, confidential records, or Bank-wide performance data.
+
+
+
+2.4 Gaps in the Research
+
+
+
+The gap between blended learning and the workplace stems from the fact that a great deal of the evidence and research into blended learning comes from higher education. While employees receive their training alongside their schedules, customer demands, and work pressures, there are some corporate studies av
+
+ailable, but these offer less direct evidence of those experiences than the studies involving students.
+
+
+
+The gap in the banking sector still exists even though Bahl, Kiran and Sharma (2024) examined the effectiveness of training among employees of Indian banks. The model they developed does not cover Hybrid Learning, Trainer Competence, Learner Engagement, or Union Vidya. While Union Bank provides information about its learning facilities, it does not explain how employees experienced the combination of different methods in a single programme.
+
+
+
+The gap known as the predictor-combination gap lies in the fact that the three individual papers do not look at the three independent constructs together. Sosnova looks at hybrid methods in the field of education, Kim compares different corporate delivery arrangements, and Bahl, Kiran and Sharma assess training in the banking sector. They do not together test the three independent constructs against employee-level Training Effectiveness in a public-sector bank.
+
+
+
+The gap in measurement is a result of the settings of the available scales: although one of the blended-learning tools was designed for students, the scale relating to workplace effectiveness covers organisation-level outcomes as well. Neither of these can be used in the short bank survey without modification. The four sections of the questionnaire had been informed by the relevant literature, were reviewed by the guide, and were piloted online with 20 eligible employees on 15–16 September 2026. While SPSS gives a report on the overall consistency of the 26 items, it does not provide a separate reliability estimate for each construct.
+
+
+
+The study relates to the area where these different fields of research come together: namely, employees' experiences of hybrid delivery, trainer support, participation, and the perception of effectiveness in a public-sector bank that uses Union Vidya as part of its learning system.
+
+
+
+CHAPTER 3 — RESEARCH METHODOLOGY
+
+
+
+1. Objectives of the Study
+
+
+
+This study investigates the way in which eligible Union Bank employees experienced a hybrid training programme and the relationship between their ratings and their perception of training effectiveness. In this programme they could make use of digital materials and attend sessions led by trainers while at the same time carrying out their normal bank duties. The criterion is their description of the programme, not just the fact that an LMS was used.
+
+
+
+The primary objective is:
+
+
+
+The aim is to find out if Hybrid Learning, Trainer Competence, and Learner Engagement together have an impact on Training Effectiveness among the eligible respondents of Union Bank of India.
+
+
+
+The specific objectives are:
+
+
+
+1. To outline what the respondents perceived regarding Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness.
+2. We need to look at the relationships between the four constructs studied.
+3. The aim is to assess the individual contributions of Hybrid Learning, Trainer Competence, and Learner Engagement in predicting Training Effectiveness.
+
+
+
+The aims here are concerned with associations and statistical prediction within the sample in question, without asserting any causal relationship.
+
+
+
+3.2 The hypothesis of the study
+
+
+
+A single overall regression hypothesis is examined at the 5 per cent level of significance.
+
+
+
+Table 3.1: Regression hypothesis
+
+
+
+Null hypothesis (H₀)Alternative hypothesis (H₁)
+
+Hybrid Learning, Trainer Competence, and Learner Engagement do not together predict Training Effectiveness amongst the eligible respondents of Union Bank of India; yet Hybrid Learning, Trainer Competence, and Learner Engagement together do predict Training Effectiveness amongst the eligible respondents of Union Bank of India.
+
+
+
+The hypothesis relates to the model as a whole, and the coefficients are given separately in order to show the adjusted association of each predictor after allowing for overlap with the others.
+
+
+
+3.3 Definition of Variables
+
+
+
+The questionnaire yields scores for four constructs.
+
+
+
+Hybrid Learning refers to the way in which digital and face-to-face activities are combined within a programme, and questions 5 to 11 deal with its design, platform access, the materials available and later revision.
+
+
+
+Trainer Competence includes knowledge of the subject, clear explanation, connections between different modes, the appropriate use of digital tools, encouragement, and feedback. It is assessed through Questions 12 to 17.
+
+
+
+Learner Engagement means the level of attention, effort, participation, questioning, and interest shown by the respondent while undergoing the programme in question, and it is measured by Questions 18 to 23. Engagement is still considered an independent variable since factors such as workload, available time, prior experience, motivation, digital confidence and local conditions can influence participation even beyond what is provided by the programme design or trainer support.
+
+
+
+Training Effectiveness includes aspects such as perceived understanding, the relevance of the role, capability, application to other tasks, and confidence. Questions 24 through 30 deal with these employee-level outcomes.
+
+
+
+Operationalisation of the construct and allocation of items – Table 3.2
+
+
+
+ConstructQuestionsNumber of itemsRole in the regression model
+
+Hybrid Learning5–117Independent variable
+
+Trainer Competence12–176Independent variable
+
+Learner Engagement18–236Independent variable
+
+Training Effectiveness24–307Dependent variable
+
+Total Likert-scale items5–3026—
+
+
+
+The questionnaire consists of 30 numbered questions: four relating to eligibility and profile and then 26 items which require a five-point agreement. Knowledge retention, job performance, organisation-level results, employee agility, supervisor support, and Union Vidya's technical performance are not further variables that are measured.
+
+
+
+3.4 Research Design
+
+
+
+The design is, in a statistical context, quantitative, descriptive, correlational and predictive; it makes use of structured ratings to describe the response pattern, shows the direction and strength of the associations between pairs of variables, and employs SPSS regression to examine the three independent variables in relation to Training Effectiveness.
+
+
+
+Each respondent filled in the survey once regarding a hybrid course which they had taken in the previous 12 months. When referring to a single programme there is no need to combine the memories of a number of different courses. The individual response record is the unit on which analysis is carried out.
+
+
+
+The model is:
+
+
+
+Hybrid Learning ────────┐
+
+Trainer Competence ─────┼──→ Training Effectiveness
+
+Learner Engagement ────┘
+
+
+
+The predictors could be connected, but the model doesn't suppose that the way the programme is designed or the trainer's skill has an effect on engagement. Other employee and work-related conditions outside the questionnaire might also be important.
+
+
+
+3.5 Population, Sample and Method of Sampling
+
+
+
+The group under consideration consisted of the employees associated with Union Bank's Regional Office in Chennai South who had taken part in a programme that included both digital and face-to-face learning during the previous 12 months.
+
+
+
+The employees who had the relevant experience and were selected with a view to ensuring that they could answer the questions were those who had taken part in both methods within the specified period, since the survey involves questions regarding the connection between them.
+
+
+
+The collection was restricted to those offices and branches that could be accessed during the internship. The question concerning eligibility was used to identify individuals with the relevant training experience. Since the respondents were not selected at random from a complete list of all employees of the Bank, the resulting percentages and associations cannot be generalised statistically to the entire workforce of Union Bank.
+
+
+
+The starting number of eligible respondents was 80. The collection yielded 132 submissions—70 of these being on paper and 62 via Google Forms. After screening, 103 profiles proved to be complete. SPSS used 102 valid cases in the multiple regression since one record did not have a Trainer Competence mean in its analysis file.
+
+
+
+We were not asked to provide any employee names or numbers and each valid form was counted as a single response record; the fact that someone had given similar answers once was not enough to prove that the same person had responded twice.
+
+
+
+It is not possible to determine the number of employees who were contacted or who were sent the link, therefore a formal response rate cannot be obtained. Instead, Table 3.3 takes into account the number of forms received and kept.
+
+
+
+3.6 The method of collecting the data and the process of screening
+
+
+
+The researcher employed printed forms together with a Google Forms link. The fieldwork records name the Regional Office Chennai South and 27 branches in Chennai: Triplicane 1, Triplicane 2, Triplicane 3, Alandur, Teynampet, Mowbrays Road, Chamiers Road, Mylapore 1, Mylapore 2, Mylapore 3, Adyar, Madhya Kailash, Besant Nagar 1, Besant Nagar 2, Indiranagar, Shastri Nagar, T. Nagar 1, T. Nagar 2, T. Nagar 3, West Mambalam, Nungambakkam, Koyambedu, Virugambakkam, Saligramam, Ashok Nagar 1, Ashok Nagar 2, and Ashok Nagar 3. The Retail Loans and Currency Chest at the Regional Office were also designated as collection points. With the online option, staff were able to respond at a later time when their branch duties made it impossible for them to complete the paper form immediately.
+
+
+
+The main-study collection started at the Regional Office on 15 September 2026, there being at the same time a separate online pilot. The fieldwork record dated as such shows branch visits taking place from 16 to 28 September 2026. The submissions for the pilot were all in by 16 September and were therefore not included in the main-study figure.
+
+
+
+The Regional Office HR Manager obtained verbal approval and contacted the branch staff during their work hours so that customer service could go on. Both the paper and online forms included the same 30 questions and response scale. Since both methods were offered, participation became easier, but the possible differences between the paper and online responses were not separately tested.
+
+
+
+Source: the fieldwork record kept by the researcher during their internship.
+
+
+
+Table 3.3: The response disposition and the SPSS analysis cases
+
+
+
+DispositionDigitalManualTotal
+
+Responses received6270132
+
+Q1 = No13316
+
+Q1 blank or unreadable01111
+
+Required profile field blank022
+
+Profile-complete records before SPSS4954103
+
+SPSS listwise exclusion for missing construct mean——1
+
+Valid SPSS analysis cases——102
+
+
+
+The first question was used to check whether people had taken a programme that combined the two methods during the specified period. Sixteen people replied 'No'; in another eleven cases eligibility could not be confirmed. Two of the paper forms which should have been eligible did not include the required profile response. After omitting these 29 forms, 103 profile-completed records were left. SPSS then removed one instance from the analysis which required all four construct means since that particular file lacked the Trainer Competence mean. The main regression therefore includes 102 cases. The saved viewer output does not indicate the case by response ID, which makes it impossible to reconcile each person's record with the reconstructed supplementary subset.
+
+
+
+3.7 The research instrument and scoring
+
+
+
+Appendix A is the 30-question self-administered instrument, with questions 1 to 4 being used to establish eligibility and to obtain a profile and questions 5 through 30 employing a five-point scale ranging from Strongly Disagree to Strongly Agree; the people surveyed referred to one hybrid programme from the previous 12 months.
+
+
+
+The themes for the item are taken from the base papers and the supporting measurement literature, with the adaptations being set out in Appendix B; Union Vidya is designated as the Bank's LMS and is given as an example of a platform which a respondent might have used.
+
+
+
+The programme is divided into four sections, each dealing with a different aspect of it. Questions 5 to 11 relate to the delivery and the availability of the material; questions 12 to 17 are about the support provided by the trainer; questions 18 to 23 refer to the employee's own level of involvement; and questions 24 to 30 deal with learning and the usefulness of the material at work. Having these sections separately gives more information than a general evaluation of the programme as a whole.
+
+
+
+The answers to questions 5 through 30 are coded on a scale from 1 (Strongly Disagree) to 5 (Strongly Agree); in SPSS the four construct means are designated by the names HLTMEAN, TCTMEAN, LETMEAN, and TETMEAN.
+
+
+
+The score for each construct is the arithmetic average of the items assigned to it and stays on the 1 to 5 scale, with higher scores showing more favourable evaluations. Since all the items have the same direction of scoring, there is no need for any to be reverse coded. The use of means enables comparisons to be made between blocks containing six or seven items and serves to summarise the respondents' answers, not their actual job performance or the Bank's overall results.
+
+
+
+3.8 Research Questions
+
+
+
+1. What do the respondents think about hybrid learning, trainer competence, learner engagement, and training effectiveness?
+2. What associations have been reported between the four study constructs?
+3. How much do Hybrid Learning, Trainer Competence, and Learner Engagement together predict Training Effectiveness?
+
+
+
+3.9 Data Analysis Techniques
+
+
+
+The relationship tests and construct summaries were provided by SPSS Statistics 23, and its primary regression analysis was based on 102 valid cases.
+
+
+
+Analysis plan based on SPSS – Table 3.4
+
+
+
+AnalysisSPSS procedure usedRole in the study
+
+The description includes the mean, standard deviation, skewness, and kurtosis for the 26 items; in Chapter 4 the seven item means from the Hybrid Learning approach are given in order to talk about the aspect that was rated lowest.
+
+Investigate the procedure by using histograms, Q–Q plots, boxplots, and normality tests.  
+
+Look at the distributions of the construct means.
+
+The overall consistency of the questionnaire was assessed using a Cronbach’s alpha analysis based on 26 items.
+
+The exploratory structure check involved a principal component analysis with varimax rotation and was kept in order to serve as an exploratory diagnostic; it did not redefine the four theory-based constructs.
+
+Association  
+
+Pearson correlation  
+
+It describes the pairwise associations among the four construct means.
+
+The main hypothesis involves using multiple regression to examine the combined relationship between Hybrid Learning, Trainer Competence, and Learner Engagement and Training Effectiveness.
+
+Summary of the Excel data on frequency and percentages gives information about the age group, length of service, and job level for the 102 profile-completed records.
+
+Further comparisons—using one-sample and paired t-tests, Welch’s independent-samples t-test, and one-way ANOVA—offer descriptive comparisons for the 102-case scored dataset; these comparisons are exploratory in nature and are not the primary hypothesis test.
+
+The suitability of crosstabs is checked by means of the Pearson chi-square test on the categories of construct mean in order to ensure that the expected cell counts for those tables are adequate before any inferential interpretation is carried out.
+
+
+
+The multiple-regression model is:
+
+
+
+Training Effectiveness = b₀ + b₁(Hybrid Learning) + b₂(Trainer Competence) + b₃(Learner Engagement) + e
+
+
+
+Training Effectiveness is the dependent variable and the other three constructs act as predictors together. The F-test as a whole examines their combined association, while the coefficients in the table indicate what is left for each predictor after the effects of the others have been taken into account.
+
+
+
+The pairwise relationships which give context to the joint model are shown by the Pearson correlations. However, neither of the analyses proves a cause-and-effect relationship.
+
+
+
+The respondent-profile summary was produced by an Excel workbook, while the supplementary Chapter 4 comparisons were drawn from a subset consisting of 102 records out of the original 103-record scored CSV file. The comparisons are labelled separately since some of the additional tests carried out in the saved SPSS viewer used all 103 cases. However, without the SPSS data file, the exact case-by-case agreement between the different sources cannot be verified. The supplementary comparisons have no role in the decision regarding the main hypothesis.
+
+
+
+The same applies to the descriptive results. The construct and regression plots are obtained from SPSS, while the profile frequencies and the supplementary item distributions are derived from the selected scored records. The source of the data and the number of cases are given in the tables. Hence, the SPSS item mean based on 103 cases and the frequency distribution based on 102 cases are not regarded as calculations made on the same group of respondents.
+
+
+
+3.10 Review of the Questionnaire, Its Reliability and Validity
+
+
+
+The questionnaire that had been approved by the guide was first tested online among 20 eligible employees before the main data collection started. The pilot ran from 15 September 2026 to 16 September and the main survey also got under way on 15 September using the same approved questions. The feedback gathered from the pilot dealt with clarity, the time taken to complete it, the wording of the Union Vidya section, relevance, and repetition. Nothing that was a systematic problem meant that an item had to be removed, and the wording that had been scored remained unchanged throughout the data collection process. The records from the pilot were kept separate from those of the main analysis.
+
+
+
+The pilot also checked the completion time, the mean being 14.3 minutes and the median 14. Sixteen of the participants believed that the time taken was about right, while four thought it was too long. The comments mentioned a possible overlap between Questions 5 and 6 as well as between Questions 14 and 15, and one person found Question 24 difficult when considering more than one programme. This latter issue was dealt with by the instruction to answer questions about one selected programme. The comments did not show a consistent difficulty among the group, and all of the scored questions were kept.
+
+
+
+In the four pilot item blocks the preliminary Cronbach’s alpha values varied from .879 to .929. Since only 20 responses were available, these figures provide an initial check of consistency rather than full scale validation. The subsequent SPSS output was looked at on its own.
+
+
+
+SPSS carries out one reliability analysis for all 26 agreement items: the Cronbach’s alpha value is .980239 and this shows a very high degree of consistency for the set of items in that file. However, it should not be taken as a replacement for four separate construct alphas, since the saved output does not include them.
+
+
+
+The content on which the questions are based is given in Appendix B. The section on Hybrid Learning is based on research into blended learning and access; the following two sections draw on the literature concerning workplace facilitation and engagement; and the section on outcomes is informed by research into training evaluation and transfer, including Bahl, Kiran and Sharma’s (2024) study in the banking sector. The guide had its wording checked for use in this academic survey.
+
+
+
+3.11 Considerations of an ethical nature and limitations
+
+
+
+People could choose whether or not to take part. The questionnaire did not ask for any personal identifiers or confidential bank information, and the participants were informed that the results would be combined and used solely for academic purposes.
+
+
+
+Several design limitations have an impact on the interpretation. It is not possible for the non-probability sample to statistically represent all Bank employees, and the single, self-completed survey cannot establish causation. However, having the same person assess both programme experience and the outcome may reinforce the associations that are observed. The saved SPSS output has an overall Cronbach's alpha of 26 items but does not include separate construct alphas; it also omits one record from the regression analysis since the Trainer Competence mean was missing.
+
+
+
+The findings give a concentrated description of the eligible respondents' experiences of four aspects of training within the Union Bank environment.
+
+
+
+CHAPTER 4 — DATA ANALYSIS AND INTERPRETATION
+
+
+
+Chapter 4 combines the SPSS Statistics 23 results that have been saved with the separately labelled summaries drawn from the selected scored records and then poses the primary question of whether the three predictors as a group are related to Training Effectiveness among the Union Bank respondents.
+
+
+
+The number of cases used in the SPSS construct summaries and in the multiple regression is 102; some of the item and pairwise procedures use either 103 or 102 depending on the data available, and the case count appears next to each result.
+
+
+
+The results are limited to this group of respondents and the relationships between their ratings; the survey does not allow a causal sequence to be established.
+
+
+
+4.1 Descriptive Analysis
+
+
+
+Respondent Profile
+
+
+
+The profile table includes 102 full records, of which 48 are online and 54 are paper forms. The majority of the respondents were in the age group of 35 to 44 years, more than half had between 11 and 20 years' service, and officers were the most numerous of the job levels. In Table 4.1 all the percentages have 102 as the denominator.
+
+
+
+Table 4.1: Respondent profile frequencies (N = 102)
+
+
+
+ProfileCategoryFrequencyPercentage
+
+Age groupBelow 2500.0
+
+Age group25–342928.4
+
+Age group35–445654.9
+
+Age group45–541312.7
+
+Age group55 and above43.9
+
+Service length: less than 5 years – 76.9%
+
+Length of service5–10 years2928.4
+
+Length of service11–20 years5654.9
+
+Service length: more than 20 years, 109.8
+
+Job levelClerical2019.6
+
+Job levelOfficer5654.9
+
+Job levelManagerial2625.5
+
+
+
+The workbook, which is formula-driven and relates to the V5 subset of 102 records, shows percentages that may vary by 0.1 from 100.0 due to rounding.
+
+
+
+Figure 4.1: Age-group distribution
+
+
+
+[Figure: Horizontal bar chart of age-group frequencies for 102 respondents]
+
+
+
+Figure 4.2: Length-of-service distribution
+
+
+
+[Figure: Horizontal bar chart of service-length frequencies for 102 respondents]
+
+
+
+Figure 4.3: Job-level distribution
+
+
+
+[Figure: Horizontal bar chart of job-level frequencies for 102 respondents]
+
+
+
+4.1.1 Construct-Level Results
+
+
+
+The SPSS Explore results show that the mean scores for all four constructs are above the midpoint of the five-point scale, with Learner Engagement coming highest, followed by Training Effectiveness, Trainer Competence, and Hybrid Learning.
+
+
+
+Descriptive statistics at the construct level from the SPSS Explore output as given in Table 4.2
+
+
+
+ConstructValid NMeanStandard deviationMinimumMaximumSkewnessKurtosis
+
+Hybrid Learning1024.1480.8591.0005.000-1.8184.058
+
+Trainer Competence1024.1580.8631.0005.000-2.1095.583
+
+Learner Engagement1024.3170.7931.0005.000-2.1316.236
+
+Training Effectiveness1024.2540.8351.0005.000-2.0355.275
+
+
+
+Source: SPSS Statistics 23 output from the Explore procedure.
+
+
+
+Figure 4.4: The average ratings for the four study constructs
+
+
+
+[Figure: Horizontal bar chart of four construct means from SPSS Explore, with the neutral midpoint marked]
+
+
+
+The figure is drawn from the four means shown in Table 4.2 in the SPSS Explore; a dashed line indicates the neutral response value of 3.
+
+
+
+Agreement and strong agreement are the most common responses, which is the reason for the negative skewness shown in Table 4.2; while low ratings were not very frequent, the survey does not provide an explanation for this pattern.
+
+
+
+Hybrid Learning scores the lowest yet are still above the neutral level; although employees as a whole rated the combined system in a favourable way, the practical aspects of it might deserve more scrutiny than those in the other areas. Learner Engagement is the highest, which is in line with the respondents' reports of their attention, participation, and interest.
+
+
+
+4.1.2 Item-Level Results Across the Four Constructs
+
+
+
+The seven Hybrid Learning items address connection across modes and access to digital material. Table 4.3 gives their SPSS item means for 103 available responses; Table 4.2 uses 102 cases with all four construct means.
+
+
+
+Table 4.3: Hybrid Learning item means
+
+
+
+QuestionItem focusValid NMean
+
+Q5Digital and face-to-face parts planned as one experience1034.107
+
+Q6Digital activities prepared the respondent for face-to-face sessions1033.990
+
+Q7Face-to-face sessions clarified or applied digital learning1034.165
+
+Q8Access to the digital platform1034.184
+
+Q9Ease of platform navigation1034.107
+
+Q10Availability of digital learning materials1034.223
+
+Q11Access to digital material for revision1034.262
+
+
+
+Source: SPSS Statistics 23 item descriptives; item wording is given in Appendix A.
+
+
+
+Q6, about digital preparation for face-to-face sessions, has the lowest Hybrid Learning item mean at 3.990. This is still above neutral, but preparation is a reasonable part of the sequence for training staff to review.
+
+
+
+Table 4.4 shows how the selected 102 records are distributed across all five response categories for each scored question; every row totals 102. These CSV counts are separate from the 103-case SPSS item means in Table 4.3. Figures 4.5–4.8 use the same counts as Table 4.4.
+
+
+
+Table 4.4: Item response frequencies for the 102-case scored dataset
+
+
+
+ConstructQuestion1 Strongly disagree2 Disagree3 Neutral4 Agree5 Strongly agree
+
+Hybrid LearningQ54465137
+
+Hybrid LearningQ635135130
+
+Hybrid LearningQ74294542
+
+Hybrid LearningQ83374940
+
+Hybrid LearningQ95384640
+
+Hybrid LearningQ104264545
+
+Hybrid LearningQ114154844
+
+Trainer CompetenceQ124165140
+
+Trainer CompetenceQ135054943
+
+Trainer CompetenceQ1441105334
+
+Trainer CompetenceQ154275138
+
+Trainer CompetenceQ164165041
+
+Trainer CompetenceQ175365335
+
+Learner EngagementQ183444150
+
+Learner EngagementQ193254250
+
+Learner EngagementQ203154746
+
+Learner EngagementQ212074251
+
+Learner EngagementQ2230114147
+
+Learner EngagementQ234053855
+
+Training EffectivenessQ244054845
+
+Training EffectivenessQ253194049
+
+Training EffectivenessQ2630104544
+
+Training EffectivenessQ274094346
+
+Training EffectivenessQ283284346
+
+Training EffectivenessQ294194840
+
+Training EffectivenessQ3032103255
+
+
+
+Source: Reconstructed 102-case scored CSV; normal 1–5 response categories only.
+
+
+
+Figure 4.5: Hybrid Learning item-response distribution
+
+
+
+[Figure: Stacked response chart for hybrid learning items]
+
+
+
+Figure 4.6: Trainer Competence item-response distribution
+
+
+
+[Figure: Stacked response chart for trainer competence items]
+
+
+
+Figure 4.7: Learner Engagement item-response distribution
+
+
+
+[Figure: Stacked response chart for learner engagement items]
+
+
+
+Figure 4.8: Training Effectiveness item-response distribution
+
+
+
+[Figure: Stacked response chart for training effectiveness items]
+
+
+
+Trainer Competence responses
+
+
+
+Trainer ratings were mostly favourable. Of the 102 respondents, 92 agreed or strongly agreed that the trainer explained content clearly (Q13), and 91 rated subject knowledge in those categories (Q12). The figures describe the support given by a person, which the presence of online material alone cannot capture.
+
+
+
+The pattern is a little less favourable for connections across modes and feedback. On Q14, 87 agreed or strongly agreed that the trainer explained the link between activities, while ten were neutral. On Q17, 88 reported helpful feedback and eight disagreed or strongly disagreed. These modest item differences were not significance-tested, but they suggest checking how trainers refer to digital preparation and how feedback helps employees correct misunderstandings.
+
+
+
+Learner Engagement responses
+
+
+
+Engagement ratings were positive across attention, effort, participation, involvement, questions, and interest. On each of Q20, Q21, and Q23, 93 of 102 respondents selected agree or strongly agree. This is consistent with Learner Engagement having the highest construct mean: most described active involvement in the programme they chose.
+
+
+
+Question-seeking showed a slightly different pattern. On Q22, 88 respondents agreed or strongly agreed that they sought clarification, while eleven were neutral. Neutral could mean no clarification was needed, no opening was available, or the employee hesitated. Since the questionnaire cannot separate those possibilities, the practical question is whether programmes make it easy to ask.
+
+
+
+Positive trainer and engagement ratings appear in the same sample, but they describe different experiences. One concerns support offered; the other concerns what employees say they did. The regression examines whether the latter retains a distinct association with Training Effectiveness alongside trainer competence and hybrid design.
+
+
+
+Training Effectiveness responses
+
+
+
+Training Effectiveness items cover understanding, relevance, capability, application, task support, and confidence. In Figure 4.8, 93 respondents agreed or strongly agreed that they understood the main knowledge or skills (Q24). The count is 89 for each of Q25–Q28. These are employees’ own reports of learning and possible use, not supervisor observations of performance.
+
+
+
+In Q29, 88 people said that training had enabled them to deal with relevant tasks or problems more effectively—that being five less than the number of favourable responses given in Q24 regarding understanding the content. Although this difference was not subject to a significance test, it does explain why questions about understanding and about the application of that understanding are asked separately. With respect to Q30, 87 respondents gave favourable answers and ten gave neutral ones regarding their confidence in carrying out their responsibilities; confidence is still a matter of perception and not a measured improvement in job performance.
+
+
+
+In Figures 4.5 through 4.8, agreement is frequent but not universal. It is important to take into account neutral and negative responses since a high average score may mask a different experience for certain employees. The item counts show which options the respondents chose, not the reasons for their choices; therefore any actions suggested on the basis of them require further examination.
+
+
+
+4.1.3 Distribution Diagnostics
+
+
+
+Histograms, normal Q–Q plots and boxplots produced by SPSS display the distributions of the four constructs; alongside the regression are the residual plots. The negative skewness mentioned in Table 4.2 is due to the fact that the ratings are concentrated at the higher end of the scale.
+
+
+
+For all four construct means the normality tests are significant, an outcome that is in keeping with the skewed distributions. The five-point scale has fixed limits and a large number of respondents selected the positive categories; this is important when interpreting the regression.
+
+
+
+4.1.4 Check of the overall consistency of the questionnaire and exploratory structure
+
+
+
+A single SPSS reliability analysis includes all 26 scored questions and makes use of 102 valid cases while excluding one case.
+
+
+
+Table 4.5: The overall consistency of the questionnaire
+
+
+
+Item setNumber of itemsValid casesExcluded casesCronbach’s alpha
+
+All scored questionnaire items261021.980
+
+
+
+Source: The reliability output from SPSS Statistics 23 that was provided.
+
+
+
+The .980 alpha shows a very high degree of consistency throughout the combined item set; it is not possible to obtain four construct-specific values since only the combined version is available. Moreover, questions that are closely related may also be responsible for this high figure and for the associations between the constructs measured on the same form.
+
+
+
+An exploratory Principal Component Analysis used varimax rotation. The Kaiser–Meyer–Olkin value is .929; Bartlett’s test is significant, χ²(325) = 3664.340, p < .001; and SPSS extracted four components. These figures provide a structural diagnostic for an instrument designed around four theory-based constructs. They do not establish full scale validation or change the study model.
+
+
+
+4.2 Inferential Analysis
+
+
+
+4.2.1 Correlation Analysis
+
+
+
+Pearson’s r shows the direction and strength of each pairwise relationship. Every correlation in Table 4.6 is positive and statistically significant.
+
+
+
+Table 4.6: Pearson correlations among study constructs
+
+
+
+Pair of constructsPearson’s rValid NSignificance
+
+Hybrid Learning and Trainer Competence.818102< .001
+
+Hybrid Learning and Learner Engagement.713103< .001
+
+Hybrid Learning and Training Effectiveness.659103< .001
+
+Trainer Competence and Learner Engagement.746102< .001
+
+Trainer Competence and Training Effectiveness.668102< .001
+
+Learner Engagement and Training Effectiveness.765103< .001
+
+
+
+Source: Supplied SPSS Statistics 23 correlation output.
+
+
+
+Learner Engagement has the strongest pairwise relationship with Training Effectiveness (r = .765): respondents who rated their participation more highly also tended to rate effectiveness more highly. Hybrid Learning and Trainer Competence are strongly related to each other (r = .818). Their overlap matters when interpreting the separate regression coefficients.
+
+
+
+4.2.2 Multiple Regression Analysis
+
+
+
+The main hypothesis uses multiple regression, with Training Effectiveness as the outcome and the other three constructs entered together as predictors.
+
+
+
+Table 4.7: Overall multiple-regression model
+
+
+
+RR²Adjusted R²Standard error of estimateFdfSignificance
+
+.780.608.596.53150.6523, 98< .001
+
+
+
+Source: Supplied SPSS Statistics 23 regression output; dependent variable: Training Effectiveness; valid N = 102.
+
+
+
+The model is significant, F(3, 98) = 50.652, p < .001. Its three predictors together account for 60.8 per cent of the variation in reported Training Effectiveness among the 102 cases. This supports the overall alternative hypothesis.
+
+
+
+Table 4.8: Predictor coefficients for Training Effectiveness
+
+
+
+PredictorUnstandardised BStandard errorStandardised betatSignificance
+
+Constant.599.301—1.991.049
+
+Hybrid Learning.188.112.1941.681.096
+
+Trainer Competence.109.115.113.947.346
+
+Learner Engagement.560.105.5325.346< .001
+
+
+
+Source: SPSS Statistics 23 regression coefficients table provided; the dependent variable was Training Effectiveness; the number of valid cases was 102.
+
+
+
+When all three predictors are included in the model, the only one that has a significantly different coefficient is Learner Engagement (β = .532, p < .001). Once the overlap with Hybrid Learning and Trainer Competence is taken into account, higher engagement ratings are associated with higher effectiveness ratings.
+
+
+
+In this combined model, both Hybrid Learning and Trainer Competence have positive but not significant individual coefficients; the pairwise correlations between them remain positive, including a strong correlation between the two variables. Among the respondents, Learner Engagement displays the most distinct statistical association when all three variables are included, and therefore the other two should not be considered unimportant on that ground.
+
+
+
+VIF and tolerance were not reported in the saved regression output. The interpretation therefore acknowledges the strong Hybrid Learning–Trainer Competence correlation shown in Table 4.6.
+
+
+
+4.2.3 Additional comparisons and the suitability of tests
+
+
+
+The following supplementary tests make use of the 102-case scored CSV and address questions other than those in the main regression; they are exploratory in nature and do not allow for any causal interpretation. Although the saved SPSS viewer usually employed 103 cases for its additional tests, the data file could not be obtained for a cell-by-cell comparison. For this reason, the supplementary figures still need to be verified by SPSS before they are finally submitted.
+
+
+
+The one-sample t-tests compare each construct mean with the neutral value of 3; all of the means are found to be higher, thus restating the positive descriptive pattern rather than testing the relationship hypothesis.
+
+
+
+Table 4.9: One-sample comparisons using the neutral midpoint, based on the 102-case scored CSV
+
+
+
+ConstructNMeant(101)Significance
+
+Hybrid Learning1024.14413.484< .001
+
+Trainer Competence1024.15813.551< .001
+
+Learner Engagement1024.31716.778< .001
+
+Training Effectiveness1024.25415.159< .001
+
+
+
+Hybrid Learning averages 4.144 in this CSV subset and 4.148 in the supplied SPSS Explore table. The difference means the two sources have not been shown to contain identical item values. Tables 4.2–4.7 and the hypothesis decision continue to follow the saved SPSS figures.
+
+
+
+The comparison carried out by Welch involved 56 officers (mean = 4.163) and 26 managers (mean = 4.220); the values for Training Effectiveness did not differ significantly, t(52.261) = −0.270, p = .788; clerical staff were not included in this test of the two groups.
+
+
+
+The paired t-tests involve comparing each respondent's effectiveness score with their scores on the other constructs. None of the three mean differences reaches the .05 level, and the comparisons are between different concepts on the same survey rather than involving changes over time.
+
+
+
+Table 4.10: The paired comparisons relating to training effectiveness, with 102 cases scored in CSV format
+
+
+
+Paired scoresMean differencet(101)Significance
+
+Hybrid learning - effectiveness of training - 0.109 - 1.61 - 1.110
+
+The effectiveness of training minus the trainer's competence is -0.095 with a value of -1.385 and 1.69.
+
+Learner engagement – training effectiveness 0.063 1.12 6.263
+
+
+
+The one-way ANOVA involves the clerical (M = 4.550, n = 20), officer (M = 4.163, n = 56), and managerial (M = 4.220, n = 26) respondents; the differences found are not significant, F(2, 99) = 1.629, p = .201, and as a result a Duncan post-hoc comparison is not carried out in order to assert the presence of distinct groups in the analysis of the 102 cases.
+
+
+
+The Pearson chi-square test cannot be relied upon since the raw-cross-tabulations are too sparse. In all three of the tables showing the predictors against effectiveness, 98.8 to 99.3 per cent of the expected cells are below five, the lowest expected frequency being near .010. The pairwise relationships between the constructs are therefore assessed by means of the correlations given in Table 4.6.
+
+
+
+Table 4.11: Chi-square crosstab suitability check, 102-case scored CSV
+
+
+
+Construct crossed with Training EffectivenessPearson χ²dfExpected cells below 5Interpretation
+
+Hybrid Learning 433.55426699.3% – too sparse for inference
+
+The trainer's competence is 369.49219699.1 per cent; it is too sparse for inference.
+
+The engagement of the learner was 481.11121098.8 per cent too sparse for inference.
+
+
+
+The possible values of the construct are numerous and result in extremely small expected frequencies. Decisions about any hypothesis are not based on these chi-square statistics.
+
+
+
+4.3 Interpretation of Results
+
+
+
+Employees who said that they had taken a more active part in the programme also gave higher ratings to the relevance, their confidence, and the way the material could be applied to their work. For bank employees, being involved could involve attending the session in a close manner, asking questions, carrying out a procedure, or going back to the material when a task came up.
+
+
+
+Hybrid Learning received a positive rating and was linked with Training Effectiveness, but question six indicates a somewhat weaker aspect in that the digital activities did not prepare the respondents for the subsequent face-to-face session to the same extent as the other items within Hybrid Learning had been rated. Although time or guidance may have been the cause, the survey is unable to determine it and thus highlights preparation as an area that should be reviewed.
+
+
+
+Correlation indicates that each of the predictors is positively related to Training Effectiveness. Regression then investigates whether the association remains clear when the other predictors are included in the model; by this more specific test, Learner Engagement emerges as the standout factor.
+
+
+
+4.4 A comparison with earlier studies
+
+
+
+Sosnova and colleagues in 2025 looked at hybrid methods and the learning outcomes of students; the Union Bank respondents likewise gave a positive evaluation of connected learning, but there are differences between the populations, the measures, and the designs. There was no classroom-only comparison group included in the survey.
+
+
+
+The study by Kim in 2022 focuses on delivery methods, the role of instructors, and design, although it finds that hybrid delivery did not exceed traditional training in all cases examined. In this instance, both Hybrid Learning and Trainer Competence are positively correlated with Training Effectiveness, but it is Learner Engagement that has the highest coefficient in the overall model. The survey in question relates to employees' views of one particular programme, not to Kim's comparison of different delivery methods.
+
+
+
+Bahl and Sharma in 2024 assess bank training using Kirkpatrick’s five levels. The evidence available at the moment is more limited in that the respondents give accounts of their understanding, the relevance, and their perception of having used the training, without any objective performance data or results at the organisational level. The explanation offered by Mulaudzi (2021) regarding access in the workplace and the practical obstacles provides a reason for examining more closely the lower digital-preparation rating in Table 4.3.
+
+
+
+The figures concerning the items show the difference between learning and application: while 93 respondents gave a favourable rating to their understanding in question 24, 88 said they had better been able to carry out tasks or solve problems in question 29. Although the difference is small and hasn't been statistically tested, the questions refer to different outcomes. According to Kirkpatrick and the research on transfer, understanding by itself is not evidence of continued work behaviour; this survey provides a single, individual assessment of an employee.
+
+
+
+Han and Ellis (2020) look at the way learners experience a blended environment; question six provides an example from the workplace showing why this is important, since, although Hybrid Learning as a whole was rated positively, the preparation given before the face-to-face session obtained the lowest item mean within that section. Yet the question is relevant to training in banks without considering the student instrument to have been validated for use with bank employees.
+
+
+
+4.5 Theoretical and Practical Implications
+
+
+
+The programme design, the support provided to the trainers, and the involvement of the employees all have a significant relationship with the participants' perception of training effectiveness; the correlations are high enough that the pairwise associations should not be taken as indicating separate adjusted effects. The findings from the cross-sectional study give no indication of a causal order among these factors.
+
+
+
+The most clear-cut practical suggestion concerns the transition from digital preparation to the actual session. The coordinators should be able to find out when the material reaches the employees, whether the work schedules provide them with enough time to make use of it, and how the trainers build on it. It should be possible to ask questions and carry out practice during the session. Although questions in Q6 and the engagement association support these proposals, the survey did not test the proposed changes.
+
+
+
+The preparation, the session, and the subsequent revision can be regarded as a single sequence. Employees should be given a well-defined digital task along with the necessary time to carry it out. The trainer should link this task to an example from the banking sector and then invite questions. After the session, readily available material should be provided so that the staff can go over the topic whenever it is needed in their work. The questionnaire includes all these stages; however, a further evaluation would be required to determine if modifying them has a positive effect on the outcomes.
+
+
+
+CHAPTER 5 — SUMMARY, CONCLUSION AND SUGGESTIONS
+
+
+
+5.1 Introduction
+
+
+
+The chapter sets out the implications of the findings for the group of respondents from Union Bank. The independent variables are Hybrid Learning, Trainer Competence, and Learner Engagement, while Training Effectiveness is the dependent variable. The regression is based on 102 valid cases.
+
+
+
+5.2 A summary of the study
+
+
+
+Union Bank gives its employees training via physical facilities and with the help of digital support, such as Union Vidya and virtual delivery; a programme can therefore include online material, trainer-led discussions, practical exercises, questions, and resources for later use.
+
+
+
+The study focused on four constructs:
+
+
+
+* Hybrid Learning;
+* Trainer Competence;
+* Learner Engagement; and
+* Training Effectiveness.
+
+
+
+The respondents looked at a single hybrid programme from the previous 12 months; this programme included four questions concerning eligibility and profile together with 26 five-point agreement items. A separate online pilot was carried out from 15 to 16 September 2026, the main data collection starting on 15 September. This pilot was used to check the clarity, relevance, repetition, time burden, and the use of Union Vidya language; the responses obtained from the pilot were not included in the main analysis.
+
+
+
+The paper forms and the Google Forms resulted in 132 main submissions from employees who were associated with the Regional Office Chennai South and with certain branches. After screening, 103 profile-completed records remained. SPSS reported 102 valid cases for use at the construct level and for the regression analysis since one of the Trainer Competence means was missing from its file.
+
+
+
+The hypothesis in question is whether the three independent variables together have the ability to predict Training Effectiveness. The SPSS output that has been saved contains the descriptive statistics, one overall reliability analysis, an exploratory factor analysis, the correlation coefficients, and the results of the multiple regression. It is the regression analysis that determines the decision regarding the hypothesis.
+
+
+
+5.3 Major Findings
+
+
+
+All of the respondents gave a positive rating to all four areas.
+
+
+
+All the scores were above the midpoint of the scale. The highest score was for Learner Engagement (4.317), then came Training Effectiveness (4.254), followed by Trainer Competence (4.158), and last of all Hybrid Learning (4.148). Therefore, the majority of the respondents offered positive evaluations of the programme in question.
+
+
+
+Hybrid Learning stayed positive but placed at the bottom. Mixing use of a platform with face-to-face sessions might leave employees wishing for more thorough preparation or for the material to be more closely linked to the trainer-led activities.
+
+
+
+5.3.2 The four constructs were positively associated
+
+
+
+All the pairwise Pearson correlations were positive and significant; Learner Engagement showed the strongest relationship with Training Effectiveness (r = .765), and Hybrid Learning was also strongly related to Trainer Competence (r = .818). Often, the respondents gave similar ratings to the various parts of the training.
+
+
+
+5.3.3 Decision regarding the study hypothesis
+
+
+
+There is a single general hypothesis concerning the three predictors considered together. The regression reaches significance at the 5 per cent level. The null hypothesis (H₀) is rejected and the alternative hypothesis (H₁) is supported in the case of the combined model.
+
+
+
+Table 5.1: Decision on the overall regression hypothesis
+
+
+
+TestResultDecision
+
+The combined model supports the hypothesis that Hybrid Learning, Trainer Competence, and Learner Engagement are predictors of Training Effectiveness, F(3, 98) = 50.652, p < .001, R² = .608, with a valid sample size of 102; the null hypothesis is rejected.
+
+
+
+The fact that the R² value is .608 shows that the predictors account for 60.8 per cent of the variation in the effectiveness ratings among these cases; it does not represent a percentage of learning or work performance caused by them.
+
+
+
+5.3.4 Individual predictor results
+
+
+
+The overall model need not have three significant individual coefficients, as Table 5.2 indicates which predictor maintains a clear association when the other two have been included in the regression.
+
+
+
+Table 5.2: The individual predictors in the combined regression model
+
+
+
+PredictorStandardised betaSignificanceResult at the 5 per cent level
+
+Hybrid Learning.194.096Not individually significant
+
+Trainer Competence.113.346Not individually significant
+
+Learner Engagement.532< .001Individually significant
+
+
+
+The aspect of learner engagement showed the most distinct unique relationship. Although the coefficients for hybrid learning and trainer competence were positive, neither of them was statistically significant when all three variables were included. Nonetheless, both of them still had a positive correlation with training effectiveness and were also strongly linked to one another. One cannot ignore their practical significance merely on the basis of these coefficients.
+
+
+
+It is the combined model that makes the H₀/H₁ decision, not the three coefficient results, since the latter only explain it rather than present separate hypotheses.
+
+
+
+5.4 The Contribution of the Study
+
+
+
+The study provides an account of the hybrid programme at Union Bank at the level of the employee; Union Vidya forms part of the delivery setup, whereas the model individually assesses programme experience, trainer support, participation, and perceived effectiveness. The fact that a platform exists is not regarded as an outcome.
+
+
+
+A great deal of the literature on hybrid learning focuses on education, while the present survey puts the issue in the context of banking. Branch and office employees might have to carry out their training around deadlines, customer requirements, compliance obligations, and digital changes. Just as much attention should be paid to their own level of involvement as to the design of the training since this can show conditions that go beyond those of the platform or the trainer.
+
+
+
+The fact that the four experiences are separated means that the findings become more specific than a general assessment of whether or not employees liked the training. Although all three predictors have a positive correlation with Training Effectiveness, only Learner Engagement has a significant individual coefficient in the overall model. This distinction should cause people to focus on preparation and participation when the programme is being reviewed.
+
+
+
+5.5 Recommendations for the Review of Training
+
+
+
+The two findings determine the priorities: in the combined regression Learner Engagement is the only factor that is individually significant, and digital preparation before face-to-face sessions is the lowest-rated item in the Hybrid Learning section (Q6, mean = 3.990; Table 4.3). The suggestions listed below are proposals for review and are not interventions that have been tested.
+
+
+
+1. We should make it possible for people to take part. By including a work-related example, a demonstration, some questions, and a short practical session, staff will have opportunities to put into practice what they hear. Instead of just being present, programme reviewers should check whether the employees are actually able to take part.
+
+
+
+1. Leave sufficient time for the digital preparation. The coordinators should check that the staff have received the materials, their login details, and a clear assignment before the trainer-led session. This directly addresses the lower rating given in Q6.
+
+
+
+1. Explain the connection between the various activities. The trainer might use a banking task to build upon the earlier digital material and then direct the employees to the resource which they can look at again later.
+
+
+
+1. Wherever possible, training should be arranged to fit in with branch work. Customer service and a heavy workload can result in there being no time for preparation or participation. Scheduling at a local level should consider that pressure.
+
+
+
+1. Find out what needs to be addressed. A brief feedback session can identify issues relating to access, preparation, guidance, participation, and relevance. The staff can then look at the part of the programme which employees found difficult.
+
+
+
+Table 5.3: The way the findings inform the suggested training review
+
+
+
+Evidence from this studyArea to reviewPractical check
+
+Learner Engagement is the only factor that has individual significance in the combined model (β = .532, p < .001; N = 102). Regarding participation in training, it is necessary to ensure that employees have a realistic chance to ask questions, practise and take part, not just attend or complete a module.
+
+The lowest average score for the Hybrid Learning item (Q6, 3.990; SPSS item N = 103) is achieved when digital preparation is carried out before the face-to-face session. When it comes to preparation for trainer-led learning, people should check the timing, clarity, and work relevance of the material sent prior to the session.
+
+Ten of the respondents were neutral regarding the trainer explaining the connection between modes (Q14; 102-case frequency table).  
+
+When it comes to the connection between activities, trainers should be asked to clearly show how the earlier digital task relates to the live discussion or demonstration.
+
+Ten of the respondents were neutral regarding the desire to seek clarification (Q22; 102-case frequency table).  
+
+Opportunities for questions  
+
+Ensure that the programme provides employees with an appropriate method of asking questions either in person or through the digital channel.
+
+Eighty-eight people stated that the training had assisted them with relevant work tasks or problems (Q29; 102-case frequency table).  
+
+After the training, request specific examples of its use and determine what support the employees still require when they go back to work.
+
+
+
+The table associates the reported patterns with areas that are worth examining. It also doesn't indicate that the suggested changes have been tested or that they would lead to better training outcomes.
+
+
+
+The first two rows carry the strongest evidence for review: engagement has the clearest adjusted relationship with effectiveness, and digital preparation has the lowest Hybrid Learning item mean. The remaining rows turn item ratings into questions to investigate. Most answers were still positive, so a few neutral responses should prompt enquiry rather than a claim of widespread failure.
+
+
+
+5.6 Limitations of the Study
+
+
+
+These findings concern the purposively selected Chennai South respondents, not a random sample of all Union Bank employees. One-time self-reports also leave time order and causation unknown.
+
+
+
+Each person rated both the training experience and its perceived outcome, which may strengthen associations through a shared response method. The SPSS output has one high alpha for all 26 items, not four construct-specific estimates. One case lacked a Trainer Competence mean and was excluded listwise from the main model. The predictors also overlap substantially, especially Hybrid Learning and Trainer Competence; their individual coefficients need to be read with that overlap in mind.
+
+
+
+Paper and online forms had identical wording, although response-mode differences were not tested. A formal response rate is unavailable because invitations and approaches were not counted completely. Supplementary 102-case item distributions come from scored records, whereas the main regression comes from the saved SPSS viewer. Without its matching case file, exact person-level agreement between the sources remains unverified. This limits how confidently all supplementary and SPSS outputs can be treated as one fully reconciled dataset, even though the saved output records the stated hypothesis result.
+
+
+
+5.7 Directions for Future Research
+
+
+
+Future work could include more Union Bank regions and compare programme types or job levels. Following employees after training would offer evidence about application over time. Supervisor observations or work-based indicators could complement employee ratings.
+
+
+
+Workload, manager support, learning time, digital confidence, and prior experience also warrant study. None was measured here, yet each might help explain why equally well-designed training does not lead every employee to participate in the same way.
+
+
+
+A later survey could record invitations, retain response mode without collecting names, and use one checked case file for every table. Asking shortly after training and again when employees have had a chance to use it would provide a better account of application. That design would also be more suitable for evaluating a specific change in training practice.
+
+
+
+5.8 Conclusion
+
+
+
+The overall null hypothesis is rejected for the 102 valid cases: the three predictors jointly relate to perceived Training Effectiveness, with R² = .608. The alternative hypothesis is supported for the combined model. Learner Engagement alone has a significant individual coefficient after the other predictors are included.
+
+
+
+For Union Bank, the results point toward reviewing preparation and opportunities for active participation. Digital material and trainer-led work need a clear connection to employees’ tasks. These suggestions arise from the reported patterns; the analysis does not show that implementing them would cause better outcomes.
+
+
+
+REFERENCES
+
+
+
+Ansari, B. I., Junaidi, J., Maulina, S., Herman, H., Kamaruddin, I., Rahman, A., & Saputra, N. (2023). The effect of blended-learning training on lecturers’ and students’ competence and satisfaction. Journal of Intercultural Communication, 23(4), 155–164. https://doi.org/10.36923/jicc.v23i4.201
+
+
+
+Aziz, S. F. A. (2015). Developing general training effectiveness scale for the Malaysian workplace learning. Mediterranean Journal of Social Sciences, 6(4S1), 47–56. https://doi.org/10.5901/mjss.2015.v6n4s1p47
+
+
+
+Bahl, K., Kiran, R., & Sharma, A. (2024). Evaluating the effectiveness of training of managerial and non-managerial bank employees using Kirkpatrick’s model for evaluation of training. Humanities and Social Sciences Communications, 11, 508. https://doi.org/10.1057/s41599-024-02973-y
+
+
+
+Baldwin, T. T., & Ford, J. K. (1988). Transfer of training: A review and directions for future research. Personnel Psychology, 41(1), 63–105. https://doi.org/10.1111/j.1744-6570.1988.tb00632.x
+
+
+
+Blume, B. D., Ford, J. K., Baldwin, T. T., & Huang, J. L. (2010). Transfer of training: A meta-analytic review. Journal of Management, 36(4), 1065–1105. https://doi.org/10.1177/0149206309352880
+
+
+
+Garrison, D. R., & Kanuka, H. (2004). Blended learning: Uncovering its transformative potential in higher education. The Internet and Higher Education, 7(2), 95–105. https://doi.org/10.1016/j.iheduc.2004.02.001
+
+
+
+Graham, C. R. (2006). Blended learning systems: Definition, current trends, and future directions. In C. J. Bonk & C. R. Graham (Eds.), The handbook of blended learning (pp. 3–21). Pfeiffer.
+
+
+
+Han, F., & Ellis, R. A. (2020). Initial development and validation of the Perceptions of the Blended Learning Environment Questionnaire. Journal of Psychoeducational Assessment, 38(1), 23–38. https://doi.org/10.1177/0734282919834091
+
+
+
+Holton, E. F. (1996). The flawed four-level evaluation model. Human Resource Development Quarterly, 7(1), 5–21. https://doi.org/10.1002/hrdq.3920070103
+
+
+
+Kim, S. (2022). Innovating workplace learning: Training methodology analysis based on content, instructional design, programmed learning, and recommendation framework. Frontiers in Psychology, 13, 870574. https://doi.org/10.3389/fpsyg.2022.870574
+
+
+
+Kirkpatrick, D. L. (1994). Evaluating training programs: The four levels. Berrett-Koehler.
+
+
+
+Kumar, R., & Pande, N. (2017). Technology-mediated learning paradigm and the blended learning ecosystem: What works for working professionals? Procedia Computer Science, 122, 1114–1123. https://doi.org/10.1016/j.procs.2017.11.446
+
+
+
+Mubayrik, H. B. (2018). The present and future state of blended learning at workplace-learning settings in adult education: A systematic review. Journal of Social Studies Education Research, 9(4), 247–273.
+
+
+
+Mulaudzi, M. S. (2021). The use of blended teaching to improve workplace training in the transport sector [Master’s dissertation, University of Johannesburg]. https://hdl.handle.net/10210/501896
+
+
+
+Schaufeli, W. B., Bakker, A. B., & Salanova, M. (2006). The measurement of work engagement with a short questionnaire. Educational and Psychological Measurement, 66(4), 701–716. https://doi.org/10.1177/0013164405282471
+
+
+
+Sosnova, M., Hlianenko, K., Sosnova, V., Tsyna, V., & Tsyna, A. (2025). Enhancing the effectiveness of learning through hybrid education methods. Revista Eduweb, 19(2), 95–106. https://doi.org/10.46502/issn.1856-7576/2025.19.02.7
+
+
+
+Uddin, M., Ahamed, M. R., Jakowan, Islam, M. R., & Nahar, M. (2026). How blended learning influences employee performance: The mediating role of soft skill development and knowledge acquisition. International Journal of Accounting and Economics Studies, 13(2), 243–250. https://doi.org/10.14419/9cjynm83
+
+
+
+Union Bank of India. (n.d.-a). About Union Bank of India. Retrieved September 22, 2026, from https://www.unionbankofindia.bank.in/en/common/profile
+
+
+
+Union Bank of India. (n.d.-b). Address and contact details of training centres. Retrieved September 22, 2026, from https://www.unionbankofindia.bank.in/pdf/address%20and%20contact%20details%20of%20training%20centres.pdf
+
+
+
+Union Bank of India. (2022, October 1). Union Bank of India launches 9 Union Learning Academies [Press release]. https://www.unionbankofindia.bank.in/pdf/union%20bank%20of%20india%20launches%209%20union%20learning%20academies.pdf
+
+
+
+Union Bank of India. (2024). Integrated annual report 2023–24. https://www.unionbankofindia.bank.in/pdf/ubi-iar2024-final-stitched-book-english-compressed-26-06-2024.pdf
+
+
+
+Union Bank of India. (2025). Integrated annual report 2024–25. https://www.unionbankofindia.bank.in/pdf/union-bank-ar-2024-25-eng-final.pdf
+
+
+
+Union Bank of India. (2026, September 9). Live streaming of training sessions from training centres – Enhancing learning accessibility across the Bank [Staff circular, internal].
+
+
+
+Vo, M. H., Zhu, C., & Diep, N. A. (2017). The effect of blended learning on student performance at course-level in higher education: A meta-analysis. Studies in Educational Evaluation, 53, 17–28. https://doi.org/10.1016/j.stueduc.2017.01.002
+
+
+
+Yu, Q., Yu, K., Li, B., & Wang, Q. (2025). Effectiveness of blended learning on students’ learning performance: A meta-analysis. Journal of Research on Technology in Education, 57(3), 499–520. https://doi.org/10.1080/15391523.2023.2264984
+
+
+
+APPENDIX A — QUESTIONNAIRE
+
+
+
+Hybrid Learning and Training Effectiveness at Union Bank of India
+
+
+
+This questionnaire forms part of an academic study on hybrid learning and training effectiveness among employees of Union Bank of India.
+
+
+
+In this study, hybrid learning means a training programme in which digital learning and face-to-face learning were planned as connected parts of the same programme. The digital component may have used Union Vidya, Union Bank of India’s Learning Management System (LMS), or another authorised learning platform.
+
+
+
+Please answer the statements with reference to one hybrid-training programme attended during the last 12 months. There are no right or wrong answers. Participation is voluntary and confidential. Do not write your name, employee number, customer details, or any confidential Bank information.
+
+
+
+Section A — Eligibility and Basic Information
+
+
+
+1. During the last 12 months, have you attended a training programme that included both digital or online learning and face-to-face learning?
+
+Yes / No
+
+If your answer is No, please do not continue with the questionnaire.
+
+
+
+1. Age group: Below 25 / 25–34 / 35–44 / 45–54 / 55 and above
+
+
+
+1. Length of service in Union Bank of India: Below 5 years / 5–10 years / 11–20 years / Above 20 years
+
+
+
+1. Job level: Clerical / Officer / Managerial / Other
+
+
+
+Response Scale for Questions 5–30
+
+
+
+1. – Strongly Disagree
+2. – Disagree
+3. – Neither Agree nor Disagree
+4. – Agree
+5. – Strongly Agree
+
+
+
+Section B — Hybrid Learning
+
+
+
+In Questions 5–11, “digital learning platform” means Union Vidya where it was used for your selected programme, or another authorised digital platform used for that programme.
+
+
+
+1. The digital and face-to-face parts of the programme were planned as one connected learning experience.
+
+
+
+1. The digital activities prepared me for the face-to-face sessions.
+
+
+
+1. The face-to-face sessions helped me clarify or apply what I learned through the digital activities.
+
+
+
+1. I could access the digital learning platform used for the programme without much difficulty.
+
+
+
+1. The digital platform was easy for me to navigate while completing the training.
+
+
+
+1. Learning materials on the digital platform were available when I needed them.
+
+
+
+1. I could revisit digital modules or learning materials when I needed revision.
+
+
+
+Section C — Trainer Competence
+
+
+
+1. The trainer had good knowledge of the training subject.
+
+
+
+1. The trainer explained the training content clearly.
+
+
+
+1. The trainer explained how the digital and face-to-face activities were connected.
+
+
+
+1. The trainer was able to use the digital tools involved in the programme effectively.
+
+
+
+1. The trainer encouraged employees to ask questions and take part in activities.
+
+
+
+1. The trainer gave feedback that helped me understand or improve my learning.
+
+
+
+Section D — Learner Engagement
+
+
+
+1. I stayed attentive during the training activities.
+
+
+
+1. I made a serious effort to understand the training content.
+
+
+
+1. I participated actively in discussions, exercises, or other training activities.
+
+
+
+1. I felt involved in the learning process rather than simply completing required activities.
+
+
+
+1. I asked questions or sought clarification when I did not understand something.
+
+
+
+1. I remained interested in completing the programme.
+
+
+
+Section E — Training Effectiveness
+
+
+
+1. I understood the main knowledge or skills covered in the programme.
+
+
+
+1. The training gave me knowledge or skills that are useful in my current role.
+
+
+
+1. The content of the programme was relevant to the work I do at the Bank.
+
+
+
+1. I feel capable of using the knowledge or skills taught in the programme.
+
+
+
+1. I have applied learning from the programme in my day-to-day work.
+
+
+
+1. The programme helped me deal with relevant work tasks or problems more effectively.
+
+
+
+1. The programme has improved my confidence in carrying out relevant work responsibilities.
+
+
+
+APPENDIX B — QUESTIONNAIRE DEVELOPMENT AND LITERATURE BASIS
+
+
+
+The questionnaire was developed for employees to answer about one recent programme that combined digital and face-to-face learning. Tables B.1–B.4 show the concept addressed by each scored question, the literature that informed it, and the reason for its workplace wording. The cited papers support the question themes; the table does not assign an identical published scale item to every question. Questions 1–4 are eligibility and profile questions, so the tables begin with Question 5. Full references appear in the thesis reference list.
+
+
+
+The three base papers have different roles in this development. Sosnova et al. (2025) support the broad connection between hybrid methods and learning effectiveness. Kim (2022) supplies corporate training evidence on delivery design, instructors, participation, and perceived outcomes. Bahl, Kiran and Sharma (2024) establish the relevance of training evaluation among Indian bank employees. The more specific item themes also draw on blended-learning environment, workplace learning, engagement, and training-transfer literature. Bahl’s paper is a banking-context source; it is not treated as an item bank for Hybrid Learning, Trainer Competence, or Learner Engagement.
+
+
+
+Table B.1: Literature basis for Hybrid Learning questions
+
+
+
+Question and focusLiterature basisAdaptation for this study
+
+Q5 — connection between digital and face-to-face partsGarrison and Kanuka (2004); Graham (2006); Han and Ellis (2020)Asks whether the respondent experienced one connected programme, rather than two unrelated activities.
+
+Q6 — digital preparation before a face-to-face sessionHan and Ellis (2020); Sosnova et al. (2025); Kim (2022)Tests whether the earlier digital work had a clear preparatory role in the selected programme.
+
+Q7 — clarification and application during face-to-face learningGarrison and Kanuka (2004); Sosnova et al. (2025); Kim (2022)Asks whether the trainer-led part helped the employee use or understand what was learned digitally.
+
+Q8 — access to the programme’s digital platformMulaudzi (2021); Kumar and Pande (2017)Refers to Union Vidya where used, or another authorised platform used for that programme.
+
+Q9 — ease of navigating the platformMulaudzi (2021); Han and Ellis (2020)Focuses on the employee’s ability to use the platform for learning; it is not a technical system audit.
+
+Q10 — availability of digital learning materialMulaudzi (2021); Han and Ellis (2020)Asks whether required material was available when the employee needed it.
+
+Q11 — access to material for later revisionHan and Ellis (2020); Mulaudzi (2021)Captures whether the employee could return to the digital material after an initial activity.
+
+
+
+Table B.2: Literature basis for Trainer Competence questions
+
+
+
+Question and focusLiterature basisAdaptation for this study
+
+Q12 — trainer’s subject knowledgeKim (2022); Ansari et al. (2023)Asks about the trainer’s command of the topic in the selected programme.
+
+Q13 — clarity of explanationKim (2022); Mulaudzi (2021)Separates understandable explanation from simply making content available.
+
+Q14 — explanation of the connection between modesKim (2022); Mulaudzi (2021)Asks whether the trainer helped employees see how digital and face-to-face activities fitted together.
+
+Q15 — effective use of digital toolsKim (2022); Ansari et al. (2023)Concerns the trainer’s use of tools during learning, not the platform’s technical performance.
+
+Q16 — encouragement of questions and participationKim (2022); Mulaudzi (2021)Measures support offered by the trainer, separately from whether the employee participated.
+
+Q17 — useful feedbackKim (2022); Mulaudzi (2021)Asks whether feedback helped the employee understand or improve learning.
+
+
+
+Table B.3: Literature basis for Learner Engagement questions
+
+
+
+Question and focusLiterature basisAdaptation for this study
+
+Q18 — attention during trainingSchaufeli, Bakker and Salanova (2006); Kim (2022)Applies the general idea of active involvement to one selected training programme.
+
+Q19 — effort to understandSchaufeli, Bakker and Salanova (2006); Mulaudzi (2021)Asks about the employee’s own effort rather than trainer behaviour or attendance.
+
+Q20 — active participationKim (2022); Mulaudzi (2021)Refers to discussions, exercises, or other activities available in the programme.
+
+Q21 — involvement beyond required completionSchaufeli, Bakker and Salanova (2006); Kim (2022)Distinguishes feeling involved from merely finishing a required activity.
+
+Q22 — seeking clarificationKim (2022); Mulaudzi (2021)Asks whether the employee acted when something was not understood.
+
+Q23 — interest in completing the programmeSchaufeli, Bakker and Salanova (2006); Mulaudzi (2021)Keeps interest tied to the selected programme, not general work engagement.
+
+
+
+Table B.4: Literature basis for Training Effectiveness questions
+
+
+
+Question and focusLiterature basisAdaptation for this study
+
+Q24 — understanding the main knowledge or skillsKirkpatrick (1994); Kim (2022); Aziz (2015)Measures employee-reported learning rather than satisfaction with attending.
+
+Q25 — usefulness for the current roleKim (2022); Aziz (2015)Connects what was learned to the respondent’s present responsibilities.
+
+Q26 — relevance of content to Bank workAziz (2015); Bahl, Kiran and Sharma (2024)Places perceived training relevance in an employee and banking context; Bahl supports the context, not this exact item.
+
+Q27 — perceived capability to use learningKim (2022); Aziz (2015)Asks whether the employee feels capable of using the material, without claiming observed performance.
+
+Q28 — reported application in day-to-day workBaldwin and Ford (1988); Blume et al. (2010); Aziz (2015)Captures the employee’s account of application, not independently verified transfer.
+
+Q29 — support for work tasks or problemsAziz (2015); Bahl, Kiran and Sharma (2024); Blume et al. (2010)Links reported learning to relevant tasks; the banking paper supports evaluation in this setting rather than the exact wording.
+
+Q30 — confidence in relevant responsibilitiesKim (2022); Aziz (2015)Asks about perceived confidence after the programme, not a measured change in job performance.
+
+
+
+The item map preserves the distinction between four constructs. Platform access and learning-mode integration belong to Hybrid Learning; trainer actions belong to Trainer Competence; the employee’s participation belongs to Learner Engagement; and reported learning and work application belong to Training Effectiveness. The pilot and the main-sample reliability results are discussed in Chapter 3. This appendix documents content development and does not by itself establish full validation of the instrument.

@@ -1,0 +1,45 @@
+Union Bank of India Context
+
+Union Bank was established in Mumbai on 11th November 1919 and later became a nationalized bank in 1969. Andhra Bank and Corporation Bank joined the group through amalgamation on 1 April 2020 (Union Bank of India, n.d.-a). In June 2026, its public profile indicated that it had over 8,700 domestic branches and approximately 73,900 employees. In a workforce that operates in many different places, having access to up-to-date materials and support from trainers becomes a real challenge when it comes to learning.
+
+Union Bank Training Architecture
+
+Union Bank backs learning by offering both physical training centers and digital learning options. The 2024–25 annual report outlines a Master Policy on Learning and Development that includes e-learning, virtual and staggered programs, role-based training, mandatory e-learning for officers, and a Training Management System under Union Vidya, which is part of Union Bank of India as stated in the 2025 report. The previous annual report highlights Union Vidya as the Bank’s Learning Management System and documents digital resources and virtual workshops along with classroom and on-site programs (Union Bank of India, 2024).
+
+Nine specialized Union Learning Academies were introduced in 2022. The Bank's public list also includes a Staff Training College located in Bengaluru and seven Staff Training Centres in other locations (Union Bank of India, 2022; Union Bank of India, n.d.-b). Along with the digital resources, these are included in its learning setup. Their presence does not show who went to the centre or if each program used both methods.
+
+A circular issued on 9 September 2026 serves as an example of how different modes are connected. Classroom sessions held at Union Learning Academies and Zonal Learning Centres can be viewed via Microsoft Teams. Schedules and recordings are made available via Union Vidya, and virtual participants can submit questions through the chat, which the programme coordinator will address at appropriate times (Union Bank of India, 2026). This setup allows access to certain trainer-led sessions; the circular does not include any information on how employees performed throughout the Bank.
+
+The survey therefore remains focused on the experiences that employees can share: one recent hybrid program participated in by eligible respondents was connected with the Regional Office Chennai South. The findings are directed towards that specific group, not the entire Bank.
+
+1.7 Chapterisation
+
+Chapter 1 outlines the banking environment, the four key concepts, the main issue being studied, and the questions that will guide the research.
+
+Chapter 2 examines the related literature and outlines the functions of the three foundational papers. It then outlines the framework and the specific gap that was addressed within the Union Bank context.
+
+Chapter 3 outlines the purpose, the research assumption, the method of selecting and gathering data, the survey tool used, the process of examining the data, and the measures taken to ensure ethical standards are maintained.
+
+Chapter 4 reports and interprets the results. Chapter 5 outlines the results, limitations, recommendations, and final conclusion.
+
+CHAPTER 2 — REVIEW OF LITERATURE
+
+2.1 Review of Relevant Literature
+
+Hybrid Learning as an Integrated Training Design
+
+In workplace training, hybrid learning involves more than simply allocating time for an online module and a classroom session. The activities should be organized in a way that employees can follow along and relate them to their own tasks. A digital task should have a clear purpose for being placed before or after a trainer-led activity.
+
+Digital delivery allows the distribution of fundamental information, brief evaluations, and reference materials to different locations. In-person time can be utilized for asking questions, demonstrating concepts, engaging in practice, and receiving feedback. Employees tend to view a program as a single learning experience when they clearly understand how the different activities are related.
+
+Garrison and Kanuka (2004) emphasize that integration is a key focus in blended learning. Graham (2006) talks about how different ways of delivering instruction, teaching strategies, and learning techniques can be combined. Although both sources are from education, they provide a useful design test for employee training: the activities should complement each other, not repeat or contradict one another.
+
+Two educational reviews assist in defining the larger question about learning. In 2017, Vo, Zhu, and Diep combined data from 51 effect sizes related to higher-education courses and found that blended learning had a small but consistent advantage over traditional classroom instruction, with an average effect size of g = 0.385. Yu, Yu, Li, and Wang (2025) conducted a review of 133 studies involving 18,464 students and discovered that the intervention had a moderate to large positive impact on learning outcomes, with an effect size of g = 0.651. These are student results. Bank workers frequently need to keep up with customer service tasks, tight deadlines, and new procedures, which means the estimates serve as general information rather than specific predictions for Union Bank.
+
+Kumar and Pande (2017) look at how learning happens through technology for working professionals. They assess the institutional, facilitator, learner, and pedagogical factors that exist within a blended-learning environment. Their account is helpful here because simply having access to a platform does not explain if employees find the content relevant, if they receive guidance, or if they apply what they learn to their work.
+
+Mulaudzi’s (2021) Master’s dissertation explores the use of blended teaching methods in training programs within the transport sector of South Africa. The conversation about time, access, flexibility, materials, and practical obstacles is important for employees who learn outside of regular work hours. The themes influenced the way the current questionnaire was written regarding access and connected learning, although the dissertation tool was not used as a pre-existing corporate measurement scale.
+
+The Perceptions of the Blended Learning Environment Questionnaire, developed by Han and Ellis in 2020, explores how learners perceive the relationship between different modes of learning and the role that online learning plays in this context. The language used in higher education is not appropriate for direct communication with bank employees. The main ideas—such as connection, access, availability of materials, and the ability to revise—help clarify the content of the Hybrid Learning items.
+
+Sosnova, Hlianenko, Sosnova, Tsyna, and Tsyna (2025) present the foundational conceptual paper. Their experiment involved 64 students pursuing higher education, who participated in activities that combined online platforms with practical, problem-based, interactive, and project-oriented learning approaches. The results showed that the hybrid group performed better than the comparison group in terms of learning outcomes. The population and outcome measures used in the paper are different from those in this thesis, and the paper does not include a Union Bank questionnaire. It is applied to the more specific idea that hybrid design and learning effectiveness can be examined together.

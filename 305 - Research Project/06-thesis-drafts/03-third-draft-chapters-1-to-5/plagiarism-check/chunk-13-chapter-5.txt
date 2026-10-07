@@ -1,0 +1,59 @@
+This chapter brings together the results of the study on Hybrid Learning and Training Effectiveness among selected Union Bank respondents. Hybrid Learning, Trainer Competence, and Learner Engagement are the three independent variables; Training Effectiveness is the dependent variable. The regression uses 102 valid cases.
+
+The study was undertaken in the context of employee learning in a public-sector bank. Union Bank uses both physical learning infrastructure and digital learning support, including Union Vidya and virtual delivery arrangements. Employees may therefore experience training through a mix of online material, trainer-led discussion, practice, clarification, and later access to resources.
+
+The study focused on four constructs:
+
+- Hybrid Learning;
+
+- Trainer Competence;
+
+- Learner Engagement; and
+
+- Training Effectiveness.
+
+The questionnaire asked respondents to consider one hybrid-training programme attended during the preceding 12 months. It contained 26 five-point agreement items across the four constructs, along with four eligibility and profile questions. A separate online pilot ran from 15 to 16 September 2026 while main-study collection began on 15 September. It checked clarity, relevance, repetition, completion burden, and Union Vidya wording; its responses were excluded from the main analysis.
+
+Main responses were gathered through printed questionnaires and Google Forms from employees connected with Regional Office Chennai South and selected Chennai branches. Of 132 received records, 103 were profile-complete before SPSS analysis. The SPSS analysis reports 102 valid cases for the construct-level and regression analysis because one case had a missing Trainer Competence mean in that file.
+
+The main hypothesis tested whether Hybrid Learning, Trainer Competence, and Learner Engagement jointly predict Training Effectiveness. Descriptive statistics, an overall reliability analysis, exploratory factor analysis, Pearson correlations, and multiple regression were available in the SPSS output. The regression was the main hypothesis test.
+
+All construct means were above the midpoint of the five-point scale. Learner Engagement had the highest mean (4.317), followed by Training Effectiveness (4.254), Trainer Competence (4.158), and Hybrid Learning (4.148). These results show that the selected respondents generally gave positive ratings to their programme experience.
+
+Hybrid Learning had the lowest mean among the four constructs, although it was still positive. This is an important practical finding. A programme can contain both digital and face-to-face elements, yet employees may still need clearer digital preparation, better sequencing of material, or easier connection between platform content and trainer-led work.
+
+All pairwise Pearson correlations were positive and statistically significant. Learner Engagement had the strongest association with Training Effectiveness (r = .765). Hybrid Learning and Trainer Competence were also strongly associated with each other (r = .818). The pattern suggests that respondents often experienced these parts of training together, rather than as completely separate experiences.
+
+The study tested one overall hypothesis: whether Hybrid Learning, Trainer Competence, and Learner Engagement jointly predict perceived Training Effectiveness. The regression model was statistically significant at the 5 per cent level. The null hypothesis (H₀) is rejected, and the alternative hypothesis (H₁) is supported for the three predictors together.
+
+The R² value means that the three predictors together accounted for 60.8 per cent of the variation in reported Training Effectiveness among these respondents. It does not mean that they caused 60.8 per cent of an employee’s learning or work performance.
+
+The overall decision does not mean that all three predictors were individually significant. The coefficient results answer a separate question: which variable still has a distinct statistical association with Training Effectiveness when the other two are included in the model?
+
+Learner Engagement had the clearest unique association with perceived Training Effectiveness. Hybrid Learning and Trainer Competence had positive coefficients, but their separate contributions were not statistically established after all three variables were entered together. These results do not make either area unnecessary: both were positively correlated with Training Effectiveness, and Hybrid Learning and Trainer Competence were strongly related to each other.
+
+There are no separate H₀/H₁ decisions for the three predictors. The study stated one hypothesis for the combined model; the individual coefficients help explain that model’s result.
+
+The study adds a focused employee-level view of hybrid training in the Union Bank context. It does not treat Union Vidya as a separate technology-quality variable or assume that the availability of a digital platform automatically improves outcomes. Instead, it links the learning arrangement, trainer competence, employee engagement, and reported training effectiveness in one direct-predictor model.
+
+The study also adds a banking context to literature that often examines hybrid learning in educational settings or training effectiveness in general workplace settings. The result shows why learning design should be considered together with the employee’s participation in the programme. In a branch or office environment, employees may attend training while managing operational deadlines, customer needs, compliance responsibilities, and changes in digital procedures. Engagement can therefore be strengthened or weakened by factors beyond the trainer and the learning platform.
+
+The contribution is also in the way the four experiences are kept distinct. A respondent can rate the connection between digital and face-to-face activities, the trainer’s support, personal participation, and the usefulness of learning separately. This makes it possible to see that all three predictors have positive pairwise relationships with Training Effectiveness, yet only Learner Engagement has a statistically significant individual coefficient in the combined regression. The study therefore gives the Bank a more precise question than whether employees generally “liked” hybrid training: which parts of preparation and participation need closer attention when a programme is reviewed?
+
+Two findings guide the practical suggestions: Learner Engagement was the only individually significant predictor in the combined regression, and digital preparation before face-to-face sessions was the lowest-rated Hybrid Learning item (Question 6, mean = 3.990; Table 4.3). The following actions are proposals for review, not interventions tested by this study.
+
+1. Give employees a clear chance to participate. Trainers can include a work-related case, a demonstration, time for questions, and a short practice activity. The Bank can review whether employees are able to take part in these activities rather than only attend a session.
+
+2. Send digital preparation early enough to use it. Programme coordinators can check whether employees receive the relevant material, login information, and a clear pre-session task before the trainer-led session. This directly addresses the lower rating for Question 6.
+
+3. Connect the two learning modes. During the live or classroom session, the trainer can refer to the earlier digital material and show how it applies to a banking task. Employees should know what to revisit afterwards.
+
+4. Allow workable learning time where possible. Branch workload and customer service may limit the time available for preparation and participation. Local scheduling can take those demands into account.
+
+5. Use short feedback to identify the problem. After training, employees can be asked whether access, preparation, trainer guidance, participation, or work relevance needs attention. The Bank can then review the part of the learning experience that employees actually found difficult.
+
+The table links reported patterns to areas worth checking. It does not show that the proposed changes were tested or that they would cause better training outcomes.
+
+The first two rows are the clearest priorities from the current evidence: engagement has the strongest separate association with Training Effectiveness in the combined model, and digital preparation received the lowest Hybrid Learning item mean. The other rows help turn item-level feedback into questions for a training review. Their counts should be read in context: most responses to those questions were still positive. A small group of neutral responses is a reason to ask what happened in the programme, not proof of a widespread failure.
+
+The findings apply to the selected respondent group and cannot be generalised statistically to all Union Bank employees. The sample was purposive and focused on employees connected with the Chennai South fieldwork context. Responses were collected at one point in time and were self-reported, so the results cannot establish causation or show which experience came first.

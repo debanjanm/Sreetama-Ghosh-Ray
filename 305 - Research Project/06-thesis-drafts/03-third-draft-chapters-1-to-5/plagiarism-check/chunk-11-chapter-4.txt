@@ -1,0 +1,45 @@
+Principal Component Analysis with varimax rotation provided an exploratory check of the item structure. The Kaiser–Meyer–Olkin value is .929, and Bartlett’s test of sphericity is statistically significant, χ²(325) = 3664.340, p < .001. SPSS extracted four components. This output is treated as a supporting structural check because the questionnaire was designed from the four theory-based constructs. It is not used to rename constructs, claim full scale validation, or change the stated study model.
+
+Pearson correlations describe the direction and strength of association between the construct means. All reported correlations are positive and statistically significant.
+
+The strongest association with Training Effectiveness is Learner Engagement (r = .765). Employees who reported greater attention, participation, and involvement also tended to report stronger perceived training effectiveness. Hybrid Learning and Trainer Competence are themselves strongly associated (r = .818). This suggests that respondents often experienced well-connected hybrid learning and effective trainer facilitation together. It also means that their separate contributions must be assessed with care when all three predictors are entered into one regression model.
+
+The main hypothesis was tested through a multiple regression model with Training Effectiveness as the dependent variable and Hybrid Learning, Trainer Competence, and Learner Engagement as the three predictors.
+
+The overall regression model is statistically significant, F(3, 98) = 50.652, p < .001. Together, Hybrid Learning, Trainer Competence, and Learner Engagement account for 60.8 per cent of the variation in reported Training Effectiveness within the 102 cases. The alternative hypothesis is therefore supported at the model level.
+
+When the three predictors are considered together, Learner Engagement is the only individually statistically significant predictor of Training Effectiveness (β = .532, p < .001). Its positive coefficient means that higher reported engagement is associated with higher reported training effectiveness after the overlap with Hybrid Learning and Trainer Competence is considered.
+
+Hybrid Learning and Trainer Competence have positive coefficients, but their individual coefficients are not statistically significant in this combined model. This does not show that either area is unimportant. Both are strongly related to the other constructs in the correlation results, particularly to each other. The regression result simply shows that, in this respondent group and with all three predictors entered at the same time, Learner Engagement has the clearest unique association with perceived Training Effectiveness.
+
+The regression output did not include VIF or tolerance statistics. The strong Hybrid Learning–Trainer Competence correlation is shown in Table 4.6 and considered when interpreting the coefficient pattern.
+
+The following tests use the 102-case scored CSV and address questions separate from the main regression. They are exploratory checks, not additional evidence that one training factor causes another. Their source differs from the saved SPSS viewer: that viewer’s one-sample, crosstab, and ANOVA outputs often used 103 cases. The saved SPSS data file was not available for a cell-by-cell comparison, so these supplementary numbers require verification in SPSS before final submission.
+
+First, one-sample t-tests compare each mean score with 3, the neutral point on the five-point scale. Each 102-case mean is above 3. These tests restate the generally positive response pattern; they do not test the relationship hypothesis.
+
+The Hybrid Learning mean here is 4.144, compared with 4.148 in the supplied SPSS Explore table. This small difference confirms that the saved SPSS viewer and the reconstructed 102-case CSV are not yet proven to contain identical item values. The SPSS figures remain the source for Tables 4.2–4.7 and the main hypothesis decision.
+
+A Welch independent-samples t-test compared perceived Training Effectiveness for officers and managers. The officer group had 56 respondents (M = 4.163), and the managerial group had 26 (M = 4.220). The difference was not statistically significant, t(52.261) = −0.270, p = .788. Clerical respondents were not part of this two-group comparison.
+
+Paired t-tests compared each respondent’s Training Effectiveness score with that respondent’s other construct scores. None of the three mean differences reached the .05 significance level. These tests compare ratings of different concepts, so they should not be interpreted as changes over time or as evidence that one construct produced another.
+
+A one-way ANOVA compared Training Effectiveness across clerical, officer, and managerial respondents. Their respective means were 4.550 (n = 20), 4.163 (n = 56), and 4.220 (n = 26). The group difference was not statistically significant, F(2, 99) = 1.629, p = .201. A Duncan post-hoc comparison is therefore not used to identify group differences in this final 102-case analysis.
+
+Finally, raw-mean crosstabs were checked for Pearson chi-square suitability. Between 98.8 and 99.3 per cent of expected cells were below five across the three predictor-by-effectiveness tables; the minimum expected count was approximately .010. These tables are too sparse for a dependable chi-square interpretation. The positive construct relationships are therefore assessed through the Pearson correlations in Table 4.6 rather than chi-square significance claims.
+
+The construct means have many distinct values, producing very small expected counts. No hypothesis decision is based on these chi-square statistics.
+
+Respondents who were more actively involved in their selected programme also reported stronger learning relevance, confidence, and work application. In a bank setting, active involvement can include asking questions, practising a process, following a live or classroom session, revisiting material, and connecting the programme with regular work responsibilities.
+
+Hybrid Learning received positive ratings and was positively associated with Training Effectiveness. Table 4.3 shows where respondents were least positive: preparation through digital activities before a face-to-face session. For a bank employee, this could mean starting the live session without enough time or guidance to use the earlier material. The survey does not identify the exact reason; it identifies a useful question for programme review.
+
+The correlation and regression findings should be read together. Correlation shows that each construct moves positively with Training Effectiveness. Regression asks a narrower question: which predictor still makes a distinct statistical contribution after the other two are already in the model? Here, Learner Engagement provides that distinct contribution.
+
+Sosnova et al. (2025) examined hybrid methods and learning effectiveness among higher-education students. The positive ratings in the present study are broadly compatible with their interest in connected learning activities, but the two studies used different populations and outcome measures. The Union Bank survey did not compare a hybrid group with a classroom-only group.
+
+Kim (2022) found that training delivery, instructor involvement and programme design mattered in automotive sales training. Kim also reported that the hybrid group did not outperform the traditional group in every comparison. The present findings similarly suggest that the quality of the learning experience deserves attention: Hybrid Learning and Trainer Competence were positively correlated with Training Effectiveness, while Learner Engagement had the clearest separate coefficient in the combined model. These are employee perceptions from one banking sample, so they cannot reproduce Kim’s comparison of delivery methods.
+
+Bahl, Kiran and Sharma (2024) showed the value of evaluating training among Indian bank employees through Kirkpatrick’s framework. The present study adds a narrower view of one hybrid programme, with employees reporting understanding, relevance and use of learning in their own roles. It did not measure Kirkpatrick’s full results level or objective work performance. Mulaudzi’s (2021) workplace study also highlights access and practical barriers; the lower digital-preparation item in Table 4.3 makes that issue worth examining in the Bank’s training process.
+
+The item distributions sharpen this comparison. Understanding the content (Q24) attracted 93 favourable responses, while reporting better handling of work tasks or problems (Q29) attracted 88. The difference is small, but the two questions concern different stages of learning. Kirkpatrick’s framework and the training-transfer literature explain why understanding should not be treated as proof of later application. The present survey has only the employee’s account at one point in time, so it can identify a reported application pattern without verifying sustained behaviour change.

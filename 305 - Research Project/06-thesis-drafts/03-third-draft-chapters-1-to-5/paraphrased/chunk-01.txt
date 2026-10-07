@@ -1,0 +1,41 @@
+CHAPTER 1 — INTRODUCTION
+
+1.1 Background and Context
+
+Bank staff are required to keep gaining knowledge and skills while carrying out their usual responsibilities. A modification in process, the introduction of a new digital platform, or the release of an updated product can influence the way they provide services and adhere to compliance standards. Training must be available during regular working hours and should provide value to employees when they come back to their job.
+
+Digital platforms allow a bank to share educational resources with employees who work in various locations. Modules, videos, virtual sessions, assessments, and job aids are all available for use without the need to travel for each activity. That flexibility is important when a branch needs to keep serving customers. Access, however, is just the first step: finishing a module does not mean an employee has understood the procedure or knows how to apply it in their job. Some questions still require clarification from a trainer.
+
+In-person sessions allow for asking questions, seeing demonstrations, practicing, and receiving feedback. Employees are also able to talk about issues that occur within their respective branches. A classroom is not required for every update; a brief refresher or reference document might be more convenient to use online. What is important is the link between the two methods, allowing information shared digitally to be properly understood and applied during a trainer-led session or in the workplace.
+
+Hybrid learning, also known as blended learning, intentionally combines both digital and in-person activities as part of a single program. The digital section could bring up a subject before the session and stay open for future editing. A trainer can then use the session to explain unclear topics and practice job-related tasks. Without that connection, employees might see the activities as individual tasks instead of components of a single learning process.
+
+This study focuses on Union Bank staff who are affiliated with the Regional Office Chennai South located in Royapettah, Chennai. One of the key tools used by the Bank for reporting is Union Vidya, its Learning Management System (LMS).In addition to this, the Bank utilizes a variety of learning resources such as e-books, podcasts, audiobooks, microlearning content, virtual workshops, role-based learning programs, mandatory e-learning for officers, and a Training Management System. These setups indicate that various methods of learning are provided. They do not provide information on how employees felt about their connection within a specific program. Each participant therefore provided information about one recent program that involved both digital and in-person learning.
+
+Four constructs describe that experience. Hybrid learning connects the online and in-person activities, provides access to the platform and resources, and offers chances to review the material that was taught. Trainer Competence refers to the trainer's understanding of the subject, their ability to explain things clearly, the use of appropriate tools, their encouragement of learners, and the feedback they provide. Learner Engagement reflects how much an employee is focused, involved, interested, actively taking part, and ready to seek further explanations. Training effectiveness is about how well the employee found the learning content clear, related to their work, helpful, and able to be used in their current role.
+
+The conceptual framework is:
+
+Within the framework, Hybrid Learning, Trainer Competence, and Learner Engagement are three separate factors that influence the perception of Training Effectiveness. A well-structured program and a skilled trainer do not guarantee the same level of involvement from each employee. Workload, available time, past experience, comfort with technology, level of motivation, and the specific branch requirements could also play a role. The questionnaire captures how employees experienced various aspects of a particular program; the resulting connections are understood based on the limitations of a single self-reported survey.
+
+The three fundamental papers each focus on a separate aspect of the question. Sosnova and her colleagues in 2025 investigate the effectiveness of hybrid education on student learning, offering a foundational conceptual framework for understanding this area. Kim (2022) focuses on automotive sales training and highlights the importance of delivery design, instructor participation, and hands-on practice within a corporate environment. Bahl, Kiran, and Sharma (2024) evaluated training programs for 402 employees at Indian banks by applying Kirkpatrick’s four-level framework, which includes Reaction, Learning, Behaviour, and Results. The current four-construct Union Bank model isn't based on a single paper; instead, it draws from a mix of conceptual, workplace, and banking viewpoints.
+
+For HR and learning and development personnel, the design of a program is important because employees need to arrange their training around their work responsibilities. Disconnected activities may seem like an additional responsibility. A trainer who explains the importance of an activity and answers questions can help make participating in it simpler. The study looks at areas such as access, integration, trainer support, and engagement to highlight elements of training that the Bank can consider reviewing, while ensuring consistent service delivery.
+
+1.2 Key Concepts and Definitions
+
+Hybrid Learning
+
+Hybrid learning mixes online and in-person activities as part of a single organized program. A bank could incorporate tools such as an LMS module, video content, virtual sessions, online evaluations, or downloadable reference materials as part of its digital training approach. Classroom discussion, demonstration, role play, group exercise, or supervised practice may form the in-person component. Each mode serves a specific role within the same learning process.
+
+Employees assessed if the two modes felt connected, if they could access the platform and materials, and if the digital content stayed available for editing. The measure relates to their experience with one program. It is not a technical evaluation of Union Vidya or a comparison of programs offered through just one method.
+
+Trainer Competence
+
+Trainer Competence refers to the extent to which a trainer is able to effectively support the learning process. Subject knowledge and clear explanations are important, along with the ability to link digital work with the live session, use appropriate tools, encourage participation, and offer helpful feedback. In a hybrid program, employees might need the trainer to explain how an online task connects to future discussions or to a process in their own job.
+
+An easy-to-use platform can't take the place of a trainer's explanation. A skilled trainer might still face limitations if the employees are unable to access the necessary learning materials. Evaluating these experiences individually allows for a comparison of how they are linked to the effectiveness of training.
+
+Learner Engagement
+
+Learner Engagement refers to the qualities an employee contributes to the chosen program, including their attention, effort, participation, interest, and readiness to ask questions. Attendance or simply having an online completion record is not sufficient to demonstrate actual participation. A participant might be there without paying close attention to the material; their involvement is shown through their effort to grasp the content and participate in the learning tasks.

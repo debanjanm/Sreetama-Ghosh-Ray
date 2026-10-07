@@ -1,0 +1,59 @@
+The engagement questions concern behaviour in one selected training programme. They do not assess general work engagement, organisational commitment, motivation, or metacognitive skill as additional constructs.
+
+Training Effectiveness
+
+Training Effectiveness means the employee’s assessment of what the programme contributed to current work. The questions cover understanding, relevance, confidence, and the perceived ability to apply learning to day-to-day tasks and related problems.
+
+Training-evaluation and transfer literature supports this definition, which goes beyond asking whether employees liked a session. The evidence remains self-reported: no objective change in individual performance, customer service, productivity, reputation, or financial results is measured here.
+
+Learning Management System
+
+A Learning Management System (LMS) helps an organisation deliver and manage learning through digital resources such as modules, readings, videos, quizzes, virtual sessions, and learning records. Union Bank identifies Union Vidya as its LMS within a broader system of e-learning, virtual training, staggered programmes, and role-based learning (Union Bank of India, 2024, 2025).
+
+Union Vidya provides context for the Hybrid Learning questions; it is not scored as a separate variable. The questionnaire names it as an example while asking about the platform used in the respondent’s selected programme, since programmes and platform features may differ.
+
+1.3 Need, Scope and Significance of the Study
+
+Need for the Study
+
+The central question is how employees’ experience of Hybrid Learning, Trainer Competence, and Learner Engagement relates to perceived Training Effectiveness. Bank staff learn while managing customers, procedures, and daily operations. If activities are difficult to access or poorly connected, training can add pressure instead of helping them work with new knowledge.
+
+Blended-learning research offers useful ideas about programme design, although much of it concerns students. A bank employee faces a different setting: customer service and compliance work continue during training. Corporate studies add workplace evidence, but research on the four constructs together among employees of an Indian public-sector bank remains limited.
+
+Union Bank has documented digital resources and trainer-led training facilities. Those records establish the setting, not the quality of an employee’s experience in a specific programme. The survey addresses that narrower question.
+
+Scope of the Study
+
+Eligible respondents were employees connected with Union Bank’s Regional Office Chennai South who had attended a programme combining digital and face-to-face learning in the previous 12 months. Each person answered about one recent programme. Someone who had experienced only one mode could not assess how the two were connected and was therefore ineligible.
+
+The four measured areas are Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness. Other potentially relevant matters, including knowledge retention, job performance, supervisor support, digital literacy, and Union Vidya’s technical performance, are outside this model. A narrower instrument keeps the analysis manageable for the selected sample.
+
+Responses were collected once through a structured five-point agreement questionnaire. Descriptive and correlational analyses describe this respondent group and the relationships among their ratings. The design cannot establish later changes in work behaviour or Bank performance caused by training.
+
+Significance of the Study
+
+For Union Bank, the results organise employees’ feedback about the connection between learning modes, trainer support, and participation. Lower-rated aspects can point staff toward issues worth reviewing, such as module timing, access to materials, guidance, feedback, or opportunities to take part.
+
+Trainers and learning-and-development staff can use these responses to look beyond content delivery. Employees also need to know why a digital module precedes a session, how a new procedure applies to their role, and where to ask questions afterwards. Those practical connections affect whether training feels manageable alongside regular duties.
+
+The academic contribution is a focused account from a public-sector banking setting. The questionnaire draws on conceptual, corporate, and Indian banking literature; it was reviewed by the guide, piloted, and assessed for internal consistency in the final sample.
+
+1.4 Statement of the Problem
+
+Union Bank’s learning system includes digital resources and trainer-led activities, creating opportunities for hybrid training. Yet the existence of these resources says little about a particular employee’s experience. The open questions are whether the activities feel connected, whether trainers give enough guidance, whether employees participate, and whether they can use what they learned in their current roles.
+
+Evidence from higher education and corporate training helps frame these questions, but it does not directly examine the four constructs together in the selected Union Bank setting. In particular, published material about Union Vidya does not explain how employees connect its digital resources with trainer-led learning.
+
+The research tests whether ratings of Hybrid Learning, Trainer Competence, and Learner Engagement jointly relate to perceived Training Effectiveness.
+
+1.5 Research Questions
+
+1. What are respondents’ perceptions of Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness? 2. What associations are reported among the four study constructs? 3. To what extent do Hybrid Learning, Trainer Competence, and Learner Engagement jointly predict Training Effectiveness?
+
+1.6 Industry and Company Context
+
+Banking Industry Context
+
+Banking work combines regulation, digital systems, products, and customer service. Employees must update their knowledge of procedures and risk controls while serving customers each day. In a public-sector bank with staff across functions and locations, common material needs to be accessible without losing opportunities for questions, practice, guidance, and later revision.
+
+Different training needs call for different activities. A short policy update might suit a digital module and knowledge check; a new procedure may require a demonstration and practice; a customer-facing situation may be easier to discuss through role play. Digital material can remain available afterwards. The choice of mode should follow the task employees need to learn.

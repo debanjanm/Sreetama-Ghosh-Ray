@@ -1,0 +1,55 @@
+Hybrid Learning was rated positively and correlated with Training Effectiveness. Yet Q6 shows a relatively weaker point: digital activities did not prepare respondents for the later face-to-face session as strongly as other Hybrid Learning items were rated. Time or guidance might be involved, but the survey cannot identify the cause. It points to preparation as a question for review.
+
+Correlation shows that each predictor moves positively with Training Effectiveness. Regression asks whether an association remains distinct after the other predictors enter the model. By that narrower test, Learner Engagement stands out.
+
+4.4 Comparison with Previous Studies
+
+Sosnova et al. (2025) studied hybrid methods and learning outcomes among students. The Union Bank respondents also rated connected learning positively, but the populations, measures, and designs differ. No classroom-only comparison group was surveyed here.
+
+Kim’s (2022) automotive study directs attention to delivery, instructors, and design, while showing that hybrid delivery did not outperform traditional training in every comparison. Here, Hybrid Learning and Trainer Competence both correlate positively with Training Effectiveness, but Learner Engagement has the clearest coefficient in the combined model. This bank survey concerns employee perceptions of one programme, not Kim’s comparison of delivery formats.
+
+Bahl, Kiran and Sharma (2024) evaluate bank training through Kirkpatrick’s levels. The current evidence is narrower: respondents report understanding, relevance, and perceived use of learning, without objective performance or organisation-level results. Mulaudzi’s (2021) account of workplace access and practical barriers gives a reason to look more closely at the lower digital-preparation rating in Table 4.3.
+
+The item counts illustrate the distinction between learning and application: 93 respondents rated understanding favourably on Q24, compared with 88 who reported better handling of tasks or problems on Q29. The difference is small and untested, yet the questions address different outcomes. Kirkpatrick and transfer research explain why understanding is not itself proof of sustained work behaviour; this survey records a one-time employee account.
+
+Han and Ellis (2020) focus on how learners experience a blended environment. Q6 offers a workplace example of why that matters: although Hybrid Learning was rated positively overall, preparation before the face-to-face session received the lowest item mean in that block. The question is relevant to bank training without treating the student instrument as validated for bank employees.
+
+4.5 Theoretical and Practical Implications
+
+Together, programme design, trainer support, and employee involvement have a significant relationship with perceived Training Effectiveness. Their correlations are also high enough that pairwise associations should not be mistaken for separate adjusted effects. The cross-sectional results provide no causal ordering among them.
+
+The clearest practical review point is the handover from digital preparation to the live session. Coordinators could check when material reaches employees, whether work schedules allow time to use it, and how trainers build on it. Questions and practice should be possible during the session. Q6 and the engagement association motivate these proposals, but the survey did not test the proposed changes.
+
+Preparation, the session itself, and later revision can be reviewed as one sequence. Before a session, employees need a clear digital task and time to complete it. During the session, the trainer can connect that task to a banking example and invite questions. Afterwards, accessible material helps staff revisit the topic when work requires it. The questionnaire covers these stages; a later evaluation would have to test whether changing them improves outcomes.
+
+CHAPTER 5 — SUMMARY, CONCLUSION AND SUGGESTIONS
+
+5.1 Introduction
+
+This chapter explains what the findings mean for the selected Union Bank respondents. Hybrid Learning, Trainer Competence, and Learner Engagement are the independent variables, while Training Effectiveness is the dependent variable. The regression uses 102 valid cases.
+
+5.2 Summary of the Study
+
+Union Bank provides employee training through physical facilities and digital support, including Union Vidya and virtual delivery. A programme may therefore involve online material, trainer-led discussion, practice, questions, and resources for later use.
+
+The study focused on four constructs:
+
+- Hybrid Learning; - Trainer Competence; - Learner Engagement; and - Training Effectiveness.
+
+Respondents considered one hybrid programme from the preceding 12 months. The instrument combined four eligibility and profile questions with 26 five-point agreement items. A separate online pilot ran on 15–16 September 2026 as main collection began on 15 September. It checked clarity, relevance, repetition, time burden, and Union Vidya wording; pilot responses were excluded from the main analysis.
+
+Paper forms and Google Forms produced 132 main submissions from employees connected with Regional Office Chennai South and selected branches. Screening left 103 profile-complete records. SPSS reports 102 valid cases for construct-level and regression work because one Trainer Competence mean was missing in its file.
+
+The single hypothesis asks whether the three independent variables jointly predict Training Effectiveness. The saved SPSS output includes descriptives, one overall reliability run, exploratory factor analysis, correlations, and multiple regression. Regression supplies the hypothesis decision.
+
+5.3 Major Findings
+
+5.3.1 Respondents rated all four areas positively
+
+Every construct mean exceeded the scale midpoint. Learner Engagement was highest (4.317), followed by Training Effectiveness (4.254), Trainer Competence (4.158), and Hybrid Learning (4.148). Most respondents thus gave favourable accounts of the selected programme.
+
+Hybrid Learning remained positive but ranked lowest. Combining a platform with a face-to-face session may leave employees wanting clearer preparation or a better connection between the material and trainer-led work.
+
+5.3.2 The four constructs were positively associated
+
+Every pairwise Pearson correlation was positive and significant. Learner Engagement related most strongly to Training Effectiveness (r = .765), while Hybrid Learning and Trainer Competence were strongly related to each other (r = .818). Respondents often rated those parts of training similarly.

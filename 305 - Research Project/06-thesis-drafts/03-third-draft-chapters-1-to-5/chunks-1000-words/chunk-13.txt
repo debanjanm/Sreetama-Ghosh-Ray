@@ -1,0 +1,5 @@
+5.8 Conclusion
+
+The overall null hypothesis is rejected for the 102 valid cases: the three predictors jointly relate to perceived Training Effectiveness, with R² = .608. The alternative hypothesis is supported for the combined model. Learner Engagement alone has a significant individual coefficient after the other predictors are included.
+
+For Union Bank, the results point toward reviewing preparation and opportunities for active participation. Digital material and trainer-led work need a clear connection to employees’ tasks. These suggestions arise from the reported patterns; the analysis does not show that implementing them would cause better outcomes.

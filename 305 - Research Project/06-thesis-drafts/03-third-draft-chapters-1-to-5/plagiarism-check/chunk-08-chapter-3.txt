@@ -1,0 +1,61 @@
+The study examines how eligible respondents of Union Bank of India experienced one hybrid-training programme and how that experience was associated with perceived Training Effectiveness. In a public-sector bank, employees may use digital material, attend trainer-led sessions, and continue regular operational work at the same time. The study therefore considers the employee’s reported programme experience rather than assuming that the availability of an LMS alone makes training effective.
+
+The primary objective is:
+
+To examine whether Hybrid Learning, Trainer Competence, and Learner Engagement jointly predict Training Effectiveness among eligible respondents of Union Bank of India.
+
+The specific objectives are:
+
+1. To describe respondents’ perceptions of Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness.
+
+2. To examine the associations among the four study constructs.
+
+3. To determine the joint contribution of Hybrid Learning, Trainer Competence, and Learner Engagement in predicting Training Effectiveness.
+
+The objectives are stated as associations and prediction within the selected sample. They do not claim that any construct causes another.
+
+The study uses one omnibus regression hypothesis at the 5 per cent level of significance.
+
+The hypothesis concerns the overall regression model. Individual coefficients are also reported because they show each predictor’s association with Training Effectiveness after the overlap between the three predictors has been considered.
+
+The study uses four scored constructs.
+
+Hybrid Learning is the planned combination of digital and face-to-face learning within one programme. It is measured through connected design, access to the digital platform, availability of learning material, and the ability to revisit digital learning. Questions 5–11 measure this construct.
+
+Trainer Competence is the trainer’s ability to support learning through subject knowledge, clear explanation, connected facilitation across learning modes, effective use of relevant digital tools, encouragement of participation, and feedback. Questions 12–17 measure this construct.
+
+Learner Engagement is the respondent’s active involvement in the selected training programme. It includes attention, effort, participation, involvement, clarification-seeking, and interest in completing the programme. Questions 18–23 measure this construct. Engagement is treated as a separate independent variable because employee involvement can also be influenced by workload, time availability, prior experience, motivation, digital confidence, and workplace conditions.
+
+Training Effectiveness is the respondent’s perception that the programme produced useful learning for the current role. It includes understanding, work relevance, capability, application, support for related work tasks, and confidence. Questions 24–30 measure this construct.
+
+The questionnaire has 30 numbered questions. Questions 1–4 confirm eligibility and describe the respondent group. Questions 5–30 are five-point agreement items. Knowledge retention, job performance, organisation-level results, employee agility, supervisor support, and technical performance of Union Vidya are outside the measured model.
+
+The study follows a quantitative, descriptive, correlational, and predictive research design. It is quantitative because it uses structured response options and statistical analysis. It is descriptive because it reports the pattern of employee responses. It is correlational because it examines the direction and strength of reported associations among the four construct means. It is predictive because the SPSS regression model examines how the three independent variables jointly relate to the dependent variable, Training Effectiveness.
+
+The study is cross-sectional. Each respondent completed the questionnaire once and answered with reference to one hybrid-training programme attended during the previous 12 months. This approach asks employees to consider a specific programme rather than compare several programmes from memory. The unit of analysis is the individual response record.
+
+The model is:
+
+The model does not assume that Hybrid Learning or Trainer Competence determines Learner Engagement. The three variables may be related, but engagement can also reflect employee and work-context conditions that were outside the measured model.
+
+The study population comprises Union Bank of India employees connected with Regional Office Chennai South who had attended a training programme that included both digital or online learning and face-to-face learning during the previous 12 months.
+
+Non-probability purposive sampling was used. An employee was eligible only when the employee had attended hybrid training in the stated period. This condition was necessary because employees who had experienced only one delivery mode could not comment meaningfully on the connection between digital and face-to-face activity.
+
+The fieldwork took place within branches and offices that could be reached during the internship. Within that accessible setting, the eligibility question identified employees able to answer about the type of programme under study. The sample was therefore selected for relevant experience, not drawn at random from a complete list of Union Bank employees. This choice made the questionnaire workable for the research question, but it limits how far the percentages and relationships can be extended beyond the respondents.
+
+The initial target was approximately 80 eligible respondents. A total of 132 records were received: 70 printed questionnaires and 62 Google Forms submissions. Initial screening retained 103 profile-complete records. The multiple regression uses 102 valid cases because one record had no Trainer Competence mean in the SPSS analysis file.
+
+The questionnaire was anonymous and did not collect employee names or numbers. Therefore, the analysis treats each eligible submitted form as one response record. Similar answer patterns were not treated as proof of duplicate respondents without identifying evidence.
+
+A formal response rate cannot be calculated because a complete count of all employees approached or sent the link was not maintained. The response-disposition figures below show how many forms were received and retained; they should not be presented as a percentage of everyone invited to participate.
+
+Primary data were collected through printed questionnaires and a Google Forms link. The fieldwork record confirms that employees were approached through Regional Office Chennai South and 27 Chennai branches: Triplicane 1, Triplicane 2, Triplicane 3, Alandur, Teynampet, Mowbrays Road, Chamiers Road, Mylapore 1, Mylapore 2, Mylapore 3, Adyar, Madhya Kailash, Besant Nagar 1, Besant Nagar 2, Indiranagar, Shastri Nagar, T. Nagar 1, T. Nagar 2, T. Nagar 3, West Mambalam, Nungambakkam, Koyambedu, Virugambakkam, Saligramam, Ashok Nagar 1, Ashok Nagar 2, and Ashok Nagar 3. Responses were also collected from the Retail Loans and Currency Chest departments at the Regional Office. The Google Forms link allowed employees to respond when a paper form could not be completed immediately because of work responsibilities.
+
+Main-study questionnaire collection began at the Regional Office on 15 September 2026, while a separate online pilot was also under way. The dated fieldwork record places the branch visits between 16 and 28 September 2026. The pilot submissions were complete by 16 September and were kept outside the main-study response count.
+
+The researcher reported obtaining verbal permission through the Regional Office HR Manager for academic data collection. At branches, employees were approached around their work responsibilities so that completing a form would not interrupt customer service. The printed and online versions asked the same 30 numbered questions and used the same response scale. The two modes widened the opportunity to respond, although this study did not separately test whether paper and online respondents interpreted or answered the questions differently.
+
+Screening began with Question 1, which asked whether the respondent had attended a programme combining digital and face-to-face learning within the stated period. Sixteen respondents answered “No”, and eligibility could not be confirmed for another eleven records. Two otherwise eligible paper records lacked a required profile answer. These 29 records were excluded before the 103 profile-complete records were prepared for analysis. The SPSS file then omitted one of those 103 records from procedures requiring all four construct means because its Trainer Competence mean was missing there. The resulting regression uses 102 cases. The saved SPSS output does not identify that excluded record by response ID, so the independently reconstructed 102-case supplementary subset cannot yet be claimed as an exact case-by-case copy of the SPSS file.
+
+The research instrument is a structured, self-administered questionnaire placed in the Appendix. It has 30 numbered questions. Questions 1–4 screen for eligibility and describe the respondent group. Questions 5–30 use a five-point agreement scale from Strongly Disagree to Strongly Agree. Each respondent answered about one hybrid-training programme attended during the preceding 12 months.

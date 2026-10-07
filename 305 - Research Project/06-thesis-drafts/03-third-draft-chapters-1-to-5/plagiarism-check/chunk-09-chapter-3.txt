@@ -1,0 +1,41 @@
+The instrument is literature-informed and adapted to the Union Bank context. Appendix B documents its item-level content basis through the selected base papers and supporting measurement literature. Union Vidya is named as the Bank’s LMS and as an example platform that may have been used in the selected programme.
+
+The questionnaire separates experiences that an employee can reasonably distinguish. Questions 5–11 ask how the digital and face-to-face activities were connected and whether digital material could be accessed and revisited. Questions 12–17 concern what the trainer did to explain, connect, and support those activities. Questions 18–23 ask about the employee’s own attention and participation. Questions 24–30 ask whether the learning was understandable and useful for present work. This structure follows the four-construct model instead of asking one broad question about whether the programme was “good”.
+
+For Questions 5–30, response categories are coded from 1 for Strongly Disagree to 5 for Strongly Agree. SPSS output refers to the corresponding construct means as HLTMEAN, TCTMEAN, LETMEAN, and TETMEAN.
+
+Each construct score is the arithmetic mean of its assigned item scores, so it remains on the original 1–5 scale. A higher score represents a more positive response for that construct. The items are worded in the same direction; no reverse coding is required. A mean score makes the four blocks comparable even though Hybrid Learning and Training Effectiveness contain seven items each while Trainer Competence and Learner Engagement contain six each. The construct scores summarise questionnaire responses; they do not measure observed job performance or a Bank-wide training result.
+
+1. What are respondents’ perceptions of Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness?
+
+2. What associations are reported among the four study constructs?
+
+3. To what extent do Hybrid Learning, Trainer Competence, and Learner Engagement jointly predict Training Effectiveness?
+
+SPSS Statistics 23 was used to describe responses and test the relationships among the four constructs. The regression model used 102 valid cases.
+
+The multiple-regression model is:
+
+In this model, Training Effectiveness is the dependent variable. Hybrid Learning, Trainer Competence, and Learner Engagement are entered together as independent variables. The overall F-test determines whether the three predictors jointly explain a statistically significant amount of variation in Training Effectiveness. The coefficient table then shows each predictor’s adjusted association after the other predictors are considered.
+
+Pearson correlations provide context for interpreting the regression results. These analyses establish association within the selected sample rather than cause and effect.
+
+The respondent-profile summary was produced in an Excel workbook. The supplementary comparisons in Chapter 4 were calculated from the corresponding 102-record subset of the frozen 103-record scored CSV. They are distinguished from the supplied SPSS viewer results because several of that viewer’s additional tests used 103 cases. The saved SPSS data file is needed to confirm exact case-by-case agreement between the two sources before final submission. The supplementary results are not used to decide the main hypothesis.
+
+This source distinction also governs the descriptive tables. The main construct and regression figures are transcribed from the saved SPSS output, whereas the profile frequencies and supplementary item distributions come from the selected scored records. Their tables label the source and case count. Where a 103-case SPSS item mean is discussed beside a 102-case supplementary frequency distribution, the two numbers are not presented as if they were calculated from an identical set of respondents.
+
+At the start of main fieldwork, the academic guide-approved questionnaire was also piloted online with 20 eligible employees. The pilot opened on 15 September 2026, and all pilot responses had been submitted by 16 September. Main-study collection began on 15 September in parallel, using the same approved instrument. The pilot checked clarity, completion burden, Union Vidya wording, relevance, and repetition. Feedback did not identify a systematic issue requiring deletion of a scored item; no scored wording was changed during main collection. Pilot records were stored separately and excluded from the main analysis.
+
+The pilot feedback gave a practical check on how long the form took to complete. The mean completion time was 14.3 minutes, with a median of 14 minutes. Sixteen respondents considered the length about right and four considered it too long. Individual comments pointed to possible overlap between Questions 5 and 6 and between Questions 14 and 15; one respondent found Question 24 difficult when thinking about more than one programme. These comments were considered against the instruction to answer about one selected programme. They did not show a repeated difficulty across the pilot group, and no scored question was removed.
+
+Preliminary Cronbach’s alpha values in the 20 pilot responses ranged from .879 to .929 across the four item blocks. At that size, these figures are a check on whether the items within each block moved together, not a full validation of the questionnaire. The main-sample SPSS output was reviewed separately after collection.
+
+The SPSS analysis reports one reliability analysis across all 26 Likert-scale items. The overall Cronbach’s alpha is .980239. This indicates very high internal consistency for the complete item set in the SPSS analysis file. Because the output does not provide four separate reliability runs, it is not used to claim separate alpha values for Hybrid Learning, Trainer Competence, Learner Engagement, or Training Effectiveness.
+
+Content relevance is supported by the questionnaire evidence map. Hybrid Learning items are based on blended-learning integration and workplace-access literature. Trainer Competence and Learner Engagement items are based on workplace blended-learning and engagement literature. Training Effectiveness items are based on corporate training evaluation and transfer literature, including Bahl, Kiran and Sharma’s (2024) banking evaluation context. The academic guide’s review supports the practical suitability of the wording for this academic study.
+
+Participation was voluntary, and the survey avoided personal identifiers and confidential Bank data. Respondents were informed that the study was for academic use and that only combined results would be reported.
+
+The study uses a non-probability sample, so its findings cannot be generalised statistically to all Bank employees. It is cross-sectional and based on employee perceptions; therefore, it cannot establish causation. The same respondent assessed programme experience, trainer competence, engagement, and training effectiveness, which may strengthen observed associations through a common self-report condition. SPSS provides one overall 26-item alpha rather than separate construct-level reliability estimates. One record was excluded listwise from the regression because a Trainer Competence mean was missing in the analysis file.
+
+These limitations define the study’s contribution. It offers a focused account of how eligible respondents experienced Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness in the Union Bank context, while keeping conclusions within the evidence available.

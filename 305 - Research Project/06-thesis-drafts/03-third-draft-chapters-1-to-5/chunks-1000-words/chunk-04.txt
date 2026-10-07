@@ -1,0 +1,41 @@
+Hybrid Training and Effectiveness in Corporate Settings
+
+Kim (2022) supplies the corporate training evidence. In South Korean automotive sales training, the delivery format changed across traditional, fully digital, and hybrid arrangements. The analysis covers 583 training instances in 2019–2020: 325 traditional, 140 fully digital, and 118 hybrid. Unlike the more self-directed fully digital format, the hybrid format included online and offline activity.
+
+Training was evaluated with Kim’s Content, Instructional Design, Programmed Learning, and Recommendation (CIP-R) framework, which covers content, design, personalised learning, perceived competence, and recommendation. Reported effectiveness fell when delivery moved from traditional to fully digital training and rose after hybrid delivery was introduced. Instructor engagement, duration, personalised learning, confidence and competence, and job-related skill level were among the factors associated with the reported outcome.
+
+The ordering of Kim’s group means matters: traditional training ranked highest, hybrid training next, and fully digital training lowest. The difference between hybrid and fully digital delivery was not statistically significant. Kim therefore cannot support a general claim that hybrid training is superior. The paper is more useful for showing why delivery design, instructor involvement, and practice should be considered when evaluating a corporate programme.
+
+Kim’s findings inform the present measurement choices. Training Effectiveness extends beyond a pleasant immediate reaction; Hybrid Learning concerns the quality of the connection between modes; and Trainer Competence remains separate because access to digital content does not replace guidance and feedback.
+
+The word “hybrid” does not tell us whether an employee could open the materials, prepare in time, participate, or practise. These details are especially relevant when staff attend from different branches while regular work continues. For that reason, the Union Bank questionnaire asks about one programme’s connected activities and available support. It does not require employees to compare formats they may never have experienced.
+
+Kim compares corporate delivery arrangements. This thesis instead asks individual bank employees whether one programme helped them understand and apply work-related learning. The designs cannot be expected to produce identical results, but the corporate comparison makes the employee-level question worth examining.
+
+Uddin, Ahamed, Jakowan, Islam and Nahar (2026) studied 150 employees with blended-learning experience. They examined soft-skill development and knowledge acquisition in relation to employee performance. Both learning-related variables had positive relationships with blended learning, while the direct relationship with performance was not significant after those pathways were considered. Their result cautions against inferring a work outcome from delivery format alone.
+
+Uddin et al. provide supporting workplace literature. Testing their specific soft-skill, knowledge-acquisition, and performance pathways would require measures that are outside this four-construct survey.
+
+Trainer Competence in Hybrid Training
+
+When training moves between a platform and an in-person session, the trainer helps employees make sense of the sequence. Clear subject explanations, links between activities, suitable digital-tool use, questions, and feedback can all matter. Without such support, completion of an online task may remain disconnected from the employee’s responsibilities.
+
+Technical platform quality and trainer competence are different questions. Material may be available online without an explanation of its purpose; a knowledgeable trainer may also struggle when employees cannot access that material. The questionnaire therefore asks about programme design and trainer support in separate blocks.
+
+No selected base paper tests Trainer Competence and Learner Engagement together in this exact workplace model. Kim (2022) discusses instructors, participation, practice, and design in corporate training. Mulaudzi (2021) addresses facilitation and practical access barriers at work. In a university setting, Ansari et al. (2023) associate blended-learning training with lecturer and student competence and satisfaction. That population differs from bank employees, but the study adds support for examining facilitation rather than treating technology availability as enough.
+
+These sources help distinguish the trainer’s contribution from the employee’s response. The Trainer Competence items cover explanation, digital facilitation, connections across modes, participation support, and feedback. The Learner Engagement items concern attention, effort, involvement, questions, and interest. A favourable trainer rating is not automatically an account of active learner participation.
+
+Learner Engagement
+
+Engagement concerns active involvement, including attention, effort, participation, interest, and asking for clarification. A login or attendance record cannot show whether someone tried to understand a changing procedure. Completion is therefore an incomplete account of the learning process.
+
+Schaufeli, Bakker and Salanova (2006) describe work engagement through vigour, dedication, and absorption. Their scale is not a measure of participation in one training programme. The present items draw only on the broader idea of active effort: respondents report their attention, participation, involvement, questions, and interest during the selected programme.
+
+Learner Engagement remains an independent variable because programme design and trainer skill do not fully determine an employee’s attention or participation. Time pressure, earlier experience, digital confidence, motivation, and branch conditions can also shape the response. The model therefore examines engagement’s own association with Training Effectiveness rather than presuming that it sits in a fixed sequence between the other variables and the outcome.
+
+Training Effectiveness
+
+Kirkpatrick’s framework separates reaction, learning, behaviour, and results. That distinction prevents a positive reaction to a session from standing in for all training outcomes. An employee may enjoy a session without understanding it, or understand it without later having a chance to apply the learning.
+
+Bahl, Kiran and Sharma (2024) provide the Indian banking base paper. Their open-access evaluation covers 402 managerial and non-managerial employees from public, private, and foreign-sector banks and uses Kirkpatrick’s four levels. It establishes the relevance of training evaluation in banking. The paper does not examine hybrid delivery, trainer competence, learner engagement, or Union Vidya, which is why it cannot supply the present model by itself.
