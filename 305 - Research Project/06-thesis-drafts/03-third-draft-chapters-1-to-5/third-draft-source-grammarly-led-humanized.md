@@ -28,9 +28,9 @@ There are four aspects which describe that experience. Hybrid Learning refers to
 
 The conceptual framework is:
 
-    Hybrid Learning ────────┐
+    Hybrid Learning    ─────┐
     Trainer Competence ─────┼──→ Training Effectiveness
-    Learner Engagement ────┘
+    Learner Engagement ─────┘
 
 Within the framework, Hybrid Learning, Trainer Competence, and Learner Engagement all act as separate predictors of perceived Training Effectiveness. It is not necessary for a well-organised programme and a capable trainer to lead to the same degree of engagement among all employees. Factors such as workload, available time, previous experience, digital confidence, motivation, and the conditions at the branch may also play a role. The questionnaire documents the way in which employees experienced these various aspects of the programme; the associations thus obtained are then interpreted within the constraints of a single self-report survey.
 
@@ -293,9 +293,9 @@ Training-transfer literature also considers what happens after a session. An emp
 
 The theoretical perspectives support the following framework:
 
-    Hybrid Learning ────────┐
+    Hybrid Learning    ─────┐
     Trainer Competence ─────┼──→ Training Effectiveness
-    Learner Engagement ────┘
+    Learner Engagement ─────┘
 
 Hybrid Learning, Trainer Competence, and Learner Engagement are included in the model as independent variables. The arrows indicate the SPSS predictor–outcome analysis, without stating any order among the predictors or showing causation.
 
@@ -389,9 +389,9 @@ Each respondent filled in the survey once regarding a hybrid course which they h
 
 The model is:
 
-    Hybrid Learning ────────┐
+    Hybrid Learning    ─────┐
     Trainer Competence ─────┼──→ Training Effectiveness
-    Learner Engagement ────┘
+    Learner Engagement ─────┘
 
 The predictors may be related, but the model does not assume that programme design or trainer skill determines engagement. Other employee and work conditions outside the questionnaire may matter too.
 

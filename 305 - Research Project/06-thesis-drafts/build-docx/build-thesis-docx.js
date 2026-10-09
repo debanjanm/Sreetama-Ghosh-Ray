@@ -9,7 +9,7 @@ const { Resvg } = require("@resvg/resvg-js");
 const {
   Document, Paragraph, TextRun, HeadingLevel, AlignmentType, Table, TableRow, TableCell, WidthType,
   ShadingType, ImageRun, PageBreak, VerticalAlign, Bookmark, SimpleField, TabStopType, PageNumber,
-  Packer, Footer, UnderlineType,
+  Packer, Footer, UnderlineType, BorderStyle, PageBorderDisplay, PageBorderOffsetFrom, PageBorderZOrder,
 } = require("docx");
 
 const SRC_DIR = path.resolve(process.argv[2]);
@@ -20,15 +20,17 @@ const LOGO = path.join(SRC_DIR, "mssw-logo.png");
 
 const STUDENT = "Sreetama Ghosh Ray";
 const REGNO = "251578222039";
-const GUIDE = "Dr. E. T. Evangeline Joshua";
+const GUIDE = "Dr. E. T. EVANGELINE"; // as printed in the department's sample reports
+const GUIDE_COVER = "Dr. E. T. EVANGELINE, MBA, M.Phil, Ph.D.";
 const MONTH_YEAR = "October 2026";
 
 const FONT = "Times New Roman";
 const SZ = 24;
 const LINE = { line: 360, lineRule: "auto" };
-const LEFT = Number(process.env.LEFT_TW || 1800), RIGHT = Number(process.env.RIGHT_TW || 1800), TOPBOT = Number(process.env.TOPBOT_TW || 1440);
-const PARA_AFTER = Number(process.env.PARA_AFTER || 280), TABLE_SZ = Number(process.env.TABLE_SZ || 24), TABLE_LINE = Number(process.env.TABLE_LINE || 360), IMG_W = Number(process.env.IMG_W || 540);
-const CELL_TB = Number(process.env.CELL_TB || 140);
+const LEFT = Number(process.env.LEFT_TW || 1440), RIGHT = Number(process.env.RIGHT_TW || 1440), TOPBOT = Number(process.env.TOPBOT_TW || 1440);
+const PARA_AFTER = Number(process.env.PARA_AFTER || 320), TABLE_SZ = Number(process.env.TABLE_SZ || 24), TABLE_LINE = Number(process.env.TABLE_LINE || 360), IMG_W = Number(process.env.IMG_W || 576);
+const CELL_TB = Number(process.env.CELL_TB || 240);
+const BORDER_SZ = Number(process.env.BORDER_SZ || 12), BORDER_GAP = Number(process.env.BORDER_GAP || 24); // eighths of a point; points from page edge
 const USABLE = 11906 - LEFT - RIGHT; // A4
 
 let seq = 0;
@@ -95,6 +97,15 @@ function renderTable(tok) {
   });
 }
 
+// Conceptual framework: three predictors -> Training Effectiveness (replaces the text diagram)
+function frameworkParagraph() {
+  const box = (y, label) => `<rect x="20" y="${y}" width="330" height="72" rx="8" fill="#F2F2F2" stroke="#222" stroke-width="2.5"/><text x="185" y="${y + 46}" font-family="Times New Roman, Liberation Serif, serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#000">${label}</text>`;
+  const arrow = (y, ty) => `<line x1="350" y1="${y + 36}" x2="634" y2="${ty}" stroke="#222" stroke-width="2.5" marker-end="url(#a)"/>`;
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340"><defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#222"/></marker></defs><rect width="1000" height="340" fill="#fff"/>${arrow(20, 135)}${arrow(134, 170)}${arrow(248, 205)}${box(20, "Hybrid Learning")}${box(134, "Trainer Competence")}${box(248, "Learner Engagement")}<rect x="640" y="110" width="340" height="120" rx="8" fill="#F2F2F2" stroke="#222" stroke-width="2.5"/><text x="810" y="160" font-family="Times New Roman, Liberation Serif, serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#000">Training</text><text x="810" y="198" font-family="Times New Roman, Liberation Serif, serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#000">Effectiveness</text></svg>`;
+  const r = new Resvg(svg, { fitTo: { mode: "width", value: 2000 } }).render();
+  return new Paragraph({ alignment: AlignmentType.CENTER, keepNext: false, spacing: { before: 120, after: 200 }, children: [new ImageRun({ type: "png", data: r.asPng(), transformation: { width: 460, height: 156 }, altText: { name: "framework", description: "Hybrid Learning, Trainer Competence and Learner Engagement as predictors of Training Effectiveness", title: "Conceptual framework" } })] });
+}
+
 function renderImage(tok) {
   const svgPath = path.resolve(SRC_DIR, tok.href);
   const rendered = new Resvg(fs.readFileSync(svgPath), { fitTo: { mode: "width", value: 1600 } }).render();
@@ -149,13 +160,14 @@ function renderBlock(tok) {
       const lead = inCh4 && afterSource ? [new TextRun({ text: "Inference: ", bold: true, font: FONT, size: SZ })] : [];
       afterSource = false;
       if (inRefs) return [para(runs(tok.tokens, {}, SZ), { alignment: AlignmentType.LEFT, indent: { left: 720, hanging: 720 }, spacing: { line: 360, lineRule: "auto", after: 120 } })];
-      return [para([...lead, ...runs(tok.tokens, {}, SZ)], hasBreak(tok.tokens) ? { alignment: AlignmentType.LEFT } : {})];
+      return [para([...lead, ...runs(tok.tokens, {}, SZ)], { ...(hasBreak(tok.tokens) ? { alignment: AlignmentType.LEFT } : {}), ...(plain.trim().endsWith(":") ? { keepNext: true } : {}) })];
     }
     case "blockquote":
       return tok.tokens.flatMap((t) => t.type === "paragraph"
         ? [new Paragraph({ children: runs(t.tokens, { italics: true }, SZ), indent: { left: 720, right: 720 }, spacing: { ...LINE, after: 160 }, alignment: AlignmentType.JUSTIFIED })]
         : renderBlock(t));
     case "code":
+      if (/┐/.test(tok.text)) return [frameworkParagraph()];
       return tok.text.split("\n").map((line, i, a) => new Paragraph({
         alignment: AlignmentType.LEFT,
         indent: { left: 720 },
@@ -208,7 +220,8 @@ function acknowledgementParas(tokens) {
   const i = tokens.findIndex((t) => t.type === "heading" && t.text === "Acknowledgement");
   if (i < 0) throw new Error("Acknowledgement section not found in the Markdown");
   const out = [];
-  for (let j = i + 1; j < tokens.length && !(tokens[j].type === "heading"); j++) if (tokens[j].type === "paragraph") out.push(para(runs(tokens[j].tokens, {}, SZ)));
+  const fixName = (ts) => (ts || []).map((t) => { const n = { ...t }; if (typeof t.text === "string") n.text = t.text.replace("Dr. E. T. Evangeline Joshua", "Dr. E. T. Evangeline"); if (t.tokens) n.tokens = fixName(t.tokens); return n; });
+  for (let j = i + 1; j < tokens.length && !(tokens[j].type === "heading"); j++) if (tokens[j].type === "paragraph") out.push(para(runs(fixName(tokens[j].tokens), {}, SZ)));
   return out;
 }
 
@@ -225,7 +238,7 @@ function front(title, ackTokens) {
     center([B("MASTER OF ARTS IN")], { spacing: { after: 0 } }),
     center([B("HUMAN RESOURCE MANAGEMENT")], { spacing: { after: 240 } }),
     center([T("Under the guidance of")], { spacing: { after: 120 } }),
-    center([B(`${GUIDE}`)], { spacing: { after: 360 } }),
+    center([B(GUIDE_COVER)], { spacing: { after: 360 } }),
     new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 360 }, children: [new ImageRun({ type: "png", data: logo, transformation: { width: 120, height: 118 }, altText: { name: "mssw-logo.png", description: "Madras School of Social Work seal", title: "MSSW seal" } })] }),
     center([B("P.G. DEPARTMENT OF HUMAN RESOURCE MANAGEMENT")], { spacing: { after: 60 } }),
     center([B("MADRAS SCHOOL OF SOCIAL WORK")], { spacing: { after: 60 } }),
@@ -299,8 +312,18 @@ async function main() {
       heading3: { run: { font: FONT, size: 24, bold: true, italics: true, color: "000000" }, paragraph: { spacing: { before: 200, after: 120 } } },
     } },
     sections: [{
-      properties: { page: { margin: { top: TOPBOT, bottom: TOPBOT, left: LEFT, right: RIGHT } } },
-      footers: { default: new Footer({ children: [center([new TextRun({ children: [PageNumber.CURRENT], font: FONT, size: 24 })])] }) },
+      properties: { page: {
+        margin: { top: TOPBOT, bottom: TOPBOT, left: LEFT, right: RIGHT },
+        // frame on every page, as in the MSSW reference reports (about 1/3 inch from the page edge)
+        borders: {
+          pageBorders: { display: PageBorderDisplay.ALL_PAGES, offsetFrom: PageBorderOffsetFrom.PAGE, zOrder: PageBorderZOrder.FRONT },
+          pageBorderTop: { style: BorderStyle.SINGLE, size: BORDER_SZ, color: "000000", space: BORDER_GAP },
+          pageBorderBottom: { style: BorderStyle.SINGLE, size: BORDER_SZ, color: "000000", space: BORDER_GAP },
+          pageBorderLeft: { style: BorderStyle.SINGLE, size: BORDER_SZ, color: "000000", space: BORDER_GAP },
+          pageBorderRight: { style: BorderStyle.SINGLE, size: BORDER_SZ, color: "000000", space: BORDER_GAP },
+        },
+      } },
+      footers: { default: new Footer({ children: [new Paragraph({ alignment: AlignmentType.RIGHT, children: [new TextRun({ children: [PageNumber.CURRENT], font: FONT, size: 24 })] })] }) },
       children: [
         ...front(title, tokens),
         ...contentsPage(),
