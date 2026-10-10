@@ -93,11 +93,13 @@ In the SPSS construct summary, the means were HL **4.148**, TC **4.158**, LE **4
 
 ### 9. Standard deviation: how different were the answers?
 
-**Standard deviation (SD)** measures spread around the mean. It is not literally the average distance, but a larger SD usually means answers vary more.
+The **average** tells us the group's typical rating. **Standard deviation (SD)** tells us whether people gave similar ratings or very different ones. If everyone gives exactly the same rating, SD is **0**. As their answers spread out, SD becomes larger.
 
-*Everyday example:* Two teams each average 40 runs. Team A scores 40, 40, 40, 40, 40. Team B scores 0, 20, 40, 60, 80. Their means match, but Team B's scores are more spread out, so Team B has the larger SD.
+*Made-up training example:* Five employees in Group A rate a programme **4, 4, 4, 4, 4**. Five in Group B rate it **3, 3, 4, 5, 5**. Both groups have the same average, **4**. But Group A agrees completely, while Group B's opinions differ. Group A has SD **0**; Group B has a larger SD.
 
-The four construct SDs in the PDF were **.793 to .863**. Employees did not all rate their programmes alike, even though the four means were favourable.
+In the thesis, the four SDs were **.793 to .863** on the 1–5 scale. So employees generally gave favourable ratings, but they did not all give the same ratings. SD tells us about **agreement or variation**, not whether the training itself was good or bad.
+
+**Say:** “The average tells me the typical rating. Standard deviation tells me how much employees' ratings differed from one another.”
 
 ### 10. Minimum and maximum: what were the ends?
 
