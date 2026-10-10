@@ -18,7 +18,7 @@ from scipy import stats
 
 
 ROOT = Path(__file__).resolve().parents[1]
-CSV = ROOT / "03-scored-dataset/final-analysis-data.csv"
+CSV = ROOT / "04-scored-dataset/final-analysis-data.csv"
 OUT = Path(__file__).resolve().parent / "outputs/v5-profile-summary"
 FIGURES = ROOT.parent / "08-thesis-drafts/03-third-draft-chapters-1-to-5/figures"
 

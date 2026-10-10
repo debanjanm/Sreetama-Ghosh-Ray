@@ -4,8 +4,8 @@ This index identifies the native SPSS graphics retained in the frozen output arc
 
 ## Output location
 
-- [Frozen SPSS-output record](../../../07-research-data-and-analysis/07-v5-spss-output-freeze/README.md)
-- [Original SPSS archive](../../../07-research-data-and-analysis/07-v5-spss-output-freeze/source/ANALYSISS%20RESEARCH%20FINAL%20ONE.spv.zip)
+- [Frozen SPSS-output record](../../../07-research-data-and-analysis/08-v5-spss-output-freeze/README.md)
+- [Original SPSS archive](../../../07-research-data-and-analysis/08-v5-spss-output-freeze/source/ANALYSISS%20RESEARCH%20FINAL%20ONE.spv.zip)
 
 ## Construct-distribution diagnostics
 

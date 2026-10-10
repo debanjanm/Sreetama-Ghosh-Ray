@@ -12,7 +12,7 @@ This stage reports reliability, Pearson correlations, and the two planned regres
 - [Machine-readable summary](inferential-summary.json)
 - [Correlation figure](figure-4-31-correlation-matrix.svg)
 
-The [SPSS syntax](../03-scored-dataset/final-analysis-spss-syntax.sps) remains the reproducible SPSS cross-check for the same dataset.
+The [SPSS syntax](../04-scored-dataset/final-analysis-spss-syntax.sps) remains the reproducible SPSS cross-check for the same dataset.
 
 ## Boundary
 

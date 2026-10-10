@@ -14,7 +14,7 @@ Hybrid Learning, Trainer Competence, and Learner Engagement are the independent 
 
 ## Analytical Basis
 
-The Version 5 result source is the [SPSS output freeze](../../07-research-data-and-analysis/07-v5-spss-output-freeze/README.md). The supplied output reports a multiple-regression analysis with 102 valid cases. It is not a case-level raw-data file.
+The Version 5 result source is the [SPSS output freeze](../../07-research-data-and-analysis/08-v5-spss-output-freeze/README.md). The supplied output reports a multiple-regression analysis with 102 valid cases. It is not a case-level raw-data file.
 
 ## Contents
 

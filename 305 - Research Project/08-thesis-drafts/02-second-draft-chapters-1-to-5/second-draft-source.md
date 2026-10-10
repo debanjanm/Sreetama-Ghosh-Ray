@@ -491,7 +491,7 @@ Of 132 received records, 103 were retained. The final sample contains 49 digital
 
 *Source: Primary data, N = 103.*
 
-![Figure 4.1: Age group](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-1-age-group.svg)
+![Figure 4.1: Age group](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-1-age-group.svg)
 
 **Table 4.3: Length of Service of Respondents**
 
@@ -504,7 +504,7 @@ Of 132 received records, 103 were retained. The final sample contains 49 digital
 
 *Source: Primary data, N = 103.*
 
-![Figure 4.2: Service length](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-2-service-length.svg)
+![Figure 4.2: Service length](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-2-service-length.svg)
 
 **Table 4.4: Job Level of Respondents**
 
@@ -516,7 +516,7 @@ Of 132 received records, 103 were retained. The final sample contains 49 digital
 
 *Source: Primary data, N = 103.*
 
-![Figure 4.3: Job level](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-3-job-level.svg)
+![Figure 4.3: Job level](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-3-job-level.svg)
 
 ### 4.1.3 Construct-Level Descriptive Statistics
 
@@ -531,7 +531,7 @@ Of 132 received records, 103 were retained. The final sample contains 49 digital
 
 *Source: Primary data, N = 103.*
 
-![Figure 4.4: Construct means](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-4-construct-mean-scores.svg)
+![Figure 4.4: Construct means](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-4-construct-mean-scores.svg)
 
 All construct means were above the neutral midpoint. Learner Engagement had the highest mean (M = 4.303), while Hybrid Learning had the lowest (M = 4.144).
 
@@ -593,32 +593,32 @@ The full five-category response distributions and charts are provided in Appendi
 
 *Source: Primary data, N = 103.*
 
-![Figure 4.5: HL1 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-5-hl1-response-distribution.svg)
-![Figure 4.6: HL2 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-6-hl2-response-distribution.svg)
-![Figure 4.7: HL3 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-7-hl3-response-distribution.svg)
-![Figure 4.8: HL4 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-8-hl4-response-distribution.svg)
-![Figure 4.9: HL5 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-9-hl5-response-distribution.svg)
-![Figure 4.10: HL6 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-10-hl6-response-distribution.svg)
-![Figure 4.11: HL7 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-11-hl7-response-distribution.svg)
-![Figure 4.12: TC1 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-12-tc1-response-distribution.svg)
-![Figure 4.13: TC2 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-13-tc2-response-distribution.svg)
-![Figure 4.14: TC3 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-14-tc3-response-distribution.svg)
-![Figure 4.15: TC4 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-15-tc4-response-distribution.svg)
-![Figure 4.16: TC5 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-16-tc5-response-distribution.svg)
-![Figure 4.17: TC6 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-17-tc6-response-distribution.svg)
-![Figure 4.18: LE1 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-18-le1-response-distribution.svg)
-![Figure 4.19: LE2 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-19-le2-response-distribution.svg)
-![Figure 4.20: LE3 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-20-le3-response-distribution.svg)
-![Figure 4.21: LE4 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-21-le4-response-distribution.svg)
-![Figure 4.22: LE5 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-22-le5-response-distribution.svg)
-![Figure 4.23: LE6 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-23-le6-response-distribution.svg)
-![Figure 4.24: TE1 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-24-te1-response-distribution.svg)
-![Figure 4.25: TE2 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-25-te2-response-distribution.svg)
-![Figure 4.26: TE3 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-26-te3-response-distribution.svg)
-![Figure 4.27: TE4 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-27-te4-response-distribution.svg)
-![Figure 4.28: TE5 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-28-te5-response-distribution.svg)
-![Figure 4.29: TE6 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-29-te6-response-distribution.svg)
-![Figure 4.30: TE7 response distribution](../../07-research-data-and-analysis/04-descriptive-analysis/charts/figure-4-30-te7-response-distribution.svg)
+![Figure 4.5: HL1 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-5-hl1-response-distribution.svg)
+![Figure 4.6: HL2 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-6-hl2-response-distribution.svg)
+![Figure 4.7: HL3 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-7-hl3-response-distribution.svg)
+![Figure 4.8: HL4 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-8-hl4-response-distribution.svg)
+![Figure 4.9: HL5 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-9-hl5-response-distribution.svg)
+![Figure 4.10: HL6 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-10-hl6-response-distribution.svg)
+![Figure 4.11: HL7 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-11-hl7-response-distribution.svg)
+![Figure 4.12: TC1 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-12-tc1-response-distribution.svg)
+![Figure 4.13: TC2 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-13-tc2-response-distribution.svg)
+![Figure 4.14: TC3 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-14-tc3-response-distribution.svg)
+![Figure 4.15: TC4 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-15-tc4-response-distribution.svg)
+![Figure 4.16: TC5 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-16-tc5-response-distribution.svg)
+![Figure 4.17: TC6 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-17-tc6-response-distribution.svg)
+![Figure 4.18: LE1 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-18-le1-response-distribution.svg)
+![Figure 4.19: LE2 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-19-le2-response-distribution.svg)
+![Figure 4.20: LE3 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-20-le3-response-distribution.svg)
+![Figure 4.21: LE4 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-21-le4-response-distribution.svg)
+![Figure 4.22: LE5 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-22-le5-response-distribution.svg)
+![Figure 4.23: LE6 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-23-le6-response-distribution.svg)
+![Figure 4.24: TE1 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-24-te1-response-distribution.svg)
+![Figure 4.25: TE2 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-25-te2-response-distribution.svg)
+![Figure 4.26: TE3 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-26-te3-response-distribution.svg)
+![Figure 4.27: TE4 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-27-te4-response-distribution.svg)
+![Figure 4.28: TE5 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-28-te5-response-distribution.svg)
+![Figure 4.29: TE6 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-29-te6-response-distribution.svg)
+![Figure 4.30: TE7 response distribution](../../07-research-data-and-analysis/05-descriptive-analysis/charts/figure-4-30-te7-response-distribution.svg)
 
 ## 4.2 Inferential Analysis
 
@@ -648,7 +648,7 @@ The full five-category response distributions and charts are provided in Appendi
 
 ***p < .001, two-tailed. Source: Primary data, N = 103.***
 
-![Figure 4.31: Correlation matrix](../../07-research-data-and-analysis/05-inferential-analysis/figure-4-31-correlation-matrix.svg)
+![Figure 4.31: Correlation matrix](../../07-research-data-and-analysis/06-inferential-analysis/figure-4-31-correlation-matrix.svg)
 
 **Table 4.12: Hypothesis Decisions**
 

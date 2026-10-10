@@ -13,7 +13,7 @@ All calculations use the 103 profile-complete records in the Stage 3 scored data
 
 ## Reproducibility
 
-The companion [SPSS syntax](../03-scored-dataset/final-analysis-spss-syntax.sps) imports the same final CSV and specifies the same four reliability tests, correlation matrix, and regression models. It is provided for guide review and SPSS cross-checking; this record does not state that SPSS itself was run.
+The companion [SPSS syntax](../04-scored-dataset/final-analysis-spss-syntax.sps) imports the same final CSV and specifies the same four reliability tests, correlation matrix, and regression models. It is provided for guide review and SPSS cross-checking; this record does not state that SPSS itself was run.
 
 ## Main Results
 
