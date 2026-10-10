@@ -5,7 +5,7 @@ code blocks, References and appendices are left out. Run: python3 make_chunks_10
 import re, os, glob
 LIMIT = 950
 HERE = os.path.dirname(os.path.abspath(__file__))
-SRC = os.path.join(HERE, "..", "third-draft-source-prose-revision.md")
+SRC = os.path.join(HERE, "..", "..", "earlier-source-versions", "third-draft-source-prose-revision.md")
 
 def clean(t):
     t = re.sub(r"`([^`]*)`", r"\1", t); t = re.sub(r"\*\*([^*]+)\*\*", r"\1", t)

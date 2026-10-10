@@ -7,7 +7,7 @@ import re, glob, os
 
 CAP = 9400  # characters per chunk; Duplichecker limit is 10,000
 HERE = os.path.dirname(os.path.abspath(__file__))
-SRC = os.path.join(HERE, "..", "third-draft-source.md")
+SRC = os.path.join(HERE, "..", "..", "earlier-source-versions", "third-draft-source.md")
 SKIP_H1 = ("References", "Appendix A")  # bibliography and the questionnaire itself always match
 
 def clean(t):

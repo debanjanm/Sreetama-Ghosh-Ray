@@ -1,6 +1,6 @@
 # Chunk index
 
-Generated from `third-draft-source.md` by `make_chunks.py`. Lines refer to that file.
+Generated from `../../earlier-source-versions/third-draft-source.md` by `make_chunks.py`. Lines refer to that file.
 
 | # | File | Characters | Words | From section | To section | Source lines |
 | --- | --- | ---: | ---: | --- | --- | --- |

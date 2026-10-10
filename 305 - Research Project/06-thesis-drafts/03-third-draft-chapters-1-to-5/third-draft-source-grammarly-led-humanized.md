@@ -2,11 +2,11 @@
 
 # Acknowledgement
 
-I am grateful to Dr. J. S. Gunawathy, Principal-in-Charge, Madras School of Social Work, for her support throughout my M.A. Human Resource Management programme. I sincerely thank my Head of Department and guide, Dr. E. T. Evangeline Joshua, for her guidance, thoughtful feedback, and encouragement while I developed and completed this thesis.
+I am grateful to **Dr. J. S. Gunawathy**, Principal-in-Charge, Madras School of Social Work, for her support throughout my M.A. Human Resource Management programme. I sincerely thank my Head of Department and guide, **Dr. E. T. Evangeline Joshua**, for her guidance, thoughtful feedback, and encouragement while I developed and completed this thesis.
 
-I thank Devi Kumar and Ms. Karthiga, senior HR officers at Union Bank of India, Regional Office Chennai South, for helping me approach branches and complete my fieldwork. I am also grateful to Sharada Devi, Regional Head, for her mentorship and guidance during my internship. My thanks go to the officials and employees of the Regional Office and the branches I visited for their time, cooperation, and participation in the survey.
+I thank **Devi Kumar** and **Ms. Karthiga**, senior HR officers at Union Bank of India, Regional Office Chennai South, for helping me approach branches and complete my fieldwork. I am also grateful to **Sharada Devi**, Regional Head, for her mentorship and guidance during my internship. My thanks go to the officials and employees of the Regional Office and the branches I visited for their time, cooperation, and participation in the survey.
 
-I am deeply grateful to my father, Mr. Syamal Ghosh Ray, retired General Manager of erstwhile Andhra Bank, for sharing his experience of banking before and after the 2020 amalgamation. I also thank Mr. Vikas Babu Chittiprolu, General Manager – Operations, Head Office, Mumbai, for his insights into Union Bank’s post-merger operations and learning initiatives, and Mr. Debanjan Mondal, Senior Manager, Standard Chartered Bank, for sharing his practical perspective on changing training practices in banking.
+I am deeply grateful to my father, **Mr. Syamal Ghosh Ray**, retired General Manager of erstwhile Andhra Bank, for sharing his experience of banking before and after the 2020 amalgamation. I also thank **Mr. Vikas Babu Chittiprolu**, General Manager – Operations, Head Office, Mumbai, for his insights into Union Bank’s post-merger operations and learning initiatives, and **Mr. Debanjan Mondal**, Senior Manager, Standard Chartered Bank, for sharing his practical perspective on changing training practices in banking.
 
 Their support helped me complete this research and made the experience an important part of my academic and professional learning.
 

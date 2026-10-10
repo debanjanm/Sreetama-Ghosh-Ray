@@ -1,15 +1,17 @@
 // Builds the thesis DOCX (MSSW layout, modelled on recent MSSW project reports) from a Markdown draft.
 // Usage (from "305 - Research Project"):
-//   NODE_PATH=$(pwd)/node_modules node 06-thesis-drafts/build-docx/build-thesis-docx.js <draft-folder> <source.md> <output.docx> [pages.json]
+//   NODE_PATH=$(pwd)/06-thesis-drafts/build-docx/node_modules node 06-thesis-drafts/build-docx/build-thesis-docx.js <draft-folder> <source.md> <output.docx> [pages.json]
 // pages.json (optional): { "<entry text>": page } used as the starting value of the page-number fields.
 const fs = require("fs");
+const os = require("os");
+const { execFileSync } = require("child_process");
 const path = require("path");
 const { marked } = require("marked");
 const { Resvg } = require("@resvg/resvg-js");
 const {
   Document, Paragraph, TextRun, HeadingLevel, AlignmentType, Table, TableRow, TableCell, WidthType,
   ShadingType, ImageRun, PageBreak, VerticalAlign, Bookmark, SimpleField, TabStopType, PageNumber,
-  Packer, Footer, UnderlineType, BorderStyle, PageBorderDisplay, PageBorderOffsetFrom, PageBorderZOrder,
+  Packer, Footer, UnderlineType, BorderStyle, HeightRule, PageBorderDisplay, PageBorderOffsetFrom, PageBorderZOrder,
 } = require("docx");
 
 const SRC_DIR = path.resolve(process.argv[2]);
@@ -127,7 +129,35 @@ function renderBlock(tok) {
       if (tok.depth <= 2) tocEntries.push({ text, level: tok.depth, id });
       const level = tok.depth === 1 ? HeadingLevel.HEADING_1 : tok.depth === 2 ? HeadingLevel.HEADING_2 : HeadingLevel.HEADING_3;
       const out = [];
-      if (tok.depth === 1) out.push(new Paragraph({ children: [new PageBreak()] }));
+      if (tok.depth === 1) {
+        const ch = /^Chapter (\d+) — (.+)$/.exec(text);
+        const divider = ch ? [`CHAPTER - ${ch[1]}`, ch[2].toUpperCase()] : /^Appendix A/.test(text) ? ["APPENDIX"] : null;
+        out.push(new Paragraph({ children: [new PageBreak()] }));
+        if (divider) {
+          // separate title page before each chapter and the appendix, as in the department's sample and recent reports;
+          // a fixed-height one-cell table keeps the title in the vertical middle of the page
+          const none = { style: BorderStyle.NONE, size: 0, color: "FFFFFF" };
+          out.push(new Table({
+            width: { size: USABLE, type: WidthType.DXA },
+            columnWidths: [USABLE],
+            borders: { top: none, bottom: none, left: none, right: none, insideHorizontal: none, insideVertical: none },
+            rows: [new TableRow({
+              height: { value: 13300, rule: HeightRule.EXACT },
+              children: [new TableCell({
+                width: { size: USABLE, type: WidthType.DXA },
+                verticalAlign: VerticalAlign.CENTER,
+                borders: { top: none, bottom: none, left: none, right: none },
+                children: divider.map((line) => new Paragraph({
+                  alignment: AlignmentType.CENTER,
+                  spacing: { before: 120, after: 120, line: 360, lineRule: "auto" },
+                  children: [new TextRun({ text: line, font: FONT, size: 52, bold: true })],
+                })),
+              })],
+            })],
+          }));
+          out.push(new Paragraph({ spacing: { before: 0, after: 0, line: 240, lineRule: "auto" }, children: [new PageBreak()] }));
+        }
+      }
       out.push(new Paragraph({
         heading: level,
         keepNext: true,
@@ -225,6 +255,17 @@ function acknowledgementParas(tokens) {
   return out;
 }
 
+function reportPage() {
+  const dir = path.join(SRC_DIR, "submission");
+  const f = fs.existsSync(dir) ? fs.readdirSync(dir).find((x) => /^DB_report.*\.pdf$/.test(x)) : null;
+  if (!f) return [];
+  const prefix = path.join(os.tmpdir(), "db-report-p1");
+  execFileSync("pdftoppm", ["-png", "-r", "200", "-f", "1", "-l", "1", "-singlefile", path.join(dir, f), prefix]);
+  const data = fs.readFileSync(prefix + ".png");
+  const w = 590, h = Math.round(w * 841.89 / 595.3);
+  return [pb(), new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 0, after: 0, line: 240, lineRule: "auto" }, children: [new ImageRun({ type: "png", data, transformation: { width: w, height: h }, altText: { name: "similarity-report", description: "DrillBit similarity report, first page", title: "Similarity report" } })] })];
+}
+
 function front(title, ackTokens) {
   const TITLE = title.toUpperCase();
   const logo = fs.readFileSync(LOGO);
@@ -238,7 +279,8 @@ function front(title, ackTokens) {
     center([B("MASTER OF ARTS IN")], { spacing: { after: 0 } }),
     center([B("HUMAN RESOURCE MANAGEMENT")], { spacing: { after: 240 } }),
     center([T("Under the guidance of")], { spacing: { after: 120 } }),
-    center([B(GUIDE_COVER)], { spacing: { after: 360 } }),
+    center([B(GUIDE_COVER)], { spacing: { after: 60 } }),
+    center([B("Head of the Department")], { spacing: { after: 360 } }),
     new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 360 }, children: [new ImageRun({ type: "png", data: logo, transformation: { width: 120, height: 118 }, altText: { name: "mssw-logo.png", description: "Madras School of Social Work seal", title: "MSSW seal" } })] }),
     center([B("P.G. DEPARTMENT OF HUMAN RESOURCE MANAGEMENT")], { spacing: { after: 60 } }),
     center([B("MADRAS SCHOOL OF SOCIAL WORK")], { spacing: { after: 60 } }),
@@ -248,19 +290,18 @@ function front(title, ackTokens) {
     center([B(MONTH_YEAR.toUpperCase())]),
 
     pb(), pageTitle("BONAFIDE CERTIFICATE"),
-    para([T("This is to certify that the project titled “"), B(TITLE), T(`” is a project work done by Ms. ${STUDENT} (${REGNO}), a second year student of M.A. HRM, Madras School of Social Work (Autonomous), Egmore, Chennai in partial fulfilment of the requirement for the Award of the Degree of Master of Arts in Human Resource Management and that the project has not been used previously for the award of any Degree, Diploma, Scholarship, Fellowship or any other project title.`)]),
-    sign("Signature of the HOD"),
-    sign("Signature of the Guide"),
+    para([T("This is to certify that the project titled “"), B(TITLE), T(`” is a bonafide project work done by Ms. ${STUDENT} (Reg No: ${REGNO}), a second year student of M.A. HRM, Madras School of Social Work (Autonomous), Egmore, Chennai in partial fulfilment of the requirement for the Award of the Degree of Master of Arts in Human Resource Management and that the project has not been used previously for the award of any Degree, Diploma, Scholarship, Fellowship or any other project title.`)]),
+    sign("Signature of the Guide", "Signature of the HOD"),
 
     pb(), pageTitle("DECLARATION"),
     para([T(`I, ${STUDENT.toUpperCase()}, final year student of M.A. HRM hereby declare that the thesis entitled “`), B(TITLE), T(`” is the original work done by me under the guidance and supervision of ${GUIDE}, in partial fulfilment of the requirements for the award of the degree of Master of Arts in Human Resource Management, Madras School of Social Work. I further declare that the research work has not been submitted at any other University or Institution, for the award of any degree or diploma or fellowship.`)]),
-    sign("Signature of the Guide"),
-    sign("Signature of the Student"),
+    sign("Signature of the Guide", "Signature of the Student"),
     new Paragraph({ spacing: { before: 600 }, children: [B("PLACE: CHENNAI")] }),
     new Paragraph({ spacing: { before: 120 }, children: [B(`DATE: ${MONTH_YEAR}`)] }),
 
     pb(), pageTitle("ACKNOWLEDGEMENT"),
     ...acknowledgementParas(ackTokens),
+    ...reportPage(),
   ];
 }
 

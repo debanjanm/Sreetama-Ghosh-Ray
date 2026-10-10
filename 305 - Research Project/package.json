@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@resvg/resvg-js": "^2.6.2",
-    "docx": "^9.8.0",
-    "marked": "^18.0.14"
-  }
-}

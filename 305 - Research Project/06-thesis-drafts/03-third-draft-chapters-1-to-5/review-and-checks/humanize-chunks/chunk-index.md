@@ -1,6 +1,6 @@
 # Humanise chunks (max 5,000 words each)
 
-Source: `../third-draft-source-prose-revision.md`. Tables, captions, figures, References and appendices are not included.
+Source: `../../earlier-source-versions/third-draft-source-prose-revision.md`. Tables, captions, figures, References and appendices are not included.
 Edit one chunk at a time, then paste the revised paragraphs back at the line range shown.
 
 | Chunk | Words | Characters | Starts at | Ends at | Source lines |

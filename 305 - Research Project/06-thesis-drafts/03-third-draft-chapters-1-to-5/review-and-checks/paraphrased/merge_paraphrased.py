@@ -1,9 +1,9 @@
-"""Merge the pasted paraphrased chunks back into the revision draft -> ../third-draft-source-paraphrased.md
+"""Merge the pasted paraphrased chunks back into the revision draft -> ../../earlier-source-versions/third-draft-source-paraphrased.md
 Only chapter prose is replaced; tables, captions, figures, References and appendices stay as in the revision.
 All 13 chunks are merged (chunk 02 was re-pasted with line breaks).
 """
 import re, os, json
-HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.join(HERE, "..")
+HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.join(HERE, "..", "..", "earlier-source-versions")
 rev = open(os.path.join(ROOT, "third-draft-source-prose-revision.md"), encoding="utf8").read().split("\n")
 COUNTS = [21,30,23,21,22,27,34,23,31,30,28,28,3]
 SKIP_CHUNKS = set()

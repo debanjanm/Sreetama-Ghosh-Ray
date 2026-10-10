@@ -1,6 +1,6 @@
 # Grammarly-led draft: restoration audit
 
-This is an editorial record for `third-draft-source-grammarly-led-humanized.md`, not thesis text. The Grammarly export supplied the primary wording for Chapters 1–5. The structured `third-draft-source-prose-revision.md` supplied the protected headings, tables, figures, references, questionnaire, and passages where the export changed a fact or became unclear. The new draft changes 181 of 244 narrative blocks relative to that structured source.
+This is an editorial record for `../third-draft-source-grammarly-led-humanized.md`, not thesis text. The Grammarly export supplied the primary wording for Chapters 1–5. The structured `../earlier-source-versions/third-draft-source-prose-revision.md` supplied the protected headings, tables, figures, references, questionnaire, and passages where the export changed a fact or became unclear. The new draft changes 181 of 244 narrative blocks relative to that structured source.
 
 | Location | Grammarly wording rejected or corrected | Reason |
 | --- | --- | --- |

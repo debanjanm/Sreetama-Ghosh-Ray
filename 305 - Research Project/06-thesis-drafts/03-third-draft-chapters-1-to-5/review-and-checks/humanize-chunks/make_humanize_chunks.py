@@ -7,7 +7,7 @@ Run:  python3 make_humanize_chunks.py
 import re, os, glob
 LIMIT = 5000
 HERE = os.path.dirname(os.path.abspath(__file__))
-SRC = os.path.join(HERE, "..", "third-draft-source-prose-revision.md")
+SRC = os.path.join(HERE, "..", "..", "earlier-source-versions", "third-draft-source-prose-revision.md")
 
 units = []  # (kind, text, first_line, last_line) ; kind: h1/h2/h3/p
 cur_chap = None; code = False; para = []; pstart = 0

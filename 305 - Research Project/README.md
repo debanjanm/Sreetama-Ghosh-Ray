@@ -4,8 +4,9 @@ This folder contains the complete research-project record, arranged from institu
 
 ## Current Work
 
-- [Current Version 4 study](04-thesis-versions/04-v4-current-four-construct/README.md)
-- [Second thesis-draft source](06-thesis-drafts/02-second-draft-chapters-1-to-5/second-draft-source.md)
+- [Current Version 5 study](04-thesis-versions/05-v5-current-four-construct-single-model/README.md)
+- [Third thesis draft (current source, builds and checks)](06-thesis-drafts/03-third-draft-chapters-1-to-5/README.md)
+- [Document builder](06-thesis-drafts/build-docx/README.md)
 - [Final data and analysis record](05-research-data-and-analysis/)
 
 ## Project Navigation

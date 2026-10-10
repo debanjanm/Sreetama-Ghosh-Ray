@@ -1,6 +1,6 @@
 # Revised sentences from Chapters 1–5
 
-Each line below uses the wording in `third-draft-source-prose-revision.md`. Report flag numbers refer to the original passage; “context edit” means the surrounding paragraph was revised for flow. This excerpt is not equivalent to checking the full thesis.
+Each line below uses the wording in `../../earlier-source-versions/third-draft-source-prose-revision.md`. Report flag numbers refer to the original passage; “context edit” means the surrounding paragraph was revised for flow. This excerpt is not equivalent to checking the full thesis.
 
 ## Chapter 1 — Introduction
 

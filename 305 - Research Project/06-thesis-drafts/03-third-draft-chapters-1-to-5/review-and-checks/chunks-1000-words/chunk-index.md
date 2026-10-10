@@ -1,6 +1,6 @@
 # 1,000-word chunks (plain text, max 950 words each)
 
-Source: `../third-draft-source-prose-revision.md`. Tables, captions, figures, References and appendices are not included. Paste edits back at the line range shown.
+Source: `../../earlier-source-versions/third-draft-source-prose-revision.md`. Tables, captions, figures, References and appendices are not included. Paste edits back at the line range shown.
 
 | Chunk | Words | Characters | Source lines |
 | --- | ---: | ---: | --- |

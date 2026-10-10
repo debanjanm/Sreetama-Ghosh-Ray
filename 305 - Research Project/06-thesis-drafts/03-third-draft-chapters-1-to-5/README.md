@@ -1,7 +1,22 @@
 # Third Thesis Draft — Chapters 1 to 5
 
-[The consolidated thesis source](third-draft-source.md) contains Chapters 1–5, one reference list, and the approved questionnaire in Appendix A. It is assembled from [Version 5](../../04-thesis-versions/05-v5-current-four-construct-single-model/README.md) and follows the direct-predictor model reported in the SPSS output.
+**Current source:** [third-draft-source-grammarly-led-humanized.md](third-draft-source-grammarly-led-humanized.md) (Chapters 1–5, one reference list, Appendix A questionnaire, Appendix B questionnaire development). It follows the direct-predictor model reported in the [frozen SPSS output](../../05-research-data-and-analysis/07-v5-spss-output-freeze/README.md).
 
-[SPSS figure-export notes](spss-figure-export-notes.md) are working instructions kept outside the thesis text. The [frozen SPSS output](../../05-research-data-and-analysis/07-v5-spss-output-freeze/README.md) is the source of the 102-case regression results.
+**Current build:** `hybrid-learning-training-effectiveness-third-draft-final-v4.docx` and `.pdf` (MSSW layout, A4, Times New Roman 12, 1.5 spacing, 1-inch margins, page frame, 83 pages). Rebuild with:
 
-The existing PDF in this folder was generated before this proofreading pass and needs a fresh export from the revised Markdown source before sharing. The first- and second-draft files are historical snapshots.
+```bash
+python3 06-thesis-drafts/build-docx/make_final.py "$(pwd)/06-thesis-drafts/03-third-draft-chapters-1-to-5" third-draft-source-grammarly-led-humanized.md <output-name>
+```
+
+## Folder map
+
+| Folder or file | Contents |
+| --- | --- |
+| `figures/` | Chart SVGs used in Chapter 4 and the SPSS figure-export notes |
+| `mssw-logo.png` | Seal used on the cover page |
+| `submission/` | The 75-page submission PDF (title page plus pages 9 onward) and the DrillBit similarity report (4%, grade A) |
+| `previous-builds/` | Earlier DOCX and PDF builds, kept for comparison |
+| `earlier-source-versions/` | Earlier text versions: original draft, prose revision, paraphrased merge, and Grammarly exports |
+| `review-and-checks/` | Plagiarism-check chunks and Duplichecker report, paraphrase and humanising chunks, and the review and audit notes |
+
+The first- and second-draft folders are historical snapshots. The document builder lives in [`../build-docx/`](../build-docx/).

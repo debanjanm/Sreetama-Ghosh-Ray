@@ -1,7 +1,7 @@
 # Review of the pasted paraphrased chunks
 
 Checked: `paraphrased/chunk-01.txt` to `chunk-13.txt`, each compared with its original in `chunks-1000-words/`.
-Result: `third-draft-source-paraphrased.md` (merged, built by `paraphrased/merge_paraphrased.py`).
+Result: `../earlier-source-versions/third-draft-source-paraphrased.md` (merged, built by `paraphrased/merge_paraphrased.py`).
 
 ## What was checked in every chunk
 Numbers, citations (author and year), headings, paragraph count, spelling style (UK or US), contractions, and sentences whose meaning could have shifted. Chapter 1 was also read in full. All 13 chunks are now merged. For Chapters 2–5 the checks above were automatic plus targeted searches, so they still need a read-through by Sreetama for meaning.

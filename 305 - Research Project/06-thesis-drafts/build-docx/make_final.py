@@ -1,15 +1,15 @@
 """Two-pass build: DOCX -> PDF (LibreOffice) -> read page numbers -> DOCX with those numbers -> PDF.
 python3 make_final.py <draft-folder> <source.md> <output-name-without-extension>
-Run from '305 - Research Project'. Needs LibreOffice at /Applications/LibreOffice.app and `npm install` done."""
+Run from '305 - Research Project'. Needs LibreOffice at /Applications/LibreOffice.app and `npm install` run once inside 06-thesis-drafts/build-docx."""
 import json, os, re, subprocess, sys, shutil
 folder, md, name = os.path.abspath(sys.argv[1]), sys.argv[2], sys.argv[3]
 here = os.path.dirname(os.path.abspath(__file__)); root = os.getcwd()
 SOFFICE = "/Applications/LibreOffice.app/Contents/MacOS/soffice"
-env = dict(os.environ, NODE_PATH=os.path.join(root, "node_modules"))
+env = dict(os.environ, NODE_PATH=os.path.join(here, "node_modules"))
 build = lambda out, pages=None: subprocess.run(["node", os.path.join(here, "build-thesis-docx.js"), folder, md, out] + ([pages] if pages else []), check=True, env=env, capture_output=True)
 topdf = lambda docx: subprocess.run([SOFFICE, "--headless", "--convert-to", "pdf", "--outdir", folder, os.path.join(folder, docx)], check=True, capture_output=True)
 def page_map(pdf, entries):
-    txt = subprocess.run(["pdftotext", "-layout", "-f", "4", "-l", "12", pdf, "-"], capture_output=True, text=True).stdout.split("\f")
+    txt = subprocess.run(["pdftotext", "-layout", "-f", "4", "-l", "16", pdf, "-"], capture_output=True, text=True).stdout.split("\f")
     def rows(pg):
         out, buf = [], ""
         for ln in pg.split("\n"):
@@ -19,10 +19,13 @@ def page_map(pdf, entries):
             if m: out.append(int(m.group(2))); buf = ""
         return out
     toc, tab, fig = [], [], []
-    for i, pg in enumerate(txt):
-        if "TABLE OF CONTENTS" in pg or (toc and not tab and "LIST OF" not in pg and i < 3): toc += rows(pg)
-        elif "LIST OF TABLES" in pg: tab += rows(pg)
-        elif "LIST OF CHARTS" in pg: fig += rows(pg)
+    mode = None
+    for pg in txt:
+        if "TABLE OF CONTENTS" in pg: mode = toc
+        elif "LIST OF TABLES" in pg: mode = tab
+        elif "LIST OF CHARTS" in pg: mode = fig
+        elif mode is fig and ("CHAPTER - 1" in pg or ("CHAPTER 1" in pg and "INTRODUCTION" in pg)): break
+        if mode is not None: mode += rows(pg)
     pm = {}
     for nums, ents in ((toc, entries["toc"]), (tab, entries["tables"]), (fig, entries["figures"])):
         assert len(nums) == len(ents), (len(nums), len(ents))
