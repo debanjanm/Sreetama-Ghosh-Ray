@@ -37,7 +37,9 @@ A **construct** is an idea measured with several questions. Instead of discussin
 
 *Made-up example:* An employee's seven HL answers are 4, 5, 4, 3, 4, 5, 4. Add them to get 29, then divide by 7. The HL score is **4.14**. TC and LE each use six items; TE uses seven.
 
-**Say:** “I calculated each construct score as the average of its assigned questionnaire items.”
+The score summarises **that respondent's overall perception** of the construct. In this example, 4.14 means the employee generally rated their Hybrid Learning experience favourably. It does not independently measure the programme's actual quality or the employee's job performance.
+
+**Say:** “I averaged the assigned questions to get one score showing each respondent's overall perception of each construct.”
 
 ### 4. Why did the study choose these employees?
 
@@ -47,11 +49,27 @@ This is **purposive sampling**. The researcher approached people who could answe
 
 ### 5. Why do some tables say 102 and others 103?
 
-A statistical calculation can use only records with the values it needs. **Listwise deletion** means omitting a record from a calculation when a required value is missing.
+Start with **103 profile-complete records**. In the SPSS analysis file, one of those records lacked a **Trainer Competence construct mean**. A calculation needing all four construct means could therefore use only **102** records. **Listwise deletion** is the name for leaving that incomplete record out of such a calculation.
 
-*Everyday example:* To work out a person's travel cost, you need both distance and fare per kilometre. A record missing one of those cannot enter that calculation, though the person's age could still appear in an age table.
+That record could still be used for a calculation that did **not** need its missing Trainer Competence mean. For example, SPSS could calculate a Hybrid Learning item mean from **103** available answers. It could also correlate Hybrid Learning with Learner Engagement using **103** cases, because neither score in that pair was the missing Trainer Competence mean.
 
-SPSS used **102** cases for the four-construct summary and main regression. Some SPSS item means and pairwise correlations used **103** available answers. The respondent-profile and supplementary tables used a selected **102-record scored file**. These sources are labelled in the thesis. The matching SPSS case file was unavailable, so exact person-by-person agreement between the SPSS output and the supplementary file was not verified.
+| Calculation in the PDF | Cases | Where to find it |
+| --- | ---: | --- |
+| Age, service-length, and job-level counts and percentages | **102** from the selected scored file | Table 4.1; Figures 4.1–4.3 |
+| Mean, standard deviation, minimum, maximum, skewness, and kurtosis for **all four construct scores together** | **102** in SPSS Explore | Table 4.2; Figure 4.4 uses these means |
+| Mean for each of the seven **individual Hybrid Learning questions**, Q5–Q11 | **103** available item answers in SPSS | Table 4.3; this includes the Q6 mean of 3.990 |
+| Counts for each answer choice, 1–5, across Q5–Q30 | **102** from the selected scored file | Table 4.4; Figures 4.5–4.8 |
+| One overall Cronbach's alpha for all 26 scored items | **102** valid SPSS cases; one excluded | Table 4.5 |
+| Correlations **HL–TC, TC–LE, TC–TE** | **102** for each pair in SPSS | Table 4.6; every pair includes TC |
+| Correlations **HL–LE, HL–TE, LE–TE** | **103** for each pair in SPSS | Table 4.6; none of these pairs needs TC |
+| Main three-predictor regression and its individual coefficients | **102** valid SPSS cases | Tables 4.7–4.8; the hypothesis decision in Chapter 5 |
+| One-sample and paired *t*-tests, Welch comparison, ANOVA, and chi-square suitability tables | **102** from the selected scored file | Tables 4.9–4.11 and the accompanying text |
+
+**Two different “102s” need care.** The main regression used 102 cases in the **saved SPSS output**. The profile, response-count, and supplementary tables used a **separately selected 102-record scored file**. The matching SPSS data file was not available, so the thesis cannot verify that those are exactly the same 102 people or that every underlying item value agrees. For example, HL averages **4.148** in SPSS Table 4.2 but **4.144** in the supplementary scored-file comparison. The main hypothesis decision follows the SPSS regression, not the supplementary file.
+
+The PDF also reports an exploratory PCA with KMO and Bartlett's test, but it does **not** state a separate case count for that check. Do not guess its N in the viva.
+
+**Say:** “The denominator depends on the calculation. SPSS used 102 when all four construct means were required, but some item means and pairs without Trainer Competence used 103. The other 102-case tables came from a separate selected scored file and are labelled as such.”
 
 ## Part 2 — Describing what people answered
 
@@ -316,4 +334,4 @@ Because the expected counts here were overwhelmingly small, the thesis **does no
 2. **What did it find?** “The overall 102-case model was significant: F(3, 98) = 50.652, p < .001, R² = .608. I rejected the overall null hypothesis.”
 3. **Did every predictor stand out separately?** “No. Only LE was individually significant after all three predictors entered the model.”
 4. **Does that prove cause?** “No. These are one-time self-reported associations in a purposively selected group.”
-5. **Why do some tables use 103 and others 102?** “Different analyses had different available cases and sources. I reported the number and source beside each table; the main hypothesis comes from the 102-case SPSS model.”
+5. **Why do some tables use 103 and others 102?** “SPSS used 102 when a calculation required the missing Trainer Competence mean, but 103 for some item means and correlations that did not need it. The other 102-case descriptive and supplementary tables came from a separately selected scored file. My main hypothesis uses the 102-case SPSS regression.”
