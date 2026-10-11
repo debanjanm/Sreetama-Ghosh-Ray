@@ -107,39 +107,49 @@ The **minimum** is the lowest observed score; the **maximum** is the highest. Th
 
 ### 11. Skewness: which side has most answers?
 
-**Skewness** describes whether a distribution leans to one side. Imagine a queue of marks where most people scored near 5 and only a few scored near 1. The long tail points toward the low scores: this is **negative skew**.
+First, a **distribution** is simply a count of how many people chose 1, 2, 3, 4, or 5. If we draw those counts as bars, we can see where most answers are. The **tail** is the thin end of the picture: the few answers that stretch away from the main crowd.
 
-The thesis reports negative skewness of about **−1.8 to −2.1** for the four construct means. Many ratings were near the favourable end of the scale. This describes the *shape* of the answers, not the strength of a relationship.
+*Made-up example:* Suppose 1 person chose 1, 1 chose 2, 2 chose 3, 8 chose 4, and 10 chose 5. Most answers are **4 or 5** on the right. The few low answers stretch out to the **left**. That thin left end is the *left tail*.
+
+**Skewness** is the number describing this uneven shape. It is called **negative skew** when the tail stretches left. The name follows the **tail**, not the side where most people answered. If most answers were 1 or 2 and a few stretched toward 5, the tail would be right and skewness would be positive.
+
+The thesis reports negative skewness of about **−1.8 to −2.1** for the four construct scores: many employees gave favourable ratings, with fewer low scores. Skewness describes the answer pattern. It does not show whether one construct affects another.
+
+**Say:** “Most ratings were high, with a small number of lower ratings. That gives the scores negative, or left-tailed, skewness.”
 
 ### 12. Kurtosis: what is the shape around the centre and tails?
 
-**Kurtosis** is another shape measure. It helps describe how concentrated values are and how the tails compare with a normal bell-shaped distribution. It does not tell us whether training worked.
+The **peak** is the tallest bar in the answer-count picture: the rating chosen most often. But knowing only the tallest bar does not describe the whole picture. We also need to know whether answers are crowded together and whether a few are far away at the ends.
 
-*Everyday example:* Two queues may have the same average waiting time, but one has most waits close together with a few unusual long waits. Their distribution shapes differ.
+**Kurtosis** is one technical number about that combination of crowding and far-away answers. It compares the pattern with a balanced, smooth hill called a **bell curve**. Kurtosis is **not** simply “whether there is a peak”; every answer chart has a tallest bar.
 
-The thesis reports construct kurtosis values from **4.058 to 6.236**. Sreetama does not need to interpret each value alone; it is read alongside the graphs and skewness.
+The thesis reports values from **4.058 to 6.236**. For the viva, she can say that kurtosis was used to **describe the shape of the ratings**. She need not claim that a particular value proves good or bad training.
+
+**Say:** “Kurtosis is another description of how the ratings are grouped and how many lie far from the main group. It does not measure training quality.”
 
 ### 13. Histogram: where do the scores pile up?
 
-A **histogram** is a set of bars showing how many scores fall in each range. Imagine putting exam scores into ranges such as 0–9, 10–19, and so on, then drawing one bar per range.
+A **histogram** is a bar picture of the scores. A taller bar means more people gave scores in that part of the scale. For example, if many employees' average HL scores are near 4, the bar around 4 is tall.
 
 SPSS produced histograms for the four construct scores. They help show the pile-up toward favourable ratings.
 
 ### 14. Boxplot: where is the middle half?
 
-A **boxplot** shows the median and the middle half of scores inside a box. Points outside the usual range are drawn separately as possible unusual values.
+A **median** is the middle score after putting everyone's scores in order. For 2, 3, 4, 4, 5, the median is **4** because it is the third, middle number. The **middle half** means the central 50% of scores after sorting them.
+
+A **boxplot** draws a box around that middle half and marks the median inside it. It may show unusually distant scores as separate dots.
 
 *Everyday example:* For a group of travel times, the box shows the central cluster without listing every person's journey. A point far away may be someone delayed by traffic. SPSS drew boxplots for the four construct scores.
 
 ### 15. Q–Q plot: does the shape resemble a bell curve?
 
-A **Q–Q plot** compares the observed score pattern with a normal bell-curve pattern. If the dots mostly follow a straight line, the two shapes are fairly similar. If they bend away, the scores depart from that shape.
+A **bell curve** is a smooth, balanced hill: many values near the middle and fewer values at both ends. A **Q–Q plot** asks whether the observed answers have roughly that shape. If its dots mostly follow a straight line, the shapes are fairly similar. If the dots bend away, they are different.
 
 SPSS drew Q–Q plots. Because many questionnaire ratings were high, the construct scores did not closely follow a normal bell curve.
 
 ### 16. Normality test: is the departure statistically noticeable?
 
-A **normality test** tests whether the score distribution could reasonably be treated as normal. Here the reported tests were significant, which means the distributions differed detectably from a normal bell shape.
+A **normal** pattern means one that roughly follows the balanced bell curve just described. A **normality test** asks whether the scores differ noticeably from that pattern. In the thesis, the tests indicated that they did. This fits the picture of many high ratings and fewer low ones.
 
 This test does **not** ask whether training was effective. It checks a property of the scores that matters when reading later tests.
 
@@ -151,7 +161,7 @@ This test does **not** ask whether training was effective. It checks a property 
 
 **Cronbach's alpha** asks whether answers across a set of questions tend to move together. It does **not** prove that the questions measure the correct concept.
 
-*Everyday example:* Several thermometers rise together when a room gets warmer. They are consistent. But if every thermometer is badly calibrated, their agreement does not make them accurate.
+*Made-up example:* If employees who rate one trainer-support question highly also tend to rate the other trainer-support questions highly, those answers are consistent. But several similar questions could all miss an important part of trainer support. Consistency alone does not prove that the questionnaire covers the right idea.
 
 The saved SPSS output gives **α = .980** for **all 26 scored items pooled together**. That is very high and may partly reflect overlapping questions. It is **not** four separate final-sample alpha values for HL, TC, LE, and TE. A separate 20-person pilot gave preliminary block alphas from **.879 to .929**.
 
@@ -159,25 +169,27 @@ The saved SPSS output gives **α = .980** for **all 26 scored items pooled toget
 
 ### 18. PCA: can 26 items be summarised into fewer groups?
 
-**Principal Component Analysis (PCA)** looks for patterns across many item answers and summarises them with fewer components.
+**Principal Component Analysis (PCA)** looks across all the question answers for questions that tend to move together. It places those common answer patterns into smaller **groups**, called *components*.
 
-*Everyday example:* If 26 questions about a workplace tend to fall into a few recurring topics, PCA looks for those topics in the answer patterns. SPSS extracted **four components** here. That is compatible with the planned four constructs, but it is not proof that every question perfectly measures its intended construct.
+*Made-up example:* If people who rate several platform-access questions highly usually give similar ratings to each other, PCA may place those questions in one group. SPSS found **four components** in this survey. That fits the idea of four constructs, but does not prove every question belongs exactly where it was placed.
 
 ### 19. Varimax rotation: why turn the component picture?
 
-**Varimax** is a rotation used after components are extracted. It changes how the component axes are displayed to make item patterns easier to interpret. It does not change anyone's answer.
+**Varimax** is a step used after PCA forms the groups. It rearranges the mathematical view so it is easier to see which questions fit more strongly with which group. It does **not** change anyone's answers.
 
 *Everyday example:* Turn a map on a table so the streets line up more clearly with the page. The streets did not move; the view became easier to read. The thesis used varimax in its exploratory PCA.
 
 ### 20. KMO: were the item relationships suitable for PCA?
 
-**Kaiser–Meyer–Olkin (KMO)** is a suitability check before interpreting PCA. A high value means the items share enough patterned relationships for component analysis to be useful.
+**Kaiser–Meyer–Olkin (KMO)** is a suitability check for PCA. In simple words it asks: **“Do the question answers share enough common pattern for grouping them to make sense?”** A higher value supports using PCA.
 
 The reported KMO was **.929**, a strong suitability result. KMO does not say the questionnaire is fully validated.
 
 ### 21. Bartlett's test: were the items related at all?
 
-**Bartlett's test** asks whether the item-correlation pattern differs from one in which the items are unrelated. Here it was significant: **χ²(325) = 3664.340, p < .001**. That supports looking for components.
+**Bartlett's test** asks whether answers to the questions are related at all, rather than behaving like completely separate answers. The result in the thesis was **χ²(325) = 3664.340, p < .001**. This supports looking for groups of questions.
+
+The *p* number is explained in Section 23. For now, the point to remember is that Bartlett's check said there was a shared pattern worth examining.
 
 *Everyday example:* Before sorting books into topics based on shared words, check whether the books share any word patterns at all. Bartlett addresses that first question; it does not decide the correct topic labels.
 
@@ -192,9 +204,11 @@ A **hypothesis** is a statement the analysis tests. The thesis has **one overall
 
 These are about a *statistical relationship* among scores, not proof that the three factors cause effectiveness. The separate coefficients are described, but they are not three extra hypotheses.
 
+Here **predict** means “use HL, TC, and LE scores to estimate the TE score in this set of responses.” It does not mean forecasting an employee's future job performance.
+
 ### 23. p-value: how surprising would this result be under H₀?
 
-A **p-value** asks: *If H₀ were true, how unusual would a result at least this extreme be, assuming the test's conditions?* A small p-value is evidence against H₀. It is **not** the probability that H₀ is true.
+A **p-value** starts by pretending that H₀ (“no relationship”) is true. It asks how surprising it would then be to get a result **this strong or stronger**. A very small p-value gives a reason to doubt H₀. It is **not** the probability that H₀ is true.
 
 *Everyday example:* If a coin is fair, ten heads in ten tosses would be unusual. That observation would make us question the fair-coin assumption; it would not tell us the exact probability that the coin is unfair.
 
@@ -213,6 +227,8 @@ In the thesis, LE and TE had **r = .765** (pairwise N = 103). HL and TC had **r 
 ### 25. Multiple regression: what happens when three predictors enter together?
 
 **Multiple regression** examines one outcome using several predictors at once. Here the outcome is **TE**. The three predictors entered together are **HL, TC, and LE**.
+
+An **outcome** is the score we are trying to understand: TE. A **predictor** is a score we use to help estimate it: HL, TC, or LE. A **model** is simply the calculation that puts those predictors together.
 
 *Everyday example:* Suppose a manager wants to understand customer waiting time using staffing, customer arrivals, and system speed together. Looking at each separately can hide overlap. Regression estimates how the three relate to waiting time when considered in one model.
 
@@ -242,7 +258,7 @@ Here **F(3, 98) = 50.652, p < .001**. So the **overall model** is statistically 
 
 ### 29. What do the 3 and 98 after F mean?
 
-These are **degrees of freedom**, numbers that describe the size of the test. The first is **3** because there are three predictors. The second is **98** because there were 102 cases, minus three predictors, minus one intercept: 102 − 3 − 1 = 98.
+These are **degrees of freedom**, numbers that describe how much information is available for the test after the model uses some of it. The first is **3** because there are three predictors. The second is **98** because there were 102 cases, minus three predictors, minus one starting-value term called the **intercept**: 102 − 3 − 1 = 98.
 
 She does not need to derive the F formula in the viva. She should read the notation aloud as “F with 3 and 98 degrees of freedom.”
 
@@ -254,7 +270,7 @@ This is a model estimate, not a promise that raising one employee's engagement b
 
 ### 31. Beta: how do we compare predictors on a common scale?
 
-A **standardised beta (β)** puts coefficients on standard-deviation units. It helps compare the predictors within this model. It is **not a percentage**.
+A **standardised beta (β)** puts the three predictor results onto the **same measuring ruler**. The original scores may differ in how much they vary; beta adjusts for that spread so the three results can be compared within this model. It is **not a percentage**.
 
 The reported betas are LE **.532**, HL **.194**, and TC **.113**. LE has the largest adjusted coefficient on this common scale. Size alone is not enough; each coefficient also has a *p*-value.
 
