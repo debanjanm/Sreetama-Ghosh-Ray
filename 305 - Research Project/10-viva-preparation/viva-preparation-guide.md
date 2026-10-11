@@ -1,38 +1,45 @@
-# Viva Preparation Guide
+# Viva Preparation Guide — Current 102-Case Thesis
 
-> **Historical guide:** This document still describes the earlier multi-hypothesis model and 103-case analysis. It is not the viva guide for the current Version 5 thesis, which uses one 102-case SPSS regression model. Check the current thesis before using any model or result stated below.
+This guide follows the [current thesis PDF](../08-thesis-drafts/03-third-draft-chapters-1-to-5/hybrid-learning-training-effectiveness-third-draft-final-v4.pdf). The [statistics companion](statistics-explained-for-viva.md) teaches the statistical terms step by step. Historical answers for the earlier three-hypothesis model are kept in [archive](archive/), not used for this viva.
 
-# Hybrid Learning and Training Effectiveness at Union Bank of India
+Speak in the first person. Give the main answer first, then the number if asked. If you cannot remember a figure, say you will check the table; do not guess.
 
-## How to use this guide
+## Rapid revision — read this first
 
-Speak in the first person: **“I studied…”, “I collected…”, “My finding was…”**. Do not memorise every sentence. Remember the point, the supporting number, and the boundary of the finding.
-
-If you do not know a detail, say: **“I would like to check the exact table before giving that figure. The main finding is…”** Do not guess.
+- **Topic:** Employees' perceptions of one recent Union Bank programme combining digital and face-to-face learning.
+- **Model:** Hybrid Learning (HL), Trainer Competence (TC), and Learner Engagement (LE) are **three separate independent variables**. They jointly predict perceived Training Effectiveness (TE), the dependent variable. LE is **not** a tested mediator.
+- **One hypothesis:** H₀ says the three predictors do not jointly predict TE; H₁ says they do.
+- **Questionnaire:** 30 questions: four eligibility/profile questions and 26 rating items (HL 7, TC 6, LE 6, TE 7). Union Vidya is context within HL, not a fifth variable.
+- **Collection:** 132 main responses (70 paper, 62 online); 29 screened out (16 No, 11 unconfirmed eligibility, two incomplete profiles); 103 profile-complete (54 paper, 49 online). SPSS used **102** valid cases for the main regression.
+- **Pilot:** 20 eligible online responses on 15–16 September 2026, separate from the main data. Main collection began on 15 September in parallel.
+- **Main result:** F(3, 98) = 50.652, p < .001, R² = .608. **Reject the overall H₀; support H₁ for the three predictors together.** Only LE was individually significant (β = .532, p < .001). HL (p = .096) and TC (p = .346) were not individually significant in that joint model.
+- **Other key results:** Means: HL 4.148, TC 4.158, LE 4.317, TE 4.254. The lowest HL item was digital preparation before face-to-face learning (Q6, mean 3.990). The saved SPSS reliability output gives **one alpha, .980, for all 26 items together**, not four final-sample alphas. HL and TC were strongly related (r = .818).
+- **Limits:** Selected Chennai context, self-reported answers at one time, no causal or Bank-wide claim. The saved SPSS output does not give a VIF number.
+- **Practical suggestions:** Give preparation early, connect digital material to trainer-led practice, protect time for questions, and review what employees found hard. These are suggestions, not tested fixes.
 
 ## Opening answers
 
 ### 30-second introduction
 
-> My study examines how employees experience hybrid training at Union Bank of India in the Chennai context. Hybrid training means that digital learning and face-to-face learning are used as connected parts of one programme. I studied whether Hybrid Learning and Trainer Competence are associated with Learner Engagement, and whether Learner Engagement is associated with perceived Training Effectiveness. I collected 132 responses through paper questionnaires and Google Forms, retained 103 profile-complete responses, and found positive, statistically significant relationships for all three hypotheses.
+> I studied how Union Bank employees in the Chennai context experienced one programme combining digital and face-to-face learning. I asked whether Hybrid Learning, Trainer Competence, and Learner Engagement together were related to perceived Training Effectiveness. I received 132 main responses; 103 were profile-complete, and the main SPSS regression used 102 valid cases. The overall model was significant, but only Learner Engagement was individually significant after the three predictors were considered together.
 
 ### Two-minute explanation
 
-> Banking employees need to learn new procedures, digital systems, compliance requirements, products, and customer-service practices while continuing their daily work. Union Bank has digital-learning facilities such as Union Vidya and also trainer-led learning arrangements. However, having a platform and having a good employee learning experience are not the same thing.
+> Banking employees need to learn new procedures and digital systems while continuing their daily work. Union Bank has digital resources, including Union Vidya, as well as trainer-led learning. I wanted to hear how employees experienced one recent programme that combined those parts.
 >
-> My research therefore focused on one recent programme attended by each eligible employee that included both digital and face-to-face learning. I studied four constructs. Hybrid Learning means how well the two modes were connected and how accessible the digital material was. Trainer Competence means the trainer’s knowledge, clarity, digital facilitation, participation support, and feedback. Learner Engagement means attention, effort, participation, interest, and clarification-seeking. Training Effectiveness means whether employees felt the learning was understandable, relevant, useful, and applicable to their work.
+> My questionnaire measured four ideas: how the digital and face-to-face parts worked together, how the trainer supported learning, how actively the employee engaged, and how useful the employee felt the training was. The first three were independent variables; perceived Training Effectiveness was the dependent variable. The survey had 30 questions. I collected both paper and online responses and screened them for eligibility and complete profiles.
 >
-> I used a 30-question questionnaire. After screening, 103 profile-complete responses were analysed. The findings show that better reported Hybrid Learning and Trainer Competence were each positively associated with Learner Engagement. Higher Learner Engagement was positively associated with perceived Training Effectiveness. The study gives Union Bank practical areas to review, such as making the learning sequence clear, keeping Union Vidya material easy to find, supporting trainers, creating space for questions and practice, and connecting training with routine work. The findings describe associations in this selected Chennai sample; they do not prove cause and effect or represent every Union Bank employee.
+> The three independent variables together had a significant relationship with perceived Training Effectiveness among the 102 valid SPSS cases. The model accounted for 60.8% of the differences in effectiveness scores in that sample. Learner Engagement had the clearest separate association; Hybrid Learning and Trainer Competence did not have individually significant coefficients after all three entered together. Employees rated digital preparation before the face-to-face session lowest among the Hybrid Learning items. I therefore suggest reviewing preparation, the connection between modes, and opportunities to participate. These are employee perceptions and associations, not proof that a particular change causes better performance.
 
-### Simple model explanation
+### Model I can draw
 
 ```text
-Hybrid Learning ─┐
-                 ├──→ Learner Engagement ───→ Training Effectiveness
-Trainer Competence ┘
+Hybrid Learning ────────┐
+Trainer Competence ─────┼──→ Perceived Training Effectiveness
+Learner Engagement ────┘
 ```
 
-> The model says that when employees experience the digital and face-to-face parts as connected, and when the trainer gives clear guidance and feedback, they may be more engaged in the programme. Employees who are more engaged may also report that the training is more useful and applicable. I tested these as relationships, not as a proven causal chain or formal mediation model.
+Learner Engagement is a **separate predictor**. Even a well-designed programme and a capable trainer do not ensure that every employee can engage; workload, time, interest, and other conditions can matter. The study did not measure all those outside conditions or test a mediation path.
 
 ---
 
@@ -42,19 +49,19 @@ Trainer Competence ┘
 
 ### 1. What is your study about?
 
-**Say:** My study examines employee experience of hybrid training at Union Bank of India in the Chennai context. It studies the relationships among Hybrid Learning, Trainer Competence, Learner Engagement, and perceived Training Effectiveness.
+**Say:** I studied whether employees who rated Hybrid Learning, Trainer Competence, and Learner Engagement more positively also rated their Training Effectiveness more positively when those three predictors were considered together.
 
-**Remember:** One recent programme with both digital and face-to-face learning.
+**Remember:** Three independent variables jointly predicting one dependent variable.
 
-**If asked further:** I did not compare online-only training with classroom-only training.
+**If asked further:** I asked about one recent programme with both digital and face-to-face learning; I did not compare online-only with classroom-only training.
 
 ### 2. Why did you choose this topic?
 
-**Say:** Banking employees must learn changing procedures, compliance requirements, digital systems, and products while continuing normal work. I wanted to understand whether connected digital and trainer-led learning supports employee engagement and perceived usefulness of training.
+**Say:** Bank employees need to learn changing procedures and systems while continuing daily work. I wanted to understand how the learning arrangement, trainer, and employee participation relate to perceived usefulness of training.
 
-**Remember:** Practical HR and learning-and-development relevance.
+**Remember:** Practical HR and learning-and-development question.
 
-**If asked further:** The topic is about employee learning experience, not a technical evaluation of software.
+**If asked further:** My study evaluates employee perceptions, not technical performance of the learning platform.
 
 ### 3. What do you mean by “hybrid learning”?
 
@@ -114,11 +121,11 @@ Trainer Competence ┘
 
 ### 10. What is the main message of the research?
 
-**Say:** The main message is that hybrid training should be designed as one connected employee-learning experience. Digital resources, trainer-led explanation, participation, practice, and revision access need to work together.
+**Say:** Employees rated all four areas positively. The three predictors were significant together, but engagement had the clearest separate association with perceived effectiveness. That makes participation and preparation useful areas for the Bank to review.
 
-**Remember:** “Connected learning experience.”
+**Remember:** Overall result and individual result are different questions.
 
-**If asked further:** This is a practical interpretation of the associations found in the selected sample.
+**If asked further:** The data suggest review areas; they do not prove a particular intervention will work.
 
 ## B. Union Bank context and base papers
 
@@ -204,21 +211,21 @@ Trainer Competence ┘
 
 ## C. Model, objectives, and variables
 
-### 21. What are your four variables?
+### 21. Which variables are independent and dependent?
 
-**Say:** The four variables are Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness.
+**Say:** Hybrid Learning, Trainer Competence, and Learner Engagement are my three independent variables. Perceived Training Effectiveness is the dependent variable.
 
-**Remember:** HL, TC, LE, TE.
+**Remember:** HL + TC + LE → TE.
 
-**If asked further:** Union Vidya is included inside Hybrid Learning context; it is not a separate variable.
+**If asked further:** Union Vidya is part of the digital-learning context within HL, not a separate scored variable.
 
-### 22. Why did you choose four variables instead of two?
+### 22. Why did you choose four constructs instead of two?
 
-**Say:** I first considered a two-variable model: Hybrid Learning and Training Effectiveness. It was manageable, but it did not explain the employee-learning process. Trainer Competence and Learner Engagement were retained because they help show how programme design and trainer support are related to the employee’s active involvement before perceived effectiveness is considered.
+**Say:** The earlier two-variable idea was easier, but it left out the trainer and the employee’s participation. Four constructs let me study those distinct parts while keeping one manageable regression model.
 
-**Remember:** Four constructs give a practical HR explanation without making the model too large.
+**Remember:** Three predictors and one outcome.
 
-**If asked further:** Six constructs were considered earlier, but that would have been too complex for a cross-sectional self-report study.
+**If asked further:** The model treats engagement as another predictor, not as a proven step between the other variables and effectiveness.
 
 ### 23. Why did you not use knowledge retention or job performance?
 
@@ -230,59 +237,59 @@ Trainer Competence ┘
 
 ### 24. Why is Trainer Competence separate from Hybrid Learning?
 
-**Say:** A digital platform can be accessible while a trainer may still fail to explain the subject, connect the activities, invite questions, or give feedback. A capable trainer may also face difficulty when material is hard to access. They are related conditions, but they are not the same condition.
+**Say:** HL asks how the digital and face-to-face parts worked together and whether material was accessible. TC asks whether the trainer explained, connected, encouraged, and gave feedback. They can be related without measuring the same thing.
 
-**Remember:** Programme experience and human facilitation are distinct.
+**Remember:** Programme arrangement and trainer behaviour have different item wording.
 
-**If asked further:** Keeping them separate allowed me to test their separate relationships with engagement.
+**If asked further:** They were strongly correlated (r = .818), so I read their separate regression coefficients cautiously.
 
-### 25. Why is Learner Engagement in the middle of the model?
+### 25. Why is Learner Engagement a separate predictor?
 
-**Say:** A connected programme and a competent trainer can create better learning conditions, but employees must still pay attention, make an effort, participate, and seek clarification. Engagement therefore provides a useful link between training conditions and perceived training effectiveness.
+**Say:** An employee may fail to engage even with a well-planned programme and a capable trainer because of workload, limited time, interest, or other conditions. I therefore measured the employee’s own participation separately and entered it beside HL and TC as a predictor of perceived TE.
 
-**Remember:** Practical intervening construct.
+**Remember:** LE is independent in this regression, not a mediator.
 
-**If asked further:** I did not test formal mediation or claim that engagement caused effectiveness.
+**If asked further:** The study did not measure all outside influences or prove what caused an employee to engage.
 
 ### 26. What is your main objective?
 
-**Say:** My main objective is to examine the relationships among Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness among eligible Union Bank respondents.
+**Say:** My main objective is to examine whether HL, TC, and LE jointly predict perceived TE among eligible Union Bank respondents.
 
-**Remember:** Relationships, not causation.
+**Remember:** One joint regression objective.
 
-**If asked further:** The study also describes how respondents perceived each construct.
+**If asked further:** I also described ratings for the four constructs and their pairwise associations.
 
-### 27. What are your three hypotheses?
+### 27. What is your hypothesis?
 
-**Say:** H1 states that Hybrid Learning has a significant positive relationship with Learner Engagement. H2 states that Trainer Competence has a significant positive relationship with Learner Engagement. H3 states that Learner Engagement has a significant positive relationship with Training Effectiveness.
+**Say:** I have one overall hypothesis. H₀ says HL, TC, and LE do not jointly predict TE. H₁ says they do. The main regression tested this question.
 
-**Remember:** H1 HL–LE; H2 TC–LE; H3 LE–TE.
+**Remember:** One overall H₀/H₁ pair, not three separate relationship hypotheses.
 
-**If asked further:** The null hypotheses state that there is no significant relationship.
+**If asked further:** Individual coefficient results help interpret the model but are not three extra hypothesis decisions.
 
-### 28. Why did you not have a direct Hybrid Learning to Training Effectiveness hypothesis?
+### 28. Why do you include a direct HL-to-TE relationship?
 
-**Say:** The focused model prioritised the employee-learning process. The literature and practical logic suggested first examining whether programme design and trainer support were related to engagement, and whether engagement was related to perceived effectiveness.
+**Say:** In my final model, HL, TC, and LE all enter the regression directly as predictors of TE. This lets me test one clear joint relationship without assuming an untested causal chain.
 
-**Remember:** The direct relationship is available in the correlation matrix but was not a stated hypothesis.
+**Remember:** All three arrows point to perceived TE.
 
-**If asked further:** A future study can test a broader direct-and-indirect model with an appropriate design.
+**If asked further:** A formal mediation model would be a different study with a different analysis plan.
 
-### 29. Are you proving a mediation model?
+### 29. Did you test mediation?
 
-**Say:** No. I did not calculate an indirect effect or use a formal mediation method. I tested three relationships using correlation and supporting regression analysis.
+**Say:** No. I did not estimate an indirect effect or show that HL and TC work through LE. I tested one model in which all three are predictors of TE.
 
-**Remember:** No PROCESS, SEM, or formal mediation claim.
+**Remember:** No formal mediation claim.
 
-**If asked further:** A mediation study would need a stronger design and a larger, suitably planned sample.
+**If asked further:** The variables are correlated, but correlation does not establish a causal sequence.
 
-### 30. What theory supports your study?
+### 30. What ideas from theory support the study?
 
-**Say:** The study uses three complementary perspectives: blended-learning integration, trainer-supported learner engagement, and training evaluation and transfer. Together, they explain why connected learning design, trainer facilitation, employee participation, and work relevance matter.
+**Say:** Blended-learning work explains why the two delivery modes should connect; trainer and engagement literature explains why guidance and participation matter; training-evaluation work explains why employee learning and usefulness should be measured.
 
-**Remember:** Integration, engagement, transfer.
+**Remember:** Literature supports the chosen questions and constructs, not a proven causal path.
 
-**If asked further:** The study uses these perspectives as a framework, not as proof of cause and effect.
+**If asked further:** The three base papers have different roles and none is claimed to test this exact four-construct model.
 
 ## D. Questionnaire and measurement
 
@@ -408,21 +415,21 @@ Trainer Competence ┘
 
 **If asked further:** Digital records were reconciled against the original Google Forms export; paper records were manually verified.
 
-### 46. How many responses did you receive and retain?
+### 46. How many responses did you receive and analyse?
 
-**Say:** I received 132 responses. After eligibility screening, 103 profile-complete responses were retained: 54 paper responses and 49 online responses.
+**Say:** I received 132 main responses: 70 on paper and 62 online. Screening left 103 profile-complete records, comprising 54 paper and 49 online. The main SPSS regression used 102 valid cases because one case lacked a TC mean in that SPSS file.
 
-**Remember:** 132 received; 103 profile-complete records retained.
+**Remember:** 132 received → 103 profile-complete → 102 in main SPSS model.
 
-**If asked further:** The original target was about 80 eligible responses, so the final usable sample exceeded that target.
+**If asked further:** The pilot’s 20 online responses are separate and are not part of these counts.
 
-### 47. Why were 27 responses excluded?
+### 47. Why were 29 main records screened out?
 
-**Say:** Sixteen respondents answered “No” to the hybrid-training eligibility question. Eleven printed forms had a blank or illegible eligibility response. These records were excluded because eligibility could not be confirmed.
+**Say:** Sixteen respondents answered No to the eligibility question, eleven paper forms did not establish eligibility, and two otherwise eligible forms lacked required profile information. Those 29 records were excluded before the 103 profile-complete records were prepared.
 
-**Remember:** 16 No + 11 unclear eligibility = 27.
+**Remember:** 16 + 11 + 2 = 29.
 
-**If asked further:** I did not remove records simply because their answers looked similar.
+**If asked further:** The additional SPSS listwise exclusion is separate: it reduced the main model from 103 to 102.
 
 ### 48. How did you ensure ethical data collection?
 
@@ -442,103 +449,101 @@ Trainer Competence ┘
 
 **If asked further:** Repeated anonymous response patterns were noted but retained because similarity alone does not prove duplicate respondents.
 
-### 50. How were the two unclear responses handled?
+### 50. Was any unclear paper mark retained in the active data?
 
-**Say:** The final analysis uses only records with completed profiles and valid whole-number item responses. Detailed source-level coding records are retained in the internal data audit.
+**Say:** The active 103-record scored file has one documented response-coding decision for an unclear paper mark. That answer is recorded as a valid whole-number category. An earlier decision concerned a form later excluded because its profile was incomplete.
 
-**Remember:** Final analysis: 103 profile-complete records.
+**Remember:** One active response-coding decision; a separate SPSS case lacked a TC mean.
 
-**If asked further:** No retained record had two or more unclear scored items; those would have been excluded under the stated rule.
+**If asked further:** The matching SPSS case file was unavailable, so I do not claim a row-by-row reconciliation between its 102 cases and the separately selected scored file.
 
-### 51. Why did you use the within-construct rule for those two items?
+### 51. Why use the within-construct rule for that one active item?
 
-**Say:** There was only one unclear item in each otherwise complete record. The scoring rule used the respondent’s remaining items in the same construct and assigned the nearest valid response category. Both cases were documented in the internal cleaning record.
+**Say:** The retained paper form had one unclear scored item and was otherwise complete. The documented rule used the respondent’s other answers in the same construct to choose the nearest valid 1–5 category.
 
-**Remember:** Two isolated cases only.
+**Remember:** A limited, recorded scoring decision; not a general rule for filling many answers.
 
-**If asked further:** This is a practical small-sample cleaning decision and should not be used casually for many missing answers.
+**If asked further:** A record with multiple unclear scored items would not be handled this way.
 
-### 52. What is Cronbach’s alpha and why did you use it?
+### 52. What does Cronbach’s alpha check?
 
-**Say:** Cronbach’s alpha checks whether the items assigned to one construct show internal consistency. I used it to check whether the Hybrid Learning, Trainer Competence, Learner Engagement, and Training Effectiveness item sets worked coherently in this sample.
+**Say:** It checks whether answers across a set of questionnaire items move consistently together. The saved final SPSS output reports this check for all 26 rating items as one combined set.
 
-**Remember:** Reliability, not proof of validity.
+**Remember:** Consistency does not prove that each construct is perfectly measured.
 
-**If asked further:** Alpha does not prove that the instrument is a fully validated Union Bank scale.
+**If asked further:** The four separate pilot alphas were preliminary and must not be presented as four final-sample SPSS results.
 
-### 53. What were your Cronbach’s alpha values?
+### 53. What reliability result does the saved SPSS output report?
 
-**Say:** Hybrid Learning was 0.962, Trainer Competence was 0.969, Learner Engagement was 0.958, and Training Effectiveness was 0.972.
+**Say:** It reports one Cronbach’s alpha of .980 for all 26 scored items together, using 102 valid cases. The 20-person pilot gave preliminary block alphas from .879 to .929.
 
-**Remember:** All above .95; high internal consistency.
+**Remember:** One final pooled alpha, not four final construct alphas.
 
-**If asked further:** Very high values can also mean items are closely related and the common self-report format may contribute, so I interpret them with caution.
+**If asked further:** A very high pooled alpha may reflect overlapping questions and does not by itself validate the four constructs.
 
-### 54. Why did you use Pearson correlation?
+### 54. Why report Pearson correlations?
 
-**Say:** My hypotheses were about whether construct scores had positive relationships. Pearson correlation measures the direction and strength of the relationship between two numeric construct scores, so it was the primary hypothesis test.
+**Say:** Correlations show whether two scores tended to rise together. I used them to describe the pairwise relationships among the four construct averages before interpreting the combined regression.
 
-**Remember:** Relationship test; p below .05 leads to rejection of the null hypothesis.
+**Remember:** Six positive significant pairs; the main hypothesis is the joint regression.
 
-**If asked further:** It shows association, not proof that one variable causes another.
+**If asked further:** Pairwise correlations use 102 or 103 available cases, depending on which scores were needed.
 
-### 55. Why did you also use regression?
+### 55. Why is regression the main test?
 
-**Say:** Regression provides supporting model-level evidence. The first model examined Hybrid Learning and Trainer Competence together in relation to Learner Engagement. The second model examined Learner Engagement in relation to Training Effectiveness.
+**Say:** My hypothesis asks whether HL, TC, and LE together predict perceived TE. Multiple regression examines that joint relationship and shows each predictor’s separate coefficient when the other two are included.
 
-**Remember:** Regression supports the correlation findings.
+**Remember:** One model, three predictors, one outcome, 102 valid cases.
 
-**If asked further:** The regression was not used to claim a causal pathway or formal mediation.
+**If asked further:** The significant overall model does not mean all three individual coefficients are significant.
 
-### 56. What is VIF, and what did it show?
+### 56. What about predictor overlap and VIF?
 
-**Say:** VIF, or Variance Inflation Factor, checks whether predictors overlap too strongly in a multiple-regression model. The VIF for Hybrid Learning and Trainer Competence was 3.024, with tolerance 0.331. This shows overlap that should be kept in mind, but it was below the common VIF screening value of 5.
+**Say:** HL and TC were strongly correlated at r = .818, so their separate roles in the regression are harder to distinguish. VIF is a diagnostic that could assess overlap, but the saved SPSS regression output did not report a VIF value.
 
-**Remember:** VIF 3.024; tolerance .331.
+**Remember:** Do not quote a VIF number: the saved SPSS regression did not report one.
 
-**If asked further:** Because the constructs overlap, I did not claim that one predictor was clearly more important than the other.
+**If asked further:** Predictor overlap is a possible explanation for non-significant separate coefficients, not a proven sole cause.
 
 ### 57. Did you use SPSS?
 
-**Say:** The final scored dataset has reproducible SPSS syntax prepared for the planned descriptive, reliability, correlation, and regression analysis. The final figures should be reproduced and retained in SPSS output before final submission. I will describe SPSS as the verification tool only when the corresponding output files are retained.
+**Say:** Yes. The saved SPSS Statistics 23 output contains the main 102-case regression, correlations, overall 26-item alpha, exploratory PCA, descriptives, and other checks. The thesis also labels supplementary tables made from a separately selected 102-record scored file.
 
-**Remember:** Do not falsely state that SPSS produced an output if it was not actually run.
+**Remember:** Name the source of each result; the two 102-case sources were not verified as the same people.
 
-**If asked further:** The calculations are fully documented from the frozen 103-record dataset, so they can be reproduced in SPSS.
+**If asked further:** The matching SPSS case file was unavailable, so I do not claim exact person-by-person agreement with the supplementary file.
 
 ## G. Findings, strategies, limitations, and future research
 
 ### 58. What are your main findings?
 
-**Say:** All three hypotheses were supported. Hybrid Learning and Learner Engagement had a positive correlation of 0.713. Trainer Competence and Learner Engagement had a positive correlation of 0.725. Learner Engagement and Training Effectiveness had the strongest positive correlation, 0.765. All were significant at p below .001.
+**Say:** All four construct averages were above the neutral point. The three-predictor regression was significant overall, with R² = .608. Of the three predictors, only LE was individually significant after they entered together. Q6, about digital preparation before the face-to-face session, was the lowest HL item at 3.990.
 
-**Remember:** H1 .713; H2 .725; H3 .765; all p < .001.
+**Remember:** Overall model significant; LE individually significant; preparation worth review.
 
-**If asked further:** These are relationships in the selected sample, not causal effects.
+**If asked further:** The findings describe employee perceptions in this selected sample, not causal effects.
 
-### 59. What did the regression analysis show?
+### 59. What exactly did the regression show?
 
-**Say:** Hybrid Learning and Trainer Competence together explained 57.2% of the observed variation in Learner Engagement. Learner Engagement explained 58.5% of the observed variation in Training Effectiveness. Both models were statistically significant.
+**Say:** For 102 valid SPSS cases, the overall model was significant: F(3, 98) = 50.652, p < .001, R² = .608. I rejected the overall H₀. LE had p < .001 individually; HL had p = .096 and TC p = .346, so those two were not individually significant at .05.
 
-**Remember:** R² = .569 for engagement; R² = .585 for effectiveness.
+**Remember:** One overall hypothesis decision, three coefficient descriptions.
 
-**If asked further:** Explained variation in a cross-sectional self-report model does not prove cause and effect.
+**If asked further:** R² describes differences in reported TE scores within this sample; it is not a percentage of training caused by the predictors.
 
-### 60. What practical strategies does your study suggest?
+### 60. What practical suggestions follow from your findings?
 
-**Say:** The study suggests five review areas: make the sequence between digital and trainer-led learning visible; keep material easy to locate and revisit; prepare trainers to connect the two modes and provide feedback; create structured opportunities for questions and practice; and use work-based examples or follow-up prompts to connect learning with routine tasks.
+**Say:** I suggest giving digital preparation early, connecting it explicitly to trainer-led activities, making time for questions and practice, and asking employees which part of the programme was difficult. These are review points because LE stood out in the model and Q6 had the lowest HL mean.
 
-**Remember:** Five strategies; recommendations, not tested interventions.
+**Remember:** Recommendations are proposals, not proven interventions.
 
-**If asked further:** The lower-scoring areas were digital preparation before face-to-face sessions, platform navigation, connection between modes, feedback, clarification-seeking, and help with work tasks.
+**If asked further:** The Bank would need to test any change before assuming it improves outcomes.
 
 ---
 
 ## Final reminder
 
-The safest accurate conclusion is:
-
-> Among the 103 profile-complete respondents, more positive Hybrid Learning and Trainer Competence perceptions were associated with higher Learner Engagement, and higher Learner Engagement was associated with higher perceived Training Effectiveness. The study gives Union Bank focused employee feedback for reviewing hybrid-training design, while remaining limited to a selected, cross-sectional, self-report Chennai sample.
+> Among 102 valid SPSS cases, HL, TC, and LE jointly predicted perceived TE, so I rejected the overall null hypothesis. LE was the only individually significant predictor after all three entered the model. My recommendations concern participation and digital preparation, but the survey does not prove causation or represent the whole Bank.
 
 ---
 
@@ -546,7 +551,7 @@ The safest accurate conclusion is:
 
 These questions are more likely when the guide tests the boundaries of the study. Answer them calmly and directly. A limitation stated honestly is more credible than an overclaim.
 
-## H1. You use “hybrid learning” and “blended learning.” Are they different?
+## Challenge 1. You use “hybrid learning” and “blended learning.” Are they different?
 
 **Say:** In much of the literature, hybrid learning and blended learning are used for the planned combination of digital and face-to-face learning. I use **Hybrid Learning** consistently as the name of my construct. The important point in my study is that the two modes are connected as parts of one programme.
 
@@ -554,7 +559,7 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **If asked further:** I did not treat the terms as two separate variables.
 
-## H2. Sosnova’s study is about Ukrainian students. Why is it acceptable in a workplace bank study?
+## Challenge 2. Sosnova’s study is about Ukrainian students. Why is it acceptable in a workplace bank study?
 
 **Say:** Sosnova is not used as direct evidence about bank employees. It is the conceptual base paper because it examines whether a carefully designed hybrid approach can be related to learning effectiveness. I combine that conceptual evidence with Kim’s corporate training evidence and Bahl’s Indian banking training-effectiveness evidence.
 
@@ -562,7 +567,7 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **If asked further:** The present data were collected from Union Bank employees, so the findings are based on the workplace sample rather than on the student study.
 
-## H3. Why did you use an automotive sales-training paper for a bank study?
+## Challenge 3. Why did you use an automotive sales-training paper for a bank study?
 
 **Say:** Kim is relevant because it examines workplace training, not because automotive sales and banking are identical. It supports the corporate-learning principles of programme design, instructor involvement, practice, participation, and evaluation. Bahl supplies the Indian banking training-effectiveness context.
 
@@ -570,7 +575,7 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **If asked further:** I do not claim that a result from automotive sales automatically applies to banking.
 
-## H4. What proof do you have that your research gap is real?
+## Challenge 4. What proof do you have that your research gap is real?
 
 **Say:** The literature shows four connected gaps. First, much blended-learning research is based on students rather than workplace employees. Second, Bahl studies training effectiveness in Indian banking but does not study Hybrid Learning, Trainer Competence, Learner Engagement, or Union Vidya. Third, the selected base papers do not test my four-construct employee-experience model together. Fourth, available measures could not be transferred unchanged into a short Union Bank employee questionnaire.
 
@@ -578,15 +583,15 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **If asked further:** I describe the gap as limited and fragmented evidence, not as an absence of all related research.
 
-## H5. Why did you use correlation and regression instead of SEM?
+## Challenge 5. Why correlation and regression rather than SEM?
 
-**Say:** My stated hypotheses are simple relationships, and the study is cross-sectional. Pearson correlation directly tests those relationships, and two regression models provide supporting evidence. SEM and formal mediation would require a more demanding model, a larger planned sample, and stronger measurement-validation work than this project was designed to provide.
+**Say:** The final thesis asks one joint prediction question. Pearson correlations describe pairs, and multiple regression tests the three predictors together. SEM and formal mediation would need a more demanding design and fuller measurement validation than this project provides.
 
-**Remember:** Method matched the hypotheses and design.
+**Remember:** One regression model; no path or mediation test.
 
-**If asked further:** I did not present the diagram as a confirmed causal path model.
+**If asked further:** The cross-sectional survey cannot establish the order in which experiences occurred.
 
-## H6. Why did you choose a cross-sectional design?
+## Challenge 6. Why did you choose a cross-sectional design?
 
 **Say:** I used a cross-sectional survey because the study aimed to describe employees’ current recalled experience of one recent hybrid-training programme within the available dissertation fieldwork period. It was feasible for branch employees and suited the focused relationship questions.
 
@@ -594,15 +599,15 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **If asked further:** It cannot establish what came first or prove cause and effect. A future pre-training and post-training study would be stronger for that purpose.
 
-## H7. Are 103 respondents enough for four constructs and 26 items?
+## Challenge 7. Are 102 regression cases enough for your model?
 
-**Say:** The 103 profile-complete records are adequate for the planned descriptive statistics, reliability checks, Pearson correlations, and two-predictor regression. The study uses four averaged construct scores for the relationship analysis. It does not claim that this sample is sufficient for full scale validation, SEM, or national representation of Union Bank employees.
+**Say:** The main model has three averaged predictors and 102 valid SPSS cases. That supports a modest regression analysis within this selected sample, but I do not claim full scale validation, SEM, or Bank-wide representation.
 
-**Remember:** Adequate for planned analysis; not for every possible analysis.
+**Remember:** 102 main-model cases; 103 profile-complete before SPSS.
 
-**If asked further:** The final usable sample also exceeded the original approximate target of 80 eligible respondents.
+**If asked further:** I also report the predictor overlap and self-report limits rather than treating sample size alone as proof of validity.
 
-## H8. Why did you study Chennai South only, rather than several regions?
+## Challenge 8. Why did you study Chennai South only, rather than several regions?
 
 **Say:** The study was scoped to the Chennai South fieldwork context because that was where I had access to eligible employees through the Regional Office, associated locations, and branches. This allowed direct data collection within the available academic period.
 
@@ -610,15 +615,15 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **If asked further:** This is why I limit the findings to the selected Chennai-context respondents and do not generalise to all regions.
 
-## H9. What was your response rate?
+## Challenge 9. What was your response rate?
 
-**Say:** I cannot calculate a formal response rate because I did not maintain one complete denominator for every employee approached or invited across branch visits and the shareable Google Forms link. I therefore report the auditable counts: 132 responses received, 29 excluded during eligibility and profile-completeness screening, and 103 profile-complete responses analysed.
+**Say:** I cannot calculate a formal response rate because no complete count of everyone approached or invited was kept across paper visits and the shareable online link. I can report 132 received, 29 screened out, 103 profile-complete, and 102 valid cases in the main SPSS model.
 
-**Remember:** Do not invent an approached/invited total.
+**Remember:** Do not invent an invitation denominator.
 
-**If asked further:** A future study should maintain an invitation log and denominator so that a formal response rate can be reported.
+**If asked further:** A future study should keep an invitation log.
 
-## H10. How did you get permission to collect data in the branches?
+## Challenge 10. How did you get permission to collect data in the branches?
 
 **Say:** Verbal permission was obtained through the HR Manager for academic data collection. The questionnaire did not request personal identifiers, customer information, or confidential Bank data.
 
@@ -626,7 +631,7 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **If asked further:** I do not claim that I had written permission, because the permission recorded for this study was verbal.
 
-## H11. Could paper forms and Google Forms have biased the results?
+## Challenge 11. Could paper forms and Google Forms have biased the results?
 
 **Say:** It is possible that collection mode influenced participation because employees with different work schedules or digital comfort may have selected different modes. Both modes used the same approved questionnaire and scoring rules, and online records were reconciled with the original export. I did not separately test mode differences, so this remains a limitation.
 
@@ -634,15 +639,15 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **If asked further:** The study reports the two modes transparently: 70 paper submissions and 62 Google Forms submissions.
 
-## H12. How did you verify the paper-form responses?
+## Challenge 12. How did you verify the paper-form responses?
 
-**Say:** The paper questionnaires were treated as source records and manually transcribed into structured response records. Eligibility and each scored response were checked from the forms. Blank or illegible eligibility responses were excluded, and the two unclear scored items were documented separately rather than hidden.
+**Say:** The paper questionnaires were treated as source records and manually transcribed into structured response records. Eligibility and scored responses were checked from the forms. Blank or illegible eligibility responses were excluded. The one unclear-item coding decision in the active scored file is recorded in the data-quality audit.
 
 **Remember:** Paper source record, manual verification, documented exceptions.
 
-**If asked further:** The final data-quality audit records 70 verified manual records and the two documented response decisions.
+**If asked further:** Of 70 received paper forms, 54 passed the active eligibility and profile checks. The active audit records the retained response-coding decision.
 
-## H13. How do you know that similar answers were not duplicate responses?
+## Challenge 13. How do you know that similar answers were not duplicate responses?
 
 **Say:** I do not know with certainty from anonymous forms alone. Similar answer patterns were checked and recorded, but I retained them because identical or similar responses do not prove that the same person responded twice. Removing them without identifying evidence would create another form of bias.
 
@@ -650,23 +655,23 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **If asked further:** The questionnaire did not collect names, because anonymity was part of the ethical approach.
 
-## H14. Your alpha values are .958 to .972. Are your questions redundant?
+## Challenge 14. Your overall alpha is .980. Is the questionnaire repetitive?
 
-**Say:** The alpha values show very high internal consistency, meaning the items in each construct moved closely together in this sample. That can be useful for reliability, but it can also indicate that some items are closely related. I therefore do not treat alpha alone as proof of perfect measurement or full scale validation.
+**Say:** That value shows the 26 items moved closely together in the saved SPSS output. It could also reflect some overlap among items. Because it pools all four areas, I do not treat it as four separate reliability results or proof of full validity.
 
-**Remember:** Strong consistency plus a caution about possible item overlap.
+**Remember:** One pooled final alpha of .980; four preliminary pilot block alphas .879–.929.
 
-**If asked further:** Future work can use a larger independent sample, factor analysis, and item refinement to test whether some items can be shortened.
+**If asked further:** Future work can examine items and test the scales in an independent sample.
 
-## H15. Hybrid Learning and Trainer Competence correlate at .817. Are they really separate constructs?
+## Challenge 15. HL and TC correlate at .818. Are they really different?
 
-**Say:** They are strongly related in this sample, which makes practical sense because a connected programme and trainer support can occur together. However, their questionnaire items measure different things: Hybrid Learning measures integration, access, material availability, and revision; Trainer Competence measures knowledge, clarity, digital facilitation, participation support, and feedback.
+**Say:** Their scores are strongly related, but the questions cover different ideas: HL asks about integration and digital access; TC asks about trainer explanation and support. The overlap makes their separate regression coefficients harder to interpret.
 
-**Remember:** Correlation HL–TC = .817; item content differs.
+**Remember:** r = .818 in the saved SPSS table; no VIF value reported there.
 
-**If asked further:** I do not claim perfect discriminant validity. The VIF of 3.024 and tolerance of .331 show overlap that I treated cautiously in the regression interpretation.
+**If asked further:** I do not claim that their distinction has been fully validated or that overlap alone explains the coefficient results.
 
-## H16. What is common-method bias, and how does it affect your study?
+## Challenge 16. What is common-method bias, and how does it affect your study?
 
 **Say:** Common-method bias means that the same person answered all the variables in the same questionnaire at one point in time. This can make correlations appear stronger because the response style is shared. My findings may therefore reflect both real reported associations and some common-method influence.
 
@@ -674,7 +679,7 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **If asked further:** A future study can combine employee responses with knowledge tests, supervisor observations, system records, or data collected at different times.
 
-## H17. Why did you use five response options instead of seven?
+## Challenge 17. Why did you use five response options instead of seven?
 
 **Say:** A five-point scale was selected because it is easy for busy employees to understand and complete in both paper and Google Forms. It provides enough response variation for the planned descriptive and relationship analysis without making the questionnaire longer or more difficult.
 
@@ -682,7 +687,7 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **If asked further:** A seven-point scale is also valid in other studies; I chose five points for this short workplace instrument.
 
-## H18. Did you use reverse-coded questions? Why not?
+## Challenge 18. Did you use reverse-coded questions? Why not?
 
 **Say:** No. I kept all statements direct and positively worded so that the paper and online questionnaire would be easy to understand across employees and would reduce confusion during quick completion. The absence of reverse-coded items is a design limitation because agreement-style response tendencies may remain.
 
@@ -690,18 +695,113 @@ These questions are more likely when the guide tests the boundaries of the study
 
 **If asked further:** A future instrument can test carefully worded reverse items after piloting them with the target employee group.
 
-## H19. Why was Hybrid Learning the lowest-scoring construct if it is central to your topic?
+## Challenge 19. Why was Hybrid Learning lowest among the four means?
 
-**Say:** Hybrid Learning was still positively rated, with a mean of 4.144 on the five-point scale. It ranked lowest only relative to the other three constructs. This is useful because it identifies the programme-design side as an area where employee experience may be improved, especially digital preparation and platform navigation.
+**Say:** HL still had a favourable average of 4.148; it was only the lowest relative to the other three means. Its lowest item was digital preparation before face-to-face learning, at 3.990, which gives a concrete area to review.
 
-**Remember:** HL mean = 4.144; above neutral, lowest relative rank.
+**Remember:** HL 4.148; Q6 3.990; both are above neutral 3.
 
-**If asked further:** A lower relative score does not mean that hybrid learning failed. It helps identify where review may be useful.
+**If asked further:** A lower relative mean does not show that hybrid learning failed.
 
-## H20. If Learner Engagement was the highest-rated construct, what is left to improve, and who benefits?
+## Challenge 20. If engagement was highest, what remains to improve?
 
-**Say:** Learner Engagement was highest at 4.305, but its lowest item was clarification-seeking. Employees may be attentive and interested while still needing clearer opportunities to ask questions or apply learning. The Bank and its learning-and-development staff can use the findings to review programme design and trainer support; employees may benefit from clearer material, practice, feedback, and work-related follow-up. With more time and resources, I would use a larger multi-region sample, record the response denominator, collect data before and after training, and add objective learning or application measures.
+**Say:** LE had the highest mean, 4.317, but averages can hide differences between employees and items. LE was also the only individually significant predictor in the joint regression. The Bank can review whether employees have enough time and opportunity to participate, ask questions, and practise.
 
-**Remember:** LE mean = 4.305; practical benefit plus future improvement plan.
+**Remember:** LE 4.317; engagement result is an association, not an intervention effect.
 
-**If asked further:** The study’s new contribution is focused employee feedback on how connected learning, trainer support, engagement, and perceived effectiveness relate in the selected Union Bank Chennai context.
+**If asked further:** A wider study could test workload, manager support, and later application with independent evidence.
+
+
+# Mock Viva — 15 Questions to Practise Aloud
+
+This is a practice conversation using the **current** one-hypothesis thesis. Answer the first question in one or two sentences. Give the follow-up only if the examiner asks for more. The detailed answers above and the [statistics companion](statistics-explained-for-viva.md) provide the background.
+
+## 1. What did you study?
+
+**Student:** I studied how employees experienced one Union Bank programme combining digital and face-to-face learning. I tested whether Hybrid Learning, Trainer Competence, and Learner Engagement together related to their perceived Training Effectiveness.
+
+**If asked whether this proves causation:** No. I collected one-time self-reports, so I can describe associations only.
+
+## 2. Why does the topic matter to HR?
+
+**Student:** Bank employees must keep learning changing procedures and digital systems while serving customers. HR can use employee feedback to review preparation, trainer support, and opportunities to participate.
+
+**If asked about benefit:** The recommendations are areas to test, not proven improvements.
+
+## 3. What is your research gap?
+
+**Student:** Research exists on hybrid learning and on bank training effectiveness, but the evidence is fragmented for these four employee-perception constructs together in an Indian public-sector bank context.
+
+**If challenged:** I do not claim that no related research exists.
+
+## 4. Why three base papers?
+
+**Student:** Sosnova gives a conceptual hybrid-learning starting point, Kim supplies corporate training evidence, and Bahl supplies Indian banking training-effectiveness evidence. None alone covers my full question.
+
+**If challenged about Sosnova's student sample:** I use it for the concept, not as direct evidence about bank employees.
+
+## 5. Explain your model.
+
+**Student:** HL, TC, and LE are three independent variables entered together. Perceived TE is the dependent variable. LE is a separate predictor, not a tested mediator.
+
+**If asked why engagement is separate:** Even with good design and a capable trainer, workload or limited time may affect participation.
+
+## 6. What is Union Vidya's place in the study?
+
+**Student:** It is Union Bank's learning-platform context within Hybrid Learning. I did not score it as a fifth variable or evaluate its technical performance.
+
+**If asked whether all respondents used it:** The questionnaire allowed another authorised platform for the selected programme.
+
+## 7. How was the questionnaire built?
+
+**Student:** The 30-question instrument was adapted from the selected papers and supporting measurement literature, reviewed by my guide, and checked in a separate small online pilot. It has four eligibility/profile questions and 26 rating statements.
+
+**If asked about scale validation:** I do not claim a fully validated new scale.
+
+## 8. When was the pilot?
+
+**Student:** Twenty eligible employees completed the separate online pilot on 15–16 September 2026. Main collection began on 15 September in parallel. Pilot responses were not included in the main analysis.
+
+**If challenged about overlap:** The same guide-approved scored questions were used; the pilot did not lead to wording changes during main collection.
+
+## 9. How many responses were analysed?
+
+**Student:** I received 132 main responses. Twenty-nine were screened out, leaving 103 profile-complete records. The saved SPSS regression used 102 valid cases because one case lacked a TC average in that file.
+
+**If asked about modes:** The 103 profile-complete records comprised 54 paper and 49 online responses.
+
+## 10. Why purposive sampling?
+
+**Student:** Employees needed recent experience of both digital and face-to-face learning to answer about their connection. I therefore selected eligible respondents rather than a random group of all Bank employees.
+
+**If asked about generalisation:** My sample cannot statistically represent the entire Bank.
+
+## 11. What reliability result do you have?
+
+**Student:** The saved final SPSS output reports one alpha of .980 for all 26 scored items together. It does not give four separate final-sample construct alphas.
+
+**If asked about the pilot:** Its four preliminary block alphas ranged from .879 to .929, but they came from only 20 pilot responses.
+
+## 12. What did the main hypothesis test show?
+
+**Student:** The joint regression was significant: F(3, 98) = 50.652, p < .001, with R² = .608. I rejected the overall null hypothesis for the three predictors together.
+
+**If asked what R² means:** The model accounted for 60.8% of the differences in perceived TE scores among these 102 cases, not 60.8% of training caused by the predictors.
+
+## 13. Were all three predictors individually significant?
+
+**Student:** No. LE was significant at p < .001. HL had p = .096 and TC p = .346, so neither had a separately significant coefficient after all three entered the model.
+
+**If challenged:** HL and TC are still relevant parts of the model and had positive pairwise relationships; there are no separate hypotheses to reject for them.
+
+## 14. What is the most useful practical finding?
+
+**Student:** LE had the clearest separate association with perceived effectiveness. Among HL questions, digital preparation before the face-to-face session was lowest, although still positively rated, with a mean of 3.990.
+
+**If asked for action:** I would review whether staff receive usable preparation early enough and have time to ask questions and practise.
+
+## 15. What is your honest conclusion?
+
+**Student:** The three predictors jointly related to perceived TE in this selected Chennai-context group, and engagement stood out after adjustment. The findings can guide a review of hybrid training, but they do not prove causation or describe every Union Bank employee.
+
+**If asked what you would do next:** I would include more regions, collect data at different times, and add independent learning or work-application measures.

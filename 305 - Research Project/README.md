@@ -23,6 +23,6 @@ MSSW MA-HRM research project (305). Folders run in working order: references and
 | [07-research-data-and-analysis](07-research-data-and-analysis/) | Collection sources, scored data, SPSS output, analysis, pilot study |
 | [08-thesis-drafts](08-thesis-drafts/) | First, second and third drafts, plus the document builder |
 | [09-thesis-presentation](09-thesis-presentation/) | Presentation material (to be added) |
-| [10-viva-preparation](10-viva-preparation/) | Viva guide, revision sheet, mock questions, statistics explained |
+| [10-viva-preparation](10-viva-preparation/) | Current viva guide with rapid revision and mock questions, plus a plain-language statistics companion |
 
-The active study uses the four-construct model: Hybrid Learning and Trainer Competence in relation to Learner Engagement, and Learner Engagement in relation to Training Effectiveness. Findings are reported as associations in the selected cross-sectional employee sample.
+The active study uses one four-construct regression model: Hybrid Learning, Trainer Competence, and Learner Engagement jointly predicting perceived Training Effectiveness. The main SPSS regression uses 102 valid cases. Findings are associations in a selected cross-sectional employee sample, not causal effects.
