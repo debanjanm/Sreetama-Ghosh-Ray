@@ -4,6 +4,8 @@ This guide is for Sreetama's viva. It follows the [final-v4 thesis PDF](../08-th
 
 **Do not memorise all 41 terms at once.** First read Sections 1–8 (forms, scores, counts, averages). Next read Sections 22–33 (the one main hypothesis). The remaining sections explain supporting checks if the guide asks about them.
 
+**Which pictures are actually printed in the thesis?** The PDF contains eight numbered figures: Figures 4.1–4.3 show respondent profiles, Figure 4.4 compares the four construct means, and Figures 4.5–4.8 show item-response distributions. Chapter 4 also *mentions* SPSS histograms, boxplots, and Q–Q plots, but it does not print those diagnostic plots as figures. **Why are they only mentioned?** They are supporting checks of score shape rather than the main results. Section 4.1.3 explains what those checks showed in words, while Table 4.2 gives the related numerical descriptions. The PDF does not state a separate reason for omitting the plots, so this is an explanation of their role, not a claim about an editorial decision.
+
 ## First, what was measured?
 
 One employee answered about **one recent programme** that combined digital and face-to-face learning. The questionnaire had four eligibility/profile questions and 26 rating statements. The statements covered four ideas:
@@ -157,7 +159,7 @@ The thesis reports values from **4.058 to 6.236**. For the viva, she can say tha
 
 A **histogram** is a bar picture of the scores. A taller bar means more people gave scores in that part of the scale. For example, if many employees' average HL scores are near 4, the bar around 4 is tall.
 
-SPSS produced histograms for the four construct scores. They help show the pile-up toward favourable ratings.
+Chapter 4 says SPSS produced histograms for the four construct scores. **The histograms themselves are not printed in the PDF.** They were used as distribution checks, while §4.1.3 gives the interpretation in words. Figures 4.5–4.8 are printed item-response charts; they are not these construct-score histograms.
 
 **Find it in the thesis:** Chapter 4, §4.1.3 (p. 60).
 
@@ -167,7 +169,7 @@ A **median** is the middle score after putting everyone's scores in order. For 2
 
 A **boxplot** draws a box around that middle half and marks the median inside it. It may show unusually distant scores as separate dots.
 
-*Everyday example:* For a group of travel times, the box shows the central cluster without listing every person's journey. A point far away may be someone delayed by traffic. SPSS drew boxplots for the four construct scores.
+*Everyday example:* For a group of travel times, the box shows the central cluster without listing every person's journey. A point far away may be someone delayed by traffic. Chapter 4 refers to SPSS boxplots for the construct scores. **No boxplot is printed in the PDF.** Its role was to check spread and unusual scores; the chapter reports the distribution discussion instead of showing every diagnostic plot.
 
 **Find it in the thesis:** Chapter 4, §4.1.3 (p. 60).
 
@@ -175,7 +177,7 @@ A **boxplot** draws a box around that middle half and marks the median inside it
 
 A **bell curve** is a smooth, balanced hill: many values near the middle and fewer values at both ends. A **Q–Q plot** asks whether the observed answers have roughly that shape. If its dots mostly follow a straight line, the shapes are fairly similar. If the dots bend away, they are different.
 
-SPSS drew Q–Q plots. Because many questionnaire ratings were high, the construct scores did not closely follow a normal bell curve.
+Chapter 4 refers to SPSS Q–Q plots. **No Q–Q plot is printed in the PDF.** These were normality checks, not the main findings charts. The text in §4.1.3 states that the construct scores departed from a normal bell curve, which fits the many high questionnaire ratings.
 
 **Find it in the thesis:** Chapter 4, §4.1.3 (p. 60).
 
