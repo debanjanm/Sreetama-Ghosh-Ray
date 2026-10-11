@@ -1,447 +1,564 @@
-# Statistics in my thesis — explained one step at a time
+# Statistics in my thesis — a simple story for the viva
 
-This guide is for Sreetama's viva. It follows the [final-v4 thesis PDF](../08-thesis-drafts/03-third-draft-chapters-1-to-5/hybrid-learning-training-effectiveness-third-draft-final-v4.pdf). Read it in order. Each section explains **one term**, gives **one small example**, and ends with the chapter, table, or page where she can find it in the thesis. The examples with made-up numbers are for learning; they are not survey responses.
+This guide follows the [thesis PDF](../08-thesis-drafts/03-third-draft-chapters-1-to-5/hybrid-learning-training-effectiveness-third-draft-final-v4.pdf). Imagine Sreetama moving through her work: she collects questionnaires, turns answers into scores, checks those scores, and then asks what they tell her about training. Each section takes the **next question in that story**. The small examples help explain a term; they are not extra survey results.
 
-**Do not memorise all 41 terms at once.** First read Sections 1–8 (forms, scores, counts, averages). Next read Sections 22–33 (the one main hypothesis). The remaining sections explain supporting checks if the guide asks about them.
+**SPSS** is the computer program used for the main statistical output. A **scored file** is a table with one employee per row and their coded answers and averages in columns. Read Sections 1–10 first, then Sections 22–33 for the main finding. The other sections are supporting checks she can revisit when needed.
 
-**Which pictures are actually printed in the thesis?** The PDF contains eight numbered figures: Figures 4.1–4.3 show respondent profiles, Figure 4.4 compares the four construct means, and Figures 4.5–4.8 show item-response distributions. Chapter 4 also *mentions* SPSS histograms, boxplots, and Q–Q plots, but it does not print those diagnostic plots as figures. **Why are they only mentioned?** They are supporting checks of score shape rather than the main results. Section 4.1.3 explains what those checks showed in words, while Table 4.2 gives the related numerical descriptions. The PDF does not state a separate reason for omitting the plots, so this is an explanation of their role, not a claim about an editorial decision.
+The questionnaire asks about one recent programme that combined digital and face-to-face learning. Its 26 rating statements cover four ideas:
 
-## First, what was measured?
+- **Hybrid Learning (HL):** how employees experienced the digital and face-to-face parts together.
+- **Trainer Competence (TC):** how they experienced the trainer's explanations and support.
+- **Learner Engagement (LE):** how they felt they participated and paid attention.
+- **Training Effectiveness (TE):** how useful and applicable they felt the training was.
 
-One employee answered about **one recent programme** that combined digital and face-to-face learning. The questionnaire had four eligibility/profile questions and 26 rating statements. The statements covered four ideas:
+The main question is whether **HL, TC, and LE together are related to perceived TE** in this group of employees. Their answers were collected at one point in time. They cannot prove that one factor caused another.
 
-- **Hybrid Learning (HL):** how well the digital and face-to-face parts worked together.
-- **Trainer Competence (TC):** how the trainer explained, connected, and supported the activities.
-- **Learner Engagement (LE):** how much the employee paid attention, participated, and asked questions.
-- **Training Effectiveness (TE):** how useful and applicable the employee felt the learning was.
+## Which diagrams can I actually show?
 
-The main question was: **Do HL, TC, and LE, considered together, relate to TE?** The study recorded perceptions at one time. It cannot show that any one of these caused another.
+The PDF prints **eight figures**. Figures 4.1–4.3 show age, service length, and job level. Figure 4.4 shows the four average construct scores. Figures 4.5–4.8 show the answers to individual rating questions. Those are pictures Sreetama can point to in the thesis.
 
-## Part 1 — Turning forms into numbers
+The project's [SPSS figure index](../08-thesis-drafts/03-third-draft-chapters-1-to-5/figures/spss-figure-export-notes.md) names **21 other plots** for possible export, but **none of those 21 appears in this PDF**:
 
-### 1. What is a response?
-
-A **response** is one submitted questionnaire record. Think of one feedback card handed in after a workshop. That card contains many answers, but it is still one response.
-
-The main collection received **132 forms**. After eligibility and profile screening, **103 records** had the required profile information. The main SPSS regression used **102 valid cases** because one record in its analysis file lacked a Trainer Competence mean.
-
-**Say in the viva:** “I received 132 main forms. After screening, 103 were profile-complete, and the main SPSS model used 102 valid cases.”
-
-**Find it in the thesis:** Chapter 3, §3.6, Table 3.3 (p. 40).
-
-### 2. What does a 1–5 answer mean?
-
-The 26 statements used five choices: 1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, and 5 = Strongly Agree. The number is a **code** for the selected answer.
-
-For example, if an employee agreed that digital material was available before the session, that answer was coded **4**. A 4 is not a mark out of 5 on a test; it is the employee's opinion on that statement.
-
-**Find it in the thesis:** Chapter 3, §3.7 (p. 41); Appendix A, the approved questionnaire.
-
-### 3. What is a construct score?
-
-A **construct** is an idea measured with several questions. Instead of discussing seven Hybrid Learning answers separately every time, the study takes their average to make one HL score per respondent.
-
-*Made-up example:* An employee's seven HL answers are 4, 5, 4, 3, 4, 5, 4. Add them to get 29, then divide by 7. The HL score is **4.14**. TC and LE each use six items; TE uses seven.
-
-The score summarises **that respondent's overall perception** of the construct. In this example, 4.14 means the employee generally rated their Hybrid Learning experience favourably. It does not independently measure the programme's actual quality or the employee's job performance.
-
-**Say:** “I averaged the assigned questions to get one score showing each respondent's overall perception of each construct.”
-
-**Find it in the thesis:** Chapter 3, §§3.3 and 3.7, Table 3.2 (pp. 37–38, 41).
-
-### 4. Why did the study choose these employees?
-
-This is **purposive sampling**. The researcher approached people who could answer the research question: employees who had experienced both digital and face-to-face learning in one programme.
-
-*Everyday example:* To ask how a particular workshop went, you ask people who attended it. That choice is sensible, but it is **not a random sample** of every bank employee. The results describe the selected respondents; they cannot statistically represent the whole Bank.
-
-**Find it in the thesis:** Chapter 3, §3.5 (p. 39).
-
-### 5. Why do some tables say 102 and others 103?
-
-Start with **103 profile-complete records**. In the SPSS analysis file, one of those records lacked a **Trainer Competence construct mean**. A calculation needing all four construct means could therefore use only **102** records. **Listwise deletion** is the name for leaving that incomplete record out of such a calculation.
-
-That record could still be used for a calculation that did **not** need its missing Trainer Competence mean. For example, SPSS could calculate a Hybrid Learning item mean from **103** available answers. It could also correlate Hybrid Learning with Learner Engagement using **103** cases, because neither score in that pair was the missing Trainer Competence mean.
-
-| Calculation in the PDF | Cases | Where to find it |
+| Plots listed but absent | Number | What they would help her see |
 | --- | ---: | --- |
-| Age, service-length, and job-level counts and percentages | **102** from the selected scored file | Table 4.1; Figures 4.1–4.3 |
-| Mean, standard deviation, minimum, maximum, skewness, and kurtosis for **all four construct scores together** | **102** in SPSS Explore | Table 4.2; Figure 4.4 uses these means |
-| Mean for each of the seven **individual Hybrid Learning questions**, Q5–Q11 | **103** available item answers in SPSS | Table 4.3; this includes the Q6 mean of 3.990 |
-| Counts for each answer choice, 1–5, across Q5–Q30 | **102** from the selected scored file | Table 4.4; Figures 4.5–4.8 |
-| One overall Cronbach's alpha for all 26 scored items | **102** valid SPSS cases; one excluded | Table 4.5 |
-| Correlations **HL–TC, TC–LE, TC–TE** | **102** for each pair in SPSS | Table 4.6; every pair includes TC |
-| Correlations **HL–LE, HL–TE, LE–TE** | **103** for each pair in SPSS | Table 4.6; none of these pairs needs TC |
-| Main three-predictor regression and its individual coefficients | **102** valid SPSS cases | Tables 4.7–4.8; the hypothesis decision in Chapter 5 |
-| One-sample and paired *t*-tests, Welch comparison, ANOVA, and chi-square suitability tables | **102** from the selected scored file | Tables 4.9–4.11 and the accompanying text |
+| Construct-score histograms | 4 | Where employees' scores gather. |
+| Normal Q–Q plots and detrended Q–Q plots | 8 | Whether scores look like a balanced bell shape. |
+| Boxplots | 4 | The middle of the scores and unusually distant scores. |
+| PCA scree plot and rotated-component plot | 2 | How the questions may group together. |
+| Regression residual histogram, P–P plot, and scatterplot | 3 | Whether the model's prediction mistakes show an unusual pattern. |
 
-**Two different “102s” need care.** The main regression used 102 cases in the **saved SPSS output**. The profile, response-count, and supplementary tables used a **separately selected 102-record scored file**. The matching SPSS data file was not available, so the thesis cannot verify that those are exactly the same 102 people or that every underlying item value agrees. For example, HL averages **4.148** in SPSS Table 4.2 but **4.144** in the supplementary scored-file comparison. The main hypothesis decision follows the SPSS regression, not the supplementary file.
+A **prediction mistake**, also called a *residual*, is the gap between a person's actual TE score and the score estimated by the regression. The index also mentions plots from supporting tests without listing them one by one. **The index lists these plots for export; they were not inserted into this PDF. The project files do not say why.** It would be wrong to say they were deliberately omitted because they were unimportant. The index's suggested “Figures 4.1–4.4” for histograms are *proposed labels*, not the actual Figures 4.1–4.4 printed in the PDF.
 
-The PDF also reports an exploratory PCA with KMO and Bartlett's test, but it does **not** state a separate case count for that check. Do not guess its N in the viva.
+**How to answer if asked to show a missing plot:** “Chapter 4 describes that SPSS check, but this PDF does not reproduce its plot. I can point to the written result; I should not call it a printed figure.”
 
-**Say:** “The denominator depends on the calculation. SPSS used 102 when all four construct means were required, but some item means and pairs without Trainer Competence used 103. The other 102-case tables came from a separate selected scored file and are labelled as such.”
+## Part 1 — From questionnaires to scores
 
-**Find it in the thesis:** Chapter 3, §3.6, Table 3.3 (p. 40), and Chapter 4, Tables 4.1–4.11 (pp. 48–66).
+### 1. Response: what did I collect?
 
-## Part 2 — Describing what people answered
+**Why:** Before counting anything, I need to know what one record means.
 
+**Think:** One employee submits one questionnaire containing many answers. That is **one response**, not 30 responses.
 
+**In my thesis:** The main survey received **132 questionnaires**. After screening, **103** had the needed profile details. The main SPSS regression used **102** cases because its file lacked a Trainer Competence average for one case.
 
-### 6. Frequency: how many?
+**Say:** “I received 132 main questionnaires. I had 103 profile-complete records, and the main SPSS model used 102.”
 
-A **frequency** is a count. In the 102-record profile table, **56** respondents were aged 35–44. Nothing more is being calculated yet; 56 is simply the number of people in that category.
+**Find:** Chapter 3, §3.6, Table 3.3 (p. 40).
 
-**Find it in the thesis:** Chapter 4, Table 4.1 (pp. 48–49) and Table 4.4 (pp. 53–56).
+### 2. Rating code: what does an answer from 1 to 5 mean?
 
-### 7. Percentage: what share?
+**Why:** I need numbers before I can count or average employees' opinions.
 
-A **percentage** turns a count into a share out of 100. For the age group above, 56 ÷ 102 × 100 = **54.9%**.
+**Think:** If an employee chose “Agree,” I wrote **4** for that answer. The scale is 1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly Agree. A 4 is an opinion, not a test mark.
 
-*Everyday example:* If 5 of 10 people prefer tea, that is 50%. Percentages make groups of different sizes easier to read.
+**In my thesis:** All **26 rating statements** use this five-choice scale.
 
-**Say:** “The largest age group was 35–44: 56 of 102 respondents, or 54.9%.”
+**Say:** “I changed each agreement choice into a number from 1 to 5.”
 
-**Find it in the thesis:** Chapter 4, Table 4.1 (pp. 48–49).
+**Find:** Chapter 3, §3.7 (p. 41); Appendix A.
 
-### 8. Mean: what is the average?
+### 3. Construct score: why average several questions?
 
-The **mean** is the total of the values divided by the number of values. For ratings 3, 4, and 5, the mean is (3 + 4 + 5) ÷ 3 = **4**.
+**Why:** I want one overall rating for each idea, such as Hybrid Learning, from each employee.
 
-In the SPSS construct summary, the means were HL **4.148**, TC **4.158**, LE **4.317**, and TE **4.254**. All were above the neutral value of 3; LE was highest and HL lowest among the four. A high mean does not mean every person gave a high rating.
+**Think:** A hypothetical employee gives seven HL ratings: 4, 5, 4, 3, 4, 5, 4. Their total is 29. Dividing by 7 gives an **HL score of 4.14**. This describes that employee's **general perception** of HL.
 
-**Find it in the thesis:** Chapter 4, Tables 4.2 and 4.3 (pp. 51–53).
+**In my thesis:** HL and TE each use **seven items**. TC and LE each use **six**. Each person's items were averaged within the relevant group. This is a perception score, not an objective test of training quality or job performance.
 
-### 9. Standard deviation: how different were the answers?
+**Say:** “I averaged the questions for each idea to show how each employee generally perceived it.”
 
-The **average** tells us the group's typical rating. **Standard deviation (SD)** tells us whether people gave similar ratings or very different ones. If everyone gives exactly the same rating, SD is **0**. As their answers spread out, SD becomes larger.
+**Find:** Chapter 3, §§3.3 and 3.7, Table 3.2 (pp. 37–38, 41).
 
-*Made-up training example:* Five employees in Group A rate a programme **4, 4, 4, 4, 4**. Five in Group B rate it **3, 3, 4, 5, 5**. Both groups have the same average, **4**. But Group A agrees completely, while Group B's opinions differ. Group A has SD **0**; Group B has a larger SD.
+### 4. Purposive sampling: why ask these employees?
 
-In the thesis, the four SDs were **.793 to .863** on the 1–5 scale. So employees generally gave favourable ratings, but they did not all give the same ratings. SD tells us about **agreement or variation**, not whether the training itself was good or bad.
+**Why:** Someone who has not attended a programme with both digital and face-to-face learning could not answer these questions about one such programme.
 
-**Say:** “The average tells me the typical rating. Standard deviation tells me how much employees' ratings differed from one another.”
+**Think:** To learn about a training session, I ask people who experienced it. I do not pick random employees who may never have attended it. This deliberate choice is called **purposive sampling**.
 
-**Find it in the thesis:** Chapter 4, Table 4.2 (p. 51).
+**In my thesis:** Eligible Union Bank employees with a recent hybrid-training experience were approached. They are **not a random sample** of the whole Bank.
 
-### 10. Minimum and maximum: what were the ends?
+**Say:** “I selected employees who could answer from their own recent training experience.”
 
-The **minimum** is the lowest observed score; the **maximum** is the highest. The SPSS construct table lists **1** and **5** for each construct. These two numbers do not tell us how many people gave those scores. For that, use a frequency table.
+**Find:** Chapter 3, §3.5 (p. 39).
 
-**Find it in the thesis:** Chapter 4, Table 4.2 (p. 51).
+### 5. Why do some results use 102 people and others 103?
 
-### 11. Skewness: which side has most answers?
+**Why:** A table can use a record only when that record has the answer needed for that particular calculation.
 
-First, a **distribution** is simply a count of how many people chose 1, 2, 3, 4, or 5. If we draw those counts as bars, we can see where most answers are. The **tail** is the thin end of the picture: the few answers that stretch away from the main crowd.
+**Think:** Imagine 103 forms, but one has no TC average in the SPSS file. A calculation needing TC leaves out that form and uses **102**. A calculation using only HL and LE can still use **103**. Leaving out a case missing a needed value is called **listwise deletion** for calculations that need all specified values.
 
-*Made-up example:* Suppose 1 person chose 1, 1 chose 2, 2 chose 3, 8 chose 4, and 10 chose 5. Most answers are **4 or 5** on the right. The few low answers stretch out to the **left**. That thin left end is the *left tail*.
+**In my thesis:** The denominators differ as follows:
 
-**Skewness** is the number describing this uneven shape. It is called **negative skew** when the tail stretches left. The name follows the **tail**, not the side where most people answered. If most answers were 1 or 2 and a few stretched toward 5, the tail would be right and skewness would be positive.
+| Calculation | Number used | Thesis location |
+| --- | ---: | --- |
+| Age, service, and job-level counts | **102**, selected scored file | Table 4.1; Figures 4.1–4.3 |
+| Summary of all four construct scores | **102**, SPSS | Table 4.2; Figure 4.4 |
+| Individual HL item averages, Q5–Q11 | **103**, SPSS | Table 4.3; Q6 has mean **3.990** |
+| Counts of each rating choice, Q5–Q30 | **102**, selected scored file | Table 4.4; Figures 4.5–4.8 |
+| One alpha for all 26 items | **102**, SPSS | Table 4.5 |
+| Correlations involving TC | **102**, SPSS | Table 4.6 |
+| Correlations HL–LE, HL–TE, and LE–TE | **103**, SPSS | Table 4.6 |
+| Main regression | **102**, SPSS | Tables 4.7–4.8 |
+| Extra group comparisons and crosstabs | **102**, selected scored file | Tables 4.9–4.11 |
 
-The thesis reports negative skewness of about **−1.8 to −2.1** for the four construct scores: many employees gave favourable ratings, with fewer low scores. Skewness describes the answer pattern. It does not show whether one construct affects another.
+**One important difference:** The SPSS regression's 102 cases and the separately selected scored file's 102 records have the same *number*, but the matching SPSS data file was unavailable. The thesis cannot confirm they are exactly the same people or that every item value matches. The HL average is **4.148** in the SPSS summary and **4.144** in the supplementary scored-file comparison. The main hypothesis decision follows the **SPSS regression**. The thesis does not give a separate case count for its PCA check, so do not guess one.
 
-**Say:** “Most ratings were high, with a small number of lower ratings. That gives the scores negative, or left-tailed, skewness.”
+**Say:** “The number depends on which answers a calculation needs. I use the 102-case SPSS output for my main regression, and I label the separate 102-record supporting tables.”
 
-**Find it in the thesis:** Chapter 4, Table 4.2 (p. 51) and §4.1.3 (p. 60).
+**Find:** Chapter 3, §3.6, Table 3.3 (p. 40); Chapter 4, Tables 4.1–4.11 (pp. 48–66).
 
-### 12. Kurtosis: what is the shape around the centre and tails?
+## Part 2 — What did employees answer?
 
-The **peak** is the tallest bar in the answer-count picture: the rating chosen most often. But knowing only the tallest bar does not describe the whole picture. We also need to know whether answers are crowded together and whether a few are far away at the ends.
+Now Sreetama has usable ratings. She first describes them before testing any relationship.
 
-**Kurtosis** is one technical number about that combination of crowding and far-away answers. It compares the pattern with a balanced, smooth hill called a **bell curve**. Kurtosis is **not** simply “whether there is a peak”; every answer chart has a tallest bar.
+### 6. Frequency: how many employees?
 
-The thesis reports values from **4.058 to 6.236**. For the viva, she can say that kurtosis was used to **describe the shape of the ratings**. She need not claim that a particular value proves good or bad training.
+**Why:** I first want a simple count of people in each answer group.
 
-**Say:** “Kurtosis is another description of how the ratings are grouped and how many lie far from the main group. It does not measure training quality.”
+**Think:** If I count **56** employees aged 35–44, that 56 is their **frequency**. It says how many, not what share of the group.
 
-**Find it in the thesis:** Chapter 4, Table 4.2 (p. 51) and §4.1.3 (p. 60).
+**In my thesis:** **56 of 102** employees in the profile table were aged 35–44. The item table similarly counts how many selected each rating.
 
-### 13. Histogram: where do the scores pile up?
+**Say:** “Frequency is simply the number of employees in a category.”
 
-A **histogram** is a bar picture of the scores. A taller bar means more people gave scores in that part of the scale. For example, if many employees' average HL scores are near 4, the bar around 4 is tall.
+**Find:** Chapter 4, Tables 4.1 and 4.4 (pp. 48–49, 53–56).
 
-Chapter 4 says SPSS produced histograms for the four construct scores. **The histograms themselves are not printed in the PDF.** They were used as distribution checks, while §4.1.3 gives the interpretation in words. Figures 4.5–4.8 are printed item-response charts; they are not these construct-score histograms.
+### 7. Percentage: what share of the group?
 
-**Find it in the thesis:** Chapter 4, §4.1.3 (p. 60).
+**Why:** A count is easier to understand when I know how large the whole group is.
 
-### 14. Boxplot: where is the middle half?
+**Think:** Divide the 56 employees aged 35–44 by the 102 employees in that table, then multiply by 100. The result is **54.9%**.
 
-A **median** is the middle score after putting everyone's scores in order. For 2, 3, 4, 4, 5, the median is **4** because it is the third, middle number. The **middle half** means the central 50% of scores after sorting them.
+**In my thesis:** The profile table gives both counts and percentages. The percentage is the share **of the people used in that table**.
 
-A **boxplot** draws a box around that middle half and marks the median inside it. It may show unusually distant scores as separate dots.
+**Say:** “56 of the 102 respondents in that table were aged 35–44, which is 54.9%.”
 
-*Everyday example:* For a group of travel times, the box shows the central cluster without listing every person's journey. A point far away may be someone delayed by traffic. Chapter 4 refers to SPSS boxplots for the construct scores. **No boxplot is printed in the PDF.** Its role was to check spread and unusual scores; the chapter reports the distribution discussion instead of showing every diagnostic plot.
+**Find:** Chapter 4, Table 4.1 (pp. 48–49).
 
-**Find it in the thesis:** Chapter 4, §4.1.3 (p. 60).
+### 8. Mean: what was the group's average rating?
 
-### 15. Q–Q plot: does the shape resemble a bell curve?
+**Why:** I want one number that sums up the group's ratings for each idea.
 
-A **bell curve** is a smooth, balanced hill: many values near the middle and fewer values at both ends. A **Q–Q plot** asks whether the observed answers have roughly that shape. If its dots mostly follow a straight line, the shapes are fairly similar. If the dots bend away, they are different.
+**Think:** Ratings 3, 4, and 5 add to 12. Divide by three people: their **mean**, or average, is **4**.
 
-Chapter 4 refers to SPSS Q–Q plots. **No Q–Q plot is printed in the PDF.** These were normality checks, not the main findings charts. The text in §4.1.3 states that the construct scores departed from a normal bell curve, which fits the many high questionnaire ratings.
+**In my thesis:** The SPSS averages were HL **4.148**, TC **4.158**, LE **4.317**, and TE **4.254**. All are above the neutral rating of 3. LE is highest; HL is lowest *among these four*, though still above neutral. An average does not mean everyone answered alike.
 
-**Find it in the thesis:** Chapter 4, §4.1.3 (p. 60).
+**Say:** “All four average ratings were favourable. Engagement was highest, and Hybrid Learning was comparatively lowest.”
 
-### 16. Normality test: is the departure statistically noticeable?
+**Find:** Chapter 4, Tables 4.2–4.3 (pp. 51–53).
 
-A **normal** pattern means one that roughly follows the balanced bell curve just described. A **normality test** asks whether the scores differ noticeably from that pattern. In the thesis, the tests indicated that they did. This fits the picture of many high ratings and fewer low ones.
+### 9. Standard deviation: did employees agree with one another?
 
-This test does **not** ask whether training was effective. It checks a property of the scores that matters when reading later tests.
+**Why:** Two groups can have the same average even when one group agrees and the other has mixed opinions.
 
-**Say:** “The scores were skewed toward agreement, and the normality checks detected departures from a bell-shaped distribution.”
+**Think:** Ratings **4, 4, 4, 4, 4** all agree. Ratings **3, 3, 4, 5, 5** have the same average, 4, but vary more. **Standard deviation (SD)** is 0 when everyone gives the same value; it grows as scores spread out.
 
-**Find it in the thesis:** Chapter 4, §4.1.3 (p. 60).
+**In my thesis:** The four construct SDs were **.793 to .863** on the 1–5 scale. Employees tended to rate training favourably, but their ratings were not identical.
 
-## Part 3 — Checking the questionnaire
+**Say:** “The mean tells me the average opinion; SD tells me how much opinions differed.”
 
+**Find:** Chapter 4, Table 4.2 (p. 51).
 
+### 10. Minimum and maximum: what were the lowest and highest scores?
 
-### 17. Cronbach's alpha: do item responses move consistently?
+**Why:** I want to know the ends of the observed scores.
 
-**Cronbach's alpha** asks whether answers across a set of questions tend to move together. It does **not** prove that the questions measure the correct concept.
+**Think:** In the set 2, 3, 4, 5, the **minimum** is 2 and the **maximum** is 5. That does not tell me how many people gave each one.
 
-*Made-up example:* If employees who rate one trainer-support question highly also tend to rate the other trainer-support questions highly, those answers are consistent. But several similar questions could all miss an important part of trainer support. Consistency alone does not prove that the questionnaire covers the right idea.
+**In my thesis:** Table 4.2 reports **1** as the minimum and **5** as the maximum for each construct.
 
-The saved SPSS output gives **α = .980** for **all 26 scored items pooled together**. That is very high and may partly reflect overlapping questions. It is **not** four separate final-sample alpha values for HL, TC, LE, and TE. A separate 20-person pilot gave preliminary block alphas from **.879 to .929**.
+**Say:** “Minimum and maximum show the ends of the observed scores, not how common those scores were.”
 
-**Say:** “The reported final alpha is for all 26 items combined. It does not, by itself, validate each of the four constructs.”
+**Find:** Chapter 4, Table 4.2 (p. 51).
 
-**Find it in the thesis:** Chapter 3, §3.10 (p. 45), and Chapter 4, §4.1.4, Table 4.5 (p. 61).
+### 11. Skewness: which way does the thin end point?
 
-### 18. PCA: can 26 items be summarised into fewer groups?
+**Why:** An average can hide that most people chose high ratings while a few chose low ones.
 
-**Principal Component Analysis (PCA)** looks across all the question answers for questions that tend to move together. It places those common answer patterns into smaller **groups**, called *components*.
+**Think:** Imagine ten employees choosing 5 and only one choosing 1. On a left-to-right score chart, the big pile is on the **right**, near 5. The few low scores make a thin **tail** stretching left. **Skewness** describes that uneven shape. It is called *negative* or *left* skew because the **tail**, not the pile, points left.
 
-*Made-up example:* If people who rate several platform-access questions highly usually give similar ratings to each other, PCA may place those questions in one group. SPSS found **four components** in this survey. That fits the idea of four constructs, but does not prove every question belongs exactly where it was placed.
+**In my thesis:** The four construct skewness values were about **−1.8 to −2.1**. Many scores were high, with fewer low scores.
 
-**Find it in the thesis:** Chapter 4, §4.1.4 (pp. 60–61).
+**Say:** “Most scores were high. A few lower scores made a left tail, so skewness was negative.”
 
-### 19. Varimax rotation: why turn the component picture?
+**Find:** Chapter 4, Table 4.2 (p. 51); §4.1.3 (p. 60).
 
-**Varimax** is a step used after PCA forms the groups. It rearranges the mathematical view so it is easier to see which questions fit more strongly with which group. It does **not** change anyone's answers.
+### 12. Kurtosis: how are scores packed and spread at the ends?
 
-*Everyday example:* Turn a map on a table so the streets line up more clearly with the page. The streets did not move; the view became easier to read. The thesis used varimax in its exploratory PCA.
+**Why:** I also want to understand how tightly scores gather and whether some are far from the main group.
 
-**Find it in the thesis:** Chapter 4, §4.1.4 (pp. 60–61).
+**Think:** Picture the score chart as a hill. The **peak** is its tallest part; the **tails** are its thin ends. **Kurtosis** is one number describing the shape, especially the tails, compared with a familiar balanced hill called a **bell curve**. It is **not** just a count of how tall the peak looks.
 
-### 20. KMO: were the item relationships suitable for PCA?
+**In my thesis:** The reported kurtosis values range from **4.058 to 6.236**. This describes the shape of ratings; it says nothing by itself about whether training was good.
 
-**Kaiser–Meyer–Olkin (KMO)** is a suitability check for PCA. In simple words it asks: **“Do the question answers share enough common pattern for grouping them to make sense?”** A higher value supports using PCA.
+**Say:** “Kurtosis describes the shape of the scores, including their tails. It does not rate training quality.”
 
-The reported KMO was **.929**, a strong suitability result. KMO does not say the questionnaire is fully validated.
+**Find:** Chapter 4, Table 4.2 (p. 51); §4.1.3 (p. 60).
 
-**Find it in the thesis:** Chapter 4, §4.1.4 (pp. 60–61).
+### 13. Histogram: can I see where scores gather?
 
-### 21. Bartlett's test: were the items related at all?
+**Why:** A picture can make the pile of high and low scores easier to see.
 
-**Bartlett's test** asks whether answers to the questions are related at all, rather than behaving like completely separate answers. The result in the thesis was **χ²(325) = 3664.340, p < .001**. This supports looking for groups of questions.
+**Think:** A **histogram** is a set of bars for score ranges. A taller bar means more employees' scores fall in that range. If most HL averages are near 4, the bar near 4 is tall.
 
-The *p* number is explained in Section 23. For now, the point to remember is that Bartlett's check said there was a shared pattern worth examining.
+**In my thesis:** §4.1.3 discusses SPSS histograms for the four construct scores, but **their pictures are not printed in this PDF**. The separate item-response charts in Figures 4.5–4.8 are printed; they are not these histograms. The figure index lists the four histograms for export but gives no reason for their absence.
 
-*Everyday example:* Before sorting books into topics based on shared words, check whether the books share any word patterns at all. Bartlett addresses that first question; it does not decide the correct topic labels.
+**Say:** “A histogram would show where scores gather. Chapter 4 discusses this check, but the construct histograms are not printed here.”
 
-**Find it in the thesis:** Chapter 4, §4.1.4 (pp. 60–61).
+**Find:** Chapter 4, §4.1.3 (p. 60), **text only**.
 
-## Part 4 — Testing relationships
+### 14. Boxplot: where is the middle of the group?
 
+**Why:** I want to see the central group of scores and any scores far away from it.
 
+**Think:** Put all scores in order. The **median** is the middle score; the **middle half** is the central 50% of scores. A **boxplot** puts a box around that middle half and may show far-away scores as dots.
 
-### 22. Hypothesis: what exactly was being tested?
+**In my thesis:** Chapter 4 mentions boxplots, but **none is printed in this PDF**. The figure index lists four boxplots for export and gives no reason for their absence.
 
-A **hypothesis** is a statement the analysis tests. The thesis has **one overall regression hypothesis**.
+**Say:** “A boxplot would show the middle half and unusual scores. I can point to the discussion, not a printed boxplot.”
 
-- **H₀, the null:** HL, TC, and LE do **not jointly** predict TE.
-- **H₁, the alternative:** HL, TC, and LE **do jointly** predict TE.
+**Find:** Chapter 4, §4.1.3 (p. 60), **text only**.
 
-These are about a *statistical relationship* among scores, not proof that the three factors cause effectiveness. The separate coefficients are described, but they are not three extra hypotheses.
+### 15. Q–Q plot: do scores look like a balanced hill?
 
-Here **predict** means “use HL, TC, and LE scores to estimate the TE score in this set of responses.” It does not mean forecasting an employee's future job performance.
+**Why:** I need to check whether the score pattern resembles the balanced shape assumed in some statistical work.
 
-**Find it in the thesis:** Chapter 3, §3.2, Table 3.1 (pp. 36–37), and Chapter 5, Table 5.1 (p. 72).
+**Think:** A **bell curve** is a smooth hill with many values near the middle and fewer at both ends. A **Q–Q plot** puts dots against a straight guide line. Dots close to the line suggest a similar shape; dots bending away suggest a different shape.
 
-### 23. p-value: how surprising would this result be under H₀?
+**In my thesis:** Chapter 4 mentions Q–Q plots and says the scores departed from a normal bell shape. **No Q–Q plot is printed in this PDF.** The figure index lists four normal and four detrended Q–Q plots for export. A detrended plot is another view of how far the dots depart from the guide line. The index gives no reason for their absence.
 
-A **p-value** starts by pretending that H₀ (“no relationship”) is true. It asks how surprising it would then be to get a result **this strong or stronger**. A very small p-value gives a reason to doubt H₀. It is **not** the probability that H₀ is true.
+**Say:** “The Q–Q plot is a shape check. The thesis reports the conclusion in words but does not print the plot.”
 
-*Everyday example:* If a coin is fair, ten heads in ten tosses would be unusual. That observation would make us question the fair-coin assumption; it would not tell us the exact probability that the coin is unfair.
+**Find:** Chapter 4, §4.1.3 (p. 60), **text only**.
 
-The thesis used **.05** as its decision line. A result with *p* below .05 is called statistically significant. The overall regression had **p < .001**, so H₀ was rejected. “Significant” does not automatically mean practically important.
+### 16. Normality test: is the different shape noticeable?
 
-**Find it in the thesis:** Chapter 4, Tables 4.6–4.8 (pp. 61–63), and Chapter 5, Table 5.1 (p. 72).
+**Why:** I want another check of whether the scores follow that balanced bell shape.
+
+**Think:** If scores crowd near 4 and 5, their shape is not a balanced hill around the middle. A **normality test** checks whether the difference from the bell shape is strong enough to notice statistically.
+
+**In my thesis:** The tests reported a departure from normality for all four construct means. This is a check of the **score pattern**, not a test of whether training worked. The result is described in text; no separate normality-test diagram is printed.
+
+**Say:** “Ratings leaned high, and the normality checks found that the scores did not follow a balanced bell shape.”
+
+**Find:** Chapter 4, §4.1.3 (p. 60), **text only**.
+
+## Part 3 — Did the questions work together?
+
+After describing the answers, Sreetama checks the 26 statements. The questions come in a simple order: **Do related answers move together? Is there enough shared pattern? Are the answers connected at all? What groups appear?** Alpha, KMO, Bartlett, and PCA help with those different questions. None of them alone proves that the questionnaire is perfect.
+
+### 17. Cronbach's alpha: did answers to the questions move together?
+
+**Why:** If several questions belong together, employees who rate one highly often rate related ones highly too.
+
+**Think:** An employee who gives high ratings to several trainer-support questions shows a consistent pattern. **Cronbach's alpha** measures how consistently answers move across a set of questions. Very similar questions can also produce a high alpha, so high consistency alone is not proof of good coverage.
+
+**In my thesis:** The saved SPSS output gives **α = .980** for **all 26 items together**, using 102 valid cases. It does **not** give four separate final-sample alphas. A separate 20-person pilot gave preliminary alphas of **.879 to .929** for the four blocks.
+
+**Say:** “The final alpha shows high consistency for all 26 items together; it does not validate each construct separately.”
+
+**Find:** Chapter 3, §3.10 (p. 45); Chapter 4, Table 4.5 (p. 61).
+
+### 18. KMO: is there enough shared pattern to try grouping questions?
+
+**Why:** Before asking a computer to group the 26 questions, I need to know whether the answers contain enough shared information.
+
+**Think:** If employees' answers to every question were completely separate, grouping them would make little sense. **KMO** is a check of whether grouping is suitable. A higher KMO supports trying it.
+
+**In my thesis:** KMO was **.929**, which supported trying the grouping analysis. It did **not** prove that the eventual groups were correct.
+
+**Say:** “KMO told me the answer patterns were suitable for an exploratory grouping check.”
+
+**Find:** Chapter 4, §4.1.4 (pp. 60–61), **number reported in text; no KMO diagram**.
+
+### 19. Bartlett's test: are the question answers connected at all?
+
+**Why:** Before grouping the 26 questions, I need to know whether some answers move together. If they were all unrelated, grouping them would make little sense.
+
+**Think:** Suppose employees who give high ratings to one question often give high ratings to another. There is a shared pattern worth examining. **Bartlett's test** checks whether the questions, taken together, show enough relationships to reject the idea that they are all unrelated.
+
+**In my thesis:** The result was **χ²(325) = 3664.340, p < .001**. In plain words, it supported **looking for groups**. It did **not** tell me which questions belong in which group. Section 23 explains the small *p* value.
+
+**Say:** “Bartlett's test showed enough connection among the answers to try grouping the questions.”
+
+**Find:** Chapter 4, §4.1.4 (pp. 60–61), **number reported in text; no Bartlett diagram**.
+
+### 20. PCA: what groups seem to appear?
+
+**Why:** Now that grouping looks possible, I want to see whether several questions tend to rise and fall together.
+
+**Think:** If employees often give similar ratings to several digital-access questions, those questions may share one answer pattern. **Principal Component Analysis (PCA)** looks for such patterns. It calls the resulting groups **components**.
+
+**In my thesis:** SPSS found **four components**. This is an exploratory check consistent with four broad ideas. It does **not** prove that every item belongs in its intended construct. The PDF does not print the **scree plot** or **rotated-component plot** listed in the export index.
+
+**Say:** “PCA found four common answer patterns, but that alone does not fully validate the four constructs.”
+
+**Find:** Chapter 4, §4.1.4 (pp. 60–61), **text only for the four-component result; plots absent**.
+
+### 21. Varimax: why make the grouping easier to read?
+
+**Why:** After PCA finds patterns, I want to see more clearly which questions go most strongly with each one.
+
+**Think:** **Varimax rotation** makes the grouping results easier to read. It helps show which group a question fits most strongly. It does **not** change an employee's answers or the number of people surveyed.
+
+**In my thesis:** SPSS used varimax with the exploratory PCA. The PDF mentions it, but does not print the rotated-component plot listed in the export index.
+
+**Say:** “Varimax helped make the PCA groups easier to interpret; it did not change the questionnaire answers.”
+
+**Find:** Chapter 4, §4.1.4 (pp. 60–61), **text only; plot absent**.
+
+## Part 4 — Is there a relationship among the four scores?
+
+Describing high ratings is not the same as showing a relationship. Sreetama next asks whether employees who rate one part highly also tend to rate another part highly.
+
+### 22. Hypothesis: what was my main question?
+
+**Why:** I need to say exactly what my main statistical test is meant to decide.
+
+**Think:** The **null hypothesis**, H₀, says HL, TC, and LE **together do not** help estimate TE scores. The **alternative**, H₁, says they **do**. These are two possible answers to **one joint question**, not three separate hypotheses.
+
+**In my thesis:** The regression tests this overall relationship. Here “predict” means estimating a TE score from three scores **in these responses**, not forecasting future job performance or proving a cause.
+
+**Say:** “My one main hypothesis asks whether Hybrid Learning, Trainer Competence, and Learner Engagement jointly predict perceived Training Effectiveness.”
+
+**Find:** Chapter 3, §3.2, Table 3.1 (pp. 36–37); Chapter 5, Table 5.1 (p. 72).
+
+### 23. p-value: when should I doubt the 'no relationship' answer?
+
+**Why:** I need a rule for deciding whether the result is hard to explain if H₀ were true.
+
+**Think:** Imagine H₀ says the three scores have no useful joint relationship with TE. A **p-value** asks: *if that were true, how surprising would a result this strong or stronger be?* A small answer gives reason to doubt H₀. It is **not** the chance that H₀ itself is true.
+
+**In my thesis:** The chosen decision line was **.05**. The main model had **p < .001**, below that line, so H₀ was rejected. “Statistically significant” does not automatically mean important in practice.
+
+**Say:** “The overall p-value was below .05, so I rejected the overall null hypothesis.”
+
+**Find:** Chapter 4, Tables 4.6–4.8 (pp. 61–63); Chapter 5, Table 5.1 (p. 72).
 
 ### 24. Pearson correlation: do two scores rise together?
 
-A **correlation**, written *r*, describes the direction and strength of a straight-line relationship between **two** scores. It ranges from −1 to +1. Positive means higher scores on one tend to go with higher scores on the other; negative means the opposite.
+**Why:** Before putting three scores into one model, I can look at each pair.
 
-*Everyday example:* On hot days, more people may buy cold drinks. Temperature and cold-drink sales rise together. One may be connected to the other, but correlation by itself cannot prove the cause.
+**Think:** If employees who rate their engagement highly also tend to rate effectiveness highly, those two scores **move together**. **Pearson correlation**, written *r*, describes the direction and strength of that straight-line relationship. A positive number means they tend to rise together. It does not prove why.
 
-In the thesis, LE and TE had **r = .765** (pairwise N = 103). HL and TC had **r = .818** (pairwise N = 102). All six reported pairs were positive and significant. Different pairs had different valid case counts.
+**In my thesis:** LE and TE had **r = .765** using 103 available pairs. HL and TC had **r = .818** using 102. All six reported pairs were positive and statistically significant; the pairs used different valid case counts.
 
-**Say:** “Higher engagement ratings tended to accompany higher effectiveness ratings. That is a relationship, not proof of cause.”
+**Say:** “Higher engagement scores tended to come with higher effectiveness scores, but correlation does not prove cause.”
 
-**Find it in the thesis:** Chapter 4, §4.2.1, Table 4.6 (pp. 61–62).
+**Find:** Chapter 4, §4.2.1, Table 4.6 (pp. 61–62).
 
-### 25. Multiple regression: what happens when three predictors enter together?
+### 25. Multiple regression: what if I consider three scores together?
 
-**Multiple regression** examines one outcome using several predictors at once. Here the outcome is **TE**. The three predictors entered together are **HL, TC, and LE**.
+**Why:** HL, TC, and LE overlap. I want to examine their **joint** relationship with TE and see what each adds while the others are considered.
 
-An **outcome** is the score we are trying to understand: TE. A **predictor** is a score we use to help estimate it: HL, TC, or LE. A **model** is simply the calculation that puts those predictors together.
+**Think:** TE is the **outcome** I am trying to understand. HL, TC, and LE are three **predictors** used to estimate it. The calculation combining them is a **multiple-regression model**. It is like considering three parts of the same employee's training experience together instead of one at a time.
 
-*Everyday example:* Suppose a manager wants to understand customer waiting time using staffing, customer arrivals, and system speed together. Looking at each separately can hide overlap. Regression estimates how the three relate to waiting time when considered in one model.
+**In my thesis:** The main SPSS regression used **102** cases. Its overall result was **F(3, 98) = 50.652, p < .001**. The three predictors **together** had a statistically significant relationship with TE.
 
-The thesis's main SPSS regression used **102 cases**. Its overall result was significant: **F(3, 98) = 50.652, p < .001**. This supports H₁ for the **three predictors jointly**.
+**Say:** “I tested all three predictors together against perceived Training Effectiveness. The overall model was significant.”
 
-**Find it in the thesis:** Chapter 3, §3.9 (pp. 42–44), and Chapter 4, §4.2.2 (pp. 62–64).
+**Find:** Chapter 3, §3.9 (pp. 42–44); Chapter 4, §4.2.2 (pp. 62–64).
 
-### 26. R²: how much score variation does the model account for?
+### 26. R²: how much of the difference in TE scores fits the model?
 
-**R²** is a number from 0 to 1. It describes the share of the *observed differences in TE scores* accounted for by the fitted regression model in this sample.
+**Why:** Employees have different TE scores. I want to know how much of those observed differences the fitted model accounts for.
 
-*Everyday example:* People give different workshop ratings. A model using three survey scores may account for some of those differences, while other differences remain. R² describes the share accounted for by this model.
+**Think:** If everyone's TE score were the same, there would be no difference to explain. They are not the same. **R²** describes the share of these differences accounted for by the three-score model **within this sample**.
 
-The thesis reports **R² = .608**, or **60.8%** of variation in the 102 TE scores. It does **not** mean that the predictors caused 60.8% of training effectiveness.
+**In my thesis:** **R² = .608**, or **60.8%** of the variation in TE scores among the 102 cases. It does **not** mean the three factors *caused* 60.8% of training effectiveness.
 
-**Find it in the thesis:** Chapter 4, §4.2.2, Table 4.7 (p. 63).
+**Say:** “The model accounted for 60.8% of the differences in employees' perceived effectiveness scores in this sample.”
 
-### 27. Adjusted R²: why reduce R² a little?
+**Find:** Chapter 4, Table 4.7 (p. 63).
 
-Adding more predictors can make ordinary R² rise even if the new predictors help very little. **Adjusted R²** makes an allowance for the number of predictors and the sample size.
+### 27. Adjusted R²: why is there a second, slightly smaller number?
 
-The thesis reports **adjusted R² = .596**. It is close to .608, but slightly lower after the adjustment.
+**Why:** A model can appear to fit better simply because I added more predictors.
 
-**Find it in the thesis:** Chapter 4, §4.2.2, Table 4.7 (p. 63).
+**Think:** **Adjusted R²** gives the model a small allowance for how many predictors it uses and how many cases it has. It is a more cautious companion to R².
 
-### 28. F-test: does the team of predictors help?
+**In my thesis:** Adjusted **R² = .596**, slightly below the ordinary value of .608.
 
-The **F-test** in this regression asks whether the three predictors **as a group** improve the model compared with using only the overall TE average.
+**Say:** “After allowing for the three predictors and the sample size, the model's adjusted value was .596.”
 
-*Everyday example:* To guess workshop ratings, one option is to give everyone the same average guess. Another uses HL, TC, and LE scores. The F-test asks whether the second approach fits the observed ratings better than the average-only approach.
+**Find:** Chapter 4, Table 4.7 (p. 63).
 
-Here **F(3, 98) = 50.652, p < .001**. So the **overall model** is statistically significant. This is the test that decides the thesis's single H₀/H₁ question.
+### 28. F-test: do the three predictors help as a team?
 
-**Find it in the thesis:** Chapter 4, §4.2.2, Table 4.7 (p. 63).
+**Why:** I need one test for my **overall** hypothesis.
 
-### 29. What do the 3 and 98 after F mean?
+**Think:** An average-only model would give everyone the same estimated TE score. The regression uses each employee's HL, TC, and LE scores. The **F-test** asks whether that three-score model fits the actual TE scores better than the average-only model.
 
-These are **degrees of freedom**, numbers that describe how much information is available for the test after the model uses some of it. The first is **3** because there are three predictors. The second is **98** because there were 102 cases, minus three predictors, minus one starting-value term called the **intercept**: 102 − 3 − 1 = 98.
+**In my thesis:** **F(3, 98) = 50.652, p < .001**. This supports H₁ for the predictors **together**. It does not say all three are individually significant.
 
-She does not need to derive the F formula in the viva. She should read the notation aloud as “F with 3 and 98 degrees of freedom.”
+**Say:** “The F-test showed that the three-predictor model was significant overall, so I rejected H₀.”
 
-**Find it in the thesis:** Chapter 4, §4.2.2, Table 4.7 (p. 63).
+**Find:** Chapter 4, Table 4.7 (p. 63); Chapter 5, Table 5.1 (p. 72).
 
-### 30. B: what is the model's estimated score difference?
+### 29. Degrees of freedom: what are the 3 and 98 beside F?
 
-An **unstandardised coefficient B** keeps the original 1–5 score units. For LE, **B = .560**. In the fitted model, a one-point higher LE score is associated with a **.560-point higher predicted TE score**, *if HL and TC are held fixed*.
+**Why:** The result is written as F(3, 98), and I should be able to read it.
 
-This is a model estimate, not a promise that raising one employee's engagement by one point would cause their effectiveness to rise by .560.
+**Think:** The **3** refers to the three predictors. The **98** comes from 102 cases after allowing for the three predictors and one starting value: 102 − 3 − 1 = 98. These bookkeeping numbers are called **degrees of freedom**.
 
-**Find it in the thesis:** Chapter 4, §4.2.2, Table 4.8 (p. 63).
+**In my thesis:** The notation is **F(3, 98)**. She need not calculate F by hand.
 
-### 31. Beta: how do we compare predictors on a common scale?
+**Say:** “I read it as F with 3 and 98 degrees of freedom. The 3 refers to my three predictors.”
 
-A **standardised beta (β)** puts the three predictor results onto the **same measuring ruler**. The original scores may differ in how much they vary; beta adjusts for that spread so the three results can be compared within this model. It is **not a percentage**.
+**Find:** Chapter 4, Table 4.7 (p. 63).
 
-The reported betas are LE **.532**, HL **.194**, and TC **.113**. LE has the largest adjusted coefficient on this common scale. Size alone is not enough; each coefficient also has a *p*-value.
+### 30. B: what does a one-point difference mean in the model?
 
-**Find it in the thesis:** Chapter 4, §4.2.2, Table 4.8 (p. 63).
+**Why:** After the overall test, I want to understand a predictor's result in the questionnaire's original 1–5 units.
 
-### 32. A coefficient's t-test: does one predictor stand out after adjustment?
+**Think:** An **unstandardised coefficient**, called **B**, keeps those units. For LE, B is **.560**. In the fitted model, an LE score one point higher goes with an estimated TE score **.560 points higher**, comparing cases with the same HL and TC scores.
 
-The regression gives a separate **t-test and p-value** for each coefficient. It asks whether that predictor's adjusted coefficient differs detectably from zero **while the other two are in the model**.
+**In my thesis:** This is an **association in the model**, not a promise that making someone more engaged will cause that change.
 
-LE was individually significant (**p < .001**). HL (**p = .096**) and TC (**p = .346**) were **not** individually significant at the .05 level. That does not mean HL or TC are useless or that separate HL and TC hypotheses were rejected; the thesis has one overall hypothesis.
+**Say:** “When HL and TC were taken into account, a one-point higher engagement score went with a .560-point higher estimated effectiveness score.”
 
-**Say:** “The joint model was significant. Among its individual predictors, only Learner Engagement had a statistically significant adjusted coefficient.”
+**Find:** Chapter 4, Table 4.8 (p. 63).
 
-**Find it in the thesis:** Chapter 4, §4.2.2, Table 4.8 (p. 63).
+### 31. Beta: which predictor stands out on one common ruler?
 
-### 33. Predictor overlap: why are the individual results harder to read?
+**Why:** The three predictor scores do not all vary by exactly the same amount. I need a fairer way to compare their model coefficients.
 
-**Multicollinearity** means predictors are strongly related to one another. HL and TC had **r = .818**. When two predictors contain similar information, separating their individual contributions becomes harder.
+**Think:** **Standardised beta**, written **β**, puts the coefficients on one common ruler. It is **not a percentage**. A larger beta shows a larger adjusted relationship on that ruler, but I must still check the p-value.
 
-*Everyday example:* Two colleagues almost always work the same shifts. Customer ratings may be associated with their joint presence, but a simple comparison cannot clearly assign a separate share to each colleague.
+**In my thesis:** LE had **β = .532**, HL **.194**, and TC **.113**. LE had the largest adjusted coefficient.
 
-This overlap is a **possible** reason that HL and TC were not individually significant in the joint model. We cannot prove it is the only reason. A **VIF** is a common diagnostic for overlap, but VIF was **not reported** in the saved SPSS regression output. Do not quote a VIF number.
+**Say:** “On the common beta scale, Learner Engagement had the largest adjusted relationship with TE.”
 
-**Find it in the thesis:** Chapter 4, §4.2.1, Table 4.6 (pp. 61–62), and §4.2.2 (p. 64).
+**Find:** Chapter 4, Table 4.8 (p. 63).
 
-## Part 5 — Extra checks, not the main hypothesis test
+### 32. Individual t-tests: which predictor still stands out when all three enter?
 
-The following comparisons used the selected **102-record scored file**. They are exploratory and did **not** decide the thesis's one overall hypothesis.
+**Why:** A significant **team** result does not mean every team member has a clear separate result.
 
+**Think:** The coefficient's **t-test** asks whether one predictor's adjusted result stands out from zero while the other two remain in the model.
 
+**In my thesis:** LE was individually significant (**p < .001**). HL (**p = .096**) and TC (**p = .346**) were **not** individually significant at the .05 line. The thesis has **one overall hypothesis**; it does not reject separate HL or TC hypotheses that were never stated.
 
-### 34. One-sample t-test: is a mean different from a fixed number?
+**Say:** “The model was significant overall, but only Learner Engagement was individually significant after adjustment.”
 
-A **one-sample t-test** compares a group's mean with a chosen reference number.
+**Find:** Chapter 4, Table 4.8 (p. 63); Chapter 5, Table 5.2 (p. 72).
 
-*Everyday example:* A school compares its average test score with a published benchmark of 60. Here the reference was **3**, the neutral point of the five-point scale. All four construct means were above 3 with **p < .001**. This repeats the positive descriptive pattern; it does not test the relationship among constructs.
+### 33. Predictor overlap: why is it hard to separate HL and TC?
 
-**Find it in the thesis:** Chapter 4, §4.2.3, Table 4.9 (pp. 64–65).
+**Why:** HL and TC may partly carry the same information about one training experience.
 
-### 35. Paired t-test: do two scores from the same people differ?
+**Think:** Employees who rated HL highly also often rated TC highly. If two predictors move together, the model has a harder time separating what is distinct about each. This is called **multicollinearity**, or predictor overlap.
 
-A **paired t-test** compares two measurements belonging to the same person.
+**In my thesis:** HL and TC correlated at **r = .818**. This overlap is a **possible** reason their separate coefficients did not stand out, not a proven explanation. **VIF** is a common overlap check, but the saved SPSS regression did **not** report a VIF value. Do not quote one.
 
-*Everyday example:* The same employee rates two workshop features. Pairing keeps that employee's two answers together. In this thesis, each person's TE score was compared with their own HL, TC, and LE scores.
+**Say:** “HL and TC were strongly related, which makes their separate model contributions harder to distinguish.”
 
-None of those three mean differences reached .05 (**p = .110, .169, and .263**). These are **different constructs measured once**, not before-and-after scores.
+**Find:** Chapter 4, Table 4.6 (pp. 61–62); §4.2.2 (p. 64).
 
-**Find it in the thesis:** Chapter 4, §4.2.3, Table 4.10 (p. 65).
+## Part 5 — Extra questions, separate from the main hypothesis
 
-### 36. Welch's two-group t-test: do two separate groups differ?
+These supporting comparisons used a **separately selected 102-record scored file**. They do not decide the main SPSS hypothesis. Think of them as follow-up questions after the main result.
 
-A **Welch t-test** compares the means of **two different groups** and allows their score spreads to differ.
+### 34. One-sample t-test: is an average above the neutral rating?
 
-*Everyday example:* Compare workshop ratings from one group of officers and another group of managers. Here officers had mean TE **4.163** (n = 56) and managers **4.220** (n = 26). The result was not significant (**t = −.270, p = .788**). Clerical employees were not in this two-group test.
+**Why:** I want to compare the group's average with **3**, the middle or neutral choice on the response scale.
 
-**Find it in the thesis:** Chapter 4, §4.2.3 (p. 65).
+**Think:** A **one-sample t-test** compares one group average with one fixed number. Here the fixed number is 3.
 
-### 37. ANOVA: do three or more group means differ?
+**In my thesis:** All four construct averages were above 3, with **p < .001**. This supports the description of favourable ratings. It does **not** test whether HL, TC, and LE jointly relate to TE.
 
-**One-way ANOVA** compares several groups at once. It asks whether there is evidence that **at least one** group mean differs; it does not identify which group.
+**Say:** “The one-sample tests compared each average with neutral 3; all four were above it.”
 
-*Everyday example:* Compare workshop ratings across clerical, officer, and managerial staff together. Their TE means were **4.550, 4.163, and 4.220**. The thesis reports **F(2, 99) = 1.629, p = .201**, so there was no statistically significant job-level difference in this supplementary test.
+**Find:** Chapter 4, §4.2.3, Table 4.9 (pp. 64–65).
 
-**Find it in the thesis:** Chapter 4, §4.2.3 (pp. 65–66).
+### 35. Paired t-test: how did two scores from the same employees compare?
 
-### 38. Duncan: which groups differ after ANOVA?
+**Why:** Each employee has an HL score and a TE score, for example. I can compare those two scores **within the same person**.
 
-A **post-hoc test** is a follow-up that tries to locate *which* group means differ after comparing several groups. Duncan is one such procedure.
+**Think:** A **paired t-test** keeps each employee's two scores together, then asks whether one type of score tends to be higher than the other. This is **not** a before-and-after test here; both scores came from one survey.
 
-The thesis mentions Duncan but does **not** claim a Duncan-based difference among the job levels. The ANOVA itself was not significant, so she should not say that one job level scored reliably higher than another.
+**In my thesis:** TE was compared in turn with HL, TC, and LE. None of those three average differences met the .05 decision line (**p = .110, .169, and .263**).
 
-**Find it in the thesis:** Chapter 4, §4.2.3 (p. 66).
+**Say:** “I compared two scores from the same employees. These were different questionnaire ideas, not before-and-after measurements.”
 
-### 39. Crosstab: how many people fall in each combination?
+**Find:** Chapter 4, §4.2.3, Table 4.10 (p. 65).
 
-A **crosstab** is a count table for two categories. For example, its rows could be job levels and its columns could be Agree/Neutral/Disagree. Each cell counts the people in one combination.
+### 36. Welch t-test: did officers and managers rate TE differently?
 
-The thesis's exploratory crosstabs used construct-mean categories with many possible values, so most cells had very few expected cases.
+**Why:** Now I am comparing **two separate groups** of employees rather than two scores from the same person.
 
-**Find it in the thesis:** Chapter 4, §4.2.3, Table 4.11 (p. 66).
+**Think:** A **Welch t-test** compares two group averages while allowing the groups to have different spreads. Here the two groups are officers and managers.
 
-### 40. Expected count: how full should a crosstab cell be?
+**In my thesis:** Officers had average TE **4.163** (**56** people); managers had **4.220** (**26** people). The test gave **t = −.270, p = .788**, so it did not show a statistically clear difference. Clerical staff were not part of this two-group test.
 
-An **expected count** is the number a cell would be expected to contain if the two categories were unrelated.
+**Say:** “The officer and manager TE averages were close; the Welch test did not find a clear difference.”
 
-*Everyday example:* If officers are half of a group, and half of everyone agrees, we would expect roughly a quarter of the group in the “officer and agree” cell if job level and agreement were unrelated. Very small expected counts make a chi-square result unreliable.
+**Find:** Chapter 4, §4.2.3 (p. 65).
 
-In the thesis's crosstabs, **98.8–99.3%** of cells had expected counts below 5. That is much too sparse for a reliable conclusion.
+### 37. ANOVA: what if I compare all three job levels?
 
-**Find it in the thesis:** Chapter 4, §4.2.3, Table 4.11 (p. 66).
+**Why:** I want one check across clerical staff, officers, **and** managers.
 
-### 41. Chi-square: are two categorical patterns related?
+**Think:** **ANOVA** compares several group averages at once. It asks whether at least one group seems different; it does not tell me which group that is.
 
-**Pearson chi-square** compares the observed crosstab counts with the expected counts. A large enough difference can suggest an association between categorical variables, but only when the table is suitable for the test.
+**In my thesis:** Their average TE scores were **4.550**, **4.163**, and **4.220**. The result was **F(2, 99) = 1.629, p = .201**. Since .201 is above .05, the test did not show a clear job-level difference.
 
-Because the expected counts here were overwhelmingly small, the thesis **does not interpret its chi-square numbers as evidence**. It uses Pearson correlation for the relationships among the scored constructs instead.
+**Say:** “The three job-level averages differed numerically, but ANOVA did not find a statistically clear difference.”
 
-**Find it in the thesis:** Chapter 4, §4.2.3, Table 4.11 (p. 66).
+**Find:** Chapter 4, §4.2.3 (pp. 65–66).
 
-## Five answers to remember for the viva
+### 38. Duncan: if groups differed, which ones would it compare?
 
-1. **What is your main test?** “Multiple regression with HL, TC, and LE together predicting perceived TE.”
-2. **What did it find?** “The overall 102-case model was significant: F(3, 98) = 50.652, p < .001, R² = .608. I rejected the overall null hypothesis.”
-3. **Did every predictor stand out separately?** “No. Only LE was individually significant after all three predictors entered the model.”
-4. **Does that prove cause?** “No. These are one-time self-reported associations in a purposively selected group.”
-5. **Why do some tables use 103 and others 102?** “SPSS used 102 when a calculation required the missing Trainer Competence mean, but 103 for some item means and correlations that did not need it. The other 102-case descriptive and supplementary tables came from a separately selected scored file. My main hypothesis uses the 102-case SPSS regression.”
+**Why:** ANOVA asks whether *any* group differs. A follow-up would ask *which* groups differ.
+
+**Think:** **Duncan** is one follow-up comparison. It checks particular pairs after looking at several groups.
+
+**In my thesis:** Duncan is mentioned, but the ANOVA was **not significant**. The thesis does **not** claim that Duncan proved one job level rated TE higher than another.
+
+**Say:** “Duncan was a follow-up check, but I do not claim a reliable difference between job levels.”
+
+**Find:** Chapter 4, §4.2.3 (p. 66).
+
+### 39. Crosstab: how many employees fall into two categories at once?
+
+**Why:** Sometimes I want to count combinations of two categories.
+
+**Think:** A **crosstab** is a grid. One side might list job levels; the other might list response categories. A cell counts employees who are in **both** categories, such as officers who chose Agree.
+
+**In my thesis:** The exploratory crosstabs made many small cells when scores were put into categories. That made the next test hard to trust.
+
+**Say:** “A crosstab counts people in each combination of two categories.”
+
+**Find:** Chapter 4, §4.2.3, Table 4.11 (p. 66).
+
+### 40. Expected count: how many would be in a cell if there were no link?
+
+**Why:** Before interpreting a crosstab test, I need to check whether its cells have enough cases.
+
+**Think:** An **expected count** is the number we would expect in a cell if the two categories were unrelated. If most expected cells contain almost nobody, the test becomes unreliable.
+
+**In my thesis:** **98.8–99.3%** of the crosstab cells had expected counts below 5. The tables were far too sparse for a dependable chi-square conclusion.
+
+**Say:** “Almost all expected cells were too small, so I did not rely on those chi-square results.”
+
+**Find:** Chapter 4, §4.2.3, Table 4.11 (p. 66).
+
+### 41. Chi-square: can the crosstab show a relationship?
+
+**Why:** I might want to know whether two **categories**, rather than two average scores, are related.
+
+**Think:** **Chi-square** compares the counts actually in the crosstab with the expected counts if the categories were unrelated. That comparison needs a table with enough cases in its cells.
+
+**In my thesis:** Because so many expected counts were below 5, the thesis **does not treat its chi-square numbers as reliable evidence**. Pearson correlation was used for the scored-construct relationships instead.
+
+**Say:** “The crosstabs were too sparse to support a reliable chi-square conclusion.”
+
+**Find:** Chapter 4, §4.2.3, Table 4.11 (p. 66).
+
+## Five answers to remember first
+
+1. **What did I analyse?** “One recent hybrid-training programme as rated by the employees who answered my questionnaire.”
+2. **What was the main test?** “A 102-case SPSS regression with HL, TC, and LE together estimating perceived TE.”
+3. **What did it find?** “The model was significant overall: F(3, 98) = 50.652, p < .001, R² = .608. I rejected the overall null hypothesis.”
+4. **Did all three stand out separately?** “No. Only LE had an individually significant adjusted coefficient.”
+5. **Does this prove cause or represent the whole Bank?** “No. These are one-time ratings from selected employees.”
