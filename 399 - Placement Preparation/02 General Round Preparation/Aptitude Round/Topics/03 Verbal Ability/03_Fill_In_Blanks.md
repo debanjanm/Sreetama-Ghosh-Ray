@@ -1,5 +1,19 @@
 # Fill in the Blanks and Cloze
 
+## In simple words
+
+**The idea:** The sentence gives clues about the missing word: contrast, cause, example or tone.
+
+**Think of it like:** Solving a crossword by using the crossing letters as clues.
+
+**Simple steps:**
+1. Read the words before and after the blank.
+2. Spot clue words like 'although', 'because' and 'therefore'.
+3. Predict the kind of word (positive, negative, noun, verb).
+4. Test each option in the full sentence.
+
+**Watch out:** For two blanks, solve the easier blank first, then check both together.
+
 ## Method
 Read before/after the blank, identify contrast, cause, condition, or example; predict polarity and part of speech. For two blanks, solve the more constrained one first and test the pair together.
 

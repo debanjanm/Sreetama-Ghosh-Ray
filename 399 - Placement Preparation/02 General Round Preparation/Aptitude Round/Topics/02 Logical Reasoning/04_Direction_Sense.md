@@ -1,5 +1,19 @@
 # Direction Sense
 
+## In simple words
+
+**The idea:** Track your position on a map one move at a time.
+
+**Think of it like:** Following a walking route on a map app.
+
+**Simple steps:**
+1. Draw a cross with north at the top.
+2. Note which way you face at the start.
+3. A turn changes your facing; a walk moves you. Mark each move.
+4. The final answer is the straight line from the start to the end.
+
+**Watch out:** The distance you walked is not the same as how far you are from the start.
+
 ## Rules
 North +y, south −y, east +x, west −x. Straight-line displacement = √(x²+y²). Distance travelled = sum of path lengths.
 

@@ -2,6 +2,20 @@
 
 > **Difficulty:** Easy to Medium  ·  **Target time:** 60 s
 
+## In simple words
+
+**The idea:** Interest is rent paid for using money. Simple interest charges rent only on the original amount. Compound interest also charges rent on the rent already added.
+
+**Think of it like:** Simple: a flat rent every year. Compound: a rent that grows because last year's unpaid rent is also charged.
+
+**Simple steps:**
+1. Note the principal P, the yearly rate R and the time T.
+2. Simple interest = P × R × T ÷ 100.
+3. Compound: multiply by (1 + R/100) once for every year (or period).
+4. Compound interest = final amount − P.
+
+**Watch out:** Check whether the question asks for the amount (P + interest) or just the interest, and whether compounding is yearly or half-yearly.
+
 ## Rules and formulas
 - SI = PRT/100 for annual rate R and time T in years.
 - Compound amount A=P(1+R/100)^T for annual compounding; CI=A−P.

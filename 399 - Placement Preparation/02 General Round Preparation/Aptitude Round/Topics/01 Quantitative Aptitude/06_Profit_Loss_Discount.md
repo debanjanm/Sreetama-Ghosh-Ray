@@ -2,6 +2,20 @@
 
 > **Difficulty:** Medium  ·  **Target time:** 60 s
 
+## In simple words
+
+**The idea:** Profit and loss are always measured against the cost price. Discount is always measured against the marked price.
+
+**Think of it like:** A shop buys for ₹100, puts a ₹125 sticker, then gives 10% off the sticker.
+
+**Simple steps:**
+1. If only percentages are given, assume cost price = 100.
+2. Marked price = cost × (1 + markup%).
+3. Selling price = marked price × (1 − discount%).
+4. Profit % = (selling price − cost) ÷ cost × 100.
+
+**Watch out:** Two discounts of 20% and 10% do not add to 30%. Multiply instead: 0.8 × 0.9 = 0.72, which is 28% off.
+
 ## Rules and formulas
 - Profit%=(SP−CP)/CP×100; loss%=(CP−SP)/CP×100.
 - Markup is on cost; discount is on marked price.

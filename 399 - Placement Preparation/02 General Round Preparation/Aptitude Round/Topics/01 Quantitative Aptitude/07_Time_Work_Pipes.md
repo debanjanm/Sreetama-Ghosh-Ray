@@ -2,6 +2,20 @@
 
 > **Difficulty:** Medium  ·  **Target time:** 70 s
 
+## In simple words
+
+**The idea:** Find how much of the job each person finishes in one day, then add those daily shares.
+
+**Think of it like:** Two clerks entering data. If one finishes the file in 6 days, she does 1/6 of it each day.
+
+**Simple steps:**
+1. Daily work = 1 ÷ days taken.
+2. Working together: add the daily works. A leak or outlet pipe is subtracted.
+3. Days needed = 1 ÷ combined daily work.
+4. Shortcut: pretend the total work equals the LCM of the days, so there are no fractions.
+
+**Watch out:** Add the daily rates, never the days.
+
 ## Rules and formulas
 - If A takes a days, rate is 1/a task/day.
 - Combined rate is the sum of rates; subtract an outlet/leak rate.

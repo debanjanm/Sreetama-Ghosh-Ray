@@ -2,6 +2,20 @@
 
 > **Difficulty:** Easy  ·  **Target time:** 45 s
 
+## In simple words
+
+**The idea:** A ratio compares sizes in 'parts'. Real amounts come only at the end.
+
+**Think of it like:** A recipe of 2 cups rice to 1 cup dal: make double the food and the ratio stays 2:1.
+
+**Simple steps:**
+1. Add the ratio numbers to get the total parts (2:3:5 has 10 parts).
+2. One part = total ÷ total parts.
+3. Multiply one part by each ratio number to get each share.
+4. If two ratios share a term, scale them so that term matches, then join them.
+
+**Watch out:** A ratio of 3:2 does not mean there are exactly 5 people. The total is any multiple of 5.
+
 ## Rules and formulas
 - If quantities are in a:b and total T, they are Ta/(a+b), Tb/(a+b).
 - a:b=c:d implies ad=bc.

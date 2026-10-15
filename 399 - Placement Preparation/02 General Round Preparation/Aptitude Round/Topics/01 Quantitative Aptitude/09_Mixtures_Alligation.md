@@ -2,6 +2,19 @@
 
 > **Difficulty:** Medium  ·  **Target time:** 70 s
 
+## In simple words
+
+**The idea:** Mixing two things gives something in between. Alligation tells you how much of each to mix.
+
+**Think of it like:** Mixing hot and cold water to get lukewarm: the closer you want to be to hot, the more hot water you add.
+
+**Simple steps:**
+1. Write the cheaper value, the dearer value and the target in the middle.
+2. Cross-subtract: (dearer − target) and (target − cheaper).
+3. Those two numbers are the quantity ratio of cheaper : dearer.
+
+**Watch out:** The target must lie between the two ingredient values, and the ratio you get is for quantities, not prices.
+
 ## Rules and formulas
 - Weighted concentration = (q₁c₁+q₂c₂)/(q₁+q₂).
 - For low L, target M, high H with L<M<H: low quantity : high quantity = (H−M):(M−L).

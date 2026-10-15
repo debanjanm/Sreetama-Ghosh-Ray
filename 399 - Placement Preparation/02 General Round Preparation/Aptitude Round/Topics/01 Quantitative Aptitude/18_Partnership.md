@@ -2,6 +2,19 @@
 
 > **Difficulty:** Easy to Medium  ·  **Target time:** 60 s
 
+## In simple words
+
+**The idea:** The partner who puts in more money for more time takes a bigger share of the profit.
+
+**Think of it like:** Co-owners of a rented flat who split the profit by how much they paid and for how many months.
+
+**Simple steps:**
+1. For each partner, multiply capital × months.
+2. Simplify these numbers into a ratio.
+3. Split the profit in that ratio.
+
+**Watch out:** Turn years into months first. A partner who joins late only counts the months they were in.
+
 ## Rules and formulas
 - Profit share is proportional to **capital × time** (use months for time).
 - Equal time → share in the ratio of capitals. Equal capital → share in the ratio of times.

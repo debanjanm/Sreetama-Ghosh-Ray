@@ -2,6 +2,20 @@
 
 > **Difficulty:** Hard  ·  **Target time:** 90 s
 
+## In simple words
+
+**The idea:** These are counting questions. If order matters, use permutations. If you are just choosing, use combinations.
+
+**Think of it like:** Picking 3 people for a committee (order does not matter) versus giving gold, silver and bronze (order matters).
+
+**Simple steps:**
+1. Ask: does order matter?
+2. Yes: nPr. No: nCr.
+3. For rules like 'A and B together', glue them into one block, count, then multiply by the ways inside the block.
+4. For 'at least one', count all ways and subtract the ways with none.
+
+**Watch out:** Repeated letters or identical items reduce the count, so divide by the factorial of each repeat.
+
 ## Rules and formulas
 - Ordered selection nPr=n!/(n−r)!; unordered selection nCr=n!/[r!(n−r)!].
 - Distinct linear arrangements of n items: n!; repeated letters: n! divided by factorial of repeat counts.

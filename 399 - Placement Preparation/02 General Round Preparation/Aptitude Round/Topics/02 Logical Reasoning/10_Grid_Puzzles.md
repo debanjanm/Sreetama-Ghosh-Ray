@@ -1,5 +1,19 @@
 # Grid and Matching Puzzles
 
+## In simple words
+
+**The idea:** A grid turns a story of who-owns-what into a table where every clue fills in a tick or a cross.
+
+**Think of it like:** A seating chart with tick-marks for each person's role.
+
+**Simple steps:**
+1. Draw a table with people down the side and attributes across the top.
+2. Put a tick for sure matches and a cross for exclusions.
+3. A tick in a row or column crosses out the others.
+4. Repeat until the grid is complete.
+
+**Watch out:** Do not assume each attribute is used only once unless the puzzle says so.
+
 ## Method
 Make one row per person and one column per attribute. Enter ✓ for certain matches, ✗ for exclusions. A ✓ eliminates other cells in its row/column if each attribute is unique.
 

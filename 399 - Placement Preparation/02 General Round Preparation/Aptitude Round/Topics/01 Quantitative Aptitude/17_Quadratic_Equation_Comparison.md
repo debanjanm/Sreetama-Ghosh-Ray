@@ -2,6 +2,20 @@
 
 > **Difficulty:** Medium  ·  **Target time:** 60 s
 
+## In simple words
+
+**The idea:** Each equation has two answers, called roots. You compare every root of x with every root of y.
+
+**Think of it like:** Two teams: check each player of one team against each player of the other, not just the captains.
+
+**Simple steps:**
+1. Factor each equation to find its roots.
+2. List the roots of x and of y.
+3. Compare all four pairs.
+4. If all pairs agree, that is the answer. If they disagree, the answer is 'no relation'.
+
+**Watch out:** x² = 16 gives both +4 and −4. Do not forget the negative root.
+
 ## Rules and formulas
 - Factor each equation to get all roots of x and all roots of y.
 - Compare **every** root of x with **every** root of y (four pairs for two roots each).

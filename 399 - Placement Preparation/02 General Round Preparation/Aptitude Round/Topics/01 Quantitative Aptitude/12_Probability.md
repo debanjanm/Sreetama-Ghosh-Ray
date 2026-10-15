@@ -2,6 +2,20 @@
 
 > **Difficulty:** Hard  ·  **Target time:** 90 s
 
+## In simple words
+
+**The idea:** Probability is the number of ways to win divided by the total number of equally likely ways.
+
+**Think of it like:** Picking one resume at random from a pile and asking how likely it is to be a fresher's.
+
+**Simple steps:**
+1. Count all possible outcomes.
+2. Count the outcomes you want.
+3. Divide: wanted ÷ total.
+4. 'At least one' is 1 − P(none). 'And' multiplies. 'Or' adds, then subtract the overlap.
+
+**Watch out:** Without replacement, the second draw has fewer items, so change both the top and the bottom numbers.
+
 ## Rules and formulas
 - Equally likely outcomes: P(A)=favourable/total.
 - P(not A)=1−P(A); P(A or B)=P(A)+P(B)−P(A and B).

@@ -1,5 +1,18 @@
 # Vocabulary, Synonyms, Antonyms, and Usage
 
+## In simple words
+
+**The idea:** The sentence usually tells you what the word means before you look at the options.
+
+**Think of it like:** Guessing a new word from the people and events around it.
+
+**Simple steps:**
+1. Read the whole sentence and guess the meaning in your own words.
+2. Look for contrast words (but, however) and clue words.
+3. Test each remaining option in the sentence.
+
+**Watch out:** Look-alike words (affect and effect, complement and compliment) are common traps.
+
 ## Method
 Read the whole sentence and predict meaning, tone, and grammatical role before inspecting options. Use roots or contrast words as clues, then substitute each remaining option.
 

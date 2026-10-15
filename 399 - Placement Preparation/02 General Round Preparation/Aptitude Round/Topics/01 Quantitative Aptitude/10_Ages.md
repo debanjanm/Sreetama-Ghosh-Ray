@@ -2,6 +2,20 @@
 
 > **Difficulty:** Medium  ·  **Target time:** 70 s
 
+## In simple words
+
+**The idea:** Ages are numbers that all move together: every year everyone gets exactly one year older.
+
+**Think of it like:** You and your cousin differ by 3 years today, and you will still differ by 3 years at 80.
+
+**Simple steps:**
+1. Call one person's present age x.
+2. Write everyone else's age using x.
+3. Turn each sentence into an equation ('5 years ago' means subtract 5 from every age).
+4. Solve, then check the answer against every sentence.
+
+**Watch out:** The age difference never changes, but the ratio does. Do not subtract years from the ratio numbers.
+
 ## Rules and formulas
 - Present ages x,y; n years ago x−n,y−n; n years later x+n,y+n.
 - The age difference between two people stays constant.

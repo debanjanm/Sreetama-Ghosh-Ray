@@ -2,6 +2,20 @@
 
 > **Difficulty:** Medium  ·  **Target time:** 70 s
 
+## In simple words
+
+**The idea:** Speed tells you how much distance you cover per hour. Everything comes from: distance = speed × time.
+
+**Think of it like:** Driving to a city: the distance is fixed, so a faster speed means less time.
+
+**Simple steps:**
+1. Make units match (km/h to m/s: multiply by 5/18).
+2. Train crossing a platform: distance = train length + platform length.
+3. Towards each other, add speeds; in the same direction, subtract.
+4. Round trips: average speed = total distance ÷ total time.
+
+**Watch out:** Going at 30 and returning at 60 does not give an average of 45. It is 40, because you spend longer at the slow speed.
+
 ## Rules and formulas
 - Distance=speed×time; 1 km/h=5/18 m/s.
 - For equal distances at speeds a,b: average speed=2ab/(a+b).

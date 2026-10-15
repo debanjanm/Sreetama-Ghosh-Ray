@@ -1,5 +1,19 @@
 # Clocks and Calendars
 
+## In simple words
+
+**The idea:** A clock's hands move at fixed speeds, and the days of the week repeat every 7 days.
+
+**Think of it like:** The minute hand is a fast runner (6° per minute), the hour hand a slow walker (0.5° per minute).
+
+**Simple steps:**
+1. Hour hand angle = 30 × hours + 0.5 × minutes.
+2. Minute hand angle = 6 × minutes.
+3. Subtract. If the result is over 180°, use 360° minus it for the smaller angle.
+4. Calendars: divide days by 7; the remainder is how many weekdays to move forward.
+
+**Watch out:** Always give the smaller angle unless the question asks otherwise.
+
 ## Formulas
 Minute hand: 6° per minute. Hour hand: 0.5° per minute, starting 30° per hour from 12. Raw angle=|30H−5.5M|; smaller angle=min(raw,360−raw).
 

@@ -1,5 +1,18 @@
 # Analogy and Odd One Out
 
+## In simple words
+
+**The idea:** Work out how the first pair is connected, then find the option connected in the same way.
+
+**Think of it like:** 'Doctor : Hospital' and 'Teacher : School' are both 'person : place of work'.
+
+**Simple steps:**
+1. Say the relationship in a short sentence.
+2. Test each option against that exact sentence.
+3. Throw away options that only share the topic but not the relationship.
+
+**Watch out:** Belonging to the same topic is not the same as having the same relationship.
+
 ## Method
 Describe the first relationship as a precise sentence: part-of, tool-for, cause-of, synonym, opposite, sequence, or degree. Apply that relationship to each option.
 

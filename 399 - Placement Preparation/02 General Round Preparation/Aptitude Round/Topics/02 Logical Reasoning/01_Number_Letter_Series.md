@@ -1,5 +1,19 @@
 # Number and Letter Series
 
+## In simple words
+
+**The idea:** A series follows a hidden rule that turns each term into the next. Your job is to find the rule.
+
+**Think of it like:** Spotting the pattern in a yearly increment schedule.
+
+**Simple steps:**
+1. Write the differences between neighbouring terms.
+2. If they are not constant, check the differences of the differences, or the ratios.
+3. If it still fails, split the odd and even positions into two separate series.
+4. Test your rule on every step before answering.
+
+**Watch out:** A rule that fits only the first two steps is probably wrong. Check all of them.
+
 ## Rule families
 Constant differences, second differences, constant ratios, squares/cubes, alternating positions, and a repeated multiply-then-add rule. Letter positions A=1 through Z=26.
 

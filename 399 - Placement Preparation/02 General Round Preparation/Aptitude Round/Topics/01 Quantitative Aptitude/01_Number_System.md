@@ -2,6 +2,20 @@
 
 > **Difficulty:** Easy to Medium  ·  **Target time:** 45 s
 
+## In simple words
+
+**The idea:** Every number is built from prime building blocks. HCF and LCM just compare the blocks two numbers share.
+
+**Think of it like:** LCM is when two buses with different timings next leave the stand together. HCF is the biggest equal-sized box that packs two piles with nothing left over.
+
+**Simple steps:**
+1. Break each number into primes (36 = 2×2×3×3).
+2. HCF: keep only the primes both numbers have, with the smaller power.
+3. LCM: keep every prime, with the bigger power.
+4. For remainder questions: answer = (a multiple of the LCM) + the remainder.
+
+**Watch out:** 'Meet again' means LCM; 'biggest equal groups' means HCF. Do not mix them up.
+
 ## Rules and formulas
 - For two positive integers, HCF × LCM = product. For three or more, do not multiply HCF and LCM this way.
 - Divisibility: 3 or 9 → digit sum; 4 → last two digits; 8 → last three; 11 → alternating digit sums differ by a multiple of 11.

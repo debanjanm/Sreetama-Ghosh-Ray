@@ -1,5 +1,19 @@
 # Syllogisms
 
+## In simple words
+
+**The idea:** The statements are about groups of things. Drawing circles shows what must be true.
+
+**Think of it like:** Departments in a company: all HR staff are employees, but not all employees are in HR.
+
+**Simple steps:**
+1. Draw one circle for each group in the first statement.
+2. Add the next statement to the picture.
+3. Try to draw the picture in more than one valid way.
+4. A conclusion is correct only if it is true in every valid drawing.
+
+**Watch out:** 'Some A are B' does not mean 'all A are B', and it does not prove 'some A are not B'.
+
 ## Rules
 “All A are B” means A⊆B; “No A are B” means sets do not overlap; “Some A are B” asserts at least one overlap. A conclusion follows only if true in every permitted arrangement.
 

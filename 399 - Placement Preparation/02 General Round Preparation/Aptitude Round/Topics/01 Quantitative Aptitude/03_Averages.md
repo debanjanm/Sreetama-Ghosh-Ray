@@ -2,6 +2,19 @@
 
 > **Difficulty:** Easy  ·  **Target time:** 40 s
 
+## In simple words
+
+**The idea:** The average is the amount each person would get if everything were shared equally.
+
+**Think of it like:** Splitting a restaurant bill equally among friends.
+
+**Simple steps:**
+1. Total = average × number of items.
+2. Change the total: add a new value, remove one, or swap one.
+3. Divide the new total by the new count.
+
+**Watch out:** Never just average two averages unless the two groups are the same size.
+
 ## Rules and formulas
 - Average = total/count; total = average×count.
 - Combined average = (n₁a₁+n₂a₂)/(n₁+n₂).

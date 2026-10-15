@@ -1,5 +1,19 @@
 # Data Sufficiency
 
+## In simple words
+
+**The idea:** You do not have to solve the problem. You only decide whether the information is enough to solve it.
+
+**Think of it like:** A hiring manager deciding whether a CV has enough detail to shortlist someone.
+
+**Simple steps:**
+1. Understand exactly what the question asks.
+2. Look at statement 1 alone.
+3. Look at statement 2 alone.
+4. Combine them only if neither is enough alone. Test with two different numbers to catch false sufficiency.
+
+**Watch out:** When judging one statement alone, do not use information from the other.
+
 ## Method
 Read what is asked: a value, or a yes/no decision. Test statement 1 alone, statement 2 alone, then together only if required. Try two values satisfying a statement to challenge sufficiency.
 

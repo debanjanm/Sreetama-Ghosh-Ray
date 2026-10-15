@@ -1,5 +1,18 @@
 # Reading Comprehension
 
+## In simple words
+
+**The idea:** Answer only from what the passage says, not from what you already know.
+
+**Think of it like:** Looking up information in a company policy document instead of guessing.
+
+**Simple steps:**
+1. Skim the passage for the main idea and tone.
+2. Read the question, then find the matching lines.
+3. Cross out answers that are too strong, too narrow or not in the passage.
+
+**Watch out:** Outside knowledge and extreme words ('always', 'only', 'never') are the usual traps.
+
 ## Method
 Map each paragraph's role (claim, evidence, counterpoint, conclusion). Read the question, find the supporting sentence, and reject answers that change the scope or strength of the passage.
 

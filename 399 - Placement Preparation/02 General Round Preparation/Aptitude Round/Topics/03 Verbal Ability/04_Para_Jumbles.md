@@ -1,5 +1,19 @@
 # Para Jumbles
 
+## In simple words
+
+**The idea:** The sentences form a chain: introduce the topic, add detail, give the result.
+
+**Think of it like:** Putting the steps of a recipe in the right order.
+
+**Simple steps:**
+1. Find the opening sentence that introduces the topic with no 'this' or 'it' pointing back.
+2. Match words like 'this', 'it' and 'they' to what they refer to.
+3. Find pairs that clearly go together (cause then effect).
+4. Read the full order once to check it flows.
+
+**Watch out:** A sentence starting with 'This' or 'Therefore' cannot be the opening sentence.
+
 ## Method
 Find a sentence that introduces the subject without unresolved “this/it/they.” Pair references with antecedents, then use chronology and cause→effect. Read the complete sequence aloud.
 

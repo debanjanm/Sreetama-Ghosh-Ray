@@ -1,5 +1,19 @@
 # Blood Relations
 
+## In simple words
+
+**The idea:** Turn the words into a family tree picture and the answer becomes easy to read.
+
+**Think of it like:** Drawing an org chart of who reports to whom, but for a family.
+
+**Simple steps:**
+1. Draw one row per generation.
+2. Join parent and child with vertical lines, spouses and siblings with horizontal lines.
+3. Mark gender only if the question says so.
+4. Start the phrase from the person being asked about and read it step by step.
+
+**Watch out:** Do not guess a person's gender from their name.
+
 ## Representation
 Draw generations in rows. Use parent-child vertical links and spouse/sibling horizontal links. Mark gender only when stated.
 

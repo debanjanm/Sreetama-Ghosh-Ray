@@ -2,6 +2,20 @@
 
 > **Difficulty:** Easy  ·  **Target time:** 30 s
 
+## In simple words
+
+**The idea:** A long sum has an agreed order of steps, so everyone gets the same answer. That order is BODMAS.
+
+**Think of it like:** It is the grammar of maths: it tells you which part to read first.
+
+**Simple steps:**
+1. Brackets first.
+2. Then powers and roots.
+3. Then division and multiplication, left to right.
+4. Then addition and subtraction, left to right.
+
+**Watch out:** Do not add before you multiply. 2 + 3 × 4 is 14, not 20.
+
 ## Rules and formulas
 - BODMAS: Brackets, Orders (powers and roots), then Division and Multiplication left to right, then Addition and Subtraction left to right.
 - Fractions: bring to a common denominator before adding; to compare fractions, cross-multiply.

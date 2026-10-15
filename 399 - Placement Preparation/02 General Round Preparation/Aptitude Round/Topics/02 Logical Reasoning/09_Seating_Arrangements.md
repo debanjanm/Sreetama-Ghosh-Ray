@@ -1,5 +1,19 @@
 # Seating Arrangements
 
+## In simple words
+
+**The idea:** Place the sure things first, join people who must sit together into a block, then eliminate what is impossible.
+
+**Think of it like:** Placing guests at a dinner table using the seating rules.
+
+**Simple steps:**
+1. Number the seats and note which way everyone faces.
+2. Place anyone whose seat is fixed.
+3. Build blocks like 'A is next to B'.
+4. Test each possibility and cross out those that break a rule.
+
+**Watch out:** Left and right depend on which way the person faces. Check this carefully.
+
 ## Method
 Number seats, mark facing direction, place fixed positions, then adjacency blocks and negative constraints. Test every remaining arrangement.
 

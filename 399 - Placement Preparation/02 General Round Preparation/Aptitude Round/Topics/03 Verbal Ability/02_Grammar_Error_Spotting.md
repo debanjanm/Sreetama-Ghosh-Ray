@@ -1,5 +1,19 @@
 # Grammar and Error Spotting
 
+## In simple words
+
+**The idea:** Find the real subject and the real verb, then check that they agree.
+
+**Think of it like:** Matching a key to its lock: a singular subject needs a singular verb.
+
+**Simple steps:**
+1. Strip out extra phrases between the subject and the verb.
+2. Check singular and plural agreement.
+3. Check tense, pronouns, and parallel structure.
+4. Read the corrected sentence to see if it sounds natural.
+
+**Watch out:** Phrases such as 'of the candidates' do not change whether the subject is singular or plural.
+
 ## Check order
 1. Identify main subject and verb; ignore intervening descriptive phrases.
 2. Check tense sequence and pronoun reference.

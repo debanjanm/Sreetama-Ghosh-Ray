@@ -2,6 +2,20 @@
 
 > **Difficulty:** Medium to Hard  ·  **Target time:** 75 s
 
+## In simple words
+
+**The idea:** Perimeter is the length of the boundary, area is the flat space inside, and volume is the space inside a solid.
+
+**Think of it like:** Perimeter is the fence around a plot, area is the carpet for the floor, volume is the water a tank holds.
+
+**Simple steps:**
+1. Name the shape.
+2. Write its formula.
+3. Make all units the same before putting numbers in.
+4. Area answers are in square units; volume answers are in cube units.
+
+**Watch out:** The radius is half the diameter. Check which one the question gives you.
+
 ## Rules and formulas
 - Rectangle area=lw; perimeter=2(l+w). Circle area=πr²; circumference=2πr.
 - Cuboid volume=lwh. Cylinder volume=πr²h; curved area=2πrh; total area=2πr(h+r).

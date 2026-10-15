@@ -2,6 +2,20 @@
 
 > **Difficulty:** Hard  ·  **Target time:** 90 s per question (a 5-question set in about 6–7 min)
 
+## In simple words
+
+**The idea:** A table or chart is just numbers laid out neatly. You read them and then use percentages, ratios and averages.
+
+**Think of it like:** Reading an HR dashboard: applications, offers and joiners by month.
+
+**Simple steps:**
+1. Read the title, units and the period first.
+2. Find exactly which numbers the question needs.
+3. Choose the right denominator ('of the offers' or 'of the applications').
+4. If the options are far apart, round the numbers and estimate.
+
+**Watch out:** You cannot average percentages that come from different totals. Add the numerators and denominators instead.
+
 ## Rules and formulas
 - Growth%=(later−earlier)/earlier×100.
 - Share%=part/total×100; conversion%=output/input×100.

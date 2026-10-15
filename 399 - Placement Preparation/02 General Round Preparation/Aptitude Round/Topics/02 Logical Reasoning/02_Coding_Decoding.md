@@ -1,5 +1,18 @@
 # Coding and Decoding
 
+## In simple words
+
+**The idea:** Words are changed by a hidden rule. Find the rule from the example, then apply it to the new word.
+
+**Think of it like:** A secret message where every letter is swapped by the same trick.
+
+**Simple steps:**
+1. Write the original and coded letters in two rows with their alphabet numbers.
+2. Compare each pair: is it +1, −2, reversed alphabet or a reversed word?
+3. Apply the same rule to every letter of the new word.
+
+**Watch out:** After Z, wrap back to A when you shift letters forward.
+
 ## Common rules
 Alphabet shift, reverse alphabet (A↔Z), rearranged order, number position, and symbol substitutions. Test each character and wrap Z→A for cyclic shifts.
 

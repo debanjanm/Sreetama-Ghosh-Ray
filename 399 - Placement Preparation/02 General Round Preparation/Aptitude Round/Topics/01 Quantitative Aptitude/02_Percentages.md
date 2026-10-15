@@ -2,6 +2,20 @@
 
 > **Difficulty:** Easy  ·  **Target time:** 40 s
 
+## In simple words
+
+**The idea:** 'Percent' means 'out of 100'. Every percentage question is: part ÷ whole × 100.
+
+**Think of it like:** A salary hike: compare what you got with what you had before.
+
+**Simple steps:**
+1. Decide which number is the whole. For a change, it is the OLD (starting) value.
+2. Turn the percent into a multiplier: 20% up is ×1.2, 20% down is ×0.8.
+3. For several changes in a row, multiply the multipliers.
+4. To undo a change, divide by its multiplier.
+
+**Watch out:** +20% then −20% does not return you to the start (1.2 × 0.8 = 0.96), because the second change works on a bigger number.
+
 ## Rules and formulas
 - Percentage change = (new−old)/old ×100.
 - New value after p% rise/fall = old ×(1±p/100).

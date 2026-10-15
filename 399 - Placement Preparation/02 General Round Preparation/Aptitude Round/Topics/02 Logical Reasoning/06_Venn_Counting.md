@@ -1,5 +1,19 @@
 # Venn Diagrams and Counting
 
+## In simple words
+
+**The idea:** When two groups overlap, people in the overlap are counted twice, so subtract them once.
+
+**Think of it like:** Employees who know Excel, SPSS, or both.
+
+**Simple steps:**
+1. Start with the overlap in the middle.
+2. Subtract it from each group to get the 'only' parts.
+3. Add all parts for 'at least one'.
+4. Total minus 'at least one' gives 'neither'.
+
+**Watch out:** 'Only' and 'at least' mean different regions of the diagram.
+
 ## Formulas
 |A∪B|=|A|+|B|−|A∩B|. Neither = total−union. For three sets, add singles, subtract pairwise intersections, then add triple intersection.
 

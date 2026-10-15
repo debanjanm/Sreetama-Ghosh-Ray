@@ -1,5 +1,18 @@
 # Critical Reasoning and Verbal Logic
 
+## In simple words
+
+**The idea:** Find the gap between the evidence and the conclusion. Questions ask you to fill it, widen it or spot it.
+
+**Think of it like:** A friend says 'the shop is busy so the food must be great'. Busy does not prove great.
+
+**Simple steps:**
+1. Mark the evidence and the conclusion.
+2. Name the missing link (the assumption).
+3. To strengthen: add evidence that supports the link. To weaken: add evidence that breaks it.
+
+**Watch out:** Two things happening together does not prove one caused the other.
+
 ## Method
 Mark evidence and conclusion. Identify the missing bridge for assumptions. For strengthen/weaken, look for new evidence that changes the link without changing the subject.
 

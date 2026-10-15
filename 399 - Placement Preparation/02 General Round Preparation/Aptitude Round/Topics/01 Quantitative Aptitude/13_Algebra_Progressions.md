@@ -2,6 +2,20 @@
 
 > **Difficulty:** Medium to Hard  ·  **Target time:** 75 s
 
+## In simple words
+
+**The idea:** Algebra is arithmetic with a mystery number written as a letter. Keep both sides of the equation balanced.
+
+**Think of it like:** A balance scale: whatever you do to one side, do to the other.
+
+**Simple steps:**
+1. Give the unknown a letter.
+2. Write what the sentence says as an equation.
+3. Simplify step by step, doing the same on both sides.
+4. Check by putting your answer back in. An AP adds the same jump each time; a GP multiplies by the same number each time.
+
+**Watch out:** When you multiply or divide an inequality by a negative number, flip the sign.
+
 ## Rules and formulas
 - For ax²+bx+c=0, sum of roots=−b/a; product=c/a.
 - AP: nth term a+(n−1)d; sum n[2a+(n−1)d]/2.

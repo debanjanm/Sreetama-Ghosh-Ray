@@ -1,5 +1,18 @@
 # Statements, Conclusions, and Assumptions
 
+## In simple words
+
+**The idea:** An argument has evidence, a conclusion and an unspoken link between them. The unspoken link is the assumption.
+
+**Think of it like:** A manager says 'send the reminder, some students forget'. It assumes a reminder will actually help.
+
+**Simple steps:**
+1. Underline the evidence and the conclusion.
+2. Ask: what must be true for the evidence to support the conclusion?
+3. Test it: if the assumption were false, would the argument collapse?
+
+**Watch out:** Words like 'all', 'always' and 'never' make conclusions too strong and usually wrong.
+
 ## Method
 Separate stated evidence, conclusion/recommendation, and unstated bridge. A conclusion must be supported; an assumption is needed for the argument to work. Negate a proposed assumption to test it.
 
