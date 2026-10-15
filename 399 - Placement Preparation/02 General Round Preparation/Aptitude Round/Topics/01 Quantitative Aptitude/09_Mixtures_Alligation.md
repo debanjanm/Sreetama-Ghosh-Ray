@@ -1,5 +1,7 @@
 # Mixtures and Alligation
 
+> **Difficulty:** Medium  ·  **Target time:** 70 s
+
 ## Rules and formulas
 - Weighted concentration = (q₁c₁+q₂c₂)/(q₁+q₂).
 - For low L, target M, high H with L<M<H: low quantity : high quantity = (H−M):(M−L).
@@ -36,3 +38,44 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: Remove 5 L from 25 L pure milk and replace with water twice. How much milk remains?
 
 **Solution:** Each replacement retains 20/25=4/5 of the milk. Remaining=25(4/5)²=**16 L**.
+
+## Deeper patterns (medium to hard)
+
+### Extra formulas and shortcuts
+- Dilution: C₁V₁ = C₂V₂ where V₂ = V₁ + added water.
+- Removing x litres of an a:b mixture removes x·a/(a+b) of A and x·b/(a+b) of B.
+- Profit on a mixture: first compute mean cost per kg from the mixing ratio, then compare with the selling price.
+- n successive replacements of x litres from V litres leave original × (1 − x/V)ⁿ.
+
+### Medium patterns
+
+**M1. 40 L of milk:water 3:1. Water to add to make the ratio 3:2?**
+
+**Solution:** Milk 30 L, water 10 L; for 3:2 water must be 20 L, so add **10 L**.
+
+**M2. 60 L of milk:water 2:1. Remove 12 L and replace with water. New ratio?**
+
+**Solution:** Milk 40 L, water 20 L. Removing 12 L takes out 8 L milk and 4 L water, leaving milk 32, water 16. Adding 12 L water makes water 28. Ratio 32 : 28 = **8 : 7**.
+
+### Hard patterns
+
+**H1. Tea at ₹60/kg and ₹80/kg is mixed 2:3 and sold at ₹78/kg. Profit %?**
+
+**Solution:** Cost = (2×60+3×80)/5 = ₹72; profit 6/72 = **8⅓%**.
+
+**H2. A vessel holds 40 L of milk. 4 L is replaced with water, twice. Milk left and final ratio?**
+
+**Solution:** 40×0.9² = **32.4 L** milk, 7.6 L water, ratio **81 : 19**.
+
+### Practice (answers hidden)
+1. 4 kg at ₹30 mixed with 6 kg at ₹40. Price per kg?
+2. 10 L of 20% salt solution plus 5 L water. New strength?
+3. 60 L milk:water 5:1. Water to add to make 1:1?
+
+<details><summary>Answers</summary>
+
+1. (120+240)/10 = **₹36**.
+2. 2 L salt in 15 L = **13⅓%**.
+3. Milk 50, water 10, add **40 L**.
+
+</details>

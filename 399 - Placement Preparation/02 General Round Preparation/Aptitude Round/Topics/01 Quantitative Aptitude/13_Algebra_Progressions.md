@@ -1,5 +1,7 @@
 # Algebra, Equations, and Progressions
 
+> **Difficulty:** Medium to Hard  ·  **Target time:** 75 s
+
 ## Rules and formulas
 - For ax²+bx+c=0, sum of roots=−b/a; product=c/a.
 - AP: nth term a+(n−1)d; sum n[2a+(n−1)d]/2.
@@ -36,3 +38,51 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: Find the sum of the first 8 terms of 2, 6, 18, ...
 
 **Solution:** Geometric ratio=3. S₈=2(3⁸−1)/(3−1)=**6,560**.
+
+## Deeper patterns (medium to hard)
+
+### Extra formulas and shortcuts
+- Identities: (a±b)² = a² ± 2ab + b²; a²−b² = (a−b)(a+b); a³+b³ = (a+b)(a²−ab+b²).
+- From sum and product: a²+b² = (a+b)² − 2ab. Also x² + 1/x² = (x+1/x)² − 2.
+- Indices: aᵐ·aⁿ = aᵐ⁺ⁿ; (aᵐ)ⁿ = aᵐⁿ; a⁰=1; a⁻ⁿ = 1/aⁿ.
+- Simultaneous equations: eliminate one variable (multiply to match coefficients) then substitute.
+- Inequalities: multiplying or dividing by a negative number flips the sign.
+- Sum of first n odd numbers = n²; sum of first n squares = n(n+1)(2n+1)/6.
+- Test options when the equation is awkward: plugging in four options is often faster than solving.
+
+### Medium patterns
+
+**M1. Solve 2x+3y=12 and 3x−y=7.**
+
+**Solution:** y=3x−7 ⇒ 2x+9x−21 = 12 ⇒ x=3, y=2. **(3, 2)**.
+
+**M2. x+y=10 and xy=21. Find x²+y².**
+
+**Solution:** 100 − 42 = **58**.
+
+**M3. Solve −2x + 3 ≤ 11.**
+
+**Solution:** −2x ≤ 8; dividing by −2 flips the sign, so **x ≥ −4**.
+
+### Hard patterns
+
+**H1. x + 1/x = 5. Find x² + 1/x².**
+
+**Solution:** 25 − 2 = **23**.
+
+**H2. Sum of 1+3+5+…+49, and of 1²+2²+…+10²?**
+
+**Solution:** 25 odd numbers, so 25² = **625**; squares: 10×11×21/6 = **385**.
+
+### Practice (answers hidden)
+1. a+b = 7 and a−b = 3. Find ab.
+2. Value of 2⁵ × 2⁻³?
+3. Roots of x² − 6x + 8 = 0?
+
+<details><summary>Answers</summary>
+
+1. a=5, b=2, so **10**.
+2. 2² = **4**.
+3. **2 and 4**, with sum 6 and product 8.
+
+</details>

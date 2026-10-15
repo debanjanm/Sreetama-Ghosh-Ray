@@ -1,5 +1,7 @@
 # Probability
 
+> **Difficulty:** Hard  ·  **Target time:** 90 s
+
 ## Rules and formulas
 - Equally likely outcomes: P(A)=favourable/total.
 - P(not A)=1−P(A); P(A or B)=P(A)+P(B)−P(A and B).
@@ -36,3 +38,46 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: A fair coin is tossed three times. Probability of at least one head?
 
 **Solution:** Use complement: only TTT has no head, probability 1/8. Answer=**7/8**.
+
+## Deeper patterns (medium to hard)
+
+### Extra formulas and shortcuts
+- Deck: 52 cards, 4 suits × 13; 12 face cards; 26 red, 26 black; 4 aces.
+- Two dice: 36 outcomes; sum 7 is the most likely (6/36); sums 2 and 12 have 1/36 each.
+- Mutually exclusive: P(A∩B)=0. Independent: P(A∩B)=P(A)P(B). These are different ideas.
+- Conditional probability: P(A|B) = P(A∩B)/P(B).
+- Odds in favour a:b means P = a/(a+b).
+- Drawing r items together: use nCr counts for favourable ÷ total.
+
+### Medium patterns
+
+**M1. A card is drawn from 52. P(king or heart)?**
+
+**Solution:** 4+13−1 = 16, so 16/52 = **4/13**.
+
+**M2. Two cards drawn without replacement. P(both aces)?**
+
+**Solution:** (4/52)(3/51) = **1/221**.
+
+### Hard patterns
+
+**H1. A bag has 4 red, 3 blue and 2 green balls. Three drawn together. P(exactly 2 red)?**
+
+**Solution:** 4C2×5C1/9C3 = 6×5/84 = **5/14**.
+
+**H2. P(A)=0.5, P(B)=0.4, P(A∩B)=0.2. Find P(A|B) and check independence.**
+
+**Solution:** P(A|B) = 0.2/0.4 = **0.5**. Since P(A)P(B) = 0.2 = P(A∩B), the events are **independent**.
+
+### Practice (answers hidden)
+1. P(sum of two dice = 10)?
+2. P(a card is a red face card)?
+3. P(exactly 2 heads in 3 tosses)?
+
+<details><summary>Answers</summary>
+
+1. (4,6),(5,5),(6,4) → 3/36 = **1/12**.
+2. 6/52 = **3/26**.
+3. 3/8.
+
+</details>

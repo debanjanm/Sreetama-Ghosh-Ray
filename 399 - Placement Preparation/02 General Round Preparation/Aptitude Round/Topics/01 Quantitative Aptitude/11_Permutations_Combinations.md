@@ -1,5 +1,7 @@
 # Permutations and Combinations
 
+> **Difficulty:** Hard  ·  **Target time:** 90 s
+
 ## Rules and formulas
 - Ordered selection nPr=n!/(n−r)!; unordered selection nCr=n!/[r!(n−r)!].
 - Distinct linear arrangements of n items: n!; repeated letters: n! divided by factorial of repeat counts.
@@ -37,3 +39,45 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: Arrange the letters of LEVEL. How many distinct arrangements?
 
 **Solution:** Five letters, with two L and two E: 5!/(2!2!)=**30**.
+
+## Deeper patterns (medium to hard)
+
+### Extra formulas and shortcuts
+- nCr = nC(n−r); nCr + nC(r+1) = (n+1)C(r+1).
+- Digit formation: choose the first digit first if 0 is not allowed there.
+- 'At least' problems: total − none. Handshakes among n people = nC2; diagonals of an n-sided polygon = n(n−3)/2.
+- Dividing n distinct items into equal groups of size k: n!/((k!)^g · g!), with g groups.
+- Necklace or garland (no reflection difference): (n−1)!/2.
+
+### Medium patterns
+
+**M1. How many 3-digit numbers can be formed from 0,1,2,3,4 without repetition?**
+
+**Solution:** First digit 4 ways (not 0), second 4, third 3: 4×4×3 = **48**.
+
+**M2. A committee of 4 from 5 men and 4 women, with at least 2 women.**
+
+**Solution:** 2W2M: 6×10=60; 3W1M: 4×5=20; 4W: 1. Total **81**.
+
+### Hard patterns
+
+**H1. 8 people sit around a table. Two particular people must not sit together.**
+
+**Solution:** Total 7! = 5,040; together 6!×2 = 1,440; answer **3,600**.
+
+**H2. Distinct arrangements of MISSISSIPPI?**
+
+**Solution:** 11!/(4!·4!·2!) = 39,916,800/1,152 = **34,650**.
+
+### Practice (answers hidden)
+1. Handshakes among 10 people?
+2. Diagonals of a hexagon?
+3. Select 2 men and 2 women from 5 men and 4 women.
+
+<details><summary>Answers</summary>
+
+1. 10C2 = **45**.
+2. 6×3/2 = **9**.
+3. 10×6 = **60**.
+
+</details>

@@ -1,5 +1,7 @@
 # Simple and Compound Interest
 
+> **Difficulty:** Easy to Medium  ·  **Target time:** 60 s
+
 ## Rules and formulas
 - SI = PRT/100 for annual rate R and time T in years.
 - Compound amount A=P(1+R/100)^T for annual compounding; CI=A−P.
@@ -37,3 +39,45 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: At simple interest, a sum doubles in 8 years. When will it triple at the same rate?
 
 **Solution:** Doubling earns one principal in 8 years. Tripling earns two principals, requiring **16 years**.
+
+## Deeper patterns (medium to hard)
+
+### Extra formulas and shortcuts
+- Depreciation: value = P(1 − r/100)ⁿ.
+- CI − SI for 3 years = P(r/100)²(3 + r/100).
+- At SI, a sum becomes k times itself in 100(k−1)/r years; doubling in n years means rate 100/n %.
+- Effective annual rate for half-yearly compounding = (1 + r/200)² − 1.
+- Equal annual installments x for 2 years at r (as a decimal): loan = x/(1+r) + x/(1+r)².
+
+### Medium patterns
+
+**M1. At SI a sum is ₹6,000 after 2 years and ₹6,500 after 3 years. Principal and rate?**
+
+**Solution:** Interest per year = ₹500. Principal = 6,000 − 1,000 = **₹5,000**; rate = 500/5,000 = **10%**.
+
+**M2. CI minus SI on ₹8,000 for 2 years is ₹20. Rate?**
+
+**Solution:** 8,000(r/100)² = 20 ⇒ (r/100)² = 0.0025 ⇒ **5%**.
+
+### Hard patterns
+
+**H1. A sum becomes ₹1,331 in 3 years at 10% CI, annual. Principal and CI?**
+
+**Solution:** P = 1,331/1.331 = **₹1,000**; CI = **₹331**.
+
+**H2. A loan of ₹2,100 is cleared in two equal annual installments at 10% CI. Installment?**
+
+**Solution:** x(1/1.1 + 1/1.21) = x×2.1/1.21 = 2,100 ⇒ x = **₹1,210**. Check: 2,100×1.1=2,310−1,210=1,100; ×1.1=1,210.
+
+### Practice (answers hidden)
+1. SI on ₹6,000 at 5% for 3 years?
+2. A sum doubles at SI in 10 years. Rate?
+3. CI on ₹4,000 for 2 years at 5%?
+
+<details><summary>Answers</summary>
+
+1. 6,000×5×3/100 = **₹900**.
+2. 100/10 = **10%**.
+3. 4,000×(1.05²−1) = **₹410**.
+
+</details>

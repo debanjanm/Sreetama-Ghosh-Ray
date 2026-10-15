@@ -1,5 +1,7 @@
 # Speed, Distance, Trains, and Boats
 
+> **Difficulty:** Medium  ·  **Target time:** 70 s
+
 ## Rules and formulas
 - Distance=speed×time; 1 km/h=5/18 m/s.
 - For equal distances at speeds a,b: average speed=2ab/(a+b).
@@ -37,3 +39,47 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: Travel 60 km at 30 km/h and return at 60 km/h. Find average speed.
 
 **Solution:** Total distance=120 km, time=2+1=3 h. Average=**40 km/h**, not 45.
+
+## Deeper patterns (medium to hard)
+
+### Extra formulas and shortcuts
+- Two trains crossing each other: time = (L₁+L₂)/(relative speed); opposite directions add speeds, same direction subtract.
+- For the same distance, speeds in ratio a:b take times in ratio b:a.
+- Catch-up: head start d, speeds u > v → time = d/(u−v).
+- Circular track of length L: meet every L/(u+v) in opposite directions, every L/(u−v) in the same direction.
+- Late/early: distance = s₁s₂/(s₁−s₂) × (time difference).
+- Boat round trip of d km each way: d/(b+s) + d/(b−s).
+- Average speed over three equal parts = 3/(1/a+1/b+1/c).
+
+### Medium patterns
+
+**M1. Trains of 150 m and 100 m move in opposite directions at 60 and 40 km/h. Time to cross?**
+
+**Solution:** Relative speed 100 km/h = 250/9 m/s; time = 250 ÷ (250/9) = **9 s**.
+
+**M2. A walks at 5 km/h. B starts 2 h later from the same point at 7.5 km/h. When does B catch A?**
+
+**Solution:** Head start 10 km; relative speed 2.5; **4 h** after B starts, at **30 km** from the start.
+
+### Hard patterns
+
+**H1. A man walking at 4 km/h is 15 minutes late; at 5 km/h he is 15 minutes early. Distance?**
+
+**Solution:** d/4 − d/5 = 30/60 = 1/2 ⇒ d/20 = 1/2 ⇒ **10 km**.
+
+**H2. A boat does 15 km/h in still water; the stream is 5 km/h. Total time for 30 km downstream and back?**
+
+**Solution:** 30/20 + 30/10 = 1.5 + 3 = **4.5 h**.
+
+### Practice (answers hidden)
+1. 54 km/h in m/s?
+2. A 200 m train crosses a pole in 10 s. Speed in km/h?
+3. 400 m track, runners at 6 and 4 m/s in the same direction. When do they first meet?
+
+<details><summary>Answers</summary>
+
+1. 54×5/18 = **15 m/s**.
+2. 20 m/s × 3.6 = **72 km/h**.
+3. 400/(6−4) = **200 s**.
+
+</details>

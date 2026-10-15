@@ -4,6 +4,7 @@ Study one file at a time: read the recognition cue, cover the worked answer, sol
 
 ## Quantitative Aptitude
 
+- [Formula and Mental Math Sheet](<01 Quantitative Aptitude/00_Formula_and_Mental_Math_Sheet.md>) (revise first, and on test day)
 - [Number System](<01 Quantitative Aptitude/01_Number_System.md>)
 - [Percentages](<01 Quantitative Aptitude/02_Percentages.md>)
 - [Averages](<01 Quantitative Aptitude/03_Averages.md>)
@@ -19,6 +20,11 @@ Study one file at a time: read the recognition cue, cover the worked answer, sol
 - [Algebra, Equations, and Progressions](<01 Quantitative Aptitude/13_Algebra_Progressions.md>)
 - [Mensuration and Units](<01 Quantitative Aptitude/14_Mensuration.md>)
 - [Data Interpretation](<01 Quantitative Aptitude/15_Data_Interpretation.md>)
+- [Simplification and Approximation](<01 Quantitative Aptitude/16_Simplification_Approximation.md>)
+- [Quadratic Equation Comparison (x vs y)](<01 Quantitative Aptitude/17_Quadratic_Equation_Comparison.md>)
+- [Partnership](<01 Quantitative Aptitude/18_Partnership.md>)
+
+Each quantitative file now shows a difficulty tag and target time per question, then has Rules, Pattern, Solve, Tips, Try it, followed by extra formulas, medium and hard patterns, and three practice questions with hidden answers.
 
 ## Logical Reasoning
 
