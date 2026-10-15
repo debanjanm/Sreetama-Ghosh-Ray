@@ -46,8 +46,6 @@ Attempt before looking at the key. Record time taken and the reason for each err
 11. **B:** “Each” takes a singular verb.
 12. **B:** the passage supports attendance only.
 
-## Error log
+## Error log and full mock
 
-| Date | Question | Topic | Error type (concept / arithmetic / time / reading) | Correct method | Retry date |
-|---|---|---|---|---|---|
-| | | | | | |
+Record mistakes in the [Aptitude Error Log](Aptitude_Error_Log.md). When you are ready for a full timed run, take [Aptitude Mock Test 1](Aptitude_Mock_Test_1.md) and check it with the [Answer Key](Aptitude_Mock_Test_1_Answer_Key.md).

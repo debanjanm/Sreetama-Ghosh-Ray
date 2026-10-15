@@ -56,6 +56,7 @@ Each quantitative file now shows a difficulty tag and target time per question, 
 ## Practice cycle
 
 1. Learn 2–3 topics, then solve the existing [Aptitude Practice Set](../Aptitude_Practice_Set.md) under a timer.
-2. Record errors as concept, arithmetic, reading, or time management.
+2. Record errors in the [Aptitude Error Log](../Aptitude_Error_Log.md) as concept, formula, arithmetic, misread, time, or guess.
+   After the topics, take the timed [Aptitude Mock Test 1](../Aptitude_Mock_Test_1.md) (70 questions, 75 minutes).
 3. Re-solve missed patterns after a day without looking at the answer.
 4. Prioritise the official Infosys instructions when the test link and pattern arrive.
