@@ -23,3 +23,17 @@ How many ways to select 3 of 6? **Answer:** 6C3=20.
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: How many 3-digit numbers can be formed from 1, 2, 3, 4 without repetition?
+
+**Solution:** Choose ordered digits: 4×3×2=**24**. Order matters.
+
+### Pattern 2: Choose a committee of 3 from 7 people. How many committees?
+
+**Solution:** Order does not matter: C(7,3)=7×6×5/(3×2×1)=**35**.
+
+### Pattern 3: Arrange the letters of LEVEL. How many distinct arrangements?
+
+**Solution:** Five letters, with two L and two E: 5!/(2!2!)=**30**.

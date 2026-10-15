@@ -17,3 +17,17 @@ No managers are interns; some analysts are managers. Can some analysts be intern
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: All analysts are employees. Some employees are trainers. Does “some analysts are trainers” follow?
+
+**Solution:** **No.** The two employee subsets may be disjoint. Overlap is possible, but not guaranteed.
+
+### Pattern 2: Some managers are mentors. All mentors are employees. Does “some managers are employees” follow?
+
+**Solution:** **Yes.** The managers who are mentors must also be employees; this preserves the “some” witness.
+
+### Pattern 3: No interns are managers. All trainees are interns. Can any trainee be a manager?
+
+**Solution:** **No.** Trainees are a subset of interns, which excludes managers.

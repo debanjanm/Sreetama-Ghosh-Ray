@@ -17,3 +17,17 @@ Check “although,” “however,” “therefore,” and “despite” first. D
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Fill in: “Despite the tight deadline, the team remained ___ and completed the work carefully.” careless / composed / indifferent
+
+**Solution:** **Composed** fits calm, effective performance despite pressure. “Despite” signals a contrast with expected stress.
+
+### Pattern 2: Fill in: “The report was ___ by interviews and survey data.” contradicted / supported / ignored
+
+**Solution:** **Supported** fits evidence backing a report. Check that the chosen word makes the whole sentence coherent.
+
+### Pattern 3: Fill in both: “The manager was ___ about the delay but ___ the team for its transparency.” concerned; praised / delighted; blamed
+
+**Solution:** **Concerned; praised** creates a coherent distinction between concern about timing and appreciation of honesty.

@@ -23,3 +23,17 @@ After a 25% increase a price is ₹500. Original? **Answer:** ₹400.
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: A salary rises 25% and then falls 20%. What is the net change?
+
+**Solution:** Use multipliers: 1.25×0.80=1.00, so **no net change**. Equal percentage changes would not cancel because the bases differ.
+
+### Pattern 2: A is 20% more than B. By what percent is B less than A?
+
+**Solution:** Let B=100 and A=120. The decrease relative to A is 20/120×100=**16⅔%**.
+
+### Pattern 3: A shop sold 40% of its stock and then 25% of what remained. What percentage remains?
+
+**Solution:** Start with 100 units: 60 remain, then 0.75×60=45. **45% remains**; 40%+25% is not the sold fraction.

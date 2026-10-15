@@ -22,3 +22,17 @@ Find HCF and LCM of 18 and 30. **Answer:** 6 and 90 (18=2×3², 30=2×3×5).
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Find the remainder when 7^103 is divided by 10.
+
+**Solution:** Units digits cycle 7, 9, 3, 1 every four powers. 103 leaves remainder 3 on division by 4, so the third digit is **3**.
+
+### Pattern 2: Find the smallest number divisible by 12, 18 and 20.
+
+**Solution:** Prime powers: 12=2²×3, 18=2×3², 20=2²×5. The LCM is 2²×3²×5=**180**; using the largest power of each prime avoids overcounting.
+
+### Pattern 3: How many factors does 360 have?
+
+**Solution:** 360=2³×3²×5¹. Choose exponent 0–3, 0–2 and 0–1 independently: 4×3×2=**24** positive factors.

@@ -23,3 +23,17 @@ Two runners 18 km apart approach at 4 and 5 km/h. Meet in? **Answer:** 18/9=2 h.
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: A 120 m train passes a pole in 6 seconds. Find speed in km/h.
+
+**Solution:** Speed=120/6=20 m/s; multiply by 3.6 to get **72 km/h**.
+
+### Pattern 2: A boat travels 24 km downstream in 2 hours and upstream in 3 hours. Find still-water and stream speeds.
+
+**Solution:** Downstream=12 km/h, upstream=8 km/h. Boat=(12+8)/2=**10 km/h**; stream=(12−8)/2=**2 km/h**.
+
+### Pattern 3: Travel 60 km at 30 km/h and return at 60 km/h. Find average speed.
+
+**Solution:** Total distance=120 km, time=2+1=3 h. Average=**40 km/h**, not 45.

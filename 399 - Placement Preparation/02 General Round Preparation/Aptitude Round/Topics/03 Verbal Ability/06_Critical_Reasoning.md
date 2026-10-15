@@ -23,3 +23,17 @@ The negation test: if negating an alleged assumption breaks the reasoning, it ma
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Claim: “After a wellness programme began, sick days fell; therefore the programme caused the decline.” Give one alternative explanation.
+
+**Solution:** A mild flu season or a change in reporting could lower sick days. The before/after correlation alone does not establish causation.
+
+### Pattern 2: Claim: “We should add evening support because 30% of tickets arrive after 6 PM.” What evidence would strengthen it?
+
+**Solution:** Show that these tickets need prompt human resolution, remain unanswered until morning, and that evening staffing improves outcomes at a reasonable cost.
+
+### Pattern 3: Claim: “Every surveyed intern liked the policy, so all employees will like it.” What is the main weakness?
+
+**Solution:** Interns may differ from the whole workforce. The **unrepresentative sample** cannot justify a conclusion about all employees.

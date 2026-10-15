@@ -28,3 +28,17 @@ C offers as a percentage of C applications? **Answer:** 75/300=25%.
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Sales are 80, 100 and 120 units in three years. Find the percentage increase from year 1 to year 3.
+
+**Solution:** Increase=40 on a base of 80; 40/80×100=**50%**. Use the first year as denominator.
+
+### Pattern 2: Departments A and B have 120 and 180 employees; 25% of A and 40% of B are women. What fraction of both departments are women?
+
+**Solution:** Women=30+72=102 of 300; fraction=102/300=**34%**. A plain mean of 25% and 40% ignores group sizes.
+
+### Pattern 3: A chart reports revenue ₹240 lakh and margin 15%. Estimate profit and cost.
+
+**Solution:** Profit=0.15×240=**₹36 lakh**; cost=240−36=**₹204 lakh**. This assumes margin means profit divided by revenue.

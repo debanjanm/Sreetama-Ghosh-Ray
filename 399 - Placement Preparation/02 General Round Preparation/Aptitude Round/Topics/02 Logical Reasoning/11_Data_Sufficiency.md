@@ -17,3 +17,17 @@ Find y: (1) y+z=10; (2) z=4. **Answer:** both together, y=6.
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Is integer x even? (1) x is divisible by 6. (2) x is divisible by 3.
+
+**Solution:** (1) alone is sufficient because multiples of 6 are even. (2) alone is not: 3 and 6 differ. **Statement 1 only**.
+
+### Pattern 2: What is x? (1) x+y=10. (2) y=4.
+
+**Solution:** Neither alone fixes x; together x=10−4=**6**. Thus **both statements together** are sufficient.
+
+### Pattern 3: Is x positive? (1) x²=9. (2) x>0.
+
+**Solution:** (1) allows +3 and −3, so insufficient. (2) answers the yes/no question directly. **Statement 2 only**.

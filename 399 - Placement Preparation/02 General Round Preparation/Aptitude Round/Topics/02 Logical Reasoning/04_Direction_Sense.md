@@ -17,3 +17,17 @@ Go 5 east, 12 north. Shortest distance home? **Answer:** 13 km.
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Walk 3 km east and 4 km north. How far and in what direction are you from the start?
+
+**Solution:** The displacement is a right triangle: √(3²+4²)=**5 km northeast**. Distance walked is 7 km.
+
+### Pattern 2: Facing north, turn right, then right again, then left. Which direction are you facing?
+
+**Solution:** North→east→south→**east**. Track each turn on the current direction.
+
+### Pattern 3: Walk 5 m north, 2 m east, then 5 m south. Where are you relative to start?
+
+**Solution:** North and south cancel; the final point is **2 m east**.

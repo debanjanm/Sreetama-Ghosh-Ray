@@ -22,3 +22,17 @@ Mix 10% and 40% solutions for 25%. Ratio low:high? **Answer:** (40−25):(25−1
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Mix ₹40/kg and ₹60/kg tea to get ₹48/kg. Find the quantity ratio.
+
+**Solution:** Alligation: cheaper:dearer=(60−48):(48−40)=12:8=**3:2**.
+
+### Pattern 2: A 20 L solution is 30% acid. Add 10 L water. Find the new concentration.
+
+**Solution:** Acid remains 6 L; total becomes 30 L. Concentration=6/30=**20%**.
+
+### Pattern 3: Remove 5 L from 25 L pure milk and replace with water twice. How much milk remains?
+
+**Solution:** Each replacement retains 20/25=4/5 of the milk. Remaining=25(4/5)²=**16 L**.

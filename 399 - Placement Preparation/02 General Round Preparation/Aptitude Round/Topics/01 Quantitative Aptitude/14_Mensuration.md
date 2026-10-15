@@ -22,3 +22,17 @@ Circle diameter 14 cm: area? **Answer:** 49π cm² (154 cm² if π=22/7).
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Find the area of a circular garden of radius 7 m. Use π=22/7.
+
+**Solution:** Area=πr²=(22/7)×49=**154 m²**. Perimeter would use 2πr.
+
+### Pattern 2: A cylinder has radius 3 cm and height 10 cm. Find volume.
+
+**Solution:** Volume=πr²h=π×9×10=**90π cm³**.
+
+### Pattern 3: A rectangular room is 8 m by 6 m. A 1 m wide path runs inside along all four walls. Find the path area.
+
+**Solution:** Outer area=48 m²; inner rectangle is 6×4=24 m². Path area=**24 m²**.

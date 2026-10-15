@@ -19,3 +19,17 @@ For three-set questions, start with the triple intersection, then subtract it fr
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: In a class of 60, 35 study English, 28 Hindi, and 10 neither. How many study both?
+
+**Solution:** At least one=60−10=50. Inclusion–exclusion: 35+28−both=50, so **13** study both.
+
+### Pattern 2: Of 100 people, 55 like tea, 50 coffee, and 20 both. How many like neither?
+
+**Solution:** Union=55+50−20=85; neither=100−85=**15**.
+
+### Pattern 3: In a survey, 18 like A only, 12 like B only, and 8 like both. How many like at least one?
+
+**Solution:** Add disjoint regions: 18+12+8=**38**; do not double-count the overlap.

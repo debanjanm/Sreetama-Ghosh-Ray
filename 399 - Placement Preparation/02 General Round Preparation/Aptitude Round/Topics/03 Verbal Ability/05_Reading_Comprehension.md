@@ -20,3 +20,17 @@ If the passage reports attendance only, can we infer higher productivity? **Answ
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Passage: “A pilot allowed employees to choose two remote days. Commute time fell, but collaboration scores were unchanged. The firm will extend the pilot before making a permanent decision.” Can we conclude remote work improved collaboration?
+
+**Solution:** **No.** The passage says scores were unchanged. Reduced commuting supports a different benefit; extension does not prove a permanent policy.
+
+### Pattern 2: Using the same passage, why is the firm extending the pilot?
+
+**Solution:** To gather more evidence before a permanent decision. This is an **inference from the stated sequence**, not a claim that the pilot failed.
+
+### Pattern 3: Passage: “Applicants with prior experience completed the task faster on average; however, the study did not control for training hours.” What limits the conclusion that experience caused faster work?
+
+**Solution:** **Training hours** could explain some of the difference. “On average” also does not imply every experienced applicant was faster.

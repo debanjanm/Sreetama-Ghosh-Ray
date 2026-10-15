@@ -17,3 +17,17 @@ Angle at 2:30? **Answer:** minute 180°, hour 75°, smaller angle 105°.
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: What is the smaller angle between clock hands at 3:30?
+
+**Solution:** Minute hand=180°; hour hand=3×30°+30×0.5°=105°. Difference=**75°**.
+
+### Pattern 2: If 1 January is a Monday in a non-leap year, what day is 1 February?
+
+**Solution:** January has 31 days, shifting by 31 mod 7=3 days. Monday+3=**Thursday**.
+
+### Pattern 3: How many odd days are there in a leap year?
+
+**Solution:** 366 mod 7=**2 odd days**; an ordinary year has 1.

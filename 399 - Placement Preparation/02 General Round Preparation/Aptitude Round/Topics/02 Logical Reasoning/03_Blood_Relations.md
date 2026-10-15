@@ -17,3 +17,17 @@ Neha is Arjun's sister; Arjun is Kiran's father. Neha to Kiran? **Answer:** pate
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Anita says, “He is the son of my mother’s only daughter.” Who is he to Anita?
+
+**Solution:** The mother’s only daughter is Anita. Her son is Anita’s **son**. Draw the intermediate link before answering.
+
+### Pattern 2: Ravi’s father is Meera’s brother. How is Meera related to Ravi?
+
+**Solution:** Meera is the sister of Ravi’s father, so she is his **paternal aunt**.
+
+### Pattern 3: A is B’s mother. C is A’s father. How is C related to B?
+
+**Solution:** C is the father of B’s mother, hence B’s **maternal grandfather**.

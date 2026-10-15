@@ -20,3 +20,17 @@ P. It was then reviewed by the manager. Q. An intern prepared a draft. R. The ap
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Order: A. Therefore, it revised the schedule. B. The company surveyed employees. C. Many requested flexible hours. D. The new schedule began in April.
+
+**Solution:** **B-C-A-D**. “Many” refers to surveyed employees; “therefore” follows their request; rollout comes last.
+
+### Pattern 2: Order: A. The automation reduced errors. B. First, the team mapped the current workflow. C. It then automated duplicate entry. D. Finally, it measured the results.
+
+**Solution:** **B-C-A-D**. “It then” follows the first step; the benefit follows automation; measurement closes the sequence.
+
+### Pattern 3: Order: A. As a result, attendance rose. B. The firm introduced short online sessions. C. Earlier workshops required long travel. D. Employees could now join from their desks.
+
+**Solution:** **C-B-D-A**. Background problem → intervention → access mechanism → result.

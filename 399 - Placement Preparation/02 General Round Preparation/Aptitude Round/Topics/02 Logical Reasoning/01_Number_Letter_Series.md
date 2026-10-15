@@ -20,3 +20,17 @@ Several rules can fit four terms; prefer the simplest rule consistent with optio
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Find the next term: 3, 7, 15, 31, ?
+
+**Solution:** Each term is double the previous plus 1: 3→7→15→31→**63**. Check the rule across every gap.
+
+### Pattern 2: Find the next term: 2, 6, 12, 20, 30, ?
+
+**Solution:** Differences are 4, 6, 8, 10; next difference 12. Answer=**42**. Equivalently n(n+1).
+
+### Pattern 3: Find the next letter: A, C, F, J, O, ?
+
+**Solution:** Alphabet positions 1,3,6,10,15 have gaps 2,3,4,5; next position 21 is **U**.

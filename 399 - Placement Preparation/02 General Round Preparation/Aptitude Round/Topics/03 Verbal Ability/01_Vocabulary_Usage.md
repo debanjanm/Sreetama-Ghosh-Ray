@@ -17,3 +17,17 @@ Near-synonyms differ in intensity or connotation. A word can have multiple sense
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Choose the meaning of “mitigate” in “The policy aims to mitigate risk.”
+
+**Solution:** **Reduce the severity**. It does not mean eliminate risk entirely; use the sentence context to distinguish the two.
+
+### Pattern 2: Choose the correct word: “The new policy will ___ employee morale.” affect / effect
+
+**Solution:** **Affect** is the verb meaning influence. “Effect” is usually a noun here: “the effect on morale.”
+
+### Pattern 3: Choose the opposite of “concise”: brief, succinct, verbose, compact.
+
+**Solution:** **Verbose** means using more words than needed; the other three align with concise.

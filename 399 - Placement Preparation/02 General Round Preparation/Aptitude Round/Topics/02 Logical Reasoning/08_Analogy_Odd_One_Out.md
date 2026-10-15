@@ -17,3 +17,17 @@ A different criterion could also make an item odd; state the common property sha
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Book : author :: painting : ?
+
+**Solution:** A book is created by an author; a painting is created by an **artist**. State the relation before matching.
+
+### Pattern 2: Choose the odd one: triangle, square, pentagon, circle.
+
+**Solution:** **Circle**: the other three are polygons with straight sides. “All are shapes” is too broad to distinguish them.
+
+### Pattern 3: Seed : plant :: egg : ?
+
+**Solution:** A seed develops into a plant; an egg develops into an **animal** (or chick if the question specifies a hen). Match development, not merely association.

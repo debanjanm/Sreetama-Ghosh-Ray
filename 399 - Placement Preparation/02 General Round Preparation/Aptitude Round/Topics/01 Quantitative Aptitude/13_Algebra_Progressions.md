@@ -22,3 +22,17 @@ For x²−5x+6=0, roots? **Answer:** 2 and 3.
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Solve 3(x−2)=2x+7.
+
+**Solution:** Expand: 3x−6=2x+7, hence **x=13**; substitute to check both sides equal 33.
+
+### Pattern 2: An arithmetic sequence starts at 5 and increases by 3. Find its 20th term.
+
+**Solution:** aₙ=a+(n−1)d, so a₂₀=5+19×3=**62**.
+
+### Pattern 3: Find the sum of the first 8 terms of 2, 6, 18, ...
+
+**Solution:** Geometric ratio=3. S₈=2(3⁸−1)/(3−1)=**6,560**.

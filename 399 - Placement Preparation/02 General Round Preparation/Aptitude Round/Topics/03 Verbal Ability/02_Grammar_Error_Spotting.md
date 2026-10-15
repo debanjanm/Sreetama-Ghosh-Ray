@@ -21,3 +21,17 @@ Long phrases conceal agreement errors. “Neither A nor B” usually agrees with
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Correct: “Each of the candidates have submitted their resume.”
+
+**Solution:** The subject **Each** is singular: “Each of the candidates **has** submitted a resume.” The plural noun after “of” does not control the verb.
+
+### Pattern 2: Correct: “Neither the manager nor the employees was available.”
+
+**Solution:** With “neither…nor,” the verb commonly agrees with the nearer subject “employees”: “Neither the manager nor the employees **were** available.”
+
+### Pattern 3: Correct: “She has been working here since three years.”
+
+**Solution:** Use **for** with a duration and **since** with a starting point: “She has been working here **for** three years.”

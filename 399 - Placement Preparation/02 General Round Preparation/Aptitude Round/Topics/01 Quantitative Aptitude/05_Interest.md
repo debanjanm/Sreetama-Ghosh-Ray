@@ -23,3 +23,17 @@ Read whether the question asks for amount or interest. The two-year SI/CI differ
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: Find simple interest on ₹8,000 at 7.5% a year for 2 years.
+
+**Solution:** SI=PRT/100=8000×7.5×2/100=**₹1,200**; amount=₹9,200.
+
+### Pattern 2: Find compound interest on ₹10,000 for 2 years at 10% annually.
+
+**Solution:** Amount=10000(1.1)²=₹12,100; CI=**₹2,100**. The second year earns interest on the first year’s interest.
+
+### Pattern 3: At simple interest, a sum doubles in 8 years. When will it triple at the same rate?
+
+**Solution:** Doubling earns one principal in 8 years. Tripling earns two principals, requiring **16 years**.

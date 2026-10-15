@@ -22,3 +22,17 @@ CP ₹800, SP ₹920. Profit percent? **Answer:** 120/800=15%.
 ---
 
 Use these as general placement examples. Check the employer's actual test instructions and marking rules.
+
+## More worked patterns
+
+### Pattern 1: A product costs ₹750 and sells for ₹900. Find profit percentage.
+
+**Solution:** Profit=₹150; divide by cost price: 150/750×100=**20%**.
+
+### Pattern 2: An item marked ₹2,000 has successive discounts of 10% and 20%. Find the selling price.
+
+**Solution:** ₹2000×0.9×0.8=**₹1,440**. The effective discount is 28%, not 30%.
+
+### Pattern 3: A shopkeeper sells at ₹480 with a 20% loss. Find cost price.
+
+**Solution:** Selling price is 80% of cost; CP=480/0.8=**₹600**.
