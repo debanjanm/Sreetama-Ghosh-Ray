@@ -1,5 +1,7 @@
 # Fill in the Blanks and Cloze
 
+> **Difficulty:** Medium  ·  **Target time:** 45 s
+
 ## In simple words
 
 **The idea:** The sentence gives clues about the missing word: contrast, cause, example or tone.
@@ -45,3 +47,45 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: Fill in both: “The manager was ___ about the delay but ___ the team for its transparency.” concerned; praised / delighted; blamed
 
 **Solution:** **Concerned; praised** creates a coherent distinction between concern about timing and appreciation of honesty.
+
+## Deeper patterns (medium to hard)
+
+### Extra rules and tricks
+- Clue words: contrast (but, although, despite, however), cause (because, since, therefore), addition (and, moreover), example (for instance).
+- Match tone: a negative clue before 'but' means a positive word after it, and the other way round.
+- Collocations: make a decision, take a break, do homework, apologise for, depend on.
+- Double blanks: the two words usually either agree in tone or contrast, depending on the connector.
+- Cloze passages: read the whole passage once before filling any blank.
+
+### Medium patterns
+
+**M1. 'Despite his ___ performance in round one, he was selected.' (poor / excellent / average)**
+
+**Solution:** 'Despite' signals contrast with 'selected', so **poor**.
+
+**M2. 'She is so ___ that everyone trusts her.' (unreliable / reliable / careless)**
+
+**Solution:** **Reliable**.
+
+### Hard patterns
+
+**H1. 'The project was ___ by lack of funds, but the team remained ___.' (a) hindered; optimistic (b) helped; gloomy**
+
+**Solution:** 'But' signals contrast. **(a) hindered; optimistic.**
+
+**H2. Cloze: 'Remote work has become popular (1) ___ it offers flexibility. (2) ___, some employees miss office interaction.' (1) because/although (2) however/therefore**
+
+**Solution:** (1) gives a reason: **because**. (2) introduces a contrast: **however**.
+
+### Practice (answers hidden)
+1. 'He worked hard, ___ he passed.' (so / but)
+2. 'She apologised ___ the delay.' (for / at)
+3. 'The report was ___ and lacked detail.' (vague / thorough)
+
+<details><summary>Answers</summary>
+
+1. **So**.
+2. **For**.
+3. **Vague**.
+
+</details>

@@ -1,5 +1,7 @@
 # Grid and Matching Puzzles
 
+> **Difficulty:** Hard  ·  **Target time:** 120 s
+
 ## In simple words
 
 **The idea:** A grid turns a story of who-owns-what into a table where every clue fills in a tick or a cross.
@@ -43,3 +45,44 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: Three candidates score distinct ranks. A is above B, C is below B. Rank them.
 
 **Solution:** A>B and B>C combine transitively: **A first, B second, C third**. Record relative order before assigning slots.
+
+## Deeper patterns (medium to hard)
+
+### Extra rules and tricks
+- For two or more attributes, make one table per attribute or one big table with columns grouped.
+- Use 'either-or' clues late: they help only after other cells are filled.
+- Schedule puzzles: fix absolute days first, then 'before/after' pairs, then eliminate.
+- Check the final grid against every clue before answering.
+
+### Medium patterns
+
+**M1. X, Y, Z like tea, coffee and juice (one each). X does not like tea; Y likes coffee. Who likes what?**
+
+**Solution:** Y = coffee. X and Z share tea and juice; X does not like tea, so **X = juice, Z = tea**.
+
+**M2. Four candidates A–D are interviewed Mon–Thu, one a day. A is Monday, C is Wednesday, B is not Thursday. Find the order.**
+
+**Solution:** B and D take Tuesday and Thursday; B is not Thursday, so **A Mon, B Tue, C Wed, D Thu**.
+
+### Hard patterns
+
+**H1. P, Q, R have jobs HR, Finance, Sales and live in Chennai, Delhi, Pune. P is not in Delhi; Q is in Finance; R lives in Pune; the HR person lives in Chennai.**
+
+**Solution:** R is in Pune. P is not in Delhi or Pune, so P is in Chennai and Q in Delhi. The HR person lives in Chennai, so P is HR. **P: HR, Chennai; Q: Finance, Delhi; R: Sales, Pune.**
+
+**H2. Five tasks (Audit, Payroll, Hiring, Training, Review) run Mon–Fri. Training is Wednesday; Review is the day after Audit; Payroll is before Hiring; Hiring is not on Friday. Find the schedule.**
+
+**Solution:** Audit-Review is Mon-Tue or Thu-Fri. If Mon-Tue, Payroll and Hiring fall on Thu and Fri, putting Hiring on Friday, which is not allowed. So Audit Thu, Review Fri, Payroll Mon, Hiring Tue: **Mon Payroll, Tue Hiring, Wed Training, Thu Audit, Fri Review**.
+
+### Practice (answers hidden)
+1. A, B, C wear red, blue, green. A does not wear red; B wears blue. Who wears what?
+2. P is taller than Q; Q is taller than R. Who is shortest?
+3. Three interviews Mon–Wed: Finance is Monday; Ops is after HR. Order?
+
+<details><summary>Answers</summary>
+
+1. A = green, C = **red**.
+2. **R**.
+3. Finance Mon, HR Tue, Ops Wed.
+
+</details>

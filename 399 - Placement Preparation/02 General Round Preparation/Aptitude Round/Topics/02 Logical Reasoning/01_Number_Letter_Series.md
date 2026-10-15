@@ -1,5 +1,7 @@
 # Number and Letter Series
 
+> **Difficulty:** Easy to Medium  ·  **Target time:** 40 s
+
 ## In simple words
 
 **The idea:** A series follows a hidden rule that turns each term into the next. Your job is to find the rule.
@@ -48,3 +50,48 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: Find the next letter: A, C, F, J, O, ?
 
 **Solution:** Alphabet positions 1,3,6,10,15 have gaps 2,3,4,5; next position 21 is **U**.
+
+## Deeper patterns (medium to hard)
+
+### Extra rules and tricks
+- Famous series: squares (1, 4, 9, 16), cubes (1, 8, 27, 64), primes (2, 3, 5, 7, 11, 13), triangular numbers (1, 3, 6, 10, 15), Fibonacci (each term is the sum of the previous two).
+- Combined rules: ×a + b (for example ×2 + 1), ×1, ×2, ×3, … (factorials), n² ± n, n² ± 1.
+- Letter series: convert to positions, find the number rule, convert back. Pairs like AZ, BY, CX move one letter forward and one backward.
+- 'Wrong number' questions: find the rule that fits most terms, then spot the term that breaks it.
+
+### Medium patterns
+
+**M1. Next term: 2, 3, 5, 8, 12, ?**
+
+**Solution:** Differences are 1, 2, 3, 4, so the next difference is 5: **17**.
+
+**M2. Next term: 6, 11, 21, 41, ?**
+
+**Solution:** Each term is double the previous minus 1: 6→11→21→41→**81**.
+
+### Hard patterns
+
+**H1. Find the wrong number: 3, 8, 15, 24, 34, 48.**
+
+**Solution:** The rule is n²−1 for n = 2, 3, 4, …: 3, 8, 15, 24, 35, 48. So **34** is wrong; it should be 35.
+
+**H2. Next pair: AZ, BY, CX, DW, ?**
+
+**Solution:** The first letter moves forward and the second moves backward by one each time: **EV**.
+
+**H3. Next term: 1, 2, 6, 24, 120, ?**
+
+**Solution:** Multiply by 1, 2, 3, 4, 5, then 6: 120×6 = **720**.
+
+### Practice (answers hidden)
+1. 2, 5, 11, 23, 47, ?
+2. 1, 1, 2, 3, 5, 8, ?
+3. C, F, I, L, ?
+
+<details><summary>Answers</summary>
+
+1. Each term is double the previous plus 1: 47×2+1 = **95**.
+2. Fibonacci: 5+8 = **13**.
+3. Each letter moves forward 3: **O**.
+
+</details>

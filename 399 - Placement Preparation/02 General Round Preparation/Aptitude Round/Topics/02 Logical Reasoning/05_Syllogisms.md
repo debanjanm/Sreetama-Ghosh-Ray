@@ -1,5 +1,7 @@
 # Syllogisms
 
+> **Difficulty:** Medium  ·  **Target time:** 60 s
+
 ## In simple words
 
 **The idea:** The statements are about groups of things. Drawing circles shows what must be true.
@@ -45,3 +47,44 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: No interns are managers. All trainees are interns. Can any trainee be a manager?
 
 **Solution:** **No.** Trainees are a subset of interns, which excludes managers.
+
+## Deeper patterns (medium to hard)
+
+### Extra rules and tricks
+- Conversions: 'No A is B' converts to 'No B is A'. 'Some A are B' converts to 'Some B are A'. 'All A are B' converts to 'Some B are A'. 'Some A are not B' does not convert.
+- Standard results: All + All gives All; All + No gives No; Some + All gives Some; No + All (second group inside the first) gives No for the new group.
+- Test a conclusion by trying to draw the circles in a way that breaks it. If you can, the conclusion does not follow.
+- Either-or: if two conclusions are complementary (for example 'Some A are B' and 'No A is B') and neither is certain on its own, the pair 'either I or II' can follow.
+
+### Medium patterns
+
+**M1. All cats are animals. All animals are living. Does 'All cats are living' follow?**
+
+**Solution:** **Yes.** All + All gives All.
+
+**M2. No pen is a pencil. Some pencils are erasers. Does 'Some erasers are not pens' follow?**
+
+**Solution:** **Yes.** The erasers that are pencils cannot be pens.
+
+### Hard patterns
+
+**H1. Some doctors are teachers. All teachers are writers. (I) Some doctors are writers. (II) All doctors are writers.**
+
+**Solution:** Only **I follows**. The doctors who are teachers are writers; others are unknown.
+
+**H2. All HR staff are managers. Some managers are leaders. (I) Some HR staff are leaders. (II) Some leaders are managers.**
+
+**Solution:** Only **II follows**. The leaders who are managers may or may not include HR staff.
+
+### Practice (answers hidden)
+1. All pens are tools. Some tools are red. Do some pens have to be red?
+2. No manager is a clerk. All clerks are staff. Does 'Some staff are not managers' follow?
+3. Some A are B. No B is C. Does 'Some A are not C' follow?
+
+<details><summary>Answers</summary>
+
+1. **No.** The red tools may not include any pens.
+2. **Yes.** Clerks are staff and are not managers.
+3. **Yes.** The A that are B cannot be C.
+
+</details>

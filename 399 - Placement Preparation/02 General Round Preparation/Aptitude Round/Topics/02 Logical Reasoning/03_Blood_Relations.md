@@ -1,5 +1,7 @@
 # Blood Relations
 
+> **Difficulty:** Easy to Medium  ·  **Target time:** 60 s
+
 ## In simple words
 
 **The idea:** Turn the words into a family tree picture and the answer becomes easy to read.
@@ -45,3 +47,44 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: A is B’s mother. C is A’s father. How is C related to B?
 
 **Solution:** C is the father of B’s mother, hence B’s **maternal grandfather**.
+
+## Deeper patterns (medium to hard)
+
+### Extra rules and tricks
+- Vocabulary: father's father = paternal grandfather; mother's mother = maternal grandmother; mother's brother = maternal uncle; father's sister = paternal aunt; sibling's child = niece or nephew; spouse's sibling = brother/sister-in-law.
+- 'My mother's only son' (or 'only daughter') usually means yourself or your brother or sister, depending on your gender. Resolve it before going further.
+- Coded relations: the question gives a legend (for example × means father of). Translate step by step from left to right.
+- Symbols for a tree: + for male, − for female, = for married pair, a vertical line for parent to child.
+
+### Medium patterns
+
+**M1. Pointing to a lady, Ravi says, 'She is the daughter of my mother's only son.' How is she related to Ravi?**
+
+**Solution:** Ravi's mother's only son is Ravi himself, so the lady is Ravi's **daughter**.
+
+**M2. A is the brother of B. B is the sister of C. C is the father of D. How is A related to D?**
+
+**Solution:** A and C are siblings and A is male, so A is D's **uncle**.
+
+### Hard patterns
+
+**H1. Legend: × means 'father of', + means 'mother of'. What does A × B + C mean?**
+
+**Solution:** A is the father of B; B is the mother of C. So A is C's **maternal grandfather**.
+
+**H2. X's mother is the sister of Y's father. How are X and Y related?**
+
+**Solution:** X's mother is Y's paternal aunt, so X and Y are **cousins**.
+
+### Practice (answers hidden)
+1. My father's only brother's son is my what?
+2. What is your mother's mother's husband?
+3. Pointing to a boy, Neha says, 'He is the son of my father's only daughter.' Who is he to Neha?
+
+<details><summary>Answers</summary>
+
+1. My **cousin** (a male cousin).
+2. Your **maternal grandfather**.
+3. Neha's father's only daughter is Neha, so he is Neha's **son**.
+
+</details>

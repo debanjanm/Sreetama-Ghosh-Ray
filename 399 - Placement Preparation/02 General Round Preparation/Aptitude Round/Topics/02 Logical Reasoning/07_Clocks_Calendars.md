@@ -1,5 +1,7 @@
 # Clocks and Calendars
 
+> **Difficulty:** Medium  ·  **Target time:** 75 s
+
 ## In simple words
 
 **The idea:** A clock's hands move at fixed speeds, and the days of the week repeat every 7 days.
@@ -45,3 +47,45 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: How many odd days are there in a leap year?
 
 **Solution:** 366 mod 7=**2 odd days**; an ordinary year has 1.
+
+## Deeper patterns (medium to hard)
+
+### Extra rules and tricks
+- The hands overlap every 65 5/11 minutes. In 12 hours they overlap 11 times, are opposite 11 times and are at right angles 22 times; in 24 hours, double each.
+- Hands overlap between H and H+1 at 60H/11 minutes past H.
+- A clock that gains or loses x minutes per hour shows an error of x × (hours passed) after that time.
+- Odd days: an ordinary year has 1, a leap year has 2. 100 years = 5 odd days, 200 = 3, 300 = 1, 400 = 0.
+- Reference: 1 January 2001 was a Monday.
+
+### Medium patterns
+
+**M1. Smaller angle between the hands at 7:20?**
+
+**Solution:** Hour hand = 210+10 = 220°; minute hand = 120°; difference **100°**.
+
+**M2. 15 August 2025 is Friday. What day is 15 August 2026?**
+
+**Solution:** 365 days = 52 weeks + 1 day, so **Saturday**.
+
+### Hard patterns
+
+**H1. At what time between 4 and 5 are the hands together?**
+
+**Solution:** 60×4/11 = 21 9/11 minutes, so about **4:21:49**.
+
+**H2. A clock gains 2 minutes every hour and is set right at noon on Monday. What does it show at real noon on Tuesday?**
+
+**Solution:** Gain = 24×2 = 48 minutes, so it shows **12:48 pm**.
+
+### Practice (answers hidden)
+1. Angle between the hands at 6:00?
+2. 1 January 2001 is Monday. What day is 1 January 2002?
+3. How many odd days are there in 100 years?
+
+<details><summary>Answers</summary>
+
+1. **180°**.
+2. 365 days gives 1 odd day: **Tuesday**.
+3. **5**.
+
+</details>

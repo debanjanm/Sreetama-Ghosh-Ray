@@ -1,5 +1,7 @@
 # Venn Diagrams and Counting
 
+> **Difficulty:** Medium  ·  **Target time:** 75 s
+
 ## In simple words
 
 **The idea:** When two groups overlap, people in the overlap are counted twice, so subtract them once.
@@ -47,3 +49,44 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: In a survey, 18 like A only, 12 like B only, and 8 like both. How many like at least one?
 
 **Solution:** Add disjoint regions: 18+12+8=**38**; do not double-count the overlap.
+
+## Deeper patterns (medium to hard)
+
+### Extra rules and tricks
+- Three sets: exactly one + exactly two + all three = union.
+- Exactly two = (sum of pairwise overlaps) − 3 × (all three).
+- Only A = A − (A∩B) − (A∩C) + (A∩B∩C).
+- Word-relation diagrams: if every member of one group is in another, draw it inside; if only some overlap, draw overlapping circles; if none, draw separate circles.
+
+### Medium patterns
+
+**M1. In a group of 80, 50 like tea, 40 like coffee and 10 like neither. How many like both?**
+
+**Solution:** Union = 70. 50+40−both = 70 gives **20**.
+
+**M2. |A|=30, |B|=25, |C|=20, |A∩B|=10, |B∩C|=8, |A∩C|=6, all three = 4. Find |A∪B∪C|.**
+
+**Solution:** 30+25+20−10−8−6+4 = **55**.
+
+### Hard patterns
+
+**H1. Using the data above, find how many are in exactly two sets and exactly one set.**
+
+**Solution:** Exactly two = (10−4)+(8−4)+(6−4) = **12**. Only A = 30−(10+6−4) = 18, only B = 25−(10+8−4) = 11, only C = 20−(8+6−4) = 10, so exactly one = **39**. Check: 39+12+4 = 55.
+
+**H2. Which diagram represents Doctors, Women and Humans?**
+
+**Solution:** Doctors and Women overlap partly (some doctors are women), and both circles sit **inside Humans**.
+
+### Practice (answers hidden)
+1. Of 100 students, 60 play cricket, 45 play football, 15 play both. How many play neither?
+2. Only A = 35, only B = 25, both = 10, neither = 5. Total?
+3. n(A)=20, n(B)=30, n(A∪B)=40. Find n(A∩B).
+
+<details><summary>Answers</summary>
+
+1. Union = 90, so **10**.
+2. 35+25+10+5 = **75**.
+3. 20+30−40 = **10**.
+
+</details>

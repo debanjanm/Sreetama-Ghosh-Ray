@@ -40,6 +40,8 @@ Each quantitative file now shows a difficulty tag and target time per question, 
 - [Grid and Matching Puzzles](<02 Logical Reasoning/10_Grid_Puzzles.md>)
 - [Data Sufficiency](<02 Logical Reasoning/11_Data_Sufficiency.md>)
 - [Statements, Conclusions, and Assumptions](<02 Logical Reasoning/12_Statements_Assumptions.md>)
+- [Ranking and Order](<02 Logical Reasoning/13_Ranking_Order.md>)
+- [Coded Inequalities](<02 Logical Reasoning/14_Coded_Inequalities.md>)
 
 ## Verbal Ability
 
@@ -49,6 +51,7 @@ Each quantitative file now shows a difficulty tag and target time per question, 
 - [Para Jumbles](<03 Verbal Ability/04_Para_Jumbles.md>)
 - [Reading Comprehension](<03 Verbal Ability/05_Reading_Comprehension.md>)
 - [Critical Reasoning and Verbal Logic](<03 Verbal Ability/06_Critical_Reasoning.md>)
+- [Idioms and One-word Substitutions](<03 Verbal Ability/07_Idioms_One_Word_Substitution.md>)
 
 ## Practice cycle
 

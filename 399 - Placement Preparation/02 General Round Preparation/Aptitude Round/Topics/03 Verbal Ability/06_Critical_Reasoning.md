@@ -1,5 +1,7 @@
 # Critical Reasoning and Verbal Logic
 
+> **Difficulty:** Hard  ·  **Target time:** 90 s
+
 ## In simple words
 
 **The idea:** Find the gap between the evidence and the conclusion. Questions ask you to fill it, widen it or spot it.
@@ -50,3 +52,48 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: Claim: “Every surveyed intern liked the policy, so all employees will like it.” What is the main weakness?
 
 **Solution:** Interns may differ from the whole workforce. The **unrepresentative sample** cannot justify a conclusion about all employees.
+
+## Deeper patterns (medium to hard)
+
+### Extra rules and tricks
+- Question types: assumption, strengthen, weaken, inference, flaw, conclusion.
+- Common flaws: correlation taken as cause, reverse causation, small or unrepresentative sample, overgeneralisation, false either-or.
+- Weaken: add evidence that gives another cause or breaks the link. Strengthen: add evidence that rules out other causes or backs the link, such as a control group.
+- Assumption test: negate it; if the argument collapses, it is a real assumption.
+
+### Medium patterns
+
+**M1. 'Sales rose after the new ad, so the ad caused the rise.' Which fact weakens this?**
+
+**Solution:** 'A festival season began at the same time.' It gives **another cause**.
+
+**M2. 'Employees who use the gym are healthier, so gyms improve health.' What is the flaw?**
+
+**Solution:** **Reverse causation**: healthier people may be the ones who join a gym.
+
+### Hard patterns
+
+**H1. 'A pilot at 3 branches cut errors by 20% after training, so training cuts errors.' Which fact strengthens it?**
+
+**Solution:** 'Branches without the training saw no change in errors.' A **control group** rules out other causes.
+
+**H2. 'We should hire more recruiters because applications have doubled.' What is the assumption?**
+
+**Solution:** That the **existing recruiters cannot handle the extra load**. If they can, the argument fails.
+
+**H3. 'Everyone I asked likes the canteen, so the whole company likes it.' Name the flaw.**
+
+**Solution:** A **small, unrepresentative sample**.
+
+### Practice (answers hidden)
+1. 'Turnover fell after raises, so raises reduced turnover.' Which fact weakens it?
+2. Name the flaw: 'Ravi failed once, so he will always fail.'
+3. Which fact strengthens 'Online training boosts scores'?
+
+<details><summary>Answers</summary>
+
+1. 'The job market slowed and fewer jobs were available.'
+2. **Overgeneralisation.**
+3. A study with **matched groups** taking the same test where the online group scored higher.
+
+</details>

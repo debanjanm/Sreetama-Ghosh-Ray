@@ -1,5 +1,7 @@
 # Statements, Conclusions, and Assumptions
 
+> **Difficulty:** Hard  ·  **Target time:** 90 s
+
 ## In simple words
 
 **The idea:** An argument has evidence, a conclusion and an unspoken link between them. The unspoken link is the assumption.
@@ -47,3 +49,44 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: Argument: “Two employees improved after training; therefore training improves everyone.” Identify the flaw.
 
 **Solution:** The evidence is a two-person sample; the conclusion generalises to **everyone** without support. Other factors could explain the improvement.
+
+## Deeper patterns (medium to hard)
+
+### Extra rules and tricks
+- Question types: assumption (needed unstated link), conclusion (follows from the statement), course of action (practical, directly related step), strengthen or weaken (evidence about the link).
+- Course of action: choose steps that are feasible, effective and directly related to the problem; reject extreme steps like 'stop all hiring'.
+- Assumption test: negate it; if the argument falls apart, it is a real assumption.
+- Flaws to watch for: correlation taken as cause, selected examples, over-generalising from a few cases.
+
+### Medium patterns
+
+**M1. Statement: 'Use the lift; it saves time.' Is 'the lift is faster than the stairs' an assumption?**
+
+**Solution:** **Yes.** The advice only makes sense if the lift is faster.
+
+**M2. Statement: 'Company X has announced a hiring freeze due to rising costs.' (I) Costs are rising. (II) The company will fire staff.**
+
+**Solution:** **Only I follows.** It is stated as the reason. II is not supported.
+
+### Hard patterns
+
+**H1. Problem: many employees leave within six months of joining. (I) Review the induction process. (II) Stop all hiring.**
+
+**Solution:** **Only I follows.** It targets the cause. II is extreme and unrelated.
+
+**H2. Argument: 'Employees who attend workshops are promoted faster, so workshops cause promotions.' Which fact weakens it?**
+
+**Solution:** 'Workshop attendees were chosen because they were already top performers.' This gives **another explanation** for the promotions.
+
+### Practice (answers hidden)
+1. Statement: 'Buy early; prices will rise next month.' Is 'prices may actually rise' an assumption?
+2. 'All applicants were interviewed, so the process was fair.' What link is missing?
+3. Problem: absenteeism has risen. Is 'investigate the causes' a sensible course of action?
+
+<details><summary>Answers</summary>
+
+1. **Yes.**
+2. That interviewing everyone **using equal criteria** guarantees fairness.
+3. **Yes.**
+
+</details>

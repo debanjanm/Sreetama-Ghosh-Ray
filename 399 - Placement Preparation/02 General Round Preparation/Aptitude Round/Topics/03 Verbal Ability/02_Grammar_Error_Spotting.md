@@ -1,5 +1,7 @@
 # Grammar and Error Spotting
 
+> **Difficulty:** Easy to Medium  ·  **Target time:** 45 s
+
 ## In simple words
 
 **The idea:** Find the real subject and the real verb, then check that they agree.
@@ -49,3 +51,50 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: Correct: “She has been working here since three years.”
 
 **Solution:** Use **for** with a duration and **since** with a starting point: “She has been working here **for** three years.”
+
+## Deeper patterns (medium to hard)
+
+### Extra rules and tricks
+- 'Each', 'every', 'either', 'neither' take a singular verb. 'One of the + plural noun' takes a singular verb.
+- Uncountable nouns have no plural: information, advice, furniture, equipment, news.
+- 'Since' goes with a starting point; 'for' goes with a duration.
+- Fixed prepositions: good at, interested in, afraid of, depend on, married to, different from.
+- 'No sooner … than', 'hardly … when', 'If I were …' (not 'was'), 'who' for subjects and 'whom' for objects.
+- Parallel structure: keep lists in the same form (screening, interviewing, onboarding).
+
+### Medium patterns
+
+**M1. Correct: 'One of my colleagues are leaving.'**
+
+**Solution:** The subject is 'one', so **is leaving**.
+
+**M2. Correct: 'She is good in singing.'**
+
+**Solution:** **Good at singing**.
+
+### Hard patterns
+
+**H1. Correct: 'No sooner did he arrive when the meeting started.'**
+
+**Solution:** **No sooner did he arrive than the meeting started.**
+
+**H2. Correct: 'The information are useful.'**
+
+**Solution:** 'Information' is uncountable: **The information is useful.**
+
+**H3. Correct: 'If I was you, I would apply.'**
+
+**Solution:** **If I were you, I would apply.**
+
+### Practice (answers hidden)
+1. Correct: 'Neither of the candidates were selected.'
+2. Correct: 'He has been working here since five years.'
+3. Choose: 'The jury (has/have) given its verdict.'
+
+<details><summary>Answers</summary>
+
+1. **Was selected.**
+2. **For five years.**
+3. **Has**, because the jury acts as one unit here.
+
+</details>

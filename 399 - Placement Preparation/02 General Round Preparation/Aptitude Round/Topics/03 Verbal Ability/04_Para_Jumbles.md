@@ -1,5 +1,7 @@
 # Para Jumbles
 
+> **Difficulty:** Hard  ·  **Target time:** 90 s
+
 ## In simple words
 
 **The idea:** The sentences form a chain: introduce the topic, add detail, give the result.
@@ -48,3 +50,45 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: Order: A. As a result, attendance rose. B. The firm introduced short online sessions. C. Earlier workshops required long travel. D. Employees could now join from their desks.
 
 **Solution:** **C-B-D-A**. Background problem → intervention → access mechanism → result.
+
+## Deeper patterns (medium to hard)
+
+### Extra rules and tricks
+- Opening sentence: introduces the topic, uses 'a/an' for new things, and has no 'this/it/they/however' pointing backwards.
+- A noun introduced with 'a' or 'an' in one sentence appears with 'the' in the next.
+- Connectors: 'however' (contrast), 'therefore' and 'as a result' (effect), 'meanwhile' (parallel), 'finally' (last).
+- Mandatory pairs: cause then effect, question then answer, claim then example.
+- A sentence that starts with 'However', 'Therefore' or 'This' cannot open the paragraph.
+
+### Medium patterns
+
+**M1. Order: A. Many employees lost jobs. B. The economy slowed. C. Companies cut costs to survive. D. As a result, unemployment rose.**
+
+**Solution:** **B-C-A-D**: slowdown, cost cuts, job losses, then the result.
+
+**M2. Order: A. The policy allows two remote days. B. A firm has introduced a new policy. C. Employees welcomed it.**
+
+**Solution:** **B-A-C**: 'a new policy' appears first, then 'the policy', then reactions.
+
+### Hard patterns
+
+**H1. Order: A. This led to higher turnover. B. Salaries in the sector had stagnated. C. Many skilled workers moved abroad. D. Firms struggled to retain talent.**
+
+**Solution:** **B-C-A-D**: stagnation, people leave, 'this' refers to them leaving, firms struggle.
+
+**H2. Which sentence cannot open a paragraph: 'However, costs kept rising'?**
+
+**Solution:** A sentence starting with **'However'** cannot open, because it needs a prior statement to contrast with.
+
+### Practice (answers hidden)
+1. A. Then she was hired. B. Riya applied for the post. C. She cleared two interviews.
+2. A. As a result, sales doubled. B. The firm cut prices. C. Customers rushed to buy.
+3. A. It reduced waiting time. B. A new online portal was launched. C. Applicants could now register from home.
+
+<details><summary>Answers</summary>
+
+1. **B-C-A**.
+2. **B-C-A**.
+3. **B-C-A**.
+
+</details>

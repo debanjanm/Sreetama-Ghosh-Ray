@@ -1,5 +1,7 @@
 # Vocabulary, Synonyms, Antonyms, and Usage
 
+> **Difficulty:** Easy to Medium  ·  **Target time:** 30 s
+
 ## In simple words
 
 **The idea:** The sentence usually tells you what the word means before you look at the options.
@@ -44,3 +46,44 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: Choose the opposite of “concise”: brief, succinct, verbose, compact.
 
 **Solution:** **Verbose** means using more words than needed; the other three align with concise.
+
+## Deeper patterns (medium to hard)
+
+### Extra rules and tricks
+- Word parts: un-, in-, dis- (not), pre- (before), post- (after), anti- (against), mal- (bad), bene- (good), -phobia (fear), -logy (study).
+- Useful HR and work words: candid, diligent, prudent, meticulous, reluctant, ambiguous, mitigate, scrutinise, retain, redundant, lucrative, tenure, attrition.
+- Confusing pairs: affect/effect, principal/principle, stationary/stationery, complement/compliment, advice/advise, accept/except, council/counsel, its/it's.
+- Synonym and antonym questions: match tone too (formal, informal, positive, negative).
+
+### Medium patterns
+
+**M1. Synonym of 'meticulous': (a) careless (b) careful (c) rushed (d) vague.**
+
+**Solution:** **Careful**: very attentive to detail.
+
+**M2. Antonym of 'reluctant': (a) unwilling (b) eager (c) slow (d) afraid.**
+
+**Solution:** **Eager**.
+
+### Hard patterns
+
+**H1. 'The company's ___ is to treat every employee fairly.' principle or principal?**
+
+**Solution:** **Principle** means a rule or belief. Principal means head or main.
+
+**H2. 'The manager tried to mitigate the conflict.' Choose the meaning: (a) worsen (b) lessen (c) ignore (d) create.**
+
+**Solution:** **Lessen**.
+
+### Practice (answers hidden)
+1. Antonym of 'candid'?
+2. 'She gave me useful ___.' advice or advise?
+3. In HR, 'redundant' means?
+
+<details><summary>Answers</summary>
+
+1. **Evasive** (or secretive).
+2. **Advice** (noun).
+3. No longer needed; **surplus**.
+
+</details>

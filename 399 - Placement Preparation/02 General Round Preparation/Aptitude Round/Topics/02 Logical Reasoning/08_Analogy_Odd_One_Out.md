@@ -1,5 +1,7 @@
 # Analogy and Odd One Out
 
+> **Difficulty:** Easy to Medium  ·  **Target time:** 30 s
+
 ## In simple words
 
 **The idea:** Work out how the first pair is connected, then find the option connected in the same way.
@@ -44,3 +46,44 @@ Use these as general placement examples. Check the employer's actual test instru
 ### Pattern 3: Seed : plant :: egg : ?
 
 **Solution:** A seed develops into a plant; an egg develops into an **animal** (or chick if the question specifies a hen). Match development, not merely association.
+
+## Deeper patterns (medium to hard)
+
+### Extra rules and tricks
+- Common relationships: synonym, antonym, part-whole, tool-use, worker-workplace, cause-effect, producer-product, degree, symbol-meaning, young-adult.
+- Number analogies: look for squares, cubes, doubles or add-and-multiply patterns (4:16 :: 5:25).
+- Letter analogies: check reversal, shift, or position patterns (CAT : TAC :: DOG : GOD).
+- Odd one out: find the property shared by three, then confirm the fourth fails it.
+
+### Medium patterns
+
+**M1. Pen : Write :: Knife : ?**
+
+**Solution:** Tool and its use: **Cut**.
+
+**M2. 8 : 64 :: 5 : ?**
+
+**Solution:** 8² = 64, so 5² = **25**.
+
+### Hard patterns
+
+**H1. Drought : Famine :: Vaccination : ?**
+
+**Solution:** Cause and effect: a drought causes famine; vaccination causes **immunity**.
+
+**H2. Odd one out: 8, 27, 64, 100, 125.**
+
+**Solution:** 8, 27, 64 and 125 are perfect cubes. **100** is not.
+
+### Practice (answers hidden)
+1. Eye : See :: Ear : ?
+2. Doctor : Hospital :: Teacher : ?
+3. CAT : TAC :: DOG : ?
+
+<details><summary>Answers</summary>
+
+1. **Hear**.
+2. **School**.
+3. The word is reversed: **GOD**.
+
+</details>
