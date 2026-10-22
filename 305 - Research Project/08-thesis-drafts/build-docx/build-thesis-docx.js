@@ -18,7 +18,8 @@ const SRC_DIR = path.resolve(process.argv[2]);
 const MD_PATH = path.join(SRC_DIR, process.argv[3]);
 const OUT_PATH = path.join(SRC_DIR, process.argv[4]);
 const PAGES = process.argv[5] && fs.existsSync(process.argv[5]) ? JSON.parse(fs.readFileSync(process.argv[5], "utf8")) : {};
-const LOGO = path.join(SRC_DIR, "mssw-logo.png");
+const LOGO_NAME = process.env.LOGO_FILE || "mssw-logo.png"; // e.g. LOGO_FILE=union-bank-logo.png for the Union Bank copy
+const LOGO = path.join(SRC_DIR, LOGO_NAME);
 
 const STUDENT = "Sreetama Ghosh Ray";
 const REGNO = "251578222039";
@@ -269,6 +270,7 @@ function reportPage() {
 function front(title, ackTokens) {
   const TITLE = title.toUpperCase();
   const logo = fs.readFileSync(LOGO);
+  const logoH = 118, logoW = Math.round(logoH * logo.readUInt32BE(16) / logo.readUInt32BE(20)); // keep the logo's own aspect ratio
   return [
     center([B(TITLE, { size: 28 })], { spacing: { before: 600, after: 480 } }),
     center([B("PROJECT REPORT")], { spacing: { after: 120 } }),
@@ -281,7 +283,7 @@ function front(title, ackTokens) {
     center([T("Under the guidance of")], { spacing: { after: 120 } }),
     center([B(GUIDE_COVER)], { spacing: { after: 60 } }),
     center([B("Head of the Department")], { spacing: { after: 360 } }),
-    new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 360 }, children: [new ImageRun({ type: "png", data: logo, transformation: { width: 120, height: 118 }, altText: { name: "mssw-logo.png", description: "Madras School of Social Work seal", title: "MSSW seal" } })] }),
+    new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 360 }, children: [new ImageRun({ type: "png", data: logo, transformation: { width: logoW, height: logoH }, altText: { name: LOGO_NAME, description: LOGO_NAME === "mssw-logo.png" ? "Madras School of Social Work seal" : "Union Bank of India logo", title: LOGO_NAME === "mssw-logo.png" ? "MSSW seal" : "Union Bank of India logo" } })] }),
     center([B("P.G. DEPARTMENT OF HUMAN RESOURCE MANAGEMENT")], { spacing: { after: 60 } }),
     center([B("MADRAS SCHOOL OF SOCIAL WORK")], { spacing: { after: 60 } }),
     center([T("(AUTONOMOUS)")], { spacing: { after: 60 } }),

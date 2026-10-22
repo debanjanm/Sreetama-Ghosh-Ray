@@ -1,12 +1,14 @@
 # Third Thesis Draft — Chapters 1 to 5
 
-**Current source:** [third-draft-source-grammarly-led-humanized.md](third-draft-source-grammarly-led-humanized.md) (Chapters 1–5, one reference list, Appendix A questionnaire, Appendix B questionnaire development). It follows the direct-predictor model reported in the [frozen SPSS output](../../07-research-data-and-analysis/08-v5-spss-output-freeze/README.md).
+**Current source:** [third-draft-source-union-bank-acknowledgement.md](third-draft-source-union-bank-acknowledgement.md) (Chapters 1–5, one reference list, Appendix A questionnaire, Appendix B questionnaire development). It follows the direct-predictor model reported in the [frozen SPSS output](../../07-research-data-and-analysis/08-v5-spss-output-freeze/README.md).
 
-**Current build:** `hybrid-learning-training-effectiveness-third-draft-final-v4.docx` and `.pdf` (MSSW layout, A4, Times New Roman 12, 1.5 spacing, 1-inch margins, page frame, 83 pages). Rebuild with:
+**Current build:** `hybrid-learning-training-effectiveness-third-draft-final-v5.docx` and `.pdf` (MSSW layout, A4, Times New Roman 12, 1.5 spacing, 1-inch margins, page frame, 90 pages). Rebuild with:
 
 ```bash
-python3 08-thesis-drafts/build-docx/make_final.py "$(pwd)/08-thesis-drafts/03-third-draft-chapters-1-to-5" third-draft-source-grammarly-led-humanized.md <output-name>
+python3 08-thesis-drafts/build-docx/make_final.py "$(pwd)/08-thesis-drafts/03-third-draft-chapters-1-to-5" third-draft-source-union-bank-acknowledgement.md <output-name>
 ```
+
+**Union Bank copy:** `hybrid-learning-training-effectiveness-third-draft-final-v5-union-bank-copy.docx` and `.pdf` — identical to v5 except the cover carries `union-bank-logo.png` instead of the MSSW seal. Build it by putting `LOGO_FILE=union-bank-logo.png` in front of the command above.
 
 ## Folder map
 
