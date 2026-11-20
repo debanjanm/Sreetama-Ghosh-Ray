@@ -67,7 +67,7 @@ HR professional-in-training (M.A. in Human Resource Management, Madras School of
 | Degree | Year | Institution | Score |
 |---|---|---|---|
 | MA in Social Work (HR Specialization) | 2025 – Present | Madras School of Social Work, Chennai | — |
-| Competitive exam preparation and self-study | 2022 – 2025 | — | — |
+| Competitive exam preparation and self-study | 2023 – 2025 | — | — |
 | MA in Sociology | 2020 – 2022 | Jadavpur University, Kolkata | 8.7 CGPA |
 | BA — Sociology (Honours) | 2017 – 2020 | Jadavpur University, Kolkata | 9.0 CGPA |
 | Class XII | 2017 | St Thomas' Girls' School, Khidderpore, Kolkata | 95.5% |
